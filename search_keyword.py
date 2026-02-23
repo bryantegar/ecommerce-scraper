@@ -4,6 +4,7 @@ import json
 import time
 import urllib.parse
 import curl_cffi
+from curl_cffi import requests
 
 def get_cookies_data(cookies_file):
     with open(cookies_file, 'r') as f:
@@ -79,17 +80,18 @@ def scrape_olx(keyword, max_pages=3):
     proxies = {"http": proxy_url, "https": proxy_url}
     encoded_keyword = urllib.parse.quote(keyword)
     max_pages = 2
+    clean_keyword_url = keyword.lower().replace(" ", "-")
     
     for page in range(1, max_pages + 1):
         print(f"[OLX] Scraping keyword ({encoded_keyword}) from OLX, Page {page}")
         api_url = f"https://www.olx.co.id/api/relevance/v4/search?facet_limit=100&location=4000030&location_facet_limit=40&page={page}&platform=web-desktop&query={keyword}&relaxedFilters=true"
+        url = f"https://www.olx.co.id/items/q-{clean_keyword_url}"
         
         try:
             r = requests.get(api_url, impersonate="chrome110", proxies=proxies)
             
             if r.status_code == 200:
                 print(f"[OLX] Success directing to: {api_url}")
-                print(r.body)
                 data = r.json()
                 items = data.get("data",[])
                 if not items:
@@ -101,7 +103,7 @@ def scrape_olx(keyword, max_pages=3):
                     "metadata": {
                         "keyword": keyword,
                         "platform": "olx",
-                        "url": api_url
+                        "url": url
                     }
                 }
                 
@@ -243,7 +245,7 @@ def scrape_blibli(keyword):
                     "raw": items,
                     "metadata": {
                         "keyword": keyword,
-                        "platform": "tokopedia",
+                        "platform": "blibli",
                         "url": url
                     }
                 }
