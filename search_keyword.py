@@ -85,7 +85,7 @@ def scrape_olx(keyword, max_pages=3):
         api_url = f"https://www.olx.co.id/api/relevance/v4/search?facet_limit=100&location=4000030&location_facet_limit=40&page={page}&platform=web-desktop&query={keyword}&relaxedFilters=true"
         
         try:
-            r = curl_cffi.get(api_url, impersonate="chrome110", proxies=proxies)
+            r = requests.get(api_url, impersonate="chrome110", proxies=proxies)
             
             if r.status_code == 200:
                 print(f"[OLX] Success directing to: {api_url}")
@@ -189,7 +189,78 @@ def scrape_tokped(keyword):
     # print(f"[Tokopedia] Success taking keywoard ({keyword}) from Tokopedia")
 
 def scrape_blibli(keyword):
+    encoded_keyword = urllib.parse.quote(keyword)
+    url = f"https://www.blibli.com/cari/{encoded_keyword}"
+    proxies = {
+        "http": "http://bandung:456xyz@proxycrawler.dashboard.nolimit.id:2570",
+        "https": "http://bandung:456xyz@proxycrawler.dashboard.nolimit.id:2570"
+    }
     
+    max_pages = 2
+    headers = {
+        "accept": "application/json, text/plain, */*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.6",
+        "content-type": "application/json",
+        "if-modified-since": "Fri, 20 Feb 2026 04:02:45 GMT",
+        "priority": "u=1, i",
+        "referer": f"https://www.blibli.com/cari/{encoded_keyword}",
+        "sec-ch-ua": '"Not:A-Brand";v="99", "Brave";v="145", "Chromium";v="145"',
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": '"Windows"',
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "sec-gpc": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    }
+    
+    for page in range(1, max_pages + 2):
+        base_api_url = "https://www.blibli.com/backend/search/products"
+        query_params = {
+        "searchTerm": keyword,
+        "page": page,
+        "start": (page - 1) * 40, 
+        "merchantSearch": "true",
+        "multiCategory": "true",
+        "channelId": "mobile-web", 
+        "itemPerPage": 40
+        }
+        print(f"[Blibli] Scraping keyword ({encoded_keyword}) from Blibli, Page {page}")
+        
+        try:
+            r = curl_cffi.get(base_api_url, params=query_params, impersonate="chrome110", headers=headers, proxies=proxies)
+            
+            if r.status_code == 200:
+                print(f"Success Redirecting to{base_api_url}")
+                data = r.json()
+                items = data.get('data', {})
+                if not items:
+                    print("Data not found")
+                    break
+                
+                output = {
+                    "raw": items,
+                    "metadata": {
+                        "keyword": keyword,
+                        "platform": "tokopedia",
+                        "url": url
+                    }
+                }
+                
+                print(output)
+                filename = f"blibli_{keyword.replace(' ', '_')}_page_{page}.json"
+                with open(filename, 'w') as f:
+                    json.dump(output, f, indent=4)
+                print(f"[Blibli] File Saved: {filename}")
+                time.sleep(2)
+                
+            else:
+                print(f"Error {r.status_code}")    
+            
+        except Exception as e:
+            print(f"Error {e}")
+            break   
     
 
 
@@ -205,10 +276,10 @@ if __name__ == "__main__":
         scrape_lazada(target_keyword)
     elif platform == "olx":
         scrape_olx(target_keyword)
-    elif platform == "tokopedia" or "tokped":
+    elif platform in ["tokopedia", "tokped"]:
         scrape_tokped(target_keyword)
     elif platform == "blibli":
-        scrap
+        scrape_blibli(target_keyword)
     else:
         print(f"Platform {platform} belum bisa di scrape")
         

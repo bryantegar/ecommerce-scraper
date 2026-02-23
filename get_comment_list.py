@@ -278,24 +278,6 @@ def scrape_blibli_comments(product_url):
         "accept-encoding": "gzip, deflate, br, zstd",
         "accept-language": "en-US,en;q=0.6",
         "content-type": "application/json",
-        # "cookie": (
-        #     "_cfuvid=IeTarG6_U6jiFShAG.xMohQ3ufoGsHI2NTELTJUXHHg-1771559982018-0.0.1.1-604800000; "
-        #     "Blibli-Additional-Parameter-Signature=; Blibli-Is-Member=false; Blibli-Is-Remember=false; "
-        #     "Blibli-Device-Id=U.620808f0-a52a-4926-8915-12855f2c11c7; "
-        #     "Blibli-Device-Id-Signature=2b6f9db0ea4651c0ef39f765b25f71ed308ced53; "
-        #     "Blibli-Session-Id=022b6bef-9d82-42ce-8e18-fdfa5e7f4c52; "
-        #     "Blibli-Signature=1faaeb304b7cadacd904da8051fcf51816535b81; "
-        #     "Blibli-User-Id=022b6bef-9d82-42ce-8e18-fdfa5e7f4c52; "
-        #     "Blibli-Unm-Signature=ec2a530dc90213291a0b7169006f45b0c5da9e86; "
-        #     "Blibli-Unm-Id=022b6bef-9d82-42ce-8e18-fdfa5e7f4c52; "
-        #     "__bwa_user_id=1771559979.7b806963-417d-478b-8a5f-aec890ef63fb; "
-        #     "g_state={\"i_l\":0,\"i_ll\":1771560153690,\"i_b\":\"kejljFqCo8I/Iqr43p1NwnOGERGtO+HwpbwlWAecsZk\",\"i_e\":{\"enable_itp_optimization\":0}}; "
-        #     "Blibli-dv-token=JT_6gwfP4gGiqruBGZ7e7godBdWFKL0uPXNUIKFyhlHLCs; "
-        #     "forterToken=b5801ab0edb8477281a5ecc07e7154a1_1771560153782_96_UDAD43b-mnts-a9-r8-n4_25ck_; "
-        #     "__cf_bm=ltCskpOhRxmCWNiGxwB2Ud3EgxT8x6Kh8NRcvcS257w-1771568069-1.0.1.1-eh8UfJE0gRmy.mfcOcqFfY06pbnVIW4uM1TGBlbhrpczng_SAvse3iDOymzc8.fxnLMSUnW79IAe8HAI1O_RUqapqGmczNf9MDzAaiAxcd4; "
-        #     "cf_clearance=K1v99I7V.NE7n6yJ5_8V805INE0W7iI0fGQPFYd.GK8-1771568070-1.2.1.1-zqVHJKKl3rVn4pnSzAGN.99JKito6a3.3Wh7fC7uB1J9PaSkpzf2W7rG1ilF8I2u8NjqCGB1MvOmlwoS07TAq7Wrwv5OcLFL3EsVD8jQNwWsFuAzicdnod_dneY49sMkgL1uDetADrnQ0561KAYb.a6SFLUojsP9ZwibpiH4KgOFAOPakungwSl2Zsp7R3qyQp9xeHaPi1lG9xLSi5KPUZQOJ98BSHqSdXqLiERhU1A; "
-        #     "__bwa_session_id=1771568067.43375f95-580e-41c9-a2b2-1a0750e5c6eb"
-        # ),
         "if-modified-since": "Fri, 20 Feb 2026 04:02:45 GMT",
         "priority": "u=1, i",
         "referer": f"{product_url}",
