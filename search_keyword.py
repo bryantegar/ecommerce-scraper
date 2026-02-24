@@ -37,7 +37,7 @@ def scrape_lazada(keyword):
                 }     
         try:
             # print(api_url)
-            r = curl_cffi.get(api_url, impersonate="chrome110", headers=headers)
+            r = requests.get(api_url, impersonate="chrome110", headers=headers)
             # # response = requests.get(api_url)
             # print(r.text)
             # print(r.content)
