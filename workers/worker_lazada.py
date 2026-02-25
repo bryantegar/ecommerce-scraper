@@ -36,6 +36,74 @@ class WorkerLazada(BaseWorker):
             capture_exception(e)
             self.worker.buryJob(job)
 
+    def worker_scrape_comments(self):
+        printinfo("----------------------------------")
+        printinfo("Starting Worker Lazada Comments")
+        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_comments'
+        worker = Worker(
+            tubename,
+            BEANS[self.config]['host'],
+            BEANS[self.config]['port'])
+        pusher_self = Pusher(
+            tubename,
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
+        self.worker = worker
+        self.set_conn_redis()
+        self.set_resources('lazada', 'lazada')
+        killer = GracefulKiller()
+        if self.use_proxy:
+            proxy_cycle = get_proxy_cycle()
+            printinfo('Proxy Loaded')
+        else:
+            proxy_cycle = cycle([None])
+
+        service = ServiceLazada()
+
+        while not killer.kill_now:
+            self.current_proxy = next(proxy_cycle)
+            job = worker.getJob()
+            if not job:
+                sleep(10)
+            else:
+                try:
+                    crawl_next = True
+                    message = json.loads(job.body)
+                    item_id = message['item_id'] if 'item_id' in message else self.extract_item_id(
+                        message['url'])
+                    count = message['count'] if 'count' in message else 0
+                    max_count = message['max_count'] if 'max_count' in message else 0
+                    if item_id:
+                        resp = service.scrape_lazada_comments(
+                            item_id, self.cookies, proxy=self.current_proxy)
+
+                        if resp.status_code == 200:
+                            fname = store_raw(resp, prefix='lzd-cm', hostname=HOSTNAME,
+                                              keyword=item_id,
+                                              cookie=self.complete_cookie, social_media='lazada')
+                            printinfo('Saved to: '+fname)
+                        else:
+                            raise HTTPStatusException(
+                                resp.status_code,
+                                f"Item ID: {item_id}", resp=resp
+                            )
+
+                    if count >= max_count:
+                        crawl_next = False
+
+                    worker.deleteJob(job)
+
+                    if not crawl_next:
+                        self.conn_redis.srem(tubename, item_id)
+                    else:
+                        message['count'] = count + 1
+                        pusher_self.setJob(tubename, json.dumps(message))
+
+                except Exception as e:
+                    self.handle_exception(e, job)
+                    killer.kill_now = self.kill_now
+        self.worker_exit()
+
     def worker_scrape_keyword(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Lazada Keyword")
@@ -95,6 +163,8 @@ class WorkerLazada(BaseWorker):
                         self.conn_redis.srem(tubename, keyword)
                     else:
                         message['count'] = count + 1
-                        pusher_self
+                        pusher_self.setJob(tubename, json.dumps(message))
                 except Exception as e:
                     self.handle_exception(e, job)
+                    killer.kill_now = self.kill_now
+        self.worker_exit()

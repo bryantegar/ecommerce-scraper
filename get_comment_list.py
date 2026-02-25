@@ -331,7 +331,7 @@ if __name__ == "__main__":
     product_url = sys.argv[2]
     
     if platform == "lazada":
-        scrape_lazada_comments(product_url)
+        print('See service_lazada.py for more proper implementation')
     elif platform == "olx":
         print(f"OLX doesn't have comment")
     elif platform in ["tokopedia", "tokped"]:

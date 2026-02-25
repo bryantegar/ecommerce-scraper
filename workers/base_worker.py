@@ -2,7 +2,7 @@ import sys
 
 from redis import Redis
 
-from libs.cookies_manager import get_cookies
+from libs.cookies_manager import get_cookies, release_cookies, release_cookies_with_error
 from libs.exc import NoAvailableResourceException
 from libs.logger import printerror, printinfo
 from settings import REDIS
@@ -19,6 +19,27 @@ class BaseWorker:
         self.complete_cookie = None
         self.from_file = None
         self.cookie_filename = None
+        self.release_cookie = False
+        self.cookie_error = False
+        self.cookie_error_message = 'Token is invalid'
+        self.kill_now = False
+
+    def worker_exit(self):
+        if self.resource_id:
+            printerror('Releasing Cookie Resource: ' + self.resource_id)
+            if self.cookie_error:
+                resp = release_cookies_with_error(
+                    self.resource_id, self.cookie_error_message)
+                if resp.status_code == 200:
+                    printerror('Resource: ' + self.resource_id +
+                               ' released with error: ' + str(self.cookie_error_message))
+                else:
+                    printerror('Error releasing resource: ' + self.resource_id
+                               )
+                    printerror(f'{resp.status_code} - {resp.text}')
+            else:
+                release_cookies(self.resource_id)
+                printerror('Resource: ' + self.resource_id + ' released')
 
     def set_resources(self, social_media, filename):
         printinfo(f'Requesting Cookies - Allowed Usage: {self.allowed_usage}')
