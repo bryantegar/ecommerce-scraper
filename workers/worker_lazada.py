@@ -1,9 +1,9 @@
 from itertools import cycle
 import json
-import keyword
+import re
 import socket
 from time import sleep
-from weakref import proxy
+from typing import Optional
 
 from sentry_sdk import capture_exception
 
@@ -23,6 +23,12 @@ HOSTNAME = socket.gethostname()
 class WorkerLazada(BaseWorker):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
+    def extract_item_id(url) -> Optional[str]:
+        match: re.Match = re.search(r'i(\d+)-', url)
+        if match:
+            return match.group(1)
+        return None
 
     def handle_exception(self, e: Exception, job=None):
         printinfo(f"Error processing job: {str(e)}")
