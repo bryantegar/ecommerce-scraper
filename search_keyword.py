@@ -216,6 +216,7 @@ def scrape_blibli(keyword):
             print(f"Error {e}")
             break
 
+
 def scrape_shopee(keyword):
     encoded_keyword = urllib.parse.quote(keyword)
     max_pages = 2
@@ -224,51 +225,51 @@ def scrape_shopee(keyword):
         persistent_context=True,
         user_data_dir='./shopee_session',
         headless=True
-        ) as context:
-            browser_page = context.new_page()
-            page = context.new_page()
-            def handle_response(response):
-                try:
-                    if response.request.resource_type in ['fetch', 'xhr']:
-                        url = response.url
-                        target_api = "api/v4/search/search_items"
-                        if target_api in url:
-                            data = response.json()
-                            items = data.get("items",[])
-                            if not items:
-                                print("Data Not Found")
-                            output = {
-                                "raw": items,
-                                "metadata": {
-                                    "keyword": keyword,
-                                    "platform": "shopee",
-                                    "url": f'https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}'
-                                }
-                            }
-                                
-                            filename = f"shopee_{keyword.replace(' ', '_')}_page_{current_page}.json"
-                            with open(filename, 'w') as f:
-                                json.dump(output, f, indent=4)
-                            print(f"[Shopee] File Saved: {filename}")
-                    else:
-                        pass
-                    
-                except Exception as e:
-                    print(f"[Shopee] Error {e}")
-                    
-            browser_page.on('response', handle_response)
+    ) as context:
+        browser_page = context.new_page()
+        page = context.new_page()
 
-            
-            for current_page in range(0, max_pages):
-                print(f"[Shopee] Open Page {current_page}")
-                try:
-                    print(f"[Shopee] Scraping page {current_page}")
-                    url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}"
-                    browser_page.goto(url)
-                    browser_page.wait_for_timeout(10000)
-                except Exception as e:
-                    print(f"Cannot access pages")
+        def handle_response(response):
+            try:
+                if response.request.resource_type in ['fetch', 'xhr']:
+                    url = response.url
+                    target_api = "api/v4/search/search_items"
+                    if target_api in url:
+                        data = response.json()
+                        items = data.get("items", [])
+                        if not items:
+                            print("Data Not Found")
+                        output = {
+                            "raw": items,
+                            "metadata": {
+                                "keyword": keyword,
+                                "platform": "shopee",
+                                "url": f'https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}'
+                            }
+                        }
+
+                        filename = f"shopee_{keyword.replace(' ', '_')}_page_{current_page}.json"
+                        with open(filename, 'w') as f:
+                            json.dump(output, f, indent=4)
+                        print(f"[Shopee] File Saved: {filename}")
+                else:
                     pass
+
+            except Exception as e:
+                print(f"[Shopee] Error {e}")
+
+        browser_page.on('response', handle_response)
+
+        for current_page in range(0, max_pages):
+            print(f"[Shopee] Open Page {current_page}")
+            try:
+                print(f"[Shopee] Scraping page {current_page}")
+                url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}"
+                browser_page.goto(url)
+                browser_page.wait_for_timeout(10000)
+            except Exception as e:
+                print(f"Cannot access pages")
+                pass
 
 
 if __name__ == "__main__":
@@ -284,7 +285,7 @@ if __name__ == "__main__":
     elif platform == "olx":
         print('See service_olx.py for more proper implementation')
     elif platform in ["tokopedia", "tokped"]:
-        scrape_tokped(target_keyword)
+        print('See service_tokopedia.py for more proper implementation')
     elif platform == "blibli":
         scrape_blibli(target_keyword)
     elif platform == 'shopee':
