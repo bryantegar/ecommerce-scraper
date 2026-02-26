@@ -68,7 +68,7 @@ class WorkerOLX(BaseWorker):
                         keyword,  page=count, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='olx-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count)
+                                          keyword=keyword, page=count, social_media='olx')
                         printinfo('Saved to: '+fname)
                     else:
                         raise HTTPStatusException(
@@ -78,9 +78,14 @@ class WorkerOLX(BaseWorker):
                         )
                     if count >= max_count:
                         crawl_next = False
+
+                    worker.deleteJob(job)
+
                     if crawl_next:
                         message['count'] = count + 1
                         pusher_self.setJob(json.dumps(message))
+                    else:
+                        self.conn_redis.srem(tubename, keyword)
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()

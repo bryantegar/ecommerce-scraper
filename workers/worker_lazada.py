@@ -79,7 +79,7 @@ class WorkerLazada(BaseWorker):
 
                         if resp.status_code == 200:
                             fname = store_raw(resp, prefix='lzd-cm', hostname=HOSTNAME,
-                                              keyword=item_id,
+                                              product_id=item_id, page=count+1,
                                               cookie=self.complete_cookie, social_media='lazada')
                             printinfo('Saved to: '+fname)
                         else:
@@ -146,7 +146,7 @@ class WorkerLazada(BaseWorker):
 
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='lzd-kw', hostname=HOSTNAME,
-                                          keyword=keyword,
+                                          keyword=keyword, page=count+1,
                                           cookie=self.complete_cookie, social_media='lazada')
                         printinfo('Saved to: '+fname)
                     else:
