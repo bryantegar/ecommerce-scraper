@@ -75,7 +75,7 @@ class WorkerLazada(BaseWorker):
                     max_count = message['max_count'] if 'max_count' in message else 0
                     if item_id:
                         resp = service.scrape_lazada_comments(
-                            item_id, self.cookies, proxy=self.current_proxy)
+                            item_id, self.cookies, page=count+1, proxy=self.current_proxy)
 
                         if resp.status_code == 200:
                             fname = store_raw(resp, prefix='lzd-cm', hostname=HOSTNAME,
@@ -142,7 +142,7 @@ class WorkerLazada(BaseWorker):
                     max_count = message['max_count'] if 'max_count' in message else 0
 
                     resp = service.scrape_lazada(
-                        keyword, self.cookies, page=count, proxy=self.current_proxy)
+                        keyword, self.cookies, page=count+1, proxy=self.current_proxy)
 
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='lzd-kw', hostname=HOSTNAME,

@@ -227,7 +227,7 @@ if __name__ == "__main__":
     if platform == "lazada":
         print('See service_lazada.py for more proper implementation')
     elif platform == "olx":
-        scrape_olx(target_keyword)
+        print('See service_olx.py for more proper implementation')
     elif platform in ["tokopedia", "tokped"]:
         scrape_tokped(target_keyword)
     elif platform == "blibli":
