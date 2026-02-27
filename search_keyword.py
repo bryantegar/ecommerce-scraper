@@ -182,7 +182,7 @@ def scrape_blibli(keyword):
             f"[Blibli] Scraping keyword ({encoded_keyword}) from Blibli, Page {page}")
 
         try:
-            r = curl_cffi.get(base_api_url, params=query_params,
+            r = requests.get(base_api_url, params=query_params,
                               impersonate="chrome110", headers=headers, proxies=proxies)
 
             if r.status_code == 200:
@@ -222,13 +222,18 @@ def scrape_shopee(keyword):
     max_pages = 2
     with Camoufox(
         os=["windows", "macos", "linux"],
-        persistent_context=True,
-        user_data_dir='./shopee_session',
+        # persistent_context=True,
+        # user_data_dir='./shopee_session',
         headless=True
-    ) as context:
-        browser_page = context.new_page()
+    ) as browser:
+        with open('shopee_cookies.json', 'r') as f:
+            cookies_data = json.load(f)
+        context = browser.new_context()
+        context.add_cookies(cookies_data)
         page = context.new_page()
-
+        
+        state = {"current_page": 0}
+        
         def handle_response(response):
             try:
                 if response.request.resource_type in ['fetch', 'xhr']:
@@ -236,19 +241,21 @@ def scrape_shopee(keyword):
                     target_api = "api/v4/search/search_items"
                     if target_api in url:
                         data = response.json()
+                        print(data)
                         items = data.get("items", [])
                         if not items:
                             print("Data Not Found")
+                            return
                         output = {
                             "raw": items,
                             "metadata": {
                                 "keyword": keyword,
                                 "platform": "shopee",
-                                "url": f'https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}'
+                                "url": f'https://shopee.co.id/search?keyword={encoded_keyword}&page={state['current_page']}'
                             }
                         }
 
-                        filename = f"shopee_{keyword.replace(' ', '_')}_page_{current_page}.json"
+                        filename = f"shopee_{keyword.replace(' ', '_')}_page_{state['current_page']}.json"
                         with open(filename, 'w') as f:
                             json.dump(output, f, indent=4)
                         print(f"[Shopee] File Saved: {filename}")
@@ -258,19 +265,25 @@ def scrape_shopee(keyword):
             except Exception as e:
                 print(f"[Shopee] Error {e}")
 
-        browser_page.on('response', handle_response)
+        page.on('response', handle_response)
 
-        for current_page in range(0, max_pages):
-            print(f"[Shopee] Open Page {current_page}")
+        for p in range(0, max_pages):
+            state['current_page'] = p
+            print(f"[Shopee] Open Page {p}")
             try:
-                print(f"[Shopee] Scraping page {current_page}")
-                url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={current_page}"
-                browser_page.goto(url)
-                browser_page.wait_for_timeout(10000)
+                print(f"[Shopee] Scraping page {p}")
+                url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={p}"
+                page.goto(url)
+                page.mouse.wheel(0, 1000)
+                page.wait_for_timeout(2000)
+                page.evaluate("window.scrollTo(0, document.body.scrollHeight / 1.5)")
+                page.wait_for_timeout(8000)
+                cookies_data = page.context.cookies()
+                with open("shopee_cookies.json", "w", encoding="utf-8") as f:
+                    json.dump(cookies_data, f, indent=2, ensure_ascii=False)
             except Exception as e:
                 print(f"Cannot access pages")
                 pass
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
