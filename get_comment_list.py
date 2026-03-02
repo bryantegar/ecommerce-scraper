@@ -6,6 +6,9 @@ import re
 import urllib.parse
 from urllib.parse import urlparse
 from curl_cffi import requests
+from camoufox.sync_api import Camoufox
+import json
+import random
 
 def generate_lazada_sign(token, timestamp, app_key, data_json):
     raw_string = f"{token}&{timestamp}&{app_key}&{data_json}"
@@ -320,7 +323,67 @@ def scrape_blibli_comments(product_url):
         except Exception as e:
             print(f"Error {e}")
         
+def scrape_shopee_comments(product_url):
+    with Camoufox(
+        os=["windows","linux"],
+        headless=True,
+    ) as browser:
+        with open('shopee_cookies.json', 'r') as f:
+            cookies_data = json.load(f)
+        context = browser.new_context()
+        page = context.new_page()
+        context.add_cookies(cookies_data)
+        state = {'current_page': 1}
+        def handle_response(response):
+                if response.request.resource_type in ['fetch', 'xhr']:
+                    url = response.url
+                    # print(url)
+                    target_api = "api/v2/item/get_ratings"
+                    if target_api in url:
+                        print(url)
+                        data = response.json()
+                        review_data = data.get('data', {})
+                        print(data)
+                        product_id = data['data']['ratings'][0]['itemid']
+                        print(product_id)
+                        output = {
+                            "raw": review_data,
+                            "metadata": {
+                                "product_id": product_id,
+                                "platform": "shopee",
+                                "url": product_url
+                            }
+                        }
+                        
+                        filename = f"shopee_comment_{product_id}_page_{state['current_page']}.json"
+                        with open(filename, 'w') as f:
+                            json.dump(output, f, indent=4)
+                        print(f"Saved: {filename}")
+
+        page.on('response', handle_response)
+                
+        time_out = random.randint(3000, 6000)
+        print("Navigating...")
+        page.goto(product_url, wait_until="domcontentloaded")            
         
+        for _ in range(2):
+            print(f"Pressing arrow down")
+            page.keyboard.press("PageDown")
+            print(f"Waiting For {time_out}")
+            page.wait_for_timeout(time_out)
+            
+        max_pages = 3
+        
+        for p in range(2, max_pages + 1):
+            state['current_page'] = p
+            for _ in range(2):
+                print(f"Pressing arrow down")
+                page.keyboard.press("PageDown")
+                print(f"Waiting For {time_out}")
+                page.wait_for_timeout(time_out)
+                
+            page.locator(f"button.shopee-button-no-outline:has-text('{p}')").dispatch_event("click")
+            page.wait_for_timeout(time_out)
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
@@ -338,5 +401,7 @@ if __name__ == "__main__":
         scrape_tokopedia_comments(product_url)
     elif platform == "blibli":
         scrape_blibli_comments(product_url)
+    elif platform == "shopee":
+        scrape_shopee_comments(product_url)
     else:
         print(f"Platform {platform} belum bisa di scrape")
