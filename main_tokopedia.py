@@ -9,6 +9,8 @@ from workers.worker_tokopedia import WorkerTokopedia
 if __name__ == '__main__':
     choices = [
         'worker_tokopedia_keyword',
+        'worker_tokopedia_comments',
+        'worker_tokopedia_store'
     ]
     parser = argparse.ArgumentParser(description='Worker Tokopedia',
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -48,3 +50,6 @@ if __name__ == '__main__':
             allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
         worker_tokopedia.worker_scrape_keyword()
+    
+    if mode == 'worker_tokopedia_comments':
+        worker_tokopedia 

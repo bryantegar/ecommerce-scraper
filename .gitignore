@@ -2,3 +2,6 @@
 cookies/*
 tests/*
 settings.py
+worker_ecommerce/*
+__pycache__/*
+
