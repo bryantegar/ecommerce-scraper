@@ -20,7 +20,7 @@ from workers.base_worker import BaseWorker
 HOSTNAME = socket.gethostname()
 
 
-class WorkerLazada(BaseWorker):
+class WorkerBlibli(BaseWorker):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 

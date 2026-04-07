@@ -25,3 +25,4 @@ class ServiceOLX:
         resp: Response = requests.get(
             url, params=params, impersonate="chrome110", proxies=proxy)
         return resp
+    
