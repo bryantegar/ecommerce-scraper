@@ -78,10 +78,22 @@ class WorkerLazada(BaseWorker):
                             item_id, self.cookies, page=count+1, proxy=self.current_proxy)
 
                         if resp.status_code == 200:
-                            fname = store_raw(resp, prefix='lzd-cm', hostname=HOSTNAME,
-                                              product_id=item_id, page=count+1,
-                                              cookie=self.complete_cookie, social_media='lazada')
-                            printinfo('Saved to: '+fname)
+                            data = resp.json()
+                            ret_status = str(data.get("ret", []))
+                            
+                            if "FAIL_SYS" in ret_status:
+                                print('Captcha Detected')
+                                worker.releaseJob(job)
+                            else:
+                                reviews = data.get('data', {}).get('module', {}).get('reviews', [])
+                                if not reviews:
+                                    print(f" [Lazada Service] No review in page {current_page}.")
+                                    worker.deleteJob(job)
+                                    continue
+                                fname = store_raw(reviews, prefix='lzd-cm', hostname=HOSTNAME,
+                                                  product_id=item_id, page=count+1,
+                                                  cookie=self.complete_cookie, social_media='lazada')
+                                printinfo('Saved to: '+fname)
                         else:
                             raise HTTPStatusException(
                                 resp.status_code,

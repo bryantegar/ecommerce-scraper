@@ -10,8 +10,7 @@ import sys
 
 class ServiceBlibli:
     def __init__(self):
-        proxy_url = "http://bandung:456xyz@proxycrawler.dashboard.nolimit.id:2570"
-        self.proxies = {"http": proxy_url, "https": proxy_url}
+        ...
     
     def scrape_blibli_keyword(self, keyword, proxy=None, page=1):
         encoded_keyword = urllib.parse.quote(keyword)

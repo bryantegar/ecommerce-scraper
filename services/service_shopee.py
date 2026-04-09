@@ -13,7 +13,7 @@ from curl_cffi import requests
 
 class ServiceShopee:
     def __init__(self):
-        pass
+        ...
         
     def scrape_shopee_store(self, store_url, page_num, cookies, proxies=None):
         product_url_list = []

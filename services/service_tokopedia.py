@@ -16,7 +16,7 @@ from curl_cffi import requests
 
 class ServiceTokopedia:
     def __init__(self):
-        pass
+        ...
         
     def scrape_tokopedia_keyword(self, keyword, proxy=None, page=1):
         url = "https://gql.tokopedia.com/graphql/SearchProductV5Query"
