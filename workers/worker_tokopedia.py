@@ -64,7 +64,7 @@ class WorkerTokopedia(BaseWorker):
                     keyword = message['content']
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_keyword(
+                    resp = service.scrape_tokopedia_keyword(
                         keyword, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='toped-kw', hostname=HOSTNAME,
@@ -182,31 +182,32 @@ class WorkerTokopedia(BaseWorker):
                     crawl_next = True
                     message = json.loads(job.body)
                     store_url = message['store_url']
-                    store_data = service.get_shop_id(store_url)
-                    store_name, shop_id = store_data
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_tokopedia_store(
-                        store_url, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='tokped-store', hostname=HOSTNAME,
-                                          store_name=store_name, page=count+1, social_media='tokopedia')
-                        printinfo('Saved to: '+fname)
-                        print(resp.json())
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Store: {store_name} - page: {count}",
-                            resp=resp)
-                    worker.deleteJob(job)
+                    store_data = service.get_shop_id(store_url)
+                    if store_data[0]:
+                        store_name, shop_id = store_data
+                        resp = service.scrape_tokopedia_store(
+                            store_url, page=count+1, proxy=self.current_proxy)
+                        if resp.status_code == 200:
+                            fname = store_raw(resp, prefix='tokped-store', hostname=HOSTNAME,
+                                            store_name=store_name, page=count+1, social_media='tokopedia')
+                            printinfo('Saved to: '+fname)
+                            print(resp.json())
+                        else:
+                            raise HTTPStatusException(
+                                resp.status_code,
+                                f"Store: {store_name} - page: {count}",
+                                resp=resp)
+                        worker.deleteJob(job)
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, store_name)
+                        if count >= max_count:
+                            crawl_next = False
+                        if crawl_next:
+                            message['count'] = count + 1
+                            pusher_self.setJob(json.dumps(message))
+                        else:
+                            self.conn_redis.srem(tubename, store_name)
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()

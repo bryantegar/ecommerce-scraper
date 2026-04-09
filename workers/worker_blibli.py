@@ -106,7 +106,7 @@ class WorkerBlibli(BaseWorker):
         self.set_conn_redis()
         self.set_resources('blibli', 'blibli')
         killer = GracefulKiller()
-        service = ServiceTokopedia()
+        service = ServiceBlibli()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
             printinfo('Proxy Loaded')
@@ -167,7 +167,7 @@ class WorkerBlibli(BaseWorker):
         self.set_conn_redis()
         self.set_resources('blibli', 'blibli')
         killer = GracefulKiller()
-        service = ServiceTokopedia()
+        service = ServiceBlibli()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
             printinfo('Proxy Loaded')

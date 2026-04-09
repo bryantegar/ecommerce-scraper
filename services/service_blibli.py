@@ -91,9 +91,9 @@ class ServiceBlibli:
     
     def scrape_blibli_store(self, url_store, proxy=None, page=1):
         page = int(page)
-        # path = urlparse(url_store).path    
-        # path_split = path.split('/')
-        # store = path_split[1]
+        path = urlparse(url_store).path    
+        path_split = path.split('/')
+        store = path_split[1]
         store_name = self.extract_store_name(url_store)   
         start_index = (page - 1) * 40
         itemPerPage = 40
@@ -117,7 +117,7 @@ class ServiceBlibli:
             # print(url_store)
             # print(path_store)
             # print(path_name_store)
-        elif 'merchant' in path_store:
+        elif 'merchant' in path_split:
             print('merchant found')
             query_params = {
                 "promoTab": "false",
@@ -145,6 +145,6 @@ class ServiceBlibli:
         
         print(query_params)
         print(f"[Blibli] Scraping Product from Store: {store_name} | Page: {page}")
-        resp = requests.get(base_api_url, params=query_params, impersonate="chrome110", headers=headers, proxies=self.proxies)
+        resp = requests.get(base_api_url, params=query_params, impersonate="chrome110", headers=headers, proxies=proxy)
                     
         return resp

@@ -114,7 +114,7 @@ class ServiceTokopedia:
             return None
     
 
-    def scrape_tokopedia_comments(self, product_url, proxy=None, page=1):
+    def scrape_tokopedia_comments(self, product_url, page=1, proxy=None):
         product_id = self.get_product_main_info(product_url)
         api_url = "https://gql.tokopedia.com/graphql/productReviewList"
         payload = [{
@@ -142,7 +142,7 @@ class ServiceTokopedia:
         for attempt in range(max_retries):
             time_sleep = random.uniform(3, 7)
             try:
-                resp = requests.post(api_url, json=payload, headers=headers, impersonate="chrome110")
+                resp = requests.post(api_url, json=payload, headers=headers, impersonate="chrome110", proxies=proxy)
                 
                 if resp.status_code == 200:
                     return resp
@@ -198,7 +198,7 @@ class ServiceTokopedia:
             print(f"Error di get_shop_id: {e}")
             return None, None
     
-    def scrape_tokopedia_store(self, shop_url, page):
+    def scrape_tokopedia_store(self, shop_url, page, proxy=None):
         shop_data = self.get_shop_id(shop_url)
         
         print(shop_data[0])
@@ -242,7 +242,7 @@ class ServiceTokopedia:
                 "query": "query ShopProducts($sid: String!, $source: String, $page: Int, $perPage: Int, $keyword: String, $etalaseId: String, $sort: Int, $user_districtId: String, $user_cityId: String, $user_lat: String, $user_long: String, $usecase: String) {\n  GetShopProduct(shopID: $sid, source: $source, filter: {page: $page, perPage: $perPage, fkeyword: $keyword, fmenu: $etalaseId, sort: $sort, user_districtId: $user_districtId, user_cityId: $user_cityId, user_lat: $user_lat, user_long: $user_long, usecase: $usecase}) {\n    status\n    errors\n    links {\n      prev\n      next\n      __typename\n    }\n    data {\n      name\n      product_url\n      product_id\n      price {\n        text_idr\n        __typename\n      }\n      primary_image {\n        original\n        thumbnail\n        resize300\n        __typename\n      }\n      flags {\n        isSold\n        isPreorder\n        isWholesale\n        isWishlist\n        __typename\n      }\n      campaign {\n        discounted_percentage\n        original_price_fmt\n        start_date\n        end_date\n        __typename\n      }\n      label {\n        color_hex\n        content\n        __typename\n      }\n      label_groups {\n        position\n        title\n        type\n        url\n        styles {\n          key\n          value\n          __typename\n        }\n        __typename\n      }\n      badge {\n        title\n        image_url\n        __typename\n      }\n      stats {\n        reviewCount\n        rating\n        averageRating\n        __typename\n      }\n      category {\n        id\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"
             }
             ])
-        resp = requests.request("POST", api_url, headers=headers, data=payload)
+        resp = requests.request("POST", api_url, headers=headers, data=payload, proxies=proxy)
         return resp
 
     

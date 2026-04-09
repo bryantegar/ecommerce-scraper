@@ -219,7 +219,7 @@ class WorkerLazada(BaseWorker):
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     
-                    resp = service.scrape_lazada_store(message['url'], page=count+1, proxy=self.current_proxy)
+                    resp = service.scrape_lazada_store(store_url, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='lzd-store', hostname=HOSTNAME,
                                           store_name=store_name, page=count+1, social_media='lazada')
@@ -227,7 +227,7 @@ class WorkerLazada(BaseWorker):
                     else:
                         raise HTTPStatusException(
                             resp.status_code,
-                            f"Store: {shop_name}", resp=resp
+                            f"Store: {store_name}", resp=resp
                         )
 
                     if count >= max_count:
@@ -236,7 +236,7 @@ class WorkerLazada(BaseWorker):
                     worker.deleteJob(job)
 
                     if not crawl_next:
-                        self.conn_redis.srem(tubename, item_id)
+                        self.conn_redis.srem(tubename, store_name)
                     else:
                         message['count'] = count + 1
                         pusher_self.setJob(tubename, json.dumps(message))
