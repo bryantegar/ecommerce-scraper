@@ -46,13 +46,16 @@ class ServiceBlibli:
         print(f"[Blibli] Scraping keyword ({encoded_keyword}) from Blibli, Page {page}")
         resp = requests.get(base_api_url, params=query_params, impersonate="chrome110", headers=headers, proxies=proxy)
         return resp
-
-
-    def scrape_blibli_comments(self, product_url, proxy=None, page=1):
+    
+    def extract_product_id(self, product_url):
         path = urlparse(product_url).path 
         last_part = path.split('/')[-1] 
-
         product_id = last_part.replace("is--", "").rsplit("-", 1)[0]
+        return product_id
+        
+    def scrape_blibli_comments(self, product_url, proxy=None, page=1):
+
+        product_id = self.extract_product_id(product_url)
         print(f"{product_id}")
         
 
@@ -79,12 +82,20 @@ class ServiceBlibli:
             
         return resp
     
-    def scrape_blibli_store(self, url_store, proxy=None, page=1):
-        page = int(page)
+    def extract_store_name(self, url_store):
         path = urlparse(url_store).path    
         path_split = path.split('/')
         store = path_split[1]
         store_name = path_split[-1]
+        return store_name
+    
+    
+    def scrape_blibli_store(self, url_store, proxy=None, page=1):
+        page = int(page)
+        # path = urlparse(url_store).path    
+        # path_split = path.split('/')
+        # store = path_split[1]
+        store_name = self.extract_store_name(url_store)   
         start_index = (page - 1) * 40
         itemPerPage = 40
         print(path_split)

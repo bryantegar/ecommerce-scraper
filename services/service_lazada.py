@@ -83,12 +83,16 @@ class ServiceLazada:
             url, data=payload, headers=headers, impersonate="chrome110", proxies=proxy)
         return response
     
+    def extract_shop_name(self, shop_url):
+        path = urlparse(shop_url).path.strip('/')
+        shop_name = path.split('/')[-1]
+        return shop_name
+    
     def scrape_lazada_store(self, shop_url, page=1, proxy=None):
         # product_url_list = []
         # with open('lazada_cookies.json', 'r') as f:
         #     cookies_data = json.load(f)
-        path = urlparse(shop_url).path
-        shop_name = path.split('/')[-1]
+        shop_name = self.extract_shop_name(shop_url)
         proxy_url = "http://bandung:456xyz@proxycrawler.dashboard.nolimit.id:2570"
         proxies = {"http": proxy_url, "https": proxy_url}
         # cookies = self.get_cookies_data('lazada_cookies.json')

@@ -1,7 +1,7 @@
 import argparse
-# import sentry_sdk
-# from settings import SENTRY
-# from sentry_sdk import set_tags
+import sentry_sdk
+from settings import SENTRY
+from sentry_sdk import set_tags
 
 from workers.worker_tokopedia import WorkerTokopedia
 
@@ -49,18 +49,18 @@ if __name__ == '__main__':
         worker_tokopedia = WorkerTokopedia(
             allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_scrape_keyword()
+        worker_tokopedia.worker_keyword()
     
     elif mode == 'worker_tokopedia_comments':
         worker_tokopedia = WorkerTokopedia(
             config=config, 
             allowed_usage=allowed_usage, 
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_scrape_comments()
+        worker_tokopedia.worker_comments()
 
     elif mode == 'worker_tokopedia_store':
         worker_tokopedia = WorkerTokopedia(
             config=config, 
             allowed_usage=allowed_usage, 
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_scrape_store()
+        worker_tokopedia.worker_store()

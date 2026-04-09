@@ -103,7 +103,7 @@ class ServiceTokopedia:
                 with open(filename, 'w') as f:
                     json.dump(output, f, indent=4)
                 print(f"Saved: {filename}")
-                return p_id, response
+                return p_id
                 
             else:
                 print(f"HTTP Error: {response.status_code}")
@@ -198,7 +198,7 @@ class ServiceTokopedia:
             print(f"Error di get_shop_id: {e}")
             return None, None
     
-    def get_shop_product(self, shop_url, page):
+    def scrape_tokopedia_store(self, shop_url, page):
         shop_data = self.get_shop_id(shop_url)
         
         print(shop_data[0])

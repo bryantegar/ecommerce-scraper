@@ -1,6 +1,7 @@
 from beanstalkc import Connection, Job
 
 
+
 class Pusher():
     def __init__(self, tubename, host='127.0.0.1', port=11300) -> None:
         self.beans = Connection(host=host, port=port)

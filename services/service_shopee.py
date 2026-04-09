@@ -11,7 +11,7 @@ from libs.logger import printinfo
 from curl_cffi import requests
 
 
-class ServiceTokopedia:
+class ServiceShopee:
     def __init__(self):
         pass
         

@@ -5,3 +5,5 @@ settings.py
 worker_ecommerce/*
 __pycache__/*
 json_data/*
+settings.template.py
+search_keyword.py

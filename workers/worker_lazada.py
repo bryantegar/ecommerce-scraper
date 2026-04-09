@@ -69,8 +69,8 @@ class WorkerLazada(BaseWorker):
                 try:
                     crawl_next = True
                     message = json.loads(job.body)
-                    item_id = message['item_id'] if 'item_id' in message else self.extract_item_id(
-                        message['url'])
+                    item_id = message['product_id'] if 'item_id' in message else self.extract_item_id(
+                        message['product_url'])
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     if item_id:
@@ -169,10 +169,10 @@ class WorkerLazada(BaseWorker):
                     killer.kill_now = self.kill_now
         self.worker_exit()
     
-    def worker_scrape_comments(self):
+    def worker_scrape_store(self):
         printinfo("----------------------------------")
-        printinfo("Starting Worker Lazada Comments")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_comments'
+        printinfo("Starting Worker Lazada Store")
+        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_store'
         worker = Worker(
             tubename,
             BEANS[self.config]['host'],
@@ -202,24 +202,22 @@ class WorkerLazada(BaseWorker):
                 try:
                     crawl_next = True
                     message = json.loads(job.body)
-                    item_id = message['item_id'] if 'item_id' in message else self.extract_item_id(
-                        message['url'])
+                    shop_url = message['store_url']
+                    shop_name = self.extract_shop_name(shop_url)
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    if item_id:
-                        resp = service.scrape_lazada_comments(
-                            item_id, self.cookies, page=count+1, proxy=self.current_proxy)
-
-                        if resp.status_code == 200:
-                            fname = store_raw(resp, prefix='lzd-cm', hostname=HOSTNAME,
-                                              product_id=item_id, page=count+1,
-                                              cookie=self.complete_cookie, social_media='lazada')
-                            printinfo('Saved to: '+fname)
-                        else:
-                            raise HTTPStatusException(
-                                resp.status_code,
-                                f"Item ID: {item_id}", resp=resp
-                            )
+                    
+                    resp = service.scrape_lazada_store(message['url'], page=count+1, proxy=self.current_proxy)
+                    if resp.status_code == 200:
+                        fname = store_raw(resp, prefix='lzd-store', hostname=HOSTNAME,
+                                          product_id=item_id, page=count+1,
+                                          cookie=self.complete_cookie, social_media='lazada')
+                        printinfo('Saved to: '+fname)
+                    else:
+                        raise HTTPStatusException(
+                            resp.status_code,
+                            f"Store: {shop_name}", resp=resp
+                        )
 
                     if count >= max_count:
                         crawl_next = False
