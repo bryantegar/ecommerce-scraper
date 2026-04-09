@@ -1,7 +1,10 @@
 import hashlib
 import json
+import urlparse
 from time import time
 from urllib import parse
+from urllib.parse import urlparse
+from camoufox.sync_api import Camoufox
 
 from requests import Response
 from requests.utils import cookiejar_from_dict
@@ -32,10 +35,10 @@ class ServiceShopee:
             #     cookies_data = json.load(f)
             # cookies_data = get_cookies('shopee')
             context = browser.new_context()
-            context.add_cookies(cookies_redis)
+            context.add_cookies(cookies)
             page = context.new_page()
             
-            state = {"items": None, 'is_capctha': False, 'status': None}
+            state = {"items": None, 'is_captcha': False, 'status': None}
             product_link = []
             def handle_response(response):
                 try:
@@ -138,7 +141,7 @@ class ServiceShopee:
             page.on('response', handle_response)
             print(f"[Shopee] Open Page {page_num}")
             try:
-                    print(f"[Shopee] Scraping page {p}")
+                    print(f"[Shopee] Scraping page {page_num}")
                     url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={page_num}"
                     page.goto(url)
                     page.mouse.wheel(0, 1000)
@@ -240,9 +243,5 @@ class ServiceShopee:
                 page.wait_for_timeout(time_out)
             
             return state
-    
-    def extract_store_name(self, store_url):
-        path = urlparse(store_url).path.strip('/')
-        store_name = path.split('/')[-1]
-        return store_name
+
     

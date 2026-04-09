@@ -113,7 +113,7 @@ class WorkerShopee(BaseWorker):
         self.set_conn_redis()
         self.set_resources('shopee', 'shopee')
         killer = GracefulKiller()
-        service = ServiceTokopedia()
+        service = ServiceShopee()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
             printinfo('Proxy Loaded')
@@ -140,7 +140,7 @@ class WorkerShopee(BaseWorker):
                         print('Captcha detected')
                         worker.releaseJob(job)                  
                     elif resp['status'] == 200 and resp['items']:
-                        fname = store_raw(resp['items'], prefix='shopee-kw', hostname=HOSTNAME,
+                        fname = store_raw(resp['items'], prefix='shopee-cm', hostname=HOSTNAME,
                                           product_id=product_id, page=count+1, social_media='shopee')
                         printinfo('Saved to: '+fname)
                         worker.deleteJob(job)
@@ -177,7 +177,7 @@ class WorkerShopee(BaseWorker):
         self.set_conn_redis()
         self.set_resources('shopee', 'shopee')
         killer = GracefulKiller()
-        service = ServiceTokopedia()
+        service = ServiceShopee()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
             printinfo('Proxy Loaded')
