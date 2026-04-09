@@ -4,4 +4,4 @@ tests/*
 settings.py
 worker_ecommerce/*
 __pycache__/*
-
+json_data/*
