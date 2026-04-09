@@ -3,16 +3,16 @@ import sentry_sdk
 from settings import SENTRY
 from sentry_sdk import set_tags
 
-from workers.worker_tokopedia import WorkerTokopedia
+from workers.worker_shopee import WorkerShopee
 
 
 if __name__ == '__main__':
     choices = [
-        'worker_tokopedia_keyword',
-        'worker_tokopedia_comments',
-        'worker_tokopedia_store'
+        'worker_shopee_keyword',
+        'worker_shopee_comments',
+        'worker_shopee_store'
     ]
-    parser = argparse.ArgumentParser(description='Worker Tokopedia',
+    parser = argparse.ArgumentParser(description='Worker Shopee',
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('-m', '--mode', metavar='', type=str,
                         help='Worker Mode',
@@ -43,24 +43,25 @@ if __name__ == '__main__':
         traces_sample_rate=1.0,
         environment=SENTRY[config]['env']
     )
-    set_tags({'process.social_media': 'tokopedia',
+    set_tags({'process.social_media': 'shopee',
               'process.name': mode})
-    if mode == 'worker_tokopedia_keyword':
-        worker_tokopedia = WorkerTokopedia(
+    if mode == 'worker_shopee_keyword':
+        worker_shopee = WorkerShopee(
+            config=config,
             allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_keyword()
+        worker_shopee.worker_keyword()
     
-    elif mode == 'worker_tokopedia_comments':
-        worker_tokopedia = WorkerTokopedia(
-            config=config, 
-            allowed_usage=allowed_usage, 
+    elif mode == 'worker_shopee_comments':
+        worker_shopee = WorkerShopee(
+            config=config,
+            allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_comments()
+        worker_shopee.worker_comments()
         
-    elif mode == 'worker_tokopedia_store':
-        worker_tokopedia = WorkerTokopedia(
-            config=config, 
-            allowed_usage=allowed_usage, 
+    elif mode == 'worker_shopee_store':
+        worker_shopee = WorkerShopee(
+            config=config,
+            allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
-        worker_tokopedia.worker_store()
+        worker_shopee.worker_store()

@@ -15,12 +15,11 @@ class ServiceShopee:
     def __init__(self):
         pass
         
-    def scrape_shopee_store(self, store_url, page_num, cookies_redis):
+    def scrape_shopee_store(self, store_url, page_num, cookies, proxies=None):
         product_url_list = []
         url_parse = urlparse(store_url)
         store_name = url_parse.path.split('/')[-1]
         print(store_name)
-        result = {'items': None, "status":200}
         # encoded_keyword = urllib.parse.quote(keyword)
         with Camoufox(
             os=["windows", "macos", "linux"],
@@ -36,7 +35,7 @@ class ServiceShopee:
             context.add_cookies(cookies_redis)
             page = context.new_page()
             
-            state = {"items": None, 'is_capctha': False}
+            state = {"items": None, 'is_capctha': False, 'status': None}
             product_link = []
             def handle_response(response):
                 try:
@@ -44,7 +43,15 @@ class ServiceShopee:
                         url = response.url
                         # print(url)
                         target_api = "api/v4/shop/rcmd_items"
-                        if target_api in url:
+                        login_pattern = 'api/v2/authentication/get_active_login_page'
+                        captcha_patern = 'api/v4/anti_fraud/captcha'
+                        if login_pattern in url or captcha_patern in url:
+                            print('==================')
+                            print('Captcha detected')
+                            print('==================')
+                            state['is_captcha'] = True
+                            state['status'] = 403
+                        elif target_api in url:
                             print(url)
                             data = response.json()
                             # print(data)
@@ -53,7 +60,8 @@ class ServiceShopee:
                             items = centralize_item_card.get('item_cards',[])
                             # print(items)
                             if items:
-                                state['items'] = items     
+                                state['items'] = items
+                                state['status'] = 200     
                     else:
                         pass
 
@@ -73,8 +81,8 @@ class ServiceShopee:
                 page.mouse.wheel(0, 1000)
                 page.wait_for_timeout(2000)
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight / 1.5)")
-                if page.locator('#NEW_CAPTCHA').is_visible():
-                    state['is_capctha'] = True
+                # if page.locator('#NEW_CAPTCHA').is_visible():
+                #     state['is_capctha'] = True
                 page.wait_for_timeout(10000)
                 # cookies_data = page.context.cookies()
                 # with open("shopee_cookies.json", "w", encoding="utf-8") as f:
@@ -84,7 +92,7 @@ class ServiceShopee:
                 pass
         return state
 
-    def scrape_shopee_keyword(self, keyword, page_num, cookies_redis):
+    def scrape_shopee_keyword(self, keyword, cookies, page_num, proxies=None):
         encoded_keyword = urllib.parse.quote(keyword)
         with Camoufox(
             os=["windows", "macos", "linux"],
@@ -96,23 +104,31 @@ class ServiceShopee:
             #     cookies_data = json.load(f)
             # cookies_data = fresh_cookies_from_redis('shopee')
             context = browser.new_context()
-            context.add_cookies(cookies_redis)
+            context.add_cookies(cookies)
             page = context.new_page()
             
-            state = {"items": None, 'is_captcha': False}            
+            state = {"items": None, 'is_captcha': False, 'status':None}            
             def handle_response(response):
                 try:
                     if response.request.resource_type in ['fetch', 'xhr']:
                         url = response.url
                         target_api = "api/v4/search/search_items"
-                        if target_api in url:
+                        login_pattern = 'api/v2/authentication/get_active_login_page'
+                        captcha_patern = 'api/v4/anti_fraud/captcha'
+                        if login_pattern in url or captcha_patern in url:
+                            print('==================')
+                            print('Captcha detected')
+                            print('==================')
+                            state['is_captcha'] = True
+                            state['status'] = 403
+                        elif target_api in url:
                             data = response.json()
                             print(data)
                             items = data.get("items", [])
-                            if not items:
-                                print("Data Not Found")
-                                return
-                            state['items'] = data
+                            if items:
+                                state['items'] = items
+                                state['status'] = 200
+                            
                     else:
                         pass
 
@@ -128,8 +144,8 @@ class ServiceShopee:
                     page.mouse.wheel(0, 1000)
                     page.wait_for_timeout(2000)
                     page.evaluate("window.scrollTo(0, document.body.scrollHeight / 1.5)")
-                    if page.locator('#NEW_CAPTCHA').is_visible():
-                        state['is_capctha'] = True
+                    # if page.locator('#NEW_CAPTCHA').is_visible():
+                    #     state['is_capctha'] = True
                     page.wait_for_timeout(6000)
                     # cookies_data = page.context.cookies()
                     # with open("shopee_cookies.json", "w", encoding="utf-8") as f:
@@ -139,7 +155,7 @@ class ServiceShopee:
                     pass
             return state['items']
 
-    def scrape_shopee_comments(self, product_url, p, cookies_redis):
+    def scrape_shopee_comments(self, product_url, p, cookies, proxies=None):
         with Camoufox(
             os=["windows","linux"],
             headless=True,
@@ -150,8 +166,8 @@ class ServiceShopee:
             # cookies_data = get_cookies('shopee')
             context = browser.new_context()
             page = context.new_page()
-            context.add_cookies(cookies_redis)
-            state = {'current_page': p, 'has_review': True, 'items': None, 'is_captcha': False}
+            context.add_cookies(cookies)
+            state = {'current_page': p, 'has_review': True, 'items': None, 'is_captcha': False, 'product_id':None}
             offset = (p * 6) - 6
             def handle_response(response):
                     if response.request.resource_type in ['fetch', 'xhr']:
@@ -165,17 +181,20 @@ class ServiceShopee:
                             print('Captcha detected')
                             print('==================')
                             state['is_captcha'] = True
+                            state['status'] = 403
                         elif target_api in url:
                             print(url)
                             data = response.json()
                             review_data = data.get('data', {})
                             # print(data)
                             product_id = data['data']['ratings'][0]['itemid']
+                            state['product_id'] = product_id
                             if not review_data:
                                 print("Review Not Found")
                                 state['has_review'] = False
                             print(product_id)
                             state['items'] = data
+                            state['status'] = 200
                             
 
             page.on('response', handle_response)
@@ -222,4 +241,8 @@ class ServiceShopee:
             
             return state
     
+    def extract_store_name(self, store_url):
+        path = urlparse(store_url).path.strip('/')
+        store_name = path.split('/')[-1]
+        return store_name
     

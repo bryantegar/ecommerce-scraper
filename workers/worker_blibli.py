@@ -52,7 +52,7 @@ class WorkerBlibli(BaseWorker):
         else:
             proxy_cycle = cycle([None])
 
-        service = ServiceTokopedia()
+        service = ServiceBlibli()
 
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
@@ -130,7 +130,7 @@ class WorkerBlibli(BaseWorker):
                         product_url, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='blibli-comments', hostname=HOSTNAME,
-                                          product_id=product_id, page=count+1, social_media='tokopedia')
+                                          product_id=product_id, page=count+1, social_media='blibli')
                         printinfo('Saved to: '+fname)
                         print(resp.json())
                     else:
@@ -191,7 +191,7 @@ class WorkerBlibli(BaseWorker):
                         store_url, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='blibli-store', hostname=HOSTNAME,
-                                          store_name=store_name, page=count+1, social_media='tokopedia')
+                                          store_name=store_name, page=count+1, social_media='blibli')
                         printinfo('Saved to: '+fname)
                         print(resp.json())
                     else:

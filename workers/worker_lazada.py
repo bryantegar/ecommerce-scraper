@@ -202,16 +202,15 @@ class WorkerLazada(BaseWorker):
                 try:
                     crawl_next = True
                     message = json.loads(job.body)
-                    shop_url = message['store_url']
-                    shop_name = self.extract_shop_name(shop_url)
+                    store_url = message['store_url']
+                    store_name = service.extract_shop_name(store_url)
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     
                     resp = service.scrape_lazada_store(message['url'], page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='lzd-store', hostname=HOSTNAME,
-                                          product_id=item_id, page=count+1,
-                                          cookie=self.complete_cookie, social_media='lazada')
+                                          store_name=store_name, page=count+1, social_media='lazada')
                         printinfo('Saved to: '+fname)
                     else:
                         raise HTTPStatusException(

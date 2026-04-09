@@ -12,6 +12,7 @@ from libs.exc import HTTPStatusException
 from libs.graceful_killer import GracefulKiller
 from libs.logger import printinfo
 from libs.proxies import get_proxy_cycle
+from libs.cookies_manager import get_cookies
 from services.service_general import store_raw
 from services.service_shopee import ServiceShopee
 from settings import BEANS
@@ -33,7 +34,7 @@ class WorkerShopee(BaseWorker):
     def worker_keyword(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Shopee Keyword")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_keyword'
+        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_keyword'
         worker = Worker(
             tubename,
             host='localhost', 
@@ -44,7 +45,7 @@ class WorkerShopee(BaseWorker):
             port = 14711)
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('blibli', 'blibli')
+        self.set_resources('shopee', 'shopee')
         killer = GracefulKiller()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
@@ -52,7 +53,7 @@ class WorkerShopee(BaseWorker):
         else:
             proxy_cycle = cycle([None])
 
-        service = ServiceTokopedia()
+        service = ServiceShopee()
 
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
@@ -66,18 +67,24 @@ class WorkerShopee(BaseWorker):
                     keyword = message['content']
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_blibli_keyword(
-                        keyword, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='blibli-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count+1, social_media='blibli')
+                    resp = service.scrape_shopee_keyword(
+                        keyword, cookies=self.cookies, page=count+1, proxy=self.current_proxy)
+                    
+                    if resp.get('is_captcha'):
+                        print('Captcha detected')
+                        worker.releaseJob(job)
+                                            
+                    elif resp['status'] == 200 and resp['items']:
+                        fname = store_raw(resp['items'], prefix='shopee-kw', hostname=HOSTNAME,
+                                          keyword=keyword, page=count+1, social_media='shopee')
                         printinfo('Saved to: '+fname)
+                        worker.deleteJob(job)
                     else:
                         raise HTTPStatusException(
-                            resp.status_code,
+                            resp['status'],
                             f"Keyword: {keyword} - page: {count}",
                             resp=resp)
-                    worker.deleteJob(job)
+                    
 
                     if count >= max_count:
                         crawl_next = False
@@ -92,8 +99,8 @@ class WorkerShopee(BaseWorker):
     
     def worker_comments(self):
         printinfo("----------------------------------")
-        printinfo("Starting Worker Blibli Comments")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_comments'
+        printinfo("Starting Worker Shopee Comments")
+        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_comments'
         worker = Worker(
             tubename,
             host='localhost', 
@@ -104,7 +111,7 @@ class WorkerShopee(BaseWorker):
             port = 14711)
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('blibli', 'blibli')
+        self.set_resources('shopee', 'shopee')
         killer = GracefulKiller()
         service = ServiceTokopedia()
         if self.use_proxy:
@@ -123,22 +130,25 @@ class WorkerShopee(BaseWorker):
                     crawl_next = True
                     message = json.loads(job.body)
                     product_url = message['product_url']
-                    product_id = service.extract_product_id(product_url)                    
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_blibli_comments(
-                        product_url, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='blibli-comments', hostname=HOSTNAME,
-                                          product_id=product_id, page=count+1, social_media='tokopedia')
+                    resp = service.scrape_shopee_comments(
+                        product_url, page=count+1, cookies=self.cookies, proxy=self.current_proxy)
+                    product_id = resp['product_id']
+
+                    if resp.get('is_captcha'):
+                        print('Captcha detected')
+                        worker.releaseJob(job)                  
+                    elif resp['status'] == 200 and resp['items']:
+                        fname = store_raw(resp['items'], prefix='shopee-kw', hostname=HOSTNAME,
+                                          product_id=product_id, page=count+1, social_media='shopee')
                         printinfo('Saved to: '+fname)
-                        print(resp.json())
+                        worker.deleteJob(job)
                     else:
                         raise HTTPStatusException(
                             resp.status_code,
                             f"Comments: {product_id} - page: {count}",
                             resp=resp)
-                    worker.deleteJob(job)
 
                     if count >= max_count:
                         crawl_next = False
@@ -153,8 +163,8 @@ class WorkerShopee(BaseWorker):
         
     def worker_store(self):
         printinfo("----------------------------------")
-        printinfo("Starting Worker Blibli Store")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_store'
+        printinfo("Starting Worker Shopee Store")
+        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_store'
         worker = Worker(
             tubename,
             host='localhost', 
@@ -165,7 +175,7 @@ class WorkerShopee(BaseWorker):
             port = 14711)
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('blibli', 'blibli')
+        self.set_resources('shopee', 'shopee')
         killer = GracefulKiller()
         service = ServiceTokopedia()
         if self.use_proxy:
@@ -187,19 +197,23 @@ class WorkerShopee(BaseWorker):
                     store_name = service.extract_store_name(store_url)
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_blibli_store(
-                        store_url, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='blibli-store', hostname=HOSTNAME,
-                                          store_name=store_name, page=count+1, social_media='tokopedia')
+                    resp = service.scrape_shopee_store(
+                        store_url, page=count+1, cookies=self.cookies, proxy=self.current_proxy)
+                    
+                    if resp.get('is_captcha'):
+                        print('Captcha detected')
+                        worker.releaseJob(job)
+                                            
+                    elif resp['status'] == 200 and resp['items']:
+                        fname = store_raw(resp['items'], prefix='shopee-store', hostname=HOSTNAME,
+                                          store_name=store_name, page=count+1, social_media='shopee')
                         printinfo('Saved to: '+fname)
-                        print(resp.json())
+                        worker.deleteJob(job)
                     else:
                         raise HTTPStatusException(
                             resp.status_code,
                             f"Store: {store_name} - page: {count}",
                             resp=resp)
-                    worker.deleteJob(job)
 
                     if count >= max_count:
                         crawl_next = False

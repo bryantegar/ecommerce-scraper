@@ -8,7 +8,8 @@ from sentry_sdk import set_tags
 if __name__ == '__main__':
     choices = [
         'worker_lazada_keyword',
-        'worker_lazada_comments'
+        'worker_lazada_comments',
+        'worker_lazada_store'
     ]
     parser = argparse.ArgumentParser(description='Worker Lazada',
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -53,3 +54,9 @@ if __name__ == '__main__':
             allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
         worker_lazada.worker_scrape_comments()
+    elif mode == 'worker_lazada_store':
+        worker_lazada = WorkerLazada(
+            allowed_usage=args.allowed_usage,
+            use_proxy=args.do_not_use_proxy)
+        worker_lazada.worker_scrape_store()
+        
