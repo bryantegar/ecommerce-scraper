@@ -17,6 +17,12 @@ class InvalidCookieException(Exception):
         super().__init__(self.message)
 
 
+class ProductNotFoundException(Exception):
+    def __init__(self, marketplace, message=""):
+        self.message = 'Product Not Found: {} - {}'.format(
+            marketplace, message)
+
+
 class NoAvailableResourceException(Exception):
     def __init__(self, social_media, allowed_usage, message=""):
         self.message = 'No Available Resource: {} - {}'.format(

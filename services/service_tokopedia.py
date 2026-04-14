@@ -10,6 +10,7 @@ from requests import Response
 from requests.utils import cookiejar_from_dict
 
 
+from libs.exc import ProductNotFoundException
 from libs.logger import printinfo
 from curl_cffi import requests
 
@@ -77,41 +78,23 @@ class ServiceTokopedia:
             "x-tkpd-akamai": "pdpMainInfo",
         }
 
-        try:
-            response = requests.post(
-                api_url, json=payload, headers=headers, impersonate="chrome110", proxies=proxy)
+        response = requests.post(
+            api_url, json=payload, headers=headers, impersonate="chrome110", proxies=proxy)
 
-            if response.status_code == 200:
-                res_json = response.json()
+        if response.status_code == 200:
+            res_json = response.json()
 
-                main_info = res_json[0].get('data', {}).get(
-                    'pdpMainInfo', {}).get('data', {})
-                if not main_info:
-                    print("Data not found")
-                    return None
-
-                p_id = main_info.get('basicInfo', {}).get('id')
-                # output = {
-                #     "raw": main_info,
-                #     "metadata": {
-                #         "product_id": p_id,
-                #         "platform": "tokopedia",
-                #         "url": url
-                #     }
-                # }
-
-                # filename = f"tokopedia_product_main_info_{p_id}.json"
-                # with open(filename, 'w') as f:
-                #     json.dump(output, f, indent=4)
-                # print(f"Saved: {filename}")
-                return p_id
-
-            else:
-                print(f"HTTP Error: {response.status_code}")
+            main_info = res_json[0].get('data', {}).get(
+                'pdpMainInfo', {}).get('data', {})
+            if not main_info:
+                print("Data not found")
                 return None
 
-        except Exception as e:
-            raise
+            p_id = main_info.get('basicInfo', {}).get('id')
+            return p_id
+
+        else:
+            raise ProductNotFoundException('tokopedia', url)
 
     def scrape_tokopedia_comments(self, product_url, page=1, proxy=None):
         product_id = self.get_product_main_info(product_url)
@@ -139,46 +122,42 @@ class ServiceTokopedia:
         return response
 
     def get_shop_id(self, shop_url):
-        try:
-            path = urlparse(shop_url).path.strip('/')
-            shop_name = path.split('/')[-1]
+        path = urlparse(shop_url).path.strip('/')
+        shop_name = path.split('/')[-1]
 
-            url = "https://gql.tokopedia.com/graphql/ShopInfoCore"
+        url = "https://gql.tokopedia.com/graphql/ShopInfoCore"
 
-            payload = [{
-                "operationName": "ShopInfoCore",
-                "variables": {
-                    "id": 0,
-                    "domain": shop_name
-                },
-                "query": "query ShopInfoCore($id: Int!, $domain: String) {\n  shopInfoByID(input: {shopIDs: [$id], fields: [\"core\"], domain: $domain, source: \"shoppage\"}) {\n    result {\n      shopCore {\n        shopID\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"
-            }]
+        payload = [{
+            "operationName": "ShopInfoCore",
+            "variables": {
+                "id": 0,
+                "domain": shop_name
+            },
+            "query": "query ShopInfoCore($id: Int!, $domain: String) {\n  shopInfoByID(input: {shopIDs: [$id], fields: [\"core\"], domain: $domain, source: \"shoppage\"}) {\n    result {\n      shopCore {\n        shopID\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"
+        }]
 
-            headers = {
-                'Content-Type': 'application/json',
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-                'x-source': 'tokopedia-lite'
-            }
+        headers = {
+            'Content-Type': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            'x-source': 'tokopedia-lite'
+        }
 
-            # Tambahkan http_version=requests.HttpVersion.V1_1 jika HTTP/2 bermasalah
-            response = requests.post(
-                url, headers=headers, json=payload, impersonate="chrome110")
+        # Tambahkan http_version=requests.HttpVersion.V1_1 jika HTTP/2 bermasalah
+        response = requests.post(
+            url, headers=headers, json=payload, impersonate="chrome110")
 
-            if response.status_code == 200:
-                res_json = response.json()
-                data_list = res_json[0].get('data', {})
-                shop_info = data_list.get('shopInfoByID', {})
-                results = shop_info.get('result', [])
-                if results:
-                    shop_id = results[0].get('shopCore', {}).get('shopID')
-                    return shop_name, str(shop_id)
+        if response.status_code == 200:
+            res_json = response.json()
+            data_list = res_json[0].get('data', {})
+            shop_info = data_list.get('shopInfoByID', {})
+            results = shop_info.get('result', [])
+            if results:
+                shop_id = results[0].get('shopCore', {}).get('shopID')
+                return shop_name, str(shop_id)
 
-            print(
-                f"Shop {shop_name} tidak ditemukan atau status {response.status_code}")
-            return None, None
-
-        except Exception as e:
-            raise
+        print(
+            f"Shop {shop_name} tidak ditemukan atau status {response.status_code}")
+        return None, None
 
     def scrape_tokopedia_store(self, shop_url, page, proxy=None):
         shop_data = self.get_shop_id(shop_url)
