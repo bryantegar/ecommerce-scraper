@@ -37,12 +37,12 @@ class WorkerShopee(BaseWorker):
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_keyword'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('shopee', 'shopee')
@@ -69,11 +69,11 @@ class WorkerShopee(BaseWorker):
                     max_count = message['max_count'] if 'max_count' in message else 0
                     resp = service.scrape_shopee_keyword(
                         keyword, cookies=self.cookies, page=count+1, proxy=self.current_proxy)
-                    
+
                     if resp.get('is_captcha'):
                         print('Captcha detected')
                         worker.releaseJob(job)
-                                            
+
                     elif resp['status'] == 200 and resp['items']:
                         fname = store_raw(resp['items'], prefix='shopee-kw', hostname=HOSTNAME,
                                           keyword=keyword, page=count+1, social_media='shopee')
@@ -84,7 +84,6 @@ class WorkerShopee(BaseWorker):
                             resp['status'],
                             f"Keyword: {keyword} - page: {count}",
                             resp=resp)
-                    
 
                     if count >= max_count:
                         crawl_next = False
@@ -96,19 +95,19 @@ class WorkerShopee(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-    
+
     def worker_comments(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Shopee Comments")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_comments'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('shopee', 'shopee')
@@ -119,7 +118,7 @@ class WorkerShopee(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
@@ -138,7 +137,7 @@ class WorkerShopee(BaseWorker):
 
                     if resp.get('is_captcha'):
                         print('Captcha detected')
-                        worker.releaseJob(job)                  
+                        worker.releaseJob(job)
                     elif resp['status'] == 200 and resp['items']:
                         fname = store_raw(resp['items'], prefix='shopee-cm', hostname=HOSTNAME,
                                           product_id=product_id, page=count+1, social_media='shopee')
@@ -160,19 +159,19 @@ class WorkerShopee(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-        
+
     def worker_store(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Shopee Store")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_store'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('shopee', 'shopee')
@@ -183,7 +182,7 @@ class WorkerShopee(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
@@ -199,11 +198,11 @@ class WorkerShopee(BaseWorker):
                     max_count = message['max_count'] if 'max_count' in message else 0
                     resp = service.scrape_shopee_store(
                         store_url, page=count+1, cookies=self.cookies, proxy=self.current_proxy)
-                    
+
                     if resp.get('is_captcha'):
                         print('Captcha detected')
                         worker.releaseJob(job)
-                                            
+
                     elif resp['status'] == 200 and resp['items']:
                         fname = store_raw(resp['items'], prefix='shopee-store', hostname=HOSTNAME,
                                           store_name=store_name, page=count+1, social_media='shopee')

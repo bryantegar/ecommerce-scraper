@@ -34,12 +34,12 @@ class WorkerTokopedia(BaseWorker):
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_keyword'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['host'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['host'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('tokopedia', 'tokopedia')
@@ -87,19 +87,19 @@ class WorkerTokopedia(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-    
+
     def worker_comments(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Tokopedia Comments")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_comments'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('tokopedia', 'tokopedia')
@@ -110,7 +110,7 @@ class WorkerTokopedia(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
@@ -121,7 +121,7 @@ class WorkerTokopedia(BaseWorker):
                     crawl_next = True
                     message = json.loads(job.body)
                     product_url = message['product_url']
-                    product_id = service.get_product_main_info(product_url)                    
+                    product_id = service.get_product_main_info(product_url)
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     resp = service.scrape_tokopedia_comments(
@@ -148,19 +148,19 @@ class WorkerTokopedia(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-        
+
     def worker_store(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Tokopedia Store")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_store'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('tokopedia', 'tokopedia')
@@ -171,7 +171,7 @@ class WorkerTokopedia(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
@@ -191,7 +191,7 @@ class WorkerTokopedia(BaseWorker):
                             store_url, page=count+1, proxy=self.current_proxy)
                         if resp.status_code == 200:
                             fname = store_raw(resp, prefix='tokped-store', hostname=HOSTNAME,
-                                            store_name=store_name, page=count+1, social_media='tokopedia')
+                                              store_name=store_name, page=count+1, social_media='tokopedia')
                             printinfo('Saved to: '+fname)
                             print(resp.json())
                         else:

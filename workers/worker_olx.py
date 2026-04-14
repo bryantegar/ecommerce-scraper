@@ -34,12 +34,12 @@ class WorkerOLX(BaseWorker):
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_olx_keyword'
         worker = Worker(
             tubename,
-            BEANS[self.config]['host'],
-            BEANS[self.config]['port'])
+            host=BEANS[self.config]['host'], 
+            port = BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
+            host=BEANS[self.config]['host'], 
+            port = BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('olx', 'olx')

@@ -87,7 +87,7 @@ class WorkerLazada(BaseWorker):
                             else:
                                 reviews = data.get('data', {}).get('module', {}).get('reviews', [])
                                 if not reviews:
-                                    print(f" [Lazada Service] No review in page {current_page}.")
+                                    print(f" [Lazada Service] No review in page {count}.")
                                     worker.deleteJob(job)
                                     continue
                                 fname = store_raw(reviews, prefix='lzd-cm', hostname=HOSTNAME,

@@ -36,12 +36,12 @@ class WorkerBlibli(BaseWorker):
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_keyword'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('blibli', 'blibli')
@@ -89,19 +89,19 @@ class WorkerBlibli(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-    
+
     def worker_comments(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Blibli Comments")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_comments'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('blibli', 'blibli')
@@ -112,7 +112,7 @@ class WorkerBlibli(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
@@ -123,7 +123,7 @@ class WorkerBlibli(BaseWorker):
                     crawl_next = True
                     message = json.loads(job.body)
                     product_url = message['product_url']
-                    product_id = service.extract_product_id(product_url)                    
+                    product_id = service.extract_product_id(product_url)
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     resp = service.scrape_blibli_comments(
@@ -150,19 +150,19 @@ class WorkerBlibli(BaseWorker):
                 except Exception as e:
                     self.handle_exception(e, job)
         self.worker_exit()
-        
+
     def worker_store(self):
         printinfo("----------------------------------")
         printinfo("Starting Worker Blibli Store")
         tubename = f'{BEANS[self.config]["prefix"]}_crawler_blibli_store'
         worker = Worker(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
-            host='localhost', 
-            port = 14711)
+            host=BEANS[self.config]['host'],
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
         self.set_resources('blibli', 'blibli')
@@ -173,7 +173,7 @@ class WorkerBlibli(BaseWorker):
             printinfo('Proxy Loaded')
         else:
             proxy_cycle = cycle([None])
-        
+
         while not killer.kill_now:
             self.current_proxy = next(proxy_cycle)
             job = worker.getJob()
