@@ -102,7 +102,7 @@ class WorkerTokopedia(BaseWorker):
             port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('tokopedia', 'tokopedia')
+        # self.set_resources('tokopedia', 'tokopedia')
         killer = GracefulKiller()
         service = ServiceTokopedia()
         if self.use_proxy:
@@ -130,7 +130,6 @@ class WorkerTokopedia(BaseWorker):
                         fname = store_raw(resp, prefix='tokped-comments', hostname=HOSTNAME,
                                           product_id=product_id, page=count+1, social_media='tokopedia')
                         printinfo('Saved to: '+fname)
-                        print(resp.json())
                     else:
                         raise HTTPStatusException(
                             resp.status_code,

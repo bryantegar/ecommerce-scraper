@@ -45,22 +45,23 @@ if __name__ == '__main__':
     )
     set_tags({'process.social_media': 'tokopedia',
               'process.name': mode})
+
     if mode == 'worker_tokopedia_keyword':
         worker_tokopedia = WorkerTokopedia(
             allowed_usage=args.allowed_usage,
             use_proxy=args.do_not_use_proxy)
         worker_tokopedia.worker_keyword()
-    
+
     elif mode == 'worker_tokopedia_comments':
         worker_tokopedia = WorkerTokopedia(
-            config=config, 
-            allowed_usage=allowed_usage, 
+            config=config,
+            allowed_usage=allowed_usage,
             use_proxy=args.do_not_use_proxy)
         worker_tokopedia.worker_comments()
-        
+
     elif mode == 'worker_tokopedia_store':
         worker_tokopedia = WorkerTokopedia(
-            config=config, 
-            allowed_usage=allowed_usage, 
+            config=config,
+            allowed_usage=allowed_usage,
             use_proxy=args.do_not_use_proxy)
         worker_tokopedia.worker_store()

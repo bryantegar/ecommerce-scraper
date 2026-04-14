@@ -41,8 +41,8 @@ class ServiceTokopedia:
 
         return resp
     
-    def get_product_main_info(self, product_url):
-        path_parts = urllib.parse.urlparse(product_url).path.strip('/').split('/')
+    def get_product_main_info(self, url, proxy=None):
+        path_parts = urllib.parse.urlparse(url).path.strip('/').split('/')
         if len(path_parts) < 2:
             print("URL tidak valid")
             return None
@@ -78,7 +78,7 @@ class ServiceTokopedia:
         }
         
         try:
-            response = requests.post(api_url, json=payload, headers=headers, impersonate="chrome110", proxies=self.proxies)
+            response = requests.post(api_url, json=payload, headers=headers, impersonate="chrome110", proxies=proxy)
             
             if response.status_code == 200:
                 res_json = response.json()
@@ -90,19 +90,19 @@ class ServiceTokopedia:
                     
                 
                 p_id = main_info.get('basicInfo', {}).get('id')
-                output = {
-                    "raw": main_info,
-                    "metadata": {
-                        "product_id": p_id,
-                        "platform": "tokopedia",
-                        "url": url
-                    }
-                }
+                # output = {
+                #     "raw": main_info,
+                #     "metadata": {
+                #         "product_id": p_id,
+                #         "platform": "tokopedia",
+                #         "url": url
+                #     }
+                # }
                 
-                filename = f"tokopedia_product_main_info_{p_id}.json"
-                with open(filename, 'w') as f:
-                    json.dump(output, f, indent=4)
-                print(f"Saved: {filename}")
+                # filename = f"tokopedia_product_main_info_{p_id}.json"
+                # with open(filename, 'w') as f:
+                #     json.dump(output, f, indent=4)
+                # print(f"Saved: {filename}")
                 return p_id
                 
             else:
@@ -110,8 +110,7 @@ class ServiceTokopedia:
                 return None
         
         except Exception as e:
-            print(f"Error: {e}")
-            return None
+            raise
     
 
     def scrape_tokopedia_comments(self, product_url, page=1, proxy=None):
