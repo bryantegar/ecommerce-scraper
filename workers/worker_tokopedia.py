@@ -35,14 +35,14 @@ class WorkerTokopedia(BaseWorker):
         worker = Worker(
             tubename,
             host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['host'])
+            port=BEANS[self.config]['port'])
         pusher_self = Pusher(
             tubename,
             host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['host'])
+            port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('tokopedia', 'tokopedia')
+        # self.set_resources('tokopedia', 'tokopedia')
         killer = GracefulKiller()
         if self.use_proxy:
             proxy_cycle = get_proxy_cycle()
