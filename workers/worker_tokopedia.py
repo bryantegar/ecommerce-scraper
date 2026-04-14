@@ -120,8 +120,13 @@ class WorkerTokopedia(BaseWorker):
                 try:
                     crawl_next = True
                     message = json.loads(job.body)
+                    product_id = message['product_id'] if 'product_id' in message else None
                     product_url = message['product_url']
-                    product_id = service.get_product_main_info(product_url)
+                    if not product_id:
+                        printinfo('Fetching product_id from product_url')
+                        product_id = service.get_product_main_info(product_url)
+                    printinfo(
+                        f"Processing comments for product_id: {product_id}")
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
                     resp = service.scrape_tokopedia_comments(
@@ -162,7 +167,7 @@ class WorkerTokopedia(BaseWorker):
             port=BEANS[self.config]['port'])
         self.worker = worker
         self.set_conn_redis()
-        self.set_resources('tokopedia', 'tokopedia')
+        # self.set_resources('tokopedia', 'tokopedia')
         killer = GracefulKiller()
         service = ServiceTokopedia()
         if self.use_proxy:
