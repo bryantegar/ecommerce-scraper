@@ -64,6 +64,8 @@ class WorkerTokopedia(BaseWorker):
                     keyword = message['content']
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
+                    printinfo(
+                        f"Processing keyword: {keyword} - page: {count+1}")
                     resp = service.scrape_tokopedia_keyword(
                         keyword, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
