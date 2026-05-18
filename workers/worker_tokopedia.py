@@ -69,8 +69,12 @@ class WorkerTokopedia(BaseWorker):
                     resp = service.scrape_tokopedia_keyword(
                         keyword, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='toped-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count+1, social_media='tokopedia')
+                        fname = store_raw(
+                            resp,
+                            prefix='toped-kw',
+                            social_media='tokopedia',
+                            category='keyword'
+                        )
                         printinfo('Saved to: '+fname)
                     else:
                         raise HTTPStatusException(

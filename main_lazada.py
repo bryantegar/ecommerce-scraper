@@ -47,7 +47,8 @@ if __name__ == '__main__':
     if mode == 'worker_lazada_keyword':
         worker_lazada = WorkerLazada(
             allowed_usage=args.allowed_usage,
-            use_proxy=args.do_not_use_proxy)
+            use_proxy=args.do_not_use_proxy,
+        )   
         worker_lazada.worker_scrape_keyword()
     elif mode == 'worker_lazada_comments':
         worker_lazada = WorkerLazada(

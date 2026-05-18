@@ -51,6 +51,7 @@ class WorkerShopee(BaseWorker):
             proxy_cycle = get_proxy_cycle()
             printinfo('Proxy Loaded')
         else:
+            printinfo('No Proxy Mode')
             proxy_cycle = cycle([None])
 
         service = ServiceShopee()

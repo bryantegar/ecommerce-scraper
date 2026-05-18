@@ -1,0 +1,911 @@
+{
+    "raw": [
+        {
+            "data": {
+                "searchProductV5": {
+                    "header": {
+                        "totalData": 7,
+                        "responseCode": 0,
+                        "keywordProcess": "0",
+                        "keywordIntention": 0,
+                        "componentID": "",
+                        "isQuerySafe": true,
+                        "additionalParams": "",
+                        "backendFilters": "",
+                        "meta": {
+                            "dynamicFields": "{\"request_id\":\"20260513073839CD00692C3BFE59329XX5\",\"device_id\":\"0\",\"engine_latency_microseconds\":\"6850\",\"search_latency_microseconds\":\"98563\",\"cloud_service_provider\":\"bytecloud\"}",
+                            "__typename": "SearchProductV5Meta"
+                        },
+                        "__typename": "SearchProductV5Header"
+                    },
+                    "data": {
+                        "totalDataText": "7",
+                        "banner": {
+                            "position": 0,
+                            "text": "",
+                            "applink": "",
+                            "url": "",
+                            "imageURL": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Banner"
+                        },
+                        "redirection": {
+                            "url": "",
+                            "__typename": "SearchProductV5Redirection"
+                        },
+                        "related": {
+                            "relatedKeyword": "",
+                            "position": 0,
+                            "trackingOption": 0,
+                            "otherRelated": [],
+                            "__typename": "SearchProductV5Related"
+                        },
+                        "suggestion": {
+                            "currentKeyword": "",
+                            "suggestion": "",
+                            "query": "",
+                            "text": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Suggestion"
+                        },
+                        "ticker": {
+                            "oldID": 0,
+                            "id": "0",
+                            "text": "",
+                            "query": "",
+                            "applink": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Ticker"
+                        },
+                        "violation": {
+                            "headerText": "",
+                            "descriptionText": "",
+                            "imageURL": "",
+                            "ctaURL": "",
+                            "ctaApplink": "",
+                            "buttonText": "",
+                            "buttonType": "",
+                            "__typename": "SearchProductV5Violation"
+                        },
+                        "products": [
+                            {
+                                "oldID": 3147199751,
+                                "id": "3147199751",
+                                "ttsProductID": "1732094369665418946",
+                                "name": "Butter Friesland Campina (250gr)/ Wysman Kiloan/ Wijsman / Butter Camp",
+                                "url": "https://www.tokopedia.com/luckybah-8/butter-friesland-campina-250gr-wysman-kiloan-wijsman-butter-camp?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/3147199751?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2022/3/7/08e6bcc2-7e21-4dfe-a133-8d8e507e8277.jpg~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=7glnctO2oXbJ83pfcMVrhs4KxVQ%3D&x-signature-webp=yeHQFn0Tz7zmTnnwaQtbyHWEnWQ%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2022/3/7/08e6bcc2-7e21-4dfe-a133-8d8e507e8277.jpg~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=AAJFcgL1yZYmxYD8u9IT8C1kpiM%3D&x-signature-webp=xHkPZwoW8KbuMR89DWEr5jYVwRU%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 12620011,
+                                    "id": "12620011",
+                                    "ttsSellerID": "7496263345856875202",
+                                    "name": "Luckybahankuepalembang",
+                                    "url": "https://www.tokopedia.com/luckybah-8",
+                                    "city": "Palembang",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1732094369665484482",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Palembang",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp88.500",
+                                    "number": 88500,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "ri_product_credibility",
+                                        "title": "9 terjual",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp88.500",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer_v2",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "outline-color",
+                                                "value": "#FFD9A8",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            },
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "5.0",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 12547492,
+                                    "warehouseID": "12547492",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 974223073,
+                                "id": "974223073",
+                                "ttsProductID": "1732009171229313023",
+                                "name": "Friesland Campina Unsalted Butter Repack 1 Kg",
+                                "url": "https://www.tokopedia.com/azafood/friesland-campina-unsalted-butter-repack-1-kg?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/974223073?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2021/1/7/6950ca27-2da3-4c70-a57c-0c8bad004b62.jpg~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=qUjykpUejusODwcd0gJxpyTN2y8%3D&x-signature-webp=bPODXq4Lah%2BwYXDsfCLfHAUmGZk%3D",
+                                    "image300": "https://p19-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2021/1/7/6950ca27-2da3-4c70-a57c-0c8bad004b62.jpg~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=4%2Fapvy%2BwjZJWJ%2BFHA2CsX8Vdhog%3D&x-signature-webp=UMKxbBdXjaEU0HQg3CZj%2Bla%2FGBA%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 2686917,
+                                    "id": "2686917",
+                                    "ttsSellerID": "7494779577203395583",
+                                    "name": "azafoodonline",
+                                    "url": "https://www.tokopedia.com/azafood",
+                                    "city": "Bandung",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1732009171229378559",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Bandung",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp170.000",
+                                    "number": 170000,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "ri_product_credibility",
+                                        "title": "100+ terjual",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp170.000",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer_v2",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "outline-color",
+                                                "value": "#FFD9A8",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            },
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "5.0",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 2169110,
+                                    "warehouseID": "2169110",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 16403486415,
+                                "id": "16403486415",
+                                "ttsProductID": "1730980335007466789",
+                                "name": "FRIESLAND CAMPINA UNSALTED BUTTER REPACK 1 KG",
+                                "url": "https://www.tokopedia.com/fiqihriziq33/friesland-campina-unsalted-butter-repack-1-kg-1730980335007466789?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/16403486415?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/hDjmkQ/2025/3/8/f0895e5f-b9c4-4e59-9aec-e5c54f5e086d.jpg~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=YQHap1%2FKII%2Bnd3O4KTdAaVgZr%2Bg%3D&x-signature-webp=xR4dzTrmzgXRGEBACRC8VN5qZIQ%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/img/hDjmkQ/2025/3/8/f0895e5f-b9c4-4e59-9aec-e5c54f5e086d.jpg~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=8vyv3BppdjT20TZivctDNQiE09Q%3D&x-signature-webp=%2BiTLD7r9hXsn9dbBpVT%2BeBA6TX8%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 18467241,
+                                    "id": "18467241",
+                                    "ttsSellerID": "7496102481095461157",
+                                    "name": "Fiqih riziq33",
+                                    "url": "https://www.tokopedia.com/fiqihriziq33",
+                                    "city": "Jakarta Pusat",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1730980335007532325",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Jakarta Pusat",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp203.000",
+                                    "number": 203000,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "ri_product_offer",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp203.000",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer_v2",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "outline-color",
+                                                "value": "#FFD9A8",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            },
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 18442555,
+                                    "warehouseID": "18442555",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 102278815886,
+                                "id": "102278815886",
+                                "ttsProductID": "1732557351112246417",
+                                "name": "NEW UNSALTED BUTTER 25KG - FRIESLAND CAMPINA",
+                                "url": "https://www.tokopedia.com/revuseee/new-unsalted-butter-25kg-friesland-campina-1732557351112246417?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/102278815886?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/687948cdb8e947c4aec307d337517085~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=cWpQTf9zxTNQOYnXfyJo2WCEeos%3D&x-signature-webp=mOciyv0al%2BJowM2YljTLXQP1NYA%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/687948cdb8e947c4aec307d337517085~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=p5fMtZVVIkXrtJ%2FDErZzd3Svm6I%3D&x-signature-webp=YkzZhe5sD7QtSVby7E5DGaipALk%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 18389668,
+                                    "id": "18389668",
+                                    "ttsSellerID": "7496077323402643601",
+                                    "name": "revuseee",
+                                    "url": "https://www.tokopedia.com/revuseee",
+                                    "city": "Kab. Bekasi",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1732557351112311953",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Kab. Bekasi",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp10.268.000",
+                                    "number": 10268000,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp10.268.000",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/susu-bubuk-dewasa",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/susu-bubuk-dewasa",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 18224098,
+                                    "warehouseID": "18224098",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 102278808266,
+                                "id": "102278808266",
+                                "ttsProductID": "1732557233324328081",
+                                "name": "Unsalted butter 25kg - Friesland Campina",
+                                "url": "https://www.tokopedia.com/revuseee/unsalted-butter-25kg-friesland-campina-1732557233324328081?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/102278808266?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/d657f124efad432ba78e7d34c470356f~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=8nVA%2F0hDaetoFwFkRoxTt7DMtkY%3D&x-signature-webp=fpsNwZTJ6zWYyyJR591sSOm5W1M%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/d657f124efad432ba78e7d34c470356f~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=D1QPU8%2Bjq4UiMm3jYJ0PoGcZoMk%3D&x-signature-webp=asUnFhbUO8PQXwRh7vNoooE6cQo%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 18389668,
+                                    "id": "18389668",
+                                    "ttsSellerID": "7496077323402643601",
+                                    "name": "revuseee",
+                                    "url": "https://www.tokopedia.com/revuseee",
+                                    "city": "Kab. Bekasi",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1732557233324393617",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Kab. Bekasi",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp7.215.000",
+                                    "number": 7215000,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp7.215.000",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/mentega-butter",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 18224098,
+                                    "warehouseID": "18224098",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 102367164444,
+                                "id": "102367164444",
+                                "ttsProductID": "1732739458236843657",
+                                "name": "READY STOCK UNSALTED BUTTER 25KG - FRIESLAND CAMPINA",
+                                "url": "https://www.tokopedia.com/majulancarjayaa/ready-stock-unsalted-butter-25kg-friesland-campina-1732739458236843657?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/102367164444?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/1b788e6425c044d8a20606c9d49ab25c~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=6npm%2BXswmIPIvV1ms5LT7pdNsug%3D&x-signature-webp=xItEjXD9fCWiZGDa3cixRlM2J5A%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/1b788e6425c044d8a20606c9d49ab25c~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=24nKqCF%2FGCaAAydwXwz1TojPc4c%3D&x-signature-webp=pwtt43cpF%2BcHDPUoY7T%2F7ZLZhQ8%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 18348649,
+                                    "id": "18348649",
+                                    "ttsSellerID": "7496062810054036105",
+                                    "name": "MAJU LANCAR20",
+                                    "url": "https://www.tokopedia.com/majulancarjayaa",
+                                    "city": "Jakarta Timur",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1732739458236909193",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Jakarta Timur",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp7.122.500",
+                                    "number": 7122500,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "ri_product_offer",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp7.122.500",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer_v2",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "outline-color",
+                                                "value": "#FFD9A8",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            },
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/makanan-sarapan/sereal",
+                                    "gaKey": "makanan-minuman/makanan-sarapan/sereal",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 18183254,
+                                    "warehouseID": "18183254",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            },
+                            {
+                                "oldID": 100657528744,
+                                "id": "100657528744",
+                                "ttsProductID": "1731768177000744585",
+                                "name": "NEW UNSALTED BUTTER 25KG - FRIESLAND CAMPINA",
+                                "url": "https://www.tokopedia.com/majulancarjayaa/new-unsalted-butter-25kg-friesland-campina-1731768177000744585?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "applink": "tokopedia://product/100657528744?extParam=ivf%3Dfalse%26keyword%3Dfriesland+campina%26src%3Dsearch",
+                                "mediaURL": {
+                                    "image": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2f9f8657015b40f9b51c41a4e0946026~tplv-aphluv4xwc-white-pad-v1:200:200.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=chZrXiJ4sLC8sPkmh%2B8Iefkt%2Bbw%3D&x-signature-webp=e6cH8FJIuFrXkdw7jTrwcgYS8nU%3D",
+                                    "image300": "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/2f9f8657015b40f9b51c41a4e0946026~tplv-aphluv4xwc-white-pad-v1:300:300.jpeg?lk3s=97278606&x-expires=1778661519&x-signature=ikTMNblaf2Ueh%2BIF7QdikmO99Hg%3D&x-signature-webp=XeJzb0qh76fl1HhMVFqGUuLNQNI%3D",
+                                    "videoCustom": "",
+                                    "__typename": "SearchProductV5MediaURL"
+                                },
+                                "shop": {
+                                    "oldID": 18348649,
+                                    "id": "18348649",
+                                    "ttsSellerID": "7496062810054036105",
+                                    "name": "MAJU LANCAR20",
+                                    "url": "https://www.tokopedia.com/majulancarjayaa",
+                                    "city": "Jakarta Timur",
+                                    "tier": 1,
+                                    "__typename": "SearchProductV5Shop"
+                                },
+                                "stock": {
+                                    "ttsSKUID": "1731768177000810121",
+                                    "__typename": "SearchProductV5Stock"
+                                },
+                                "badge": {
+                                    "oldID": 2,
+                                    "id": "2",
+                                    "title": "Jakarta Timur",
+                                    "url": "",
+                                    "__typename": "SearchProductV5Badge"
+                                },
+                                "price": {
+                                    "text": "Rp6.845.000",
+                                    "number": 6845000,
+                                    "range": "",
+                                    "original": "",
+                                    "discountPercentage": 0,
+                                    "__typename": "SearchProductV5Price"
+                                },
+                                "freeShipping": {
+                                    "url": "",
+                                    "__typename": "SearchProductV5FreeShipping"
+                                },
+                                "labelGroups": [
+                                    {
+                                        "position": "ri_product_offer",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "final_price",
+                                        "title": "Rp6.845.000",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "text-color",
+                                                "value": "#080808",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    },
+                                    {
+                                        "position": "ri_product_offer_v2",
+                                        "title": "Hemat s.d  10% Pakai Bonus",
+                                        "type": "",
+                                        "url": "",
+                                        "styles": [
+                                            {
+                                                "key": "outline-color",
+                                                "value": "#FFD9A8",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            },
+                                            {
+                                                "key": "text-color",
+                                                "value": "#FF7F17",
+                                                "__typename": "SearchProductV5LabelGroupsStyle"
+                                            }
+                                        ],
+                                        "__typename": "SearchProductV5LabelGroups"
+                                    }
+                                ],
+                                "labelGroupsVariant": [],
+                                "category": {
+                                    "oldID": 35,
+                                    "id": "35",
+                                    "name": "Makanan & Minuman",
+                                    "breadcrumb": "makanan-minuman/susu-olahan-susu/susu-bubuk-dewasa",
+                                    "gaKey": "makanan-minuman/susu-olahan-susu/susu-bubuk-dewasa",
+                                    "__typename": "SearchProductV5Category"
+                                },
+                                "rating": "",
+                                "wishlist": false,
+                                "ads": {
+                                    "id": "",
+                                    "productClickURL": "",
+                                    "productViewURL": "",
+                                    "productWishlistURL": "",
+                                    "tag": 0,
+                                    "__typename": "SearchProductV5Ads"
+                                },
+                                "meta": {
+                                    "oldParentID": 0,
+                                    "parentID": "0",
+                                    "oldWarehouseID": 18183254,
+                                    "warehouseID": "18183254",
+                                    "isImageBlurred": false,
+                                    "isPortrait": false,
+                                    "__typename": "SearchProductV5ProductMeta"
+                                },
+                                "__typename": "searchProductV5Product"
+                            }
+                        ],
+                        "__typename": "SearchProductV5Data"
+                    },
+                    "__typename": "SearchProductV5Response"
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "crawltime": 1778657919,
+        "url": "https://gql.tokopedia.com/graphql/SearchProductV5Query"
+    }
+}

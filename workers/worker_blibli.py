@@ -69,8 +69,12 @@ class WorkerBlibli(BaseWorker):
                     resp = service.scrape_blibli_keyword(
                         keyword, page=count+1, proxy=self.current_proxy)
                     if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='blibli-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count+1, social_media='blibli')
+                        fname = store_raw(
+                            resp,
+                            prefix='blibli-kw',
+                            social_media='blibli',
+                            category='keyword'
+                        )
                         printinfo('Saved to: '+fname)
                     else:
                         raise HTTPStatusException(

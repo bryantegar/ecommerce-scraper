@@ -1,0 +1,1128 @@
+{
+    "raw": {
+        "code": 200,
+        "status": "OK",
+        "data": {
+            "pageType": [],
+            "searchTerm": "shanghiang perkasa",
+            "suggestions": [],
+            "correctedSearchResponses": [
+                {
+                    "searchTerm": "perkasa",
+                    "numFound": 2398,
+                    "rows": 6,
+                    "products": [
+                        {
+                            "id": "AFF-56154-01015",
+                            "sku": "AFF-56154-01015",
+                            "merchantCode": "AFF-56154",
+                            "status": "AVAILABLE",
+                            "name": "Obat Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp550.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 550000.0,
+                                "offerPriceDisplay": "Rp550.000",
+                                "isPriceRange": false,
+                                "listPrice": 550000,
+                                "salePrice": 550000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//81/MTA-4416111/malemax_malemax_performance_male_enhancement_suplemen_pembesar_alat_vital_full02_r7bn8cvv.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Malemax",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.2,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "AFF-56154-01015-00001-PP-3551606",
+                            "itemSku": "AFF-56154-01015-00001",
+                            "tags": [
+                                "ZERO_PERCENT_INSTALLMENT",
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--AFF-56154-01015",
+                            "url": "/p/obat-perkasa/ps--AFF-56154-01015?ds=AFF-56154-01015-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC/HCzbecjA7sTaIoP2qZn9cH5hXXWkF0dKfPGTdZQcdlU+qNVzNAHCfEDldNFubAdFesavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w9M+6/7Pv5cWKSgNYbsN4KwKw0sWOcQP/ktOWHVfWf9h4p4m65JJibApI3vfyrczP&cnc=false&pickupPointCode=PP-3551606&pid1=AFF-56154-01015",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "SU-1000185",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17589346",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>Obat kuat pria</li>\n<li>Obat pembesar dan panjang alat vital dengan hasil cepat dan permanent</li>\n<li>Keraskan ereksi, kuat dan tahan lama</li>\n<li>Ampuh mengobati lemah syahwat dan impotensi</li>\n<li>Mengobati ejakulasi dini dan disfungsi ereksi</li>\n<li>Enhancer pria yang kuat dan mendukung fungsi serta libido pria</li>\n<li>Dicampur secara ilmiah untuk meningkatkan kesenangan, ukuran dan kepuasan pria</li>\n<li>Dibuat dengan standar kemurnian tertinggi dan FDA memberikan Good Manufacturing Practices (GMP)</li>\n<li>Isi : 60 Capsule</li>\n</ul>",
+                            "merchantName": "Afiat Farma",
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203",
+                                "SU-1000185"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3551606",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual",
+                                "Suplemen Vitalitas Pria"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "96.63989",
+                                "prod_gender": "OTHER",
+                                "distance": "335.50342",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "550000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,ZERO_PERCENT_INSTALLMENT,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "SU-1000184",
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        },
+                        {
+                            "id": "AFF-56154-00983",
+                            "sku": "AFF-56154-00983",
+                            "merchantCode": "AFF-56154",
+                            "status": "AVAILABLE",
+                            "name": "Obat Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp430.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 430000.0,
+                                "offerPriceDisplay": "Rp430.000",
+                                "isPriceRange": false,
+                                "listPrice": 430000,
+                                "salePrice": 430000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-3962960/biolabs_obat_pembesar_alat_vital_malegenix_biolabs_original_full02.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Biolabs",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.2,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "AFF-56154-00983-00001-PP-3551606",
+                            "itemSku": "AFF-56154-00983-00001",
+                            "tags": [
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--AFF-56154-00983",
+                            "url": "/p/obat-perkasa/ps--AFF-56154-00983?ds=AFF-56154-00983-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC7D5EnLGW/JufRUomLn7UXUH5hXXWkF0dKfPGTdZQcdlzzZ/8U3KjGLexZ+hPeKg01esavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w13RS1OJ7tp9KSMHjP02q9HhmYE8yJrLk59//W7WH+jc=&cnc=false&pickupPointCode=PP-3551606&pid1=AFF-56154-00983",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17438469",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>Obat pembesar alat vital pria</li>\n<li>Membantu Meningkatkan Ketebalan Alat Vital</li>\n<li>Membantu Meningkatkan Erekksi Bisa Lebih Kuat</li>\n<li>Membantu Meningkatkan Kesensitifan Penis</li>\n<li>Ampuh mengobati lemah syahwat dan impotensi</li>\n<li>Mengobati ejakulasi dini dan disfungsi ereksi</li>\n<li>Membantu Mempercepat Hasrat Libido Pria Diatas Ranjang</li>\n<li>1 Botol isi 60 capsul</li>\n</ul>",
+                            "merchantName": "Afiat Farma",
+                            "soldRangeCount": {
+                                "en": "1",
+                                "id": "1"
+                            },
+                            "soldCountTotal": 1,
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3551606",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "96.62128",
+                                "prod_gender": "OTHER",
+                                "distance": "335.50342",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "430000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        },
+                        {
+                            "id": "AFF-56154-00994",
+                            "sku": "AFF-56154-00994",
+                            "merchantCode": "AFF-56154",
+                            "status": "AVAILABLE",
+                            "name": "Obat Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp400.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 400000.0,
+                                "offerPriceDisplay": "Rp400.000",
+                                "isPriceRange": false,
+                                "listPrice": 400000,
+                                "salePrice": 400000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-3962980/stamina_obat_kuat_pria_dan_stamina_max_stamina_maximum_sexual_stimulan_full02.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Stamina",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.2,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "AFF-56154-00994-00001-PP-3551606",
+                            "itemSku": "AFF-56154-00994-00001",
+                            "tags": [
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--AFF-56154-00994",
+                            "url": "/p/obat-perkasa/ps--AFF-56154-00994?ds=AFF-56154-00994-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC/5gJBOczvxZ9m1cOff/y9AH5hXXWkF0dKfPGTdZQcdlU+qNVzNAHCfEDldNFubAdFesavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w9M+6/7Pv5cWKSgNYbsN4KwKw0sWOcQP/ktOWHVfWf9h4p4m65JJibApI3vfyrczP&cnc=false&pickupPointCode=PP-3551606&pid1=AFF-56154-00994",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "SU-1000185",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17438863",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>Obat kuat pria</li>\n<li>Keraskan ereksi kuat dan tahan lama</li>\n<li>mengobati ejakulasi dini dan disfungsi ereksi</li>\n<li>Ampuh mengobati lemah syahwat dan impotensi</li>\n<li>Dirancang untuk meningkatkan daya tahan dan sensasi</li>\n<li>Meningkatkan energi harian dan meningkatkan gairah seks</li>\n<li>Memiliki penguat testosteron untuk meningkatkan hasrat dan kinerja seksual</li>\n<li>Hasil langsung: Meningkatkan stamina dan energi seksual setelah dosis pertama</li>\n<li>1 Botol isi 30 capsul</li>\n</ul>",
+                            "merchantName": "Afiat Farma",
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203",
+                                "SU-1000185"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3551606",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual",
+                                "Suplemen Vitalitas Pria"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "94.587135",
+                                "prod_gender": "OTHER",
+                                "distance": "335.50342",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "400000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "SU-1000184",
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        },
+                        {
+                            "id": "AFF-56154-01026",
+                            "sku": "AFF-56154-01026",
+                            "merchantCode": "AFF-56154",
+                            "status": "AVAILABLE",
+                            "name": "Obat Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp400.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 400000.0,
+                                "offerPriceDisplay": "Rp400.000",
+                                "isPriceRange": false,
+                                "listPrice": 400000,
+                                "salePrice": 400000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//96/MTA-4416189/viril_x_viril_x_natural_male_enhancement_obat_stamina_dan_energy_-60_kapsul-_full02_mtcclu7s.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Viril X",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.2,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "AFF-56154-01026-00001-PP-3551606",
+                            "itemSku": "AFF-56154-01026-00001",
+                            "tags": [
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--AFF-56154-01026",
+                            "url": "/p/obat-perkasa/ps--AFF-56154-01026?ds=AFF-56154-01026-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC/5gJBOczvxZ9m1cOff/y9AH5hXXWkF0dKfPGTdZQcdlU+qNVzNAHCfEDldNFubAdFesavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w9M+6/7Pv5cWKSgNYbsN4KwKw0sWOcQP/ktOWHVfWf9h4p4m65JJibApI3vfyrczP&cnc=false&pickupPointCode=PP-3551606&pid1=AFF-56154-01026",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "SU-1000185",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17586767",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>Obat kuat pria</li>\n<li>Obat pembesar dan panjang alat vital dengan hasil cepat dan permanent</li>\n<li>Keraskan ereksi, kuat dan tahan lama</li>\n<li>Ampuh mengobati lemah syahwat dan impotensi</li>\n<li>Mengobati ejakulasi dini dan disfungsi ereksi</li>\n<li>Enhancer pria yang kuat dan mendukung fungsi serta libido pria</li>\n<li>Dicampur secara ilmiah untuk meningkatkan kesenangan, ukuran dan kepuasan pria</li>\n<li>Dibuat dengan standar kemurnian tertinggi dan FDA memberikan Good Manufacturing Practices (GMP)</li>\n<li>Isi : 60 Capsule</li>\n</ul>",
+                            "merchantName": "Afiat Farma",
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203",
+                                "SU-1000185"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3551606",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual",
+                                "Suplemen Vitalitas Pria"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "94.41879",
+                                "prod_gender": "OTHER",
+                                "distance": "335.50342",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "400000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "SU-1000184",
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        },
+                        {
+                            "id": "KLA-60001-00829",
+                            "sku": "KLA-60001-00829",
+                            "merchantCode": "KLA-60001",
+                            "status": "AVAILABLE",
+                            "name": "Stamina Pria Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp400.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 400000.0,
+                                "offerPriceDisplay": "Rp400.000",
+                                "isPriceRange": false,
+                                "listPrice": 400000,
+                                "salePrice": 400000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-3962980/stamina_obat_kuat_pria_dan_stamina_max_stamina_maximum_sexual_stimulan_full02.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Stamina",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.1,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "KLA-60001-00829-00001-PP-3021662",
+                            "itemSku": "KLA-60001-00829-00001",
+                            "tags": [
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--KLA-60001-00829",
+                            "url": "/p/stamina-pria-perkasa/ps--KLA-60001-00829?ds=KLA-60001-00829-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC/5gJBOczvxZ9m1cOff/y9AH5hXXWkF0dKfPGTdZQcdlU+qNVzNAHCfEDldNFubAdFesavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w9M+6/7Pv5cWKSgNYbsN4KwKw0sWOcQP/ktOWHVfWf9h4p4m65JJibApI3vfyrczP&cnc=false&pickupPointCode=PP-3021662&pid1=KLA-60001-00829",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "SU-1000185",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17439020",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>MAX Stamina</li>\n<li>Dirancang untuk meningkatkan daya tahan dan sensasi</li>\n<li>Meningkatkan energi harian dan meningkatkan gairah seks</li>\n<li>Memiliki penguat testosteron untuk meningkatkan hasrat dan kinerja seksual</li>\n<li>Hasil langsung: Meningkatkan stamina dan energi seksual setelah dosis pertama</li>\n<li>1 Botol isi 30 capsul</li>\n</ul>",
+                            "merchantName": "Klinik Afiat",
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203",
+                                "SU-1000185"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3021662",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual",
+                                "Suplemen Vitalitas Pria"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "93.15525",
+                                "prod_gender": "OTHER",
+                                "distance": "335.46716",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "400000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "SU-1000184",
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        },
+                        {
+                            "id": "KLA-60001-00819",
+                            "sku": "KLA-60001-00819",
+                            "merchantCode": "KLA-60001",
+                            "status": "AVAILABLE",
+                            "name": "Stamina Pria Perkasa",
+                            "price": {
+                                "priceDisplay": "Rp400.000",
+                                "discount": 0,
+                                "discountPrice": 0.0,
+                                "minPrice": 400000.0,
+                                "offerPriceDisplay": "Rp400.000",
+                                "isPriceRange": false,
+                                "listPrice": 400000,
+                                "salePrice": 400000
+                            },
+                            "images": [
+                                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//99/MTA-3962960/biolabs_obat_pembesar_alat_vital_malegenix_biolabs_original_full02.jpg"
+                            ],
+                            "rootCategory": {
+                                "id": "53203",
+                                "name": "Kesehatan & Kecantikan"
+                            },
+                            "brand": "Biolabs",
+                            "review": {
+                                "rating": 0,
+                                "count": 0,
+                                "absoluteRating": 0.0,
+                                "sellerRating": 4.1,
+                                "isNewSeller": false
+                            },
+                            "itemCount": 1,
+                            "defaultSku": "KLA-60001-00819-00001-PP-3021662",
+                            "itemSku": "KLA-60001-00819-00001",
+                            "tags": [
+                                "REGULAR",
+                                "SHIPPING_ETD",
+                                "FREE_SHIPPING",
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "formattedId": "ps--KLA-60001-00819",
+                            "url": "/p/stamina-pria-perkasa/ps--KLA-60001-00819?ds=KLA-60001-00819-00001&source=SEARCH&sid=0466373e54e8a525&metaData=SnHZRCX7NPLsJ+ExPEFNC/5gJBOczvxZ9m1cOff/y9AH5hXXWkF0dKfPGTdZQcdlU+qNVzNAHCfEDldNFubAdFesavfRnEsmWNUn9y9IGTPNbQv3e9jt8aL3d1v2xu9D3zP/3jXSVAsNO6CVkKiBbHhwvx3ifXg1BsOX37zBUHJhaEbqcyfj9bzxusPxJg9w9M+6/7Pv5cWKSgNYbsN4KwKw0sWOcQP/ktOWHVfWf9h4p4m65JJibApI3vfyrczP&cnc=false&pickupPointCode=PP-3021662&pid1=KLA-60001-00819",
+                            "attributes": [],
+                            "productFeatures": "",
+                            "storeClosingInfo": {
+                                "storeClosed": false,
+                                "endDate": 0,
+                                "delayShipping": false
+                            },
+                            "promoEndTime": 0,
+                            "debugData": {},
+                            "allCategories": [
+                                "53203",
+                                "SU-1000185",
+                                "KE-1000203"
+                            ],
+                            "merchantVoucherCount": 0,
+                            "expandedProducts": [],
+                            "location": "Kab. Demak",
+                            "numLocations": 0,
+                            "badge": {
+                                "merchantBadgeUrl": "https://www.static-src.com//siva/asset/06_2025/seller-bronze.png",
+                                "merchantBadge": "Bronze"
+                            },
+                            "size": [
+                                ""
+                            ],
+                            "level0Id": "MTA-17438801",
+                            "uniqueSellingPoint": "<p>&nbsp;</p>\n<ul>\n<li>Obat pembesar alat vital pria</li>\n<li>Membantu Meningkatkan Ketebalan Alat Vital</li>\n<li>Membantu Meningkatkan Erekksi Bisa Lebih Kuat</li>\n<li>Membantu Meningkatkan Kesensitifan Penis</li>\n<li>Membantu Mempercepat Hasrat Libido Pria Diatas Ranjang</li>\n</ul>",
+                            "merchantName": "Klinik Afiat",
+                            "categoryIdHierarchy": [
+                                "53203",
+                                "KE-1000203",
+                                "SU-1000185"
+                            ],
+                            "cartLogisticOptions": [],
+                            "deliveryEstimate": "2–6 hari",
+                            "showShippingEtdBackground": false,
+                            "merchantVoucherMessage": "No voucher available",
+                            "wholesaleMinQuantity": 0,
+                            "wholesaleDiscountPercentage": 0.0,
+                            "wholesaleDiscountParam": "MIN",
+                            "pickupPointCode": "PP-3021662",
+                            "categoryNameHierarchy": [
+                                "Kesehatan & Kecantikan",
+                                "21+ Kesehatan Seksual",
+                                "Suplemen Vitalitas Pria"
+                            ],
+                            "freshnessDaysCount": 0,
+                            "hasVariants": false,
+                            "additionalProperties": {},
+                            "hasPalingTopBoostWithoutTag": false,
+                            "trackerFields": {
+                                "score": "93.15525",
+                                "prod_gender": "OTHER",
+                                "distance": "335.46716",
+                                "prod_price_segment": "MIXED",
+                                "user_affinity": "null",
+                                "prod_score": "0.0",
+                                "prod_price": "400000.0",
+                                "prod_is_1p": "false",
+                                "eligible_tags": "REGULAR_SHIPPING_ETD,REGULAR,FREE_SHIPPING,SIMILAR_PRODUCT",
+                                "prod_discount": "0",
+                                "is_vector_search_applied": "false"
+                            },
+                            "destinationPageType": "BLIBLIMART",
+                            "uspLabelsTags": [
+                                "FREE_SHIPPING"
+                            ],
+                            "productLabelTags": [],
+                            "titleLabelTags": [],
+                            "contextualLabelTags": [
+                                "SIMILAR_PRODUCT"
+                            ],
+                            "statusLabelTags": [],
+                            "promoLabelTags": [],
+                            "specialAttributesTags": [
+                                "SHIPPING_ETD"
+                            ],
+                            "masterCategoryIds": [
+                                "SU-1000184",
+                                "KE-1000142",
+                                "KE-1000123"
+                            ],
+                            "officialMerchant": false,
+                            "officialBrand": false,
+                            "exclusiveProduct": false,
+                            "merchantCommissionType": "CM",
+                            "groceryBuyAgain": false,
+                            "addToCartEligible": true,
+                            "preorder": false,
+                            "buyable": true,
+                            "official": false
+                        }
+                    ],
+                    "pageMetaData": {
+                        "queryFilterSuggestionGridPosition": "4",
+                        "queryFilterSuggestionGridIncrement": "4",
+                        "numProductsContactedForPriceResolver": "24",
+                        "contextualPriceBatchSize": "24",
+                        "queryFilterSuggestionListIncrement": "20",
+                        "contextualPriceEnabled": "true",
+                        "queryFilterSuggestionListPosition": "21"
+                    }
+                }
+            ],
+            "ageRestricted": false,
+            "products": [],
+            "sorting": {
+                "parameter": "sort",
+                "options": [
+                    {
+                        "label": "Relevansi",
+                        "name": "relevance",
+                        "value": 0,
+                        "selected": true,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Terlaris",
+                        "name": "terlaris",
+                        "value": 16,
+                        "selected": false,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Termurah",
+                        "name": "cheapest",
+                        "value": 3,
+                        "selected": false,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Termahal",
+                        "name": "expensive",
+                        "value": 4,
+                        "selected": false,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Terpopuler",
+                        "name": "popular",
+                        "value": 7,
+                        "selected": false,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Terbaru",
+                        "name": "newest",
+                        "value": 1,
+                        "selected": false,
+                        "visibility": true
+                    },
+                    {
+                        "label": "Terdekat",
+                        "name": "nearby_product",
+                        "value": 20,
+                        "selected": false,
+                        "visibility": false
+                    }
+                ]
+            },
+            "filters": [],
+            "brandFilterCount": {},
+            "quickFilters": [],
+            "paging": {
+                "page": 1,
+                "total_page": 0,
+                "item_per_page": 40,
+                "total_item": 0
+            },
+            "maxOffers": 50,
+            "serverCurrentTime": 1778657919604,
+            "productInfo": {},
+            "code": "OK",
+            "selectedCategoryIds": [],
+            "visibleCategoryIds": [],
+            "similarProductsMerchantSearch": {
+                "similarProductList": [],
+                "seeAllVisible": false
+            },
+            "responseFlags": [],
+            "showRestrictedMsg": false,
+            "redirectionUrl": "",
+            "trackerFields": {
+                "corrected_search_term": "perkasa",
+                "ds_category_ids": "53203/VI-1000052/HE-1000005",
+                "is_ner_eligible": "false",
+                "group_type": "L3",
+                "queryFeatureTags": "NER_FEATURE_ENABLED",
+                "sales_velocity_components": "{brandAffinityBoostValue=0.12, brandAffinityReduction=10, hyperLocalisationLevel=REGIONAL_TD, hyperLocalisationKms=100, salesVelocityZeroAsHL=0, groups=CTR;;CVR;;A2C;;BRAND;;CATEGORY_AFFINITY;;FLASH_SALE;;SELLER_REWARD;;MERCHANT_COMMISSION;;OFFICIAL_CATEGORY;;RECENCY;;SOLD_COUNT_RATING;;NEARBY;;NER_ATTRIBUTE;;NER_DEFAULT_ATTRIBUTE, groupWt=1;;1.4;;1;;0.0;;0.0;;1;;0.15;;0.8;;0.6;;0.3;;0.8;;0.0;;1;;0.5, weight=0.8, ctrWeight=0.01, cvrWeight=0.45, atocrWeight=0.006, ctrPriceTanhConstant=12, cvrPriceTanhConstant=12, atocrPriceTanhConstant=12, recencyTanhConstant=12, merchantBadgeWeight=0, productScoreWeight=0.0, productRatingMin=3.9, productScoreMin=75, isInternationalDeboostEnabled=1, flashSaleWeight=0.32, nearbyWeight=0.24, nearbyMaxDistance=25, productBoostingScore=1254.6, merchantCommissionType=TC|0.12,TD|0.12,CC|0.079,CM|0.04, officialCategory=BT|0.12,BO|0.16,CR|0.144,RT|0.128, salesVelocityToZeroForLowCTR=1, boostType=SEARCH_ADDITIVE, relevancyMin=0, svWeight=1.0, soldCountRatingWeight=0.088, imBoostWeight=0.6, sellerRewardBoost=0.12, parsedSearchTerm=shanghiang_perkasa}",
+                "categoryAffinityC1List": "",
+                "bliklanPositionConfig": "1,2,7,8,16,17,18,19,20"
+            },
+            "countExceedsLimit": [],
+            "productsPerRow": 5,
+            "needMoreSearchResponse": false,
+            "pageMetadata": {
+                "productComparisonOverriddenC2s": "TA-1000003;HA-1000002;TU-1000021;KA-1000004;KA-1000002",
+                "isEligibleForSellerAds": "true",
+                "productComparisonAllowedC1s": "54593;53184;53270;JA-1000225;54650",
+                "showProductComparison": "false",
+                "newTagsFlowEnabled": "false",
+                "enableMiniProductCard": "false",
+                "contextualPriceEnabled": "true",
+                "numProductsContactedForPriceResolver": "24",
+                "contextualPriceBatchSize": "24",
+                "queryFilterSuggestionGridPosition": "4",
+                "queryFilterSuggestionListPosition": "21",
+                "queryFilterSuggestionGridIncrement": "4",
+                "queryFilterSuggestionListIncrement": "20",
+                "isSpellCheckResponseEnabled": "false",
+                "officialSponsorProductSortOrder": "{TD=1, TC=1, CC=1, CM=1}"
+            },
+            "pageMetaDataResponse": {
+                "c2SimilarityMap": {
+                    "KA-1000004": [
+                        "KA-1000002"
+                    ],
+                    "KA-1000002": [
+                        "KA-1000004"
+                    ],
+                    "TA-1000003": [
+                        "HA-1000002",
+                        "TU-1000021"
+                    ],
+                    "HA-1000002": [
+                        "TA-1000003",
+                        "TU-1000021"
+                    ],
+                    "TU-1000021": [
+                        "TA-1000003",
+                        "HA-1000002"
+                    ]
+                },
+                "c3SimilarityMap": {
+                    "UL-1000001": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "GA-1000002": [
+                        "LA-1000004",
+                        "LA-1000005",
+                        "UL-1000001",
+                        "SM-1000002",
+                        "DE-1000004",
+                        "MO-1000003",
+                        "KO-1000005"
+                    ],
+                    "LA-1000005": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "LA-1000004": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "KA-1000009": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "KA-1000006": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "SM-1000002": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "KA-1000007": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "KA-1000005": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "DE-1000004": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "MO-1000003": [
+                        "KO-1000005",
+                        "GA-1000002"
+                    ],
+                    "KA-1000010": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "JA-1000111": [
+                        "SM-1000001",
+                        "AC-1000002",
+                        "JA-1000008"
+                    ],
+                    "DE-1000010": [
+                        "SC-1000001"
+                    ],
+                    "PO-1000015": [
+                        "SC-1000001"
+                    ],
+                    "JA-1000120": [
+                        "SM-1000001",
+                        "AC-1000002",
+                        "JA-1000008"
+                    ],
+                    "AC-1000001": [
+                        "KA-1000004",
+                        "KA-1000002"
+                    ],
+                    "JA-1000110": [
+                        "SM-1000001",
+                        "AC-1000002",
+                        "JA-1000008"
+                    ],
+                    "JA-1000121": [
+                        "SM-1000001",
+                        "AC-1000002",
+                        "JA-1000008"
+                    ]
+                },
+                "buyAgainSecRow": 0
+            },
+            "selectedFilters": [],
+            "uspTrustBadgeTags": [],
+            "intentAttributes": {},
+            "personalizedAttributes": {},
+            "nerAttributes": {},
+            "intentApplied": false,
+            "bliklanIntentFailed": false,
+            "nerApplied": false,
+            "showAllCategories": false,
+            "searchPageUrl": "",
+            "catIntentFailed": false,
+            "sellerAdsPosition": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "sellerAdsPositionWebListView": [
+                16,
+                17,
+                18
+            ],
+            "sponsorProducts": [],
+            "officialSponsorAdsPosition": [
+                1,
+                2,
+                7,
+                8
+            ],
+            "officialSponsorTopPosition": 8,
+            "flagForOfficialSponsorAds": "OVERALL_DEDUPLICATE",
+            "officialSponsorProducts": [],
+            "relatedSearchTermsPosition": 35,
+            "nearbyLocationFailed": false,
+            "correctedNearbyLocation": "",
+            "interspersedCardFilters": [],
+            "materiallResponse": false,
+            "interspersedCardPos": {
+                "Lokasi toko": 9,
+                "RAM": 18
+            },
+            "topRatedProduct": {
+                "itemCount": 0,
+                "merchantVoucherCount": 0,
+                "numLocations": 0,
+                "showShippingEtdBackground": false,
+                "wholesaleMinQuantity": 0,
+                "wholesaleDiscountPercentage": 0.0,
+                "freshnessDaysCount": 0,
+                "hasVariants": false,
+                "hasPalingTopBoostWithoutTag": false,
+                "uspLabelsTags": [],
+                "productLabelTags": [],
+                "titleLabelTags": [],
+                "contextualLabelTags": [],
+                "statusLabelTags": [],
+                "promoLabelTags": [],
+                "specialAttributesTags": [],
+                "officialMerchant": false,
+                "officialBrand": false,
+                "exclusiveProduct": false,
+                "groceryBuyAgain": false,
+                "addToCartEligible": false,
+                "preorder": false,
+                "buyable": false,
+                "official": false
+            },
+            "correctedContextualSearchTerm": "shanghiang perkasa",
+            "normalizationScoreValues": [],
+            "ltrFields": {},
+            "vectorZeroResultResponses": [],
+            "sponsorProductOS": true
+        }
+    },
+    "metadata": {
+        "crawltime": 1778657919,
+        "url": "https://www.blibli.com/backend/search/products?searchTerm=Shanghiang+Perkasa&page=1&start=0&merchantSearch=true&multiCategory=true&channelId=mobile-web&itemPerPage=40"
+    }
+}

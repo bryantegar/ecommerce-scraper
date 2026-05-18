@@ -153,8 +153,13 @@ class WorkerLazada(BaseWorker):
                     count = message['count'] if 'count' in message else 0
                     max_count = message['max_count'] if 'max_count' in message else 0
 
-                    resp = service.scrape_lazada(
-                        keyword, self.cookies, page=count+1, proxy=self.current_proxy)
+                    resp = service.scrape_lazada_keyword(
+                        keyword,
+                        self.cookies,
+                        page=count+1,
+                        proxy=self.current_proxy
+                    )
+                    print(resp.text[:500])
 
                     if resp.status_code == 200:
                         fname = store_raw(resp, prefix='lzd-kw', hostname=HOSTNAME,

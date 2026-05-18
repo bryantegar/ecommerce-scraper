@@ -42,22 +42,15 @@ class BaseWorker:
                 printinfo('Resource: ' + self.resource_id + ' released')
 
     def set_resources(self, social_media, filename):
-        printinfo(f'Requesting Cookies - Allowed Usage: {self.allowed_usage}')
+        printinfo('Skipping cookies for local testing')
 
-        try:
-            cookies, resource_id, user_credential, complete_cookie, from_file = get_cookies(
-                filename, self.allowed_usage, social_media, retries=1)
-        except NoAvailableResourceException as e:
-            printerror('No Cookies Available')
-            sys.exit(1)
-
-        self.cookies = cookies
-        self.resource_id = resource_id
-        self.user_credential = user_credential
-        self.complete_cookie = complete_cookie
-        self.from_file = from_file
+        self.cookies = []
+        self.resource_id = None
+        self.user_credential = None
+        self.complete_cookie = {}
+        self.from_file = False
         self.cookie_filename = filename
-        printinfo('Resource ID: ' + self.resource_id)
+
 
     def set_conn_redis(self):
         self.conn_redis = Redis(host=REDIS[self.config]['host'],

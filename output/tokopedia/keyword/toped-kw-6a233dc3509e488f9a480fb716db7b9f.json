@@ -1,0 +1,85 @@
+{
+    "raw": [
+        {
+            "data": {
+                "searchProductV5": {
+                    "header": {
+                        "totalData": 0,
+                        "responseCode": 0,
+                        "keywordProcess": "0",
+                        "keywordIntention": 0,
+                        "componentID": "",
+                        "isQuerySafe": true,
+                        "additionalParams": "search_id=20260513091214EF0D3930A7B6C93C6WV3",
+                        "backendFilters": "",
+                        "meta": {
+                            "dynamicFields": "{\"request_id\":\"20260513091214EF0D3930A7B6C93C6WV3\",\"search_id\":\"20260513091214EF0D3930A7B6C93C6WV3\",\"device_id\":\"0\",\"engine_latency_microseconds\":\"4127\",\"search_latency_microseconds\":\"5277\",\"cloud_service_provider\":\"bytecloud\"}",
+                            "__typename": "SearchProductV5Meta"
+                        },
+                        "__typename": "SearchProductV5Header"
+                    },
+                    "data": {
+                        "totalDataText": "0",
+                        "banner": {
+                            "position": 0,
+                            "text": "",
+                            "applink": "",
+                            "url": "",
+                            "imageURL": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Banner"
+                        },
+                        "redirection": {
+                            "url": "",
+                            "__typename": "SearchProductV5Redirection"
+                        },
+                        "related": {
+                            "relatedKeyword": "",
+                            "position": 0,
+                            "trackingOption": 0,
+                            "otherRelated": [],
+                            "__typename": "SearchProductV5Related"
+                        },
+                        "suggestion": {
+                            "currentKeyword": "",
+                            "suggestion": "",
+                            "query": "",
+                            "text": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Suggestion"
+                        },
+                        "ticker": {
+                            "oldID": 0,
+                            "id": "0",
+                            "text": "",
+                            "query": "",
+                            "applink": "",
+                            "componentID": "",
+                            "trackingOption": 0,
+                            "__typename": "SearchProductV5Ticker"
+                        },
+                        "violation": {
+                            "headerText": "",
+                            "descriptionText": "",
+                            "imageURL": "",
+                            "ctaURL": "",
+                            "ctaApplink": "",
+                            "buttonText": "",
+                            "buttonType": "",
+                            "__typename": "SearchProductV5Violation"
+                        },
+                        "products": [],
+                        "__typename": "SearchProductV5Data"
+                    },
+                    "__typename": "SearchProductV5Response"
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "crawltime": 1778663534,
+        "url": "https://gql.tokopedia.com/graphql/SearchProductV5Query"
+    }
+}

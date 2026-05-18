@@ -1,6 +1,6 @@
 import hashlib
 import json
-import urlparse
+#import urlparse
 from time import time
 from urllib import parse
 from urllib.parse import urlparse
@@ -18,7 +18,7 @@ class ServiceShopee:
     def __init__(self):
         ...
         
-    def scrape_shopee_store(self, store_url, page_num, cookies, proxies=None):
+    def scrape_shopee_store(self, store_url, page, cookies, proxies=None):
         product_url_list = []
         url_parse = urlparse(store_url)
         store_name = url_parse.path.split('/')[-1]
@@ -73,12 +73,12 @@ class ServiceShopee:
 
             page.on('response', handle_response)
             
-            page_num = page_num - 1
+            page = page - 1
 
-            print(f"[Shopee] Open Page {page_num}")
+            print(f"[Shopee] Open Page {page}")
             try:
-                print(f"[Shopee] Scraping page {page_num}")
-                url = f"https://shopee.co.id/{store_name}?page={page_num}&sortBy=pop&tab=0"
+                print(f"[Shopee] Scraping page {page}")
+                url = f"https://shopee.co.id/{store_name}?page={page}&sortBy=pop&tab=0"
                 # url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={p}"
                 page.goto(url, wait_until="domcontentloaded")
                 page.mouse.wheel(0, 1000)
@@ -95,7 +95,13 @@ class ServiceShopee:
                 pass
         return state
 
-    def scrape_shopee_keyword(self, keyword, cookies, page_num, proxies=None):
+    def scrape_shopee_keyword(
+        self,
+        keyword,
+        cookies,
+        page=1,
+        proxy=None
+    ):
         encoded_keyword = urllib.parse.quote(keyword)
         with Camoufox(
             os=["windows", "macos", "linux"],
@@ -139,10 +145,10 @@ class ServiceShopee:
                     print(f"[Shopee] Error {e}")
 
             page.on('response', handle_response)
-            print(f"[Shopee] Open Page {page_num}")
+            print(f"[Shopee] Open Page {page}")
             try:
-                    print(f"[Shopee] Scraping page {page_num}")
-                    url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={page_num}"
+                    print(f"[Shopee] Scraping page {page}")
+                    url = f"https://shopee.co.id/search?keyword={encoded_keyword}&page={page}"
                     page.goto(url)
                     page.mouse.wheel(0, 1000)
                     page.wait_for_timeout(2000)
