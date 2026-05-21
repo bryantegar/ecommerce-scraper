@@ -1,0 +1,3189 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Weyth Nutrition",
+  "page": 1,
+  "job_id": "ebb4f6ec-8275-433f-9e69-b39c69e18a47",
+  "scraped_at": "2026-05-20T18:34:18.143837",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "Optimum Nutrition Creatine 2500 mg 100 Caps - Suplemen / Gym / Kapsul",
+      "nid": "7596790084",
+      "itemId": "7596790084",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  26% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/4f02bf7cd07f4ffef2a0e3308f3c918b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp497.000",
+      "discount": "26% Off",
+      "ratingScore": "4.957446808510638",
+      "review": "47",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "7596790084_ID-14006676650",
+      "skuId": "14006676650",
+      "sku": "7596790084_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        6356
+      ],
+      "price": "497000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "676000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7596790084;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7596790084_ID;price:497000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:6356;item_id:7596790084;sku_id:14006676650;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "136 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7596790084_ID-14006676650"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4f02bf7cd07f4ffef2a0e3308f3c918b.jpg&src=srp_findsimilar&item_id=7596790084&sku_id=14006676650&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=497000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7596790084.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14006676650%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A49700000%3BdisplayPrice%3A49700000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.957446808510638&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=136&price=4.97E%205&review=47&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7596790084%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7596790084_ID%253Bprice%253A497000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6356%253Bitem_id%253A7596790084%253Bsku_id%253A14006676650%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way D3 K2 Softgels 10,000 IU D3 for Immune Support, K2 MK-4/MK-7 Direct Calcium to Bones",
+      "nid": "8660712410",
+      "itemId": "8660712410",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  53% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/428724c7560eec0d01cf49a244a12c83.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp80.000",
+      "discount": "53% Off",
+      "ratingScore": "5.0",
+      "review": "61",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/428724c7560eec0d01cf49a244a12c83.jpg",
+          "sku": "8660712410_ID",
+          "skuId": "16094810052",
+          "itemUrl": "/products/pdp-i8660712410.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Fiery Sky",
+      "sellerId": "401454288178",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8660712410_ID-16094810052",
+      "skuId": "16094810052",
+      "sku": "8660712410_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "80000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "171521",
+      "clickTrace": "query:Weyth+Nutrition;nid:8660712410;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8660712410_ID;price:80000;client:desktop;supplier_id:401454288178;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:6335;item_id:8660712410;sku_id:16094810052;shop_id:6610327;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "78 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8660712410_ID-16094810052"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F428724c7560eec0d01cf49a244a12c83.jpg&src=srp_findsimilar&item_id=8660712410&sku_id=16094810052&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=80000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8660712410.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16094810052%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A8000000%3BdisplayPrice%3A8000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=78&price=8E%204&review=61&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8660712410%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8660712410_ID%253Bprice%253A80000%253Bclient%253Adesktop%253Bsupplier_id%253A401454288178%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A8660712410%253Bsku_id%253A16094810052%253Bshop_id%253A6610327%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Kids Height Growth Gummies Teen vitamins Improve Bone Density and Promote Joint Health Natural Height Maximizing Supplements 60pcs Children's height jelly candy Natural Height Increasing Supplements",
+      "nid": "8759846119",
+      "itemId": "8759846119",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/3ecf07ea78f39390cae0f7965260d4df.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp83.000",
+      "discount": "50% Off",
+      "ratingScore": "4.9222222222222225",
+      "review": "90",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/3ecf07ea78f39390cae0f7965260d4df.jpg",
+          "sku": "8759846119_ID",
+          "skuId": "16203624311",
+          "itemUrl": "/products/pdp-i8759846119.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "BBEEAAUU",
+      "sellerId": "401837472113",
+      "brandName": "LEEGO HOME",
+      "brandId": "127188205",
+      "cheapest_sku": "8759846119_ID-16203624311",
+      "skuId": "16203624311",
+      "sku": "8759846119_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "83000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "164947",
+      "clickTrace": "query:Weyth+Nutrition;nid:8759846119;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8759846119_ID;price:83000;client:desktop;supplier_id:401837472113;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:18703;item_id:8759846119;sku_id:16203624311;shop_id:7055640;templateInfo:-1_C#107879_A3_E#",
+      "itemSoldCntShow": "138 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8759846119_ID-16203624311"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F3ecf07ea78f39390cae0f7965260d4df.jpg&src=srp_findsimilar&item_id=8759846119&sku_id=16203624311&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=83000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8759846119.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16203624311%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A8300000%3BdisplayPrice%3A8300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.9222222222222225&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=138&price=8.3E%204&review=90&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8759846119%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8759846119_ID%253Bprice%253A83000%253Bclient%253Adesktop%253Bsupplier_id%253A401837472113%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8759846119%253Bsku_id%253A16203624311%253Bshop_id%253A7055640%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Whey Protein 1 lbs | Primary Source Isolate - Susu Protein / Powder / Suplemen / Gym / Muscle Protein",
+      "nid": "638228924",
+      "itemId": "638228924",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  27% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/90ec6cc5730a1817248e05b6f0372edd.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp505.000",
+      "discount": "27% Off",
+      "ratingScore": "4.934210526315789",
+      "review": "151",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "638228924_ID-887428057",
+      "skuId": "887428057",
+      "sku": "638228924_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "505000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "692000",
+      "clickTrace": "query:Weyth+Nutrition;nid:638228924;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:638228924_ID;price:505000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:18204;item_id:638228924;sku_id:887428057;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "456 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "638228924_ID-887428057"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F90ec6cc5730a1817248e05b6f0372edd.png&src=srp_findsimilar&item_id=638228924&sku_id=887428057&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=505000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i638228924.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A887428057%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A50500000%3BdisplayPrice%3A50500000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.934210526315789&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=456&price=5.05E%205&review=151&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A638228924%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A638228924_ID%253Bprice%253A505000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A638228924%253Bsku_id%253A887428057%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "ON WGS 5 LBS 5LBS WHEY GOLD STANDARD PROTEIN ISOLATE OPTIMUM NUTRITION",
+      "nid": "6586252141",
+      "itemId": "6586252141",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/c8ab3bba501d6ac1894215cd803a0838.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.480.000",
+      "ratingScore": "4.9021739130434785",
+      "review": "92",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/84eaf2837291c9e825c70d5890fcd62d.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "12519034801",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/c0b1a4276aaaf692e3936ed683e701af.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "16055412781",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/15427a278a995f2daeae271d20b02af9.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "14213708286",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/7b8ce923443574bd589e6859c114bc5a.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "14213708285",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/4dfd6aed8d541837e64531df071733a1.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "14356420935",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/5c7aa603bd1e408a97ea32dc06e34773.jpg",
+          "sku": "6586252141_ID",
+          "skuId": "14847808408",
+          "itemUrl": "/products/pdp-i6586252141.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Rocket Store JKT",
+      "sellerId": "400680177210",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "6586252141_ID-12519034801",
+      "skuId": "12519034801",
+      "sku": "6586252141_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "1480000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:6586252141;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:6586252141_ID;price:1480000;client:desktop;supplier_id:400680177210;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:18204;item_id:6586252141;sku_id:12519034801;shop_id:5013498;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "296 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6586252141_ID-12519034801"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fc8ab3bba501d6ac1894215cd803a0838.jpg&src=srp_findsimilar&item_id=6586252141&sku_id=12519034801&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=1480000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6586252141.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A12519034801%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A148000000%3BdisplayPrice%3A148000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.9021739130434785&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=296&price=1.48E%206&review=92&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A6586252141%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A6586252141_ID%253Bprice%253A1480000%253Bclient%253Adesktop%253Bsupplier_id%253A400680177210%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A6586252141%253Bsku_id%253A12519034801%253Bshop_id%253A5013498%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Ulthimate Nutrition SUPER WHEY AMINO 2002 suplement fitness / Suplement Gym / Protein Tablet",
+      "nid": "8699202957",
+      "itemId": "8699202957",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S13e0a47f47a64cd7a5915a80454c7b37N.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp145.000",
+      "ratingScore": "",
+      "review": "0",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "sintyafarma69",
+      "sellerId": "403305888524",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8699202957_ID-16135718674",
+      "skuId": "16135718674",
+      "sku": "8699202957_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        5157
+      ],
+      "price": "145000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:8699202957;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8699202957_ID;price:145000;client:desktop;supplier_id:403305888524;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:5157;item_id:8699202957;sku_id:16135718674;shop_id:7954538;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699202957_ID-16135718674"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS13e0a47f47a64cd7a5915a80454c7b37N.jpg&src=srp_findsimilar&item_id=8699202957&sku_id=16135718674&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=145000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699202957.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16135718674%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A14500000%3BdisplayPrice%3A14500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=1.45E%205&review=0&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8699202957%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8699202957_ID%253Bprice%253A145000%253Bclient%253Adesktop%253Bsupplier_id%253A403305888524%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A5157%253Bitem_id%253A8699202957%253Bsku_id%253A16135718674%253Bshop_id%253A7954538%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Obat Keputihan Herbal, Obat Gatal Vagina Karena Keputihan, Obat Penghilang Keputihan, Obat Keputihan Berbau, Obat Keputihan Abnormal, Obat Keputihan Gatal Dan Becek dengan Walatra Sehat Wanita",
+      "nid": "6675726918",
+      "itemId": "6675726918",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  9% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0a44236cdb718a1f8c2267f84dbc2860.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp137.000",
+      "discount": "9% Off",
+      "ratingScore": "5.0",
+      "review": "26",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "Al-hikmah Bandung",
+      "sellerId": "400689531248",
+      "brandName": "Sehat Wanita",
+      "brandId": "123378274",
+      "cheapest_sku": "6675726918_ID-12692762156",
+      "skuId": "12692762156",
+      "sku": "6675726918_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18202
+      ],
+      "price": "137000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "150000",
+      "clickTrace": "query:Weyth+Nutrition;nid:6675726918;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:6675726918_ID;price:137000;client:desktop;supplier_id:400689531248;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:18202;item_id:6675726918;sku_id:12692762156;shop_id:5079947;templateInfo:-1_A3_C#107879_A3_C#",
+      "itemSoldCntShow": "108 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6675726918_ID-12692762156"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0a44236cdb718a1f8c2267f84dbc2860.png&src=srp_findsimilar&item_id=6675726918&sku_id=12692762156&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=137000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6675726918.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A12692762156%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A13700000%3BdisplayPrice%3A13700000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=108&price=1.37E%205&review=26&location=Kota%20Bandung&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A6675726918%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A6675726918_ID%253Bprice%253A137000%253Bclient%253Adesktop%253Bsupplier_id%253A400689531248%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18202%253Bitem_id%253A6675726918%253Bsku_id%253A12692762156%253Bshop_id%253A5079947%253BtemplateInfo%253A-1_A3_C%2523107879_A3_C%2523"
+    },
+    {
+      "name": "Natures Way Vitamin D3 5000IU + K2 100mcg Gummies 60pcs – Suplemen dengan Magnesium & Zinc untuk Tulang Kuat, Daya Tahan Tubuh, Kesehatan Jantung & Penyerapan Kalsium Optimal | Bone Immune Heart Support",
+      "nid": "18828173894",
+      "itemId": "18828173894",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  38% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/a224ea507cec4cb5f9201524333eeb88.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp86.890",
+      "discount": "38% Off",
+      "ratingScore": "4.958333333333333",
+      "review": "23",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Infinittea Store",
+      "sellerId": "401811984035",
+      "brandName": "OFFROADING",
+      "brandId": "127176078",
+      "cheapest_sku": "18828173894_ID-116259097642",
+      "skuId": "116259097642",
+      "sku": "18828173894_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "86890",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "140000",
+      "clickTrace": "query:Weyth+Nutrition;nid:18828173894;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:18828173894_ID;price:86890;client:desktop;supplier_id:401811984035;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:11382;item_id:18828173894;sku_id:116259097642;shop_id:7018687;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "28 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18828173894_ID-116259097642"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fa224ea507cec4cb5f9201524333eeb88.jpg&src=srp_findsimilar&item_id=18828173894&sku_id=116259097642&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=86890.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18828173894.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259097642%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A8689000%3BdisplayPrice%3A8689000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.958333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=28&price=8.689E%204&review=23&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A18828173894%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A18828173894_ID%253Bprice%253A86890%253Bclient%253Adesktop%253Bsupplier_id%253A401811984035%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A18828173894%253Bsku_id%253A116259097642%253Bshop_id%253A7018687%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Isolate Protein 5 lbs - Whey / Susu Protein / Suplemen / Gym / Muscle Protein",
+      "nid": "723268158",
+      "itemId": "723268158",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  31% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1f3882dcabf4ac9fdce4ed56ecb6cde3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp2.629.000",
+      "discount": "31% Off",
+      "ratingScore": "4.857142857142857",
+      "review": "70",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "723268158_ID-1002138691",
+      "skuId": "1002138691",
+      "sku": "723268158_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "2629000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "3798000",
+      "clickTrace": "query:Weyth+Nutrition;nid:723268158;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:723268158_ID;price:2629000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:18204;item_id:723268158;sku_id:1002138691;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "209 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "723268158_ID-1002138691"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1f3882dcabf4ac9fdce4ed56ecb6cde3.png&src=srp_findsimilar&item_id=723268158&sku_id=1002138691&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=2629000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i723268158.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1002138691%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A262900000%3BdisplayPrice%3A262900000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.857142857142857&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=209&price=2.629E%206&review=70&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A723268158%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A723268158_ID%253Bprice%253A2629000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A723268158%253Bsku_id%253A1002138691%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO LYTE Hydration Electrolyte",
+      "nid": "8603100939",
+      "itemId": "8603100939",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/40cfa3e1b8b7c1c098cb613811386660.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp399.000",
+      "discount": "60% Off",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/b296f6829add3c455f3e0a7837dc4c31.png",
+          "sku": "8603100939_ID",
+          "skuId": "16004796232",
+          "itemUrl": "/products/pdp-i8603100939.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/10e0a0717042ec631e01d6e278305f80.png",
+          "sku": "8603100939_ID",
+          "skuId": "16004796233",
+          "itemUrl": "/products/pdp-i8603100939.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6eab56f6b7550602e7cc54e4776b824.png",
+          "sku": "8603100939_ID",
+          "skuId": "16004796234",
+          "itemUrl": "/products/pdp-i8603100939.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/ee7fc2e41bf113c1bb682b3853e3bbff.png",
+          "sku": "8603100939_ID",
+          "skuId": "16004796231",
+          "itemUrl": "/products/pdp-i8603100939.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/4ea7a67279fb27e94ced116498c67673.png",
+          "sku": "8603100939_ID",
+          "skuId": "116257794006",
+          "itemUrl": "/products/pdp-i8603100939.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "8603100939_ID-16004796234",
+      "skuId": "16004796234",
+      "sku": "8603100939_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        6356
+      ],
+      "price": "399000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1000000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8603100939;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8603100939_ID;price:399000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:6356;item_id:8603100939;sku_id:16004796234;shop_id:6139318;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "24 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8603100939_ID-16004796234"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F40cfa3e1b8b7c1c098cb613811386660.png&src=srp_findsimilar&item_id=8603100939&sku_id=16004796234&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=399000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8603100939.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16004796234%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A39900000%3BdisplayPrice%3A39900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=24&price=3.99E%205&review=2&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8603100939%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8603100939_ID%253Bprice%253A399000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6356%253Bitem_id%253A8603100939%253Bsku_id%253A16004796234%253Bshop_id%253A6139318%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Pasti A S L I : 900 gram = Suplemen Hi Protein All Plant Family Size produk Original by A )MWAY",
+      "nid": "8616256531",
+      "itemId": "8616256531",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/6be9f5d45c60826705ed981a071810d8.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp706.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Aneka Suplemen",
+      "sellerId": "401813648056",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8616256531_ID-16022236088",
+      "skuId": "16022236088",
+      "sku": "8616256531_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "706000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:8616256531;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8616256531_ID;price:706000;client:desktop;supplier_id:401813648056;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:11382;item_id:8616256531;sku_id:16022236088;shop_id:7020440;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8616256531_ID-16022236088"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F6be9f5d45c60826705ed981a071810d8.jpg&src=srp_findsimilar&item_id=8616256531&sku_id=16022236088&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=706000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8616256531.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16022236088%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A70600000%3BdisplayPrice%3A70600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=7.06E%205&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8616256531%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8616256531_ID%253Bprice%253A706000%253Bclient%253Adesktop%253Bsupplier_id%253A401813648056%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8616256531%253Bsku_id%253A16022236088%253Bshop_id%253A7020440%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Pasti A S L I : 450 gran = Suplemen Hi Protein Rasa Green Tea produk Original by A )MWAY",
+      "nid": "8616252642",
+      "itemId": "8616252642",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/eda71d245dde27693eaaca1ae62e6131.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp386.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Aneka Suplemen",
+      "sellerId": "401813648056",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8616252642_ID-16022240034",
+      "skuId": "16022240034",
+      "sku": "8616252642_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "386000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:8616252642;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8616252642_ID;price:386000;client:desktop;supplier_id:401813648056;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:18203;item_id:8616252642;sku_id:16022240034;shop_id:7020440;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8616252642_ID-16022240034"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Feda71d245dde27693eaaca1ae62e6131.jpg&src=srp_findsimilar&item_id=8616252642&sku_id=16022240034&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=386000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8616252642.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16022240034%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A38600000%3BdisplayPrice%3A38600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=3.86E%205&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8616252642%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8616252642_ID%253Bprice%253A386000%253Bclient%253Adesktop%253Bsupplier_id%253A401813648056%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8616252642%253Bsku_id%253A16022240034%253Bshop_id%253A7020440%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Whey Protein 5 lbs | Primary Source Isolate - Susu Protein / Powder / Suplemen / Gym / Muscle Protein",
+      "nid": "413214034",
+      "itemId": "413214034",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  34% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7cc92a4772b33d317e4711df6c94d768.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.743.000",
+      "discount": "34% Off",
+      "ratingScore": "4.74885145482389",
+      "review": "653",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "413214034_ID-5886136054",
+      "skuId": "5886136054",
+      "sku": "413214034_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "1743000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "2650000",
+      "clickTrace": "query:Weyth+Nutrition;nid:413214034;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:413214034_ID;price:1743000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:18204;item_id:413214034;sku_id:5886136054;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "413214034_ID-5886136054"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7cc92a4772b33d317e4711df6c94d768.jpg&src=srp_findsimilar&item_id=413214034&sku_id=5886136054&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=1743000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i413214034.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A5886136054%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A174300000%3BdisplayPrice%3A174300000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.74885145482389&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2090&price=1.743E%206&review=653&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A413214034%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A413214034_ID%253Bprice%253A1743000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A413214034%253Bsku_id%253A5886136054%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Serious Mass 6 lbs - Weight Gainer / Suplemen / Gym / Penambah Berat Badan",
+      "nid": "436091422",
+      "itemId": "436091422",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  40% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ce5725b49632932e7f9751d0c8e52ff6.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp963.000",
+      "discount": "40% Off",
+      "ratingScore": "4.884615384615385",
+      "review": "182",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "436091422_ID-887754667",
+      "skuId": "887754667",
+      "sku": "436091422_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        5157
+      ],
+      "price": "963000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1593000",
+      "clickTrace": "query:Weyth+Nutrition;nid:436091422;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:436091422_ID;price:963000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:5157;item_id:436091422;sku_id:887754667;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "437 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "436091422_ID-887754667"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fce5725b49632932e7f9751d0c8e52ff6.png&src=srp_findsimilar&item_id=436091422&sku_id=887754667&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=963000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i436091422.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A887754667%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A96300000%3BdisplayPrice%3A96300000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.884615384615385&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=437&price=9.63E%205&review=182&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A436091422%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A436091422_ID%253Bprice%253A963000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A5157%253Bitem_id%253A436091422%253Bsku_id%253A887754667%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Whey Protein 10 lbs | Primary Source Isolate - Susu Protein / Powder / Suplemen / Gym / Muscle Protein",
+      "nid": "638630783",
+      "itemId": "638630783",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  26% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7b73ddebf1f9f150075d8a8bb319a3e5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp3.739.000",
+      "discount": "26% Off",
+      "ratingScore": "4.7924528301886795",
+      "review": "106",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "638630783_ID-887912373",
+      "skuId": "887912373",
+      "sku": "638630783_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "3739000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "5050000",
+      "clickTrace": "query:Weyth+Nutrition;nid:638630783;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:638630783_ID;price:3739000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:18204;item_id:638630783;sku_id:887912373;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "335 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "638630783_ID-887912373"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7b73ddebf1f9f150075d8a8bb319a3e5.png&src=srp_findsimilar&item_id=638630783&sku_id=887912373&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=3739000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i638630783.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A887912373%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A373900000%3BdisplayPrice%3A373900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.7924528301886795&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=335&price=3.739E%206&review=106&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A638630783%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A638630783_ID%253Bprice%253A3739000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A638630783%253Bsku_id%253A887912373%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature'sWay Vitamin D3 5000 IU 125mcg Gummies 60pcs - Support Immune Support, Strong Bone Health Gummies",
+      "nid": "8807512902",
+      "itemId": "8807512902",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  54% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/ab9049018dd7014b0905f91536d9382c.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp83.400",
+      "discount": "54% Off",
+      "ratingScore": "5.0",
+      "review": "58",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Mopai Healthy",
+      "sellerId": "401837648326",
+      "brandName": "Mopai",
+      "brandId": "127178013",
+      "cheapest_sku": "8807512902_ID-16246682759",
+      "skuId": "16246682759",
+      "sku": "8807512902_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "83400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "182000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8807512902;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8807512902_ID;price:83400;client:desktop;supplier_id:401837648326;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:6334;item_id:8807512902;sku_id:16246682759;shop_id:7056334;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "60 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8807512902_ID-16246682759"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fab9049018dd7014b0905f91536d9382c.jpg&src=srp_findsimilar&item_id=8807512902&sku_id=16246682759&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=83400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8807512902.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16246682759%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A8340000%3BdisplayPrice%3A8340000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=60&price=8.34E%204&review=58&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8807512902%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8807512902_ID%253Bprice%253A83400%253Bclient%253Adesktop%253Bsupplier_id%253A401837648326%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8807512902%253Bsku_id%253A16246682759%253Bshop_id%253A7056334%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BUNDLING 3  BOX FUELIN - Fusion W ISO BLENDS ( Whey Protein & Isolate )   With Pro Synth Technology Untuk Perfoma & Recovery Maksimal",
+      "nid": "8629792388",
+      "itemId": "8629792388",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  32% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b467a944fe1c70d94f668ca0d603f39e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp650.000",
+      "discount": "32% Off",
+      "ratingScore": "5.0",
+      "review": "6",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "Amore Indonesia",
+      "sellerId": "401466400948",
+      "brandName": "FUELIN",
+      "brandId": "127443622",
+      "cheapest_sku": "8629792388_ID-16226668384",
+      "skuId": "16226668384",
+      "sku": "8629792388_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "650000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "960000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8629792388;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8629792388_ID;price:650000;client:desktop;supplier_id:401466400948;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:18203;item_id:8629792388;sku_id:16226668384;shop_id:6626783;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8629792388_ID-16226668384"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb467a944fe1c70d94f668ca0d603f39e.png&src=srp_findsimilar&item_id=8629792388&sku_id=16226668384&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=650000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8629792388.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16226668384%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A65000000%3BdisplayPrice%3A65000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=6.5E%205&review=6&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8629792388%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8629792388_ID%253Bprice%253A650000%253Bclient%253Adesktop%253Bsupplier_id%253A401466400948%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8629792388%253Bsku_id%253A16226668384%253Bshop_id%253A6626783%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Gold Standard 100% Whey Protein 2 lbs | Primary Source Isolate - Susu Protein / Powder / Suplemen / Gym / Muscle Protein",
+      "nid": "436047489",
+      "itemId": "436047489",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  38% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1081b43ea151d1ae334fa0f7dd563fb9.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp750.000",
+      "discount": "38% Off",
+      "ratingScore": "4.813664596273292",
+      "review": "322",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Optimum Nutrition",
+      "sellerId": "100378162",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "436047489_ID-16257108847",
+      "skuId": "16257108847",
+      "sku": "436047489_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "750000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1200000",
+      "clickTrace": "query:Weyth+Nutrition;nid:436047489;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:436047489_ID;price:750000;client:desktop;supplier_id:100378162;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:18204;item_id:436047489;sku_id:16257108847;shop_id:492166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "967 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "436047489_ID-16257108847"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1081b43ea151d1ae334fa0f7dd563fb9.jpg&src=srp_findsimilar&item_id=436047489&sku_id=16257108847&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=750000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i436047489.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16257108847%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A75000000%3BdisplayPrice%3A75000000%3BsinglePromotionId%3A910000049014662%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=4.813664596273292&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=967&price=7.5E%205&review=322&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A436047489%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A436047489_ID%253Bprice%253A750000%253Bclient%253Adesktop%253Bsupplier_id%253A100378162%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A436047489%253Bsku_id%253A16257108847%253Bshop_id%253A492166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "M1 PRO WHEY 100 4LB 4 LB 1,8kg Muscle First PROWHEY Concentrate 100",
+      "nid": "7096370064",
+      "itemId": "7096370064",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.000.000",
+      "ratingScore": "5.0",
+      "review": "3",
+      "location": "Kota Medan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110432",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110443",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110442",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110441",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110440",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "116259312676",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "116259312675",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110439",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110438",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110449",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110437",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110448",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110436",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110447",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110435",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110446",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110434",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110445",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110433",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efb966cd75271dbe43d56dad686e9f4a.jpg",
+          "sku": "7096370064_ID",
+          "skuId": "14807110444",
+          "itemUrl": "/products/pdp-i7096370064.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Twocare x Muscle Nutrition",
+      "sellerId": "21356",
+      "brandName": "Whey",
+      "brandId": "123437217",
+      "cheapest_sku": "7096370064_ID-14807110442",
+      "skuId": "14807110442",
+      "sku": "7096370064_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "1000000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:7096370064;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7096370064_ID;price:1000000;client:desktop;supplier_id:21356;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:18204;item_id:7096370064;sku_id:14807110442;shop_id:90605;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7096370064_ID-14807110442"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fefb966cd75271dbe43d56dad686e9f4a.jpg&src=srp_findsimilar&item_id=7096370064&sku_id=14807110442&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=1000000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7096370064.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14807110442%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A100000000%3BdisplayPrice%3A100000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857587&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=1E%206&review=3&location=Kota%20Medan&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7096370064%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7096370064_ID%253Bprice%253A1000000%253Bclient%253Adesktop%253Bsupplier_id%253A21356%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7096370064%253Bsku_id%253A14807110442%253Bshop_id%253A90605%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Vitamin D3 K2 Gummies for Kids 60pcs Calcium, Magnesium, Zinc, Phosphorus, Vitamin C, Multivitamin D3 & K2 Supplement for Bone Health, Calcium Absorption",
+      "nid": "18822843301",
+      "itemId": "18822843301",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  44% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/1ab08f5e481786beae3d0d764720be48.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.000",
+      "discount": "44% Off",
+      "ratingScore": "5.0",
+      "review": "61",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/1ab08f5e481786beae3d0d764720be48.jpg",
+          "sku": "18822843301_ID",
+          "skuId": "116256396627",
+          "itemUrl": "/products/pdp-i18822843301.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "V380 Health",
+      "sellerId": "402262544019",
+      "brandName": "V380",
+      "brandId": "143454",
+      "cheapest_sku": "18822843301_ID-116256396627",
+      "skuId": "116256396627",
+      "sku": "18822843301_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "90000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "160000",
+      "clickTrace": "query:Weyth+Nutrition;nid:18822843301;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:18822843301_ID;price:90000;client:desktop;supplier_id:402262544019;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:6334;item_id:18822843301;sku_id:116256396627;shop_id:7353897;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "64 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822843301_ID-116256396627"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F1ab08f5e481786beae3d0d764720be48.jpg&src=srp_findsimilar&item_id=18822843301&sku_id=116256396627&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=90000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822843301.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256396627%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9000000%3BdisplayPrice%3A9000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=64&price=9E%204&review=61&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A18822843301%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A18822843301_ID%253Bprice%253A90000%253Bclient%253Adesktop%253Bsupplier_id%253A402262544019%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A18822843301%253Bsku_id%253A116256396627%253Bshop_id%253A7353897%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "EVL WHEY PROTEIN ECER 1 LBS Repack Eceran EVL Whey Ecer 1 lbs",
+      "nid": "8147842011",
+      "itemId": "8147842011",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S334d5edd7ef0419cac76085213fc02ceU.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp169.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "JACKIE MART",
+      "sellerId": "400621089164",
+      "brandName": "EVL NUTRITION",
+      "brandId": "130529",
+      "cheapest_sku": "8147842011_ID-14545014433",
+      "skuId": "14545014433",
+      "sku": "8147842011_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "169000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:8147842011;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8147842011_ID;price:169000;client:desktop;supplier_id:400621089164;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:18204;item_id:8147842011;sku_id:14545014433;shop_id:4095490;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8147842011_ID-14545014433"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS334d5edd7ef0419cac76085213fc02ceU.jpg&src=srp_findsimilar&item_id=8147842011&sku_id=14545014433&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=169000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8147842011.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14545014433%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A16900000%3BdisplayPrice%3A16900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.69E%205&review=&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8147842011%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8147842011_ID%253Bprice%253A169000%253Bclient%253Adesktop%253Bsupplier_id%253A400621089164%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A8147842011%253Bsku_id%253A14545014433%253Bshop_id%253A4095490%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Optimum Nutrition Whey Gold Standard 1 Lb Pouch",
+      "nid": "8626090360",
+      "itemId": "8626090360",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  24% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/985cf6288204b2ab1f52d77c6707e737.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp525.000",
+      "discount": "24% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/98e3ac45ed9577bc11aa2478aac0125a.jpg",
+          "sku": "8626090360_ID",
+          "skuId": "16038310964",
+          "itemUrl": "/products/pdp-i8626090360.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Natural Farm",
+      "sellerId": "403284048097",
+      "brandName": "Optimum Nutrition",
+      "brandId": "12604",
+      "cheapest_sku": "8626090360_ID-16038310963",
+      "skuId": "16038310963",
+      "sku": "8626090360_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "525000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "695000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8626090360;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8626090360_ID;price:525000;client:desktop;supplier_id:403284048097;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:18204;item_id:8626090360;sku_id:16038310963;shop_id:7902486;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8626090360_ID-16038310963"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F985cf6288204b2ab1f52d77c6707e737.jpg&src=srp_findsimilar&item_id=8626090360&sku_id=16038310963&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=525000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8626090360.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16038310963%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A52500000%3BdisplayPrice%3A52500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=5.25E%205&review=1&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8626090360%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8626090360_ID%253Bprice%253A525000%253Bclient%253Adesktop%253Bsupplier_id%253A403284048097%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A8626090360%253Bsku_id%253A16038310963%253Bshop_id%253A7902486%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Women's Multivitamin Gummies | Mendukung energi, imunitas, dan keseimbangan hormon wanita, menjaga imunitas tubuh, rasa yang lezat, dan mudah dikonsumsi.",
+      "nid": "8829108322",
+      "itemId": "8829108322",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/29c42d86919c042d4be153c904878f39.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp95.200",
+      "discount": "55% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/29c42d86919c042d4be153c904878f39.jpg",
+          "sku": "8829108322_ID",
+          "skuId": "16262126296",
+          "itemUrl": "/products/pdp-i8829108322.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Cailosh",
+      "sellerId": "401790576529",
+      "brandName": "KUMADA",
+      "brandId": "126993020",
+      "cheapest_sku": "8829108322_ID-16262126296",
+      "skuId": "16262126296",
+      "sku": "8829108322_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6348
+      ],
+      "price": "95200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "213000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8829108322;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8829108322_ID;price:95200;client:desktop;supplier_id:401790576529;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:6348;item_id:8829108322;sku_id:16262126296;shop_id:6994840;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8829108322_ID-16262126296"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F29c42d86919c042d4be153c904878f39.jpg&src=srp_findsimilar&item_id=8829108322&sku_id=16262126296&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=95200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8829108322.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16262126296%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9520000%3BdisplayPrice%3A9520000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9.52E%204&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8829108322%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8829108322_ID%253Bprice%253A95200%253Bclient%253Adesktop%253Bsupplier_id%253A401790576529%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6348%253Bitem_id%253A8829108322%253Bsku_id%253A16262126296%253Bshop_id%253A6994840%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Multivitamin, Mineral, dan Zat Besi Gummies | Zat Besi + B12 + B6 + Vitamin C + Kalsium + Seng | Suplemen harian untuk orang dewasa dan anak-anak, meningkatkan kesehatan darah, meningkatkan kekebalan tubuh, dan meningkatkan energi.",
+      "nid": "8829100417",
+      "itemId": "8829100417",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/b3cbb8cd38238493dedae5eeec6c6e98.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp95.500",
+      "discount": "55% Off",
+      "ratingScore": "5.0",
+      "review": "19",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/b3cbb8cd38238493dedae5eeec6c6e98.jpg",
+          "sku": "8829100417_ID",
+          "skuId": "16262080990",
+          "itemUrl": "/products/pdp-i8829100417.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Cailosh",
+      "sellerId": "401790576529",
+      "brandName": "KUMADA",
+      "brandId": "126993020",
+      "cheapest_sku": "8829100417_ID-16262080990",
+      "skuId": "16262080990",
+      "sku": "8829100417_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6348
+      ],
+      "price": "95500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "211000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8829100417;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8829100417_ID;price:95500;client:desktop;supplier_id:401790576529;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:6348;item_id:8829100417;sku_id:16262080990;shop_id:6994840;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "25 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8829100417_ID-16262080990"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fb3cbb8cd38238493dedae5eeec6c6e98.jpg&src=srp_findsimilar&item_id=8829100417&sku_id=16262080990&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=95500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8829100417.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16262080990%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9550000%3BdisplayPrice%3A9550000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=25&price=9.55E%204&review=19&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8829100417%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8829100417_ID%253Bprice%253A95500%253Bclient%253Adesktop%253Bsupplier_id%253A401790576529%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6348%253Bitem_id%253A8829100417%253Bsku_id%253A16262080990%253Bshop_id%253A6994840%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Milk Thistle Capsules 1000mg 120 Capsules. A natural liver-protecting and detoxifying supplement that supports digestive health, rich in antioxidants, and promotes liver and digestive system recovery.",
+      "nid": "8807270661",
+      "itemId": "8807270661",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  48% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/a3099e2a0afe001b62318dca9bbe3e9e.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp92.800",
+      "discount": "48% Off",
+      "ratingScore": "5.0",
+      "review": "40",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/7995de19b85921fc8f9790c9ae2ebccc.jpg",
+          "sku": "8807270661_ID",
+          "skuId": "16246344984",
+          "itemUrl": "/products/pdp-i8807270661.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Faroro Health Shop",
+      "sellerId": "401513328542",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8807270661_ID-16246344984",
+      "skuId": "16246344984",
+      "sku": "8807270661_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6342
+      ],
+      "price": "92800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "178500",
+      "clickTrace": "query:Weyth+Nutrition;nid:8807270661;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8807270661_ID;price:92800;client:desktop;supplier_id:401513328542;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:6342;item_id:8807270661;sku_id:16246344984;shop_id:6670635;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "44 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8807270661_ID-16246344984"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fa3099e2a0afe001b62318dca9bbe3e9e.jpg&src=srp_findsimilar&item_id=8807270661&sku_id=16246344984&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=92800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8807270661.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16246344984%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9280000%3BdisplayPrice%3A9280000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=44&price=9.28E%204&review=40&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8807270661%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8807270661_ID%253Bprice%253A92800%253Bclient%253Adesktop%253Bsupplier_id%253A401513328542%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6342%253Bitem_id%253A8807270661%253Bsku_id%253A16246344984%253Bshop_id%253A6670635%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO VEGA-PRO Vegan Pea Protein Isolate vegapro 2.4kg",
+      "nid": "7296120333",
+      "itemId": "7296120333",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ed6c9ddb0cf9571924e8a83e48e38842.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp895.000",
+      "discount": "60% Off",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/dc0476a7a8310e0064b9e63797b306b6.png",
+          "sku": "7296120333_ID",
+          "skuId": "13679330397",
+          "itemUrl": "/products/pdp-i7296120333.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/ee0e26bc657fc6f13e7b0d6fee48da6a.png",
+          "sku": "7296120333_ID",
+          "skuId": "13872448233",
+          "itemUrl": "/products/pdp-i7296120333.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/fe37594f0db5d5c635942c4671bde912.jpg",
+          "sku": "7296120333_ID",
+          "skuId": "13679330396",
+          "itemUrl": "/products/pdp-i7296120333.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/83d143c8881755e09012ce5cc5aa5850.jpg",
+          "sku": "7296120333_ID",
+          "skuId": "13679330395",
+          "itemUrl": "/products/pdp-i7296120333.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e496e2b994b37d4fa1fa2b2f84fc480b.png",
+          "sku": "7296120333_ID",
+          "skuId": "13872448234",
+          "itemUrl": "/products/pdp-i7296120333.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "7296120333_ID-13872448233",
+      "skuId": "13872448233",
+      "sku": "7296120333_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "895000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "2240000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7296120333;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7296120333_ID;price:895000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:18204;item_id:7296120333;sku_id:13872448233;shop_id:6139318;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "13 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7296120333_ID-13872448233"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fed6c9ddb0cf9571924e8a83e48e38842.png&src=srp_findsimilar&item_id=7296120333&sku_id=13872448233&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=895000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7296120333.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13872448233%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A89500000%3BdisplayPrice%3A89500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13&price=8.95E%205&review=2&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7296120333%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7296120333_ID%253Bprice%253A895000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7296120333%253Bsku_id%253A13872448233%253Bshop_id%253A6139318%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO VEGA-PRO Vegan Pea Protein Isolate vegapro 1.2kg",
+      "nid": "7296082763",
+      "itemId": "7296082763",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a45fb7ce6d4bd06524e575f3cc724e4e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp495.000",
+      "discount": "60% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/7ee7103122cb4994be18d9a77b7dcaaa.png",
+          "sku": "7296082763_ID",
+          "skuId": "13883236056",
+          "itemUrl": "/products/pdp-i7296082763.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/c45cd03c26f9274d9ff46fc9f27d6f0e.png",
+          "sku": "7296082763_ID",
+          "skuId": "13883236057",
+          "itemUrl": "/products/pdp-i7296082763.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/fe37594f0db5d5c635942c4671bde912.jpg",
+          "sku": "7296082763_ID",
+          "skuId": "13679356305",
+          "itemUrl": "/products/pdp-i7296082763.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/9a99886d283d308d517bbdc7a616f4c4.png",
+          "sku": "7296082763_ID",
+          "skuId": "13679356306",
+          "itemUrl": "/products/pdp-i7296082763.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/83d143c8881755e09012ce5cc5aa5850.jpg",
+          "sku": "7296082763_ID",
+          "skuId": "13679356304",
+          "itemUrl": "/products/pdp-i7296082763.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "7296082763_ID-13883236056",
+      "skuId": "13883236056",
+      "sku": "7296082763_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "495000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1240000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7296082763;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7296082763_ID;price:495000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:18204;item_id:7296082763;sku_id:13883236056;shop_id:6139318;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7296082763_ID-13883236056"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa45fb7ce6d4bd06524e575f3cc724e4e.png&src=srp_findsimilar&item_id=7296082763&sku_id=13883236056&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=495000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7296082763.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13883236056%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A49500000%3BdisplayPrice%3A49500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=4.95E%205&review=&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7296082763%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7296082763_ID%253Bprice%253A495000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7296082763%253Bsku_id%253A13883236056%253Bshop_id%253A6139318%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO ISOPRO WPI 90 WHEY ISOLATE 900gr",
+      "nid": "7296012906",
+      "itemId": "7296012906",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/69be2de5d2bc8d48b15b511ad8f8092d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp899.000",
+      "discount": "60% Off",
+      "ratingScore": "5.0",
+      "review": "3",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/d5f97da277745398aca3f42deef7add4.jpg",
+          "sku": "7296012906_ID",
+          "skuId": "13679246462",
+          "itemUrl": "/products/pdp-i7296012906.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/02f1853812265da4df372549eabdb102.png",
+          "sku": "7296012906_ID",
+          "skuId": "13679246461",
+          "itemUrl": "/products/pdp-i7296012906.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/ebcc6e621eeb24102dd1b49a46d073cd.png",
+          "sku": "7296012906_ID",
+          "skuId": "13679246460",
+          "itemUrl": "/products/pdp-i7296012906.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/37ebca949f501c637cdc2dc68f1a4110.jpg",
+          "sku": "7296012906_ID",
+          "skuId": "14605090401",
+          "itemUrl": "/products/pdp-i7296012906.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/4dfacfe6f37d6ce0ca7cf0369261af50.png",
+          "sku": "7296012906_ID",
+          "skuId": "13679246459",
+          "itemUrl": "/products/pdp-i7296012906.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "7296012906_ID-13679246462",
+      "skuId": "13679246462",
+      "sku": "7296012906_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "899000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "2250000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7296012906;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7296012906_ID;price:899000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:18204;item_id:7296012906;sku_id:13679246462;shop_id:6139318;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7296012906_ID-13679246462"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F69be2de5d2bc8d48b15b511ad8f8092d.png&src=srp_findsimilar&item_id=7296012906&sku_id=13679246462&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=899000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7296012906.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13679246462%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A89900000%3BdisplayPrice%3A89900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5&price=8.99E%205&review=3&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7296012906%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7296012906_ID%253Bprice%253A899000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7296012906%253Bsku_id%253A13679246462%253Bshop_id%253A6139318%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO VEGA-PRO Vegan Pea Protein Isolate vegapro 900g",
+      "nid": "7864712026",
+      "itemId": "7864712026",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a6e33578f58a8d24ad010653d2f6d6ed.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp399.000",
+      "discount": "60% Off",
+      "ratingScore": "5.0",
+      "review": "3",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/a6e33578f58a8d24ad010653d2f6d6ed.png",
+          "sku": "7864712026_ID",
+          "skuId": "14277234976",
+          "itemUrl": "/products/pdp-i7864712026.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/a6e33578f58a8d24ad010653d2f6d6ed.png",
+          "sku": "7864712026_ID",
+          "skuId": "14277234975",
+          "itemUrl": "/products/pdp-i7864712026.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "7864712026_ID-14277234976",
+      "skuId": "14277234976",
+      "sku": "7864712026_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "399000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1000000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7864712026;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7864712026_ID;price:399000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:18204;item_id:7864712026;sku_id:14277234976;shop_id:6139318;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7864712026_ID-14277234976"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa6e33578f58a8d24ad010653d2f6d6ed.png&src=srp_findsimilar&item_id=7864712026&sku_id=14277234976&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=399000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7864712026.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14277234976%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A39900000%3BdisplayPrice%3A39900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=3.99E%205&review=3&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7864712026%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7864712026_ID%253Bprice%253A399000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7864712026%253Bsku_id%253A14277234976%253Bshop_id%253A6139318%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Meprothion 500 Mg 1 Strip 10 Tablet / L-Glutathione / Memutihkan & Mencerahkan Kulit",
+      "nid": "8184420414",
+      "itemId": "8184420414",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  24% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1f70ae2ed56ff9ad02d8a7003d6f3326.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp92.041",
+      "discount": "24% Off",
+      "ratingScore": "4.888372093023256",
+      "review": "430",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Apotek Kenaiban",
+      "sellerId": "401869456512",
+      "brandName": "Apotek Kenaiban",
+      "brandId": "127205845",
+      "cheapest_sku": "8184420414_ID-14589996864",
+      "skuId": "14589996864",
+      "sku": "8184420414_ID",
+      "categories": [
+        10100869,
+        3835,
+        6309,
+        6330
+      ],
+      "price": "92041",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "121253",
+      "clickTrace": "query:Weyth+Nutrition;nid:8184420414;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8184420414_ID;price:92041;client:desktop;supplier_id:401869456512;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:6330;item_id:8184420414;sku_id:14589996864;shop_id:7083190;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8184420414_ID-14589996864"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1f70ae2ed56ff9ad02d8a7003d6f3326.png&src=srp_findsimilar&item_id=8184420414&sku_id=14589996864&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=92041.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8184420414.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14589996864%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9204100%3BdisplayPrice%3A9204100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=4.888372093023256&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1529&price=92041&review=430&location=Kota%20Tangerang&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8184420414%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8184420414_ID%253Bprice%253A92041%253Bclient%253Adesktop%253Bsupplier_id%253A401869456512%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6330%253Bitem_id%253A8184420414%253Bsku_id%253A14589996864%253Bshop_id%253A7083190%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PURO VEGA-PRO Vegan Pea Protein Isolate vegapro 600g",
+      "nid": "7863214127",
+      "itemId": "7863214127",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/83b32d43fdf88901cc8ee510e27e9987.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp275.000",
+      "discount": "60% Off",
+      "ratingScore": "5.0",
+      "review": "4",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/83b32d43fdf88901cc8ee510e27e9987.png",
+          "sku": "7863214127_ID",
+          "skuId": "14276124238",
+          "itemUrl": "/products/pdp-i7863214127.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/83b32d43fdf88901cc8ee510e27e9987.png",
+          "sku": "7863214127_ID",
+          "skuId": "14276124239",
+          "itemUrl": "/products/pdp-i7863214127.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/83b32d43fdf88901cc8ee510e27e9987.png",
+          "sku": "7863214127_ID",
+          "skuId": "14656430697",
+          "itemUrl": "/products/pdp-i7863214127.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Puro Pure Nutrition",
+      "sellerId": "400927024039",
+      "brandName": "PURO Pure Nutrition",
+      "brandId": "124076454",
+      "cheapest_sku": "7863214127_ID-14276124238",
+      "skuId": "14276124238",
+      "sku": "7863214127_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "275000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "690000",
+      "clickTrace": "query:Weyth+Nutrition;nid:7863214127;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7863214127_ID;price:275000;client:desktop;supplier_id:400927024039;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:18204;item_id:7863214127;sku_id:14276124238;shop_id:6139318;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7863214127_ID-14276124238"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F83b32d43fdf88901cc8ee510e27e9987.png&src=srp_findsimilar&item_id=7863214127&sku_id=14276124238&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=275000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7863214127.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14276124238%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A27500000%3BdisplayPrice%3A27500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5&price=2.75E%205&review=4&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7863214127%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7863214127_ID%253Bprice%253A275000%253Bclient%253Adesktop%253Bsupplier_id%253A400927024039%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7863214127%253Bsku_id%253A14276124238%253Bshop_id%253A6139318%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Phosphatidyl Serine Gummies 60pcs 300MG Supports brain health, improves concentration",
+      "nid": "8808142511",
+      "itemId": "8808142511",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  49% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/ac97a090747b2dbb1e46cfffca877364.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp92.600",
+      "discount": "49% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "ISPYN SMARTYPAY NETWORK",
+      "sellerId": "402601808610",
+      "brandName": "ISPYN SMARTYPAY NETWORK & Lukisan",
+      "brandId": "127339300",
+      "cheapest_sku": "8808142511_ID-16247264765",
+      "skuId": "16247264765",
+      "sku": "8808142511_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "92600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "182000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8808142511;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8808142511_ID;price:92600;client:desktop;supplier_id:402601808610;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:6335;item_id:8808142511;sku_id:16247264765;shop_id:7701885;templateInfo:-1_C#107879_A3_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808142511_ID-16247264765"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fac97a090747b2dbb1e46cfffca877364.jpg&src=srp_findsimilar&item_id=8808142511&sku_id=16247264765&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=92600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808142511.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247264765%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9260000%3BdisplayPrice%3A9260000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9.26E%204&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8808142511%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8808142511_ID%253Bprice%253A92600%253Bclient%253Adesktop%253Bsupplier_id%253A402601808610%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A8808142511%253Bsku_id%253A16247264765%253Bshop_id%253A7701885%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "Nature's Way Women's Probiotic Supplement restores gut microbiota balance, supports powerful antioxidants, and improves vaginal and urinary tract health. 120 capsules.",
+      "nid": "8808742191",
+      "itemId": "8808742191",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  51% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/67ce7ed5eedd431570616cf2f8fdc840.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp92.411",
+      "discount": "51% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/223acda094710baf2fc7d681f9129667.png",
+          "sku": "8808742191_ID",
+          "skuId": "16247814060",
+          "itemUrl": "/products/pdp-i8808742191.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "PETGLOW",
+      "sellerId": "402623312477",
+      "brandName": "PETGLOW",
+      "brandId": "124522246",
+      "cheapest_sku": "8808742191_ID-16247814060",
+      "skuId": "16247814060",
+      "sku": "8808742191_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6348
+      ],
+      "price": "92411",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "189000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8808742191;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8808742191_ID;price:92411;client:desktop;supplier_id:402623312477;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:6348;item_id:8808742191;sku_id:16247814060;shop_id:7740913;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808742191_ID-16247814060"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F67ce7ed5eedd431570616cf2f8fdc840.jpg&src=srp_findsimilar&item_id=8808742191&sku_id=16247814060&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=92411.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808742191.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247814060%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9241100%3BdisplayPrice%3A9241100%3BsinglePromotionId%3A910000048724113%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=92411&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8808742191%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8808742191_ID%253Bprice%253A92411%253Bclient%253Adesktop%253Bsupplier_id%253A402623312477%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6348%253Bitem_id%253A8808742191%253Bsku_id%253A16247814060%253Bshop_id%253A7740913%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Prebiotic Fiber 7G Gummies 60pcs, Promote gastrointestinal motility and supplement nutrition",
+      "nid": "8808628275",
+      "itemId": "8808628275",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  52% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/1ab218cfe824cbe02cc8f696412c6df7.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp85.500",
+      "discount": "52% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "PETGLOW",
+      "sellerId": "402623312477",
+      "brandName": "PETGLOW",
+      "brandId": "124522246",
+      "cheapest_sku": "8808628275_ID-16247722730",
+      "skuId": "16247722730",
+      "sku": "8808628275_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "85500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "176540",
+      "clickTrace": "query:Weyth+Nutrition;nid:8808628275;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8808628275_ID;price:85500;client:desktop;supplier_id:402623312477;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:6336;item_id:8808628275;sku_id:16247722730;shop_id:7740913;templateInfo:-1_C#107879_A3_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808628275_ID-16247722730"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F1ab218cfe824cbe02cc8f696412c6df7.jpg&src=srp_findsimilar&item_id=8808628275&sku_id=16247722730&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=85500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808628275.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247722730%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A8550000%3BdisplayPrice%3A8550000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=8.55E%204&review=1&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8808628275%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8808628275_ID%253Bprice%253A85500%253Bclient%253Adesktop%253Bsupplier_id%253A402623312477%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8808628275%253Bsku_id%253A16247722730%253Bshop_id%253A7740913%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "susu Diet whey protein 1 kg",
+      "nid": "508114094",
+      "itemId": "508114094",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/16cc590298a57ddbb96a6f12a1c1afbc.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp105.000",
+      "ratingScore": "1.0",
+      "review": "1",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "G-GROWTH",
+      "sellerId": "1000026570",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "508114094_ID-666114486",
+      "skuId": "666114486",
+      "sku": "508114094_ID",
+      "categories": [
+        10100869,
+        3835,
+        3840,
+        18201
+      ],
+      "price": "105000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:508114094;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:508114094_ID;price:105000;client:desktop;supplier_id:1000026570;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:18201;item_id:508114094;sku_id:666114486;shop_id:519536;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "9 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "508114094_ID-666114486"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F16cc590298a57ddbb96a6f12a1c1afbc.jpg&src=srp_findsimilar&item_id=508114094&sku_id=666114486&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=105000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i508114094.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A666114486%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A10500000%3BdisplayPrice%3A10500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=1.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9&price=1.05E%205&review=1&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A508114094%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A508114094_ID%253Bprice%253A105000%253Bclient%253Adesktop%253Bsupplier_id%253A1000026570%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18201%253Bitem_id%253A508114094%253Bsku_id%253A666114486%253Bshop_id%253A519536%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "C+Collagen - Minuman Collagen Tripeptide 500mg + Vit C 1000mg untuk Kesehatan Kulit dan Imunitas",
+      "nid": "8743794782",
+      "itemId": "8743794782",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  32% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/2e4290f0bf281aca5961c0445965690f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.821",
+      "discount": "32% Off",
+      "ratingScore": "4.913846153846154",
+      "review": "325",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "Sido Muncul",
+      "sellerId": "403327824413",
+      "brandName": "Sido Muncul",
+      "brandId": "7659",
+      "cheapest_sku": "8743794782_ID-16184008228",
+      "skuId": "16184008228",
+      "sku": "8743794782_ID",
+      "categories": [
+        10100869,
+        3835,
+        6309,
+        6330
+      ],
+      "price": "9821",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "14404",
+      "clickTrace": "query:Weyth+Nutrition;nid:8743794782;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8743794782_ID;price:9821;client:desktop;supplier_id:403327824413;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:6330;item_id:8743794782;sku_id:16184008228;shop_id:8001624;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8743794782_ID-16184008228"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F2e4290f0bf281aca5961c0445965690f.png&src=srp_findsimilar&item_id=8743794782&sku_id=16184008228&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=9821.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8743794782.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16184008228%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A982100%3BdisplayPrice%3A982100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=4.913846153846154&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1640&price=9821&review=325&location=Kota%20Bekasi&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8743794782%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8743794782_ID%253Bprice%253A9821%253Bclient%253Adesktop%253Bsupplier_id%253A403327824413%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6330%253Bitem_id%253A8743794782%253Bsku_id%253A16184008228%253Bshop_id%253A8001624%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Saw Palmetto Capsules 500mg, Prostate Health Support, Extra Strength Supplement 120pcs Saw Palmetto Capsules 500 mg, Prostate Health Support, Extra Strength Supplement",
+      "nid": "8808500543",
+      "itemId": "8808500543",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  48% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/15671cf95c6a9e6a9fcbe25c255226e9.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp95.300",
+      "discount": "48% Off",
+      "ratingScore": "5.0",
+      "review": "65",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/c6acaa6a073c2b82cdd23e2b2014beb0.png",
+          "sku": "8808500543_ID",
+          "skuId": "16247560561",
+          "itemUrl": "/products/pdp-i8808500543.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "ISPYN SMARTYPAY NETWORK",
+      "sellerId": "402601808610",
+      "brandName": "ISPYN SMARTYPAY NETWORK & Lukisan",
+      "brandId": "127339300",
+      "cheapest_sku": "8808500543_ID-16247560561",
+      "skuId": "16247560561",
+      "sku": "8808500543_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11385
+      ],
+      "price": "95300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "182000",
+      "clickTrace": "query:Weyth+Nutrition;nid:8808500543;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:8808500543_ID;price:95300;client:desktop;supplier_id:402601808610;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:11385;item_id:8808500543;sku_id:16247560561;shop_id:7701885;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "69 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808500543_ID-16247560561"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F15671cf95c6a9e6a9fcbe25c255226e9.jpg&src=srp_findsimilar&item_id=8808500543&sku_id=16247560561&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=95300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808500543.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247560561%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A9530000%3BdisplayPrice%3A9530000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=69&price=9.53E%204&review=65&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A8808500543%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A8808500543_ID%253Bprice%253A95300%253Bclient%253Adesktop%253Bsupplier_id%253A402601808610%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11385%253Bitem_id%253A8808500543%253Bsku_id%253A16247560561%253Bshop_id%253A7701885%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Icon Nutrition Whey Isolate Plus 5Lbs | Nutrisi Fitness Terbaik",
+      "nid": "18818238788",
+      "itemId": "18818238788",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/74d2766d63f374b25788a268b09b92f9.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.152.898",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/c68ee2aee4eda496fa996ea1ab1d9d62.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078185",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c68ee2aee4eda496fa996ea1ab1d9d62.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078183",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c68ee2aee4eda496fa996ea1ab1d9d62.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078184",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/ebbce17378e468bea7baab78747c9887.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078181",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/ebbce17378e468bea7baab78747c9887.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078182",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/ebbce17378e468bea7baab78747c9887.jpg",
+          "sku": "18818238788_ID",
+          "skuId": "116254078180",
+          "itemUrl": "/products/pdp-i18818238788.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "I-CON NUTRITION",
+      "sellerId": "403561520087",
+      "brandName": "I-CON NUTRITION",
+      "brandId": "127665619",
+      "cheapest_sku": "18818238788_ID-116254078181",
+      "skuId": "116254078181",
+      "sku": "18818238788_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "1152898",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:18818238788;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:18818238788_ID;price:1152898;client:desktop;supplier_id:403561520087;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:18204;item_id:18818238788;sku_id:116254078181;shop_id:8551652;templateInfo:-1_A3#107879_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18818238788_ID-116254078181"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F74d2766d63f374b25788a268b09b92f9.jpg&src=srp_findsimilar&item_id=18818238788&sku_id=116254078181&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=1152898.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18818238788.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116254078181%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A115289800%3BdisplayPrice%3A115289800%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1152898&review=&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A18818238788%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A18818238788_ID%253Bprice%253A1152898%253Bclient%253Adesktop%253Bsupplier_id%253A403561520087%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A18818238788%253Bsku_id%253A116254078181%253Bshop_id%253A8551652%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Everbuild nutrition whey build 5lbs wheybuild 5lb",
+      "nid": "7662636188",
+      "itemId": "7662636188",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sbe8ed62e7511414f91786c7491e50fc1T.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp860.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "D proteinfitnes",
+      "sellerId": "1000598857",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7662636188_ID-14071874224",
+      "skuId": "14071874224",
+      "sku": "7662636188_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        18204
+      ],
+      "price": "860000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Weyth+Nutrition;nid:7662636188;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:7662636188_ID;price:860000;client:desktop;supplier_id:1000598857;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:18204;item_id:7662636188;sku_id:14071874224;shop_id:1083324;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7662636188_ID-14071874224"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSbe8ed62e7511414f91786c7491e50fc1T.jpg&src=srp_findsimilar&item_id=7662636188&sku_id=14071874224&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=860000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7662636188.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14071874224%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A86000000%3BdisplayPrice%3A86000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=8.6E%205&review=&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A7662636188%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A7662636188_ID%253Bprice%253A860000%253Bclient%253Adesktop%253Bsupplier_id%253A1000598857%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18204%253Bitem_id%253A7662636188%253Bsku_id%253A14071874224%253Bshop_id%253A1083324%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Everbuild Nutrition 100% Lean Gain Mass Build 6 Lbs",
+      "nid": "6274874270",
+      "itemId": "6274874270",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  23% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-live-01.slatic.net/p/01023715a2f538a685843f8cab481795.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp580.000",
+      "discount": "23% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "Muscleshop168",
+      "sellerId": "400610847037",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6274874270_ID-11909680427",
+      "skuId": "11909680427",
+      "sku": "6274874270_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        5157
+      ],
+      "price": "580000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "750000",
+      "clickTrace": "query:Weyth+Nutrition;nid:6274874270;src:LazadaMainSrp;rn:c312451037384496d6bb1145a6be5e57;region:id;sku:6274874270_ID;price:580000;client:desktop;supplier_id:400610847037;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:5157;item_id:6274874270;sku_id:11909680427;shop_id:3195478;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6274874270_ID-11909680427"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-live-01.slatic.net%2Fp%2F01023715a2f538a685843f8cab481795.jpg&src=srp_findsimilar&item_id=6274874270&sku_id=11909680427&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Weyth%2BNutrition&similarType=findSimilarV1&price=580000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6274874270.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11909680427%3Bsource%3Alazada-search-voucher%3Bsn%3Ac312451037384496d6bb1145a6be5e57%3BoriginPrice%3A58000000%3BdisplayPrice%3A58000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276857588&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=5.8E%205&review=1&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=c312451037384496d6bb1145a6be5e57&clickTrackInfo=query%253AWeyth%252BNutrition%253Bnid%253A6274874270%253Bsrc%253ALazadaMainSrp%253Brn%253Ac312451037384496d6bb1145a6be5e57%253Bregion%253Aid%253Bsku%253A6274874270_ID%253Bprice%253A580000%253Bclient%253Adesktop%253Bsupplier_id%253A400610847037%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A5157%253Bitem_id%253A6274874270%253Bsku_id%253A11909680427%253Bshop_id%253A3195478%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

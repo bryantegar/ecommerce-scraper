@@ -1,0 +1,2615 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Vidoran",
+  "page": 3,
+  "job_id": "23e8fece-ef93-417d-b621-227ef81a5db7",
+  "scraped_at": "2026-05-20T18:34:05.563323",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "v1d0r4n Xm4rt 1 plu$+ susu bubuk 925gram",
+      "nid": "8789516469",
+      "itemId": "8789516469",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  2% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S944002468d3b4bb69c1336beddac9125w.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp103.300",
+      "discount": "2% Off",
+      "ratingScore": "4.954545454545454",
+      "review": "22",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8789516469_ID-16233514422",
+      "skuId": "16233514422",
+      "sku": "8789516469_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "103300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "105500",
+      "clickTrace": "query:Vidoran;nid:8789516469;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8789516469_ID;price:103300;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:18471;item_id:8789516469;sku_id:16233514422;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "50 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8789516469_ID-16233514422"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS944002468d3b4bb69c1336beddac9125w.jpg&src=srp_findsimilar&item_id=8789516469&sku_id=16233514422&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=103300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8789516469.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16233514422%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A10330000%3BdisplayPrice%3A10330000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.954545454545454&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=50&price=1.033E%205&review=22&location=Kota%20Surabaya&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8789516469%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8789516469_ID%253Bprice%253A103300%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8789516469%253Bsku_id%253A16233514422%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Multivitamin Suplemen Nutrisi Otak Anak Sirup dan Tablet Hisap",
+      "nid": "7990488119",
+      "itemId": "7990488119",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  11% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/9bc5734d5316a8ce7dc6f5c1c5f32409.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.800",
+      "discount": "11% Off",
+      "ratingScore": "4.947368421052632",
+      "review": "19",
+      "location": "Kota Surabaya",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/14c03c3175bfc756d6fd452b9f8e837f.jpg",
+          "sku": "7990488119_ID",
+          "skuId": "14410684309",
+          "itemUrl": "/products/pdp-i7990488119.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/14c03c3175bfc756d6fd452b9f8e837f.jpg",
+          "sku": "7990488119_ID",
+          "skuId": "14410684312",
+          "itemUrl": "/products/pdp-i7990488119.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/9bc5734d5316a8ce7dc6f5c1c5f32409.jpg",
+          "sku": "7990488119_ID",
+          "skuId": "14410684310",
+          "itemUrl": "/products/pdp-i7990488119.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "berkah amanah sehati",
+      "sellerId": "400664838771",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7990488119_ID-14410684311",
+      "skuId": "14410684311",
+      "sku": "7990488119_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "17800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "20100",
+      "clickTrace": "query:Vidoran;nid:7990488119;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7990488119_ID;price:17800;client:desktop;supplier_id:400664838771;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:6335;item_id:7990488119;sku_id:14410684311;shop_id:4931725;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "49 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7990488119_ID-14410684311"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F9bc5734d5316a8ce7dc6f5c1c5f32409.jpg&src=srp_findsimilar&item_id=7990488119&sku_id=14410684311&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=17800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7990488119.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14410684311%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1780000%3BdisplayPrice%3A1780000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.947368421052632&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=49&price=1.78E%204&review=19&location=Kota%20Surabaya&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7990488119%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7990488119_ID%253Bprice%253A17800%253Bclient%253Adesktop%253Bsupplier_id%253A400664838771%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A7990488119%253Bsku_id%253A14410684311%253Bshop_id%253A4931725%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy Vitamin Anak Vitamin C Jelly Doraemon Rasa Jeruk",
+      "nid": "7892516112",
+      "itemId": "7892516112",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  25% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1972efc7a9befa1b932d667e09a0f1c5.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp19.500",
+      "discount": "25% Off",
+      "ratingScore": "4.666666666666667",
+      "review": "15",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "Apotek Budi Sehat",
+      "sellerId": "401680368898",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7892516112_ID-14306768243",
+      "skuId": "14306768243",
+      "sku": "7892516112_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "19500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "25999",
+      "clickTrace": "query:Vidoran;nid:7892516112;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7892516112_ID;price:19500;client:desktop;supplier_id:401680368898;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:18703;item_id:7892516112;sku_id:14306768243;shop_id:6851203;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "36 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7892516112_ID-14306768243"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1972efc7a9befa1b932d667e09a0f1c5.jpg&src=srp_findsimilar&item_id=7892516112&sku_id=14306768243&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=19500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7892516112.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14306768243%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1950000%3BdisplayPrice%3A1950000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.666666666666667&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=36&price=1.95E%204&review=15&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7892516112%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7892516112_ID%253Bprice%253A19500%253Bclient%253Adesktop%253Bsupplier_id%253A401680368898%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A7892516112%253Bsku_id%253A14306768243%253Bshop_id%253A6851203%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIDORAN 6-12 ISI 24 BOX (1 KARTON). perbox isi 125gr.exp MARET 2027",
+      "nid": "8748990305",
+      "itemId": "8748990305",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S4b09e31a32934985ad1a1aca06079677P.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp143.000",
+      "ratingScore": "4.882352941176471",
+      "review": "17",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "agensusu08",
+      "sellerId": "400683801858",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8748990305_ID-16190702457",
+      "skuId": "16190702457",
+      "sku": "8748990305_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "143000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8748990305;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8748990305_ID;price:143000;client:desktop;supplier_id:400683801858;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:11382;item_id:8748990305;sku_id:16190702457;shop_id:5033414;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "34 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8748990305_ID-16190702457"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS4b09e31a32934985ad1a1aca06079677P.jpg&src=srp_findsimilar&item_id=8748990305&sku_id=16190702457&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=143000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8748990305.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16190702457%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A14300000%3BdisplayPrice%3A14300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.882352941176471&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=34&price=1.43E%205&review=17&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8748990305%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8748990305_ID%253Bprice%253A143000%253Bclient%253Adesktop%253Bsupplier_id%253A400683801858%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8748990305%253Bsku_id%253A16190702457%253Bshop_id%253A5033414%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran 0-6 bln 125 gr exp. Nov 2027 isi 6 box",
+      "nid": "8704470084",
+      "itemId": "8704470084",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S1d6db2f9939443ee837e8779eff6468dc.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp42.000",
+      "ratingScore": "4.6875",
+      "review": "16",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "Tokosusu87",
+      "sellerId": "403398048098",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8704470084_ID-16141352342",
+      "skuId": "16141352342",
+      "sku": "8704470084_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "42000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8704470084;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8704470084_ID;price:42000;client:desktop;supplier_id:403398048098;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:18703;item_id:8704470084;sku_id:16141352342;shop_id:8188600;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "47 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8704470084_ID-16141352342"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS1d6db2f9939443ee837e8779eff6468dc.jpg&src=srp_findsimilar&item_id=8704470084&sku_id=16141352342&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=42000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8704470084.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16141352342%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A4200000%3BdisplayPrice%3A4200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.6875&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=47&price=4.2E%204&review=16&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8704470084%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8704470084_ID%253Bprice%253A42000%253Bclient%253Adesktop%253Bsupplier_id%253A403398048098%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8704470084%253Bsku_id%253A16141352342%253Bshop_id%253A8188600%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran kemasan baru Susu Bubuk 3+ 900gr madu/ vanila Exp Feb 2027",
+      "nid": "8675676882",
+      "itemId": "8675676882",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sef4cedf7d2f54e218662a3792b097707Y.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp75.000",
+      "discount": "6% Off",
+      "ratingScore": "4.735849056603773",
+      "review": "53",
+      "location": "Kab. Bandung",
+      "thumbs": [],
+      "sellerName": "syalumoktav26",
+      "sellerId": "400616061850",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8675676882_ID-16113692501",
+      "skuId": "16113692501",
+      "sku": "8675676882_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "75000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "79500",
+      "clickTrace": "query:Vidoran;nid:8675676882;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8675676882_ID;price:75000;client:desktop;supplier_id:400616061850;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:18471;item_id:8675676882;sku_id:16113692501;shop_id:3648169;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "135 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8675676882_ID-16113692501"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSef4cedf7d2f54e218662a3792b097707Y.jpg&src=srp_findsimilar&item_id=8675676882&sku_id=16113692501&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=75000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8675676882.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16113692501%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A7500000%3BdisplayPrice%3A7500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.735849056603773&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=135&price=7.5E%204&review=53&location=Kab.%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8675676882%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8675676882_ID%253Bprice%253A75000%253Bclient%253Adesktop%253Bsupplier_id%253A400616061850%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8675676882%253Bsku_id%253A16113692501%253Bshop_id%253A3648169%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart 3+ Box Kemasan 700 g",
+      "nid": "7928214084",
+      "itemId": "7928214084",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a6538216538d5be8d3a64930f658f135.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.650",
+      "ratingScore": "4.7407407407407405",
+      "review": "27",
+      "location": "Kota Bekasi",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/d37382ba87f3c2e5a72e0d9dbb2ca670.jpg",
+          "sku": "7928214084_ID",
+          "skuId": "14343000105",
+          "itemUrl": "/products/pdp-i7928214084.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f0e7695c9122580633cccd1cbf6cb07.jpg",
+          "sku": "7928214084_ID",
+          "skuId": "14343000106",
+          "itemUrl": "/products/pdp-i7928214084.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka",
+      "sellerId": "400619622149",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7928214084_ID-14343000105",
+      "skuId": "14343000105",
+      "sku": "7928214084_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "65650",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7928214084;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7928214084_ID;price:65650;client:desktop;supplier_id:400619622149;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:13367;item_id:7928214084;sku_id:14343000105;shop_id:3952166;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "84 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7928214084_ID-14343000105"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa6538216538d5be8d3a64930f658f135.jpg&src=srp_findsimilar&item_id=7928214084&sku_id=14343000105&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=65650.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7928214084.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14343000105%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A6565000%3BdisplayPrice%3A6565000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.7407407407407405&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=84&price=6.565E%204&review=27&location=Kota%20Bekasi&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7928214084%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7928214084_ID%253Bprice%253A65650%253Bclient%253Adesktop%253Bsupplier_id%253A400619622149%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7928214084%253Bsku_id%253A14343000105%253Bshop_id%253A3952166%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Vidoran 5+ Madu/Coklat 900gr",
+      "nid": "8796160091",
+      "itemId": "8796160091",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S86cc02feff8549258045c79deb768961d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp75.000",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [],
+      "sellerName": "KhalStore_",
+      "sellerId": "401803376629",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8796160091_ID-16239894108",
+      "skuId": "16239894108",
+      "sku": "8796160091_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "75000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8796160091;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8796160091_ID;price:75000;client:desktop;supplier_id:401803376629;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:18471;item_id:8796160091;sku_id:16239894108;shop_id:7008319;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "12 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8796160091_ID-16239894108"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS86cc02feff8549258045c79deb768961d.jpg&src=srp_findsimilar&item_id=8796160091&sku_id=16239894108&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=75000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8796160091.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16239894108%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A7500000%3BdisplayPrice%3A7500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=12&price=7.5E%204&review=2&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8796160091%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8796160091_ID%253Bprice%253A75000%253Bclient%253Adesktop%253Bsupplier_id%253A401803376629%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8796160091%253Bsku_id%253A16239894108%253Bshop_id%253A7008319%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart 3+ Box Kemasan 700 g",
+      "nid": "8648786912",
+      "itemId": "8648786912",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a6538216538d5be8d3a64930f658f135.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp63.250",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/2f0e7695c9122580633cccd1cbf6cb07.jpg",
+          "sku": "8648786912_ID",
+          "skuId": "16074354085",
+          "itemUrl": "/products/pdp-i8648786912.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/d37382ba87f3c2e5a72e0d9dbb2ca670.jpg",
+          "sku": "8648786912_ID",
+          "skuId": "16074354084",
+          "itemUrl": "/products/pdp-i8648786912.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Jakarta Selatan",
+      "sellerId": "401865824385",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8648786912_ID-16074354085",
+      "skuId": "16074354085",
+      "sku": "8648786912_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13368
+      ],
+      "price": "63250",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8648786912;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8648786912_ID;price:63250;client:desktop;supplier_id:401865824385;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:13368;item_id:8648786912;sku_id:16074354085;shop_id:7080755;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "14 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8648786912_ID-16074354085"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa6538216538d5be8d3a64930f658f135.jpg&src=srp_findsimilar&item_id=8648786912&sku_id=16074354085&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=63250.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8648786912.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16074354085%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A6325000%3BdisplayPrice%3A6325000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=14&price=6.325E%204&review=2&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8648786912%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8648786912_ID%253Bprice%253A63250%253Bclient%253Adesktop%253Bsupplier_id%253A401865824385%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13368%253Bitem_id%253A8648786912%253Bsku_id%253A16074354085%253Bshop_id%253A7080755%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart 5+ Box Kemasan 575 g",
+      "nid": "8770328510",
+      "itemId": "8770328510",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a32ddfc9e48fc8b9b2d91014bf9ebb30.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp52.550",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Semarang",
+      "thumbs": [],
+      "sellerName": "Apotek Heka Majapahit",
+      "sellerId": "402350256135",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8770328510_ID-16213896593",
+      "skuId": "16213896593",
+      "sku": "8770328510_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "52550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8770328510;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8770328510_ID;price:52550;client:desktop;supplier_id:402350256135;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:13367;item_id:8770328510;sku_id:16213896593;shop_id:7449306;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "9 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8770328510_ID-16213896593"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa32ddfc9e48fc8b9b2d91014bf9ebb30.png&src=srp_findsimilar&item_id=8770328510&sku_id=16213896593&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=52550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8770328510.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16213896593%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A5255000%3BdisplayPrice%3A5255000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9&price=5.255E%204&review=1&location=Kota%20Semarang&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8770328510%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8770328510_ID%253Bprice%253A52550%253Bclient%253Adesktop%253Bsupplier_id%253A402350256135%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8770328510%253Bsku_id%253A16213896593%253Bshop_id%253A7449306%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Vidorant 1+ madu vanila 925gr",
+      "nid": "8720348029",
+      "itemId": "8720348029",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S5a8a87a561064688945924a24e74f3a6M.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp44.999",
+      "ratingScore": "4.333333333333333",
+      "review": "6",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sd29eb3529a7141cf84bf4ae97bd4f34f5.jpg",
+          "sku": "8720348029_ID",
+          "skuId": "16157202241",
+          "itemUrl": "/products/pdp-i8720348029.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S9fbe20bd2d9e4cf6bd9c601357eac67cX.jpg",
+          "sku": "8720348029_ID",
+          "skuId": "16157202242",
+          "itemUrl": "/products/pdp-i8720348029.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S94aeceafed2a4e8489abbd584bc47fd0F.jpg",
+          "sku": "8720348029_ID",
+          "skuId": "16157202243",
+          "itemUrl": "/products/pdp-i8720348029.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S8edf2791a8d94a9bbc2321335f6d5cafT.jpg",
+          "sku": "8720348029_ID",
+          "skuId": "16157202244",
+          "itemUrl": "/products/pdp-i8720348029.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "lariz palugada",
+      "sellerId": "400621572609",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8720348029_ID-16157202243",
+      "skuId": "16157202243",
+      "sku": "8720348029_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "44999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8720348029;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8720348029_ID;price:44999;client:desktop;supplier_id:400621572609;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:18471;item_id:8720348029;sku_id:16157202243;shop_id:4196021;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "28 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8720348029_ID-16157202243"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS5a8a87a561064688945924a24e74f3a6M.jpg&src=srp_findsimilar&item_id=8720348029&sku_id=16157202243&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=44999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8720348029.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16157202243%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A4499900%3BdisplayPrice%3A4499900%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.333333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=28&price=44999&review=6&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8720348029%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8720348029_ID%253Bprice%253A44999%253Bclient%253Adesktop%253Bsupplier_id%253A400621572609%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8720348029%253Bsku_id%253A16157202243%253Bshop_id%253A4196021%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "vidoran my baby 0 6 bulan 925gr",
+      "nid": "8791830353",
+      "itemId": "8791830353",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S025ac225e70f443bb51b835a0846c9706.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp79.500",
+      "ratingScore": "5.0",
+      "review": "4",
+      "location": "Kota Cimahi",
+      "thumbs": [],
+      "sellerName": "Belvamirza",
+      "sellerId": "400722453706",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8791830353_ID-16235592395",
+      "skuId": "16235592395",
+      "sku": "8791830353_ID",
+      "categories": [
+        13361,
+        10100747,
+        13373,
+        13374
+      ],
+      "price": "79500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8791830353;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8791830353_ID;price:79500;client:desktop;supplier_id:400722453706;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:13374;item_id:8791830353;sku_id:16235592395;shop_id:5344837;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8791830353_ID-16235592395"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS025ac225e70f443bb51b835a0846c9706.jpg&src=srp_findsimilar&item_id=8791830353&sku_id=16235592395&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=79500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8791830353.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16235592395%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A7950000%3BdisplayPrice%3A7950000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16&price=7.95E%204&review=4&location=Kota%20Cimahi&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8791830353%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8791830353_ID%253Bprice%253A79500%253Bclient%253Adesktop%253Bsupplier_id%253A400722453706%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13374%253Bitem_id%253A8791830353%253Bsku_id%253A16235592395%253Bshop_id%253A5344837%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart 3+ Vanilla 700gr",
+      "nid": "8709516498",
+      "itemId": "8709516498",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  9% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/80dc6dac5c1849f7c51c69200a864a62.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp49.300",
+      "discount": "9% Off",
+      "ratingScore": "4.887096774193548",
+      "review": "62",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Tempo Store LazMart",
+      "sellerId": "403398752115",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8709516498_ID-16146194144",
+      "skuId": "16146194144",
+      "sku": "8709516498_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "49300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "54400",
+      "clickTrace": "query:Vidoran;nid:8709516498;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8709516498_ID;price:49300;client:desktop;supplier_id:403398752115;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:13367;item_id:8709516498;sku_id:16146194144;shop_id:8189098;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "338 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8709516498_ID-16146194144"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F80dc6dac5c1849f7c51c69200a864a62.png&src=srp_findsimilar&item_id=8709516498&sku_id=16146194144&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=49300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8709516498.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16146194144%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A4930000%3BdisplayPrice%3A4930000%3BsinglePromotionId%3A910000048890545%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.887096774193548&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=338&price=4.93E%204&review=62&location=Kota%20Depok&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8709516498%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8709516498_ID%253Bprice%253A49300%253Bclient%253Adesktop%253Bsupplier_id%253A403398752115%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8709516498%253Bsku_id%253A16146194144%253Bshop_id%253A8189098%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Vidoran 5+ 925 gr madu /vanila",
+      "nid": "8675854906",
+      "itemId": "8675854906",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sf52e6b8d8e644d52ac3b0f108b3bb39eZ.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp66.900",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sf52e6b8d8e644d52ac3b0f108b3bb39eZ.jpg",
+          "sku": "8675854906_ID",
+          "skuId": "16190644328",
+          "itemUrl": "/products/pdp-i8675854906.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Adit7686",
+      "sellerId": "401514384614",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8675854906_ID-16190644328",
+      "skuId": "16190644328",
+      "sku": "8675854906_ID",
+      "categories": [
+        9645,
+        18051,
+        18134,
+        18437
+      ],
+      "price": "66900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8675854906;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8675854906_ID;price:66900;client:desktop;supplier_id:401514384614;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:18437;item_id:8675854906;sku_id:16190644328;shop_id:6671812;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8675854906_ID-16190644328"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSf52e6b8d8e644d52ac3b0f108b3bb39eZ.jpg&src=srp_findsimilar&item_id=8675854906&sku_id=16190644328&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=66900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8675854906.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16190644328%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A6690000%3BdisplayPrice%3A6690000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=6.69E%204&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8675854906%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8675854906_ID%253Bprice%253A66900%253Bclient%253Adesktop%253Bsupplier_id%253A401514384614%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18437%253Bitem_id%253A8675854906%253Bsku_id%253A16190644328%253Bshop_id%253A6671812%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart Susu Uht 110ml 1 Dus Isi 40 Pcs Coklat Strawberry Vanilla Madu",
+      "nid": "8738854011",
+      "itemId": "8738854011",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  1% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S481ce58a486a455583fb042830f23507X.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp137.600",
+      "discount": "1% Off",
+      "ratingScore": "5.0",
+      "review": "14",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "Raline Shop Groceries ",
+      "sellerId": "401934016075",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8738854011_ID-16179366917",
+      "skuId": "16179366917",
+      "sku": "8738854011_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "137600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "139500",
+      "clickTrace": "query:Vidoran;nid:8738854011;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8738854011_ID;price:137600;client:desktop;supplier_id:401934016075;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:18471;item_id:8738854011;sku_id:16179366917;shop_id:7125591;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "44 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8738854011_ID-16179366917"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS481ce58a486a455583fb042830f23507X.jpg&src=srp_findsimilar&item_id=8738854011&sku_id=16179366917&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=137600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8738854011.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16179366917%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A13760000%3BdisplayPrice%3A13760000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=44&price=1.376E%205&review=14&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8738854011%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8738854011_ID%253Bprice%253A137600%253Bclient%253Adesktop%253Bsupplier_id%253A401934016075%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8738854011%253Bsku_id%253A16179366917%253Bshop_id%253A7125591%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy nutri multivitamin",
+      "nid": "7557794920",
+      "itemId": "7557794920",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  35% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S66937db4aced4591b97d05486c9231b1R.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp19.500",
+      "discount": "35% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Tangerang Selatan",
+      "thumbs": [],
+      "sellerName": "Aiza R.S 07",
+      "sellerId": "401140160369",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7557794920_ID-13969620168",
+      "skuId": "13969620168",
+      "sku": "7557794920_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "19500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "29900",
+      "clickTrace": "query:Vidoran;nid:7557794920;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7557794920_ID;price:19500;client:desktop;supplier_id:401140160369;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:18703;item_id:7557794920;sku_id:13969620168;shop_id:6333036;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7557794920_ID-13969620168"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS66937db4aced4591b97d05486c9231b1R.jpg&src=srp_findsimilar&item_id=7557794920&sku_id=13969620168&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=19500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7557794920.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13969620168%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1950000%3BdisplayPrice%3A1950000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=1.95E%204&review=1&location=Kota%20Tangerang%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7557794920%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7557794920_ID%253Bprice%253A19500%253Bclient%253Adesktop%253Bsupplier_id%253A401140160369%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A7557794920%253Bsku_id%253A13969620168%253Bshop_id%253A6333036%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIDORAN IBUNDA/SUSU IBU HAMIL",
+      "nid": "7944132367",
+      "itemId": "7944132367",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sccbdaaac8bc44a8fb65c986875c755e7W.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp37.100",
+      "ratingScore": "4.838734567901234",
+      "review": "1296",
+      "location": "Kota Bandung",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sccbdaaac8bc44a8fb65c986875c755e7W.jpg",
+          "sku": "7944132367_ID",
+          "skuId": "14679800928",
+          "itemUrl": "/products/pdp-i7944132367.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sccbdaaac8bc44a8fb65c986875c755e7W.jpg",
+          "sku": "7944132367_ID",
+          "skuId": "14679800929",
+          "itemUrl": "/products/pdp-i7944132367.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sccbdaaac8bc44a8fb65c986875c755e7W.jpg",
+          "sku": "7944132367_ID",
+          "skuId": "14357238354",
+          "itemUrl": "/products/pdp-i7944132367.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Mommy Twins25 ",
+      "sellerId": "401730368835",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7944132367_ID-14679800928",
+      "skuId": "14679800928",
+      "sku": "7944132367_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "37100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7944132367;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7944132367_ID;price:37100;client:desktop;supplier_id:401730368835;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:11383;item_id:7944132367;sku_id:14679800928;shop_id:6912362;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7944132367_ID-14679800928"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSccbdaaac8bc44a8fb65c986875c755e7W.jpg&src=srp_findsimilar&item_id=7944132367&sku_id=14679800928&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=37100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7944132367.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14679800928%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A3710000%3BdisplayPrice%3A3710000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.838734567901234&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3186&price=3.71E%204&review=1296&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7944132367%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7944132367_ID%253Bprice%253A37100%253Bclient%253Adesktop%253Bsupplier_id%253A401730368835%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A7944132367%253Bsku_id%253A14679800928%253Bshop_id%253A6912362%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Vidoran Xmart 1+ Madu 700gr",
+      "nid": "18815225702",
+      "itemId": "18815225702",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  11% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6bd5549ffd2ac8e97a02d8b8df6e42a0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp155.600",
+      "discount": "11% Off",
+      "ratingScore": "5.0",
+      "review": "5",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Tempo Store LazMart",
+      "sellerId": "403398752115",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "18815225702_ID-116252218501",
+      "skuId": "116252218501",
+      "sku": "18815225702_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "155600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "174900",
+      "clickTrace": "query:Vidoran;nid:18815225702;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:18815225702_ID;price:155600;client:desktop;supplier_id:403398752115;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:15819;item_id:18815225702;sku_id:116252218501;shop_id:8189098;templateInfo:-1_A3_E#107879_A3_E#",
+      "itemSoldCntShow": "16 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18815225702_ID-116252218501"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6bd5549ffd2ac8e97a02d8b8df6e42a0.png&src=srp_findsimilar&item_id=18815225702&sku_id=116252218501&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=155600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18815225702.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116252218501%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A15560000%3BdisplayPrice%3A15560000%3BsinglePromotionId%3A910000048890545%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16&price=1.556E%205&review=5&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A18815225702%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A18815225702_ID%253Bprice%253A155600%253Bclient%253Adesktop%253Bsupplier_id%253A403398752115%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A18815225702%253Bsku_id%253A116252218501%253Bshop_id%253A8189098%253BtemplateInfo%253A-1_A3_E%2523107879_A3_E%2523"
+    },
+    {
+      "name": "Vidoran Xmart 1+ Vanilla 700gr",
+      "nid": "8709480711",
+      "itemId": "8709480711",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  10% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0461f63c87b807355dca3487738df858.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp52.600",
+      "discount": "10% Off",
+      "ratingScore": "4.9743589743589745",
+      "review": "39",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Tempo Store LazMart",
+      "sellerId": "403398752115",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8709480711_ID-16146076917",
+      "skuId": "16146076917",
+      "sku": "8709480711_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "52600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "58300",
+      "clickTrace": "query:Vidoran;nid:8709480711;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8709480711_ID;price:52600;client:desktop;supplier_id:403398752115;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:15819;item_id:8709480711;sku_id:16146076917;shop_id:8189098;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "142 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8709480711_ID-16146076917"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0461f63c87b807355dca3487738df858.png&src=srp_findsimilar&item_id=8709480711&sku_id=16146076917&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=52600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8709480711.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16146076917%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A5260000%3BdisplayPrice%3A5260000%3BsinglePromotionId%3A910000048904459%3BsingleToolCode%3AshopPromPrice_categorySubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.9743589743589745&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=142&price=5.26E%204&review=39&location=Kota%20Depok&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8709480711%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8709480711_ID%253Bprice%253A52600%253Bclient%253Adesktop%253Bsupplier_id%253A403398752115%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8709480711%253Bsku_id%253A16146076917%253Bshop_id%253A8189098%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran My Baby Milk 0-6 Bulan Kemasan 350 g",
+      "nid": "8790674661",
+      "itemId": "8790674661",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7b934ed7da4a6aedb66a1f2d4ce4954e.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp38.450",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Apotek Heka Depok",
+      "sellerId": "401929104753",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8790674661_ID-16234182997",
+      "skuId": "16234182997",
+      "sku": "8790674661_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "38450",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8790674661;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8790674661_ID;price:38450;client:desktop;supplier_id:401929104753;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:13365;item_id:8790674661;sku_id:16234182997;shop_id:7123686;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8790674661_ID-16234182997"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7b934ed7da4a6aedb66a1f2d4ce4954e.jpg&src=srp_findsimilar&item_id=8790674661&sku_id=16234182997&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=38450.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8790674661.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16234182997%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A3845000%3BdisplayPrice%3A3845000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=3.845E%204&review=1&location=Kota%20Depok&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8790674661%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8790674661_ID%253Bprice%253A38450%253Bclient%253Adesktop%253Bsupplier_id%253A401929104753%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8790674661%253Bsku_id%253A16234182997%253Bshop_id%253A7123686%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy Vitamin C box isi 3 sachet",
+      "nid": "2795234541",
+      "itemId": "2795234541",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/8828e71691b5bc2f65340424b66aca29.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp20.000",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Deenee Shop",
+      "sellerId": "400596504271",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "2795234541_ID-13653232809",
+      "skuId": "13653232809",
+      "sku": "2795234541_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "20000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:2795234541;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:2795234541_ID;price:20000;client:desktop;supplier_id:400596504271;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:18703;item_id:2795234541;sku_id:13653232809;shop_id:2098627;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "21 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "2795234541_ID-13653232809"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F8828e71691b5bc2f65340424b66aca29.jpg&src=srp_findsimilar&item_id=2795234541&sku_id=13653232809&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=20000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i2795234541.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13653232809%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A2000000%3BdisplayPrice%3A2000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=21&price=2E%204&review=1&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A2795234541%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A2795234541_ID%253Bprice%253A20000%253Bclient%253Adesktop%253Bsupplier_id%253A400596504271%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A2795234541%253Bsku_id%253A13653232809%253Bshop_id%253A2098627%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Syrup 100 ml - Sirup Suplemen Anak",
+      "nid": "7578732190",
+      "itemId": "7578732190",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/9652151026ce21f0c28d6692ce587415.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp23.750",
+      "ratingScore": "4.7860082304526745",
+      "review": "243",
+      "location": "Kota Bandung",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/ebcf19b683ff88846f46156fa190feaf.jpg",
+          "sku": "7578732190_ID",
+          "skuId": "13996634609",
+          "itemUrl": "/products/pdp-i7578732190.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/6aa8beaa5174e1e37263a526cc95552f.jpg",
+          "sku": "7578732190_ID",
+          "skuId": "13996634606",
+          "itemUrl": "/products/pdp-i7578732190.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/92e27a6c045aab26efcb033cad3ec400.jpg",
+          "sku": "7578732190_ID",
+          "skuId": "13996634608",
+          "itemUrl": "/products/pdp-i7578732190.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Bandung",
+      "sellerId": "400982064955",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7578732190_ID-13996634609",
+      "skuId": "13996634609",
+      "sku": "7578732190_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6340
+      ],
+      "price": "23750",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7578732190;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7578732190_ID;price:23750;client:desktop;supplier_id:400982064955;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:6340;item_id:7578732190;sku_id:13996634609;shop_id:6209531;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "647 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7578732190_ID-13996634609"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F9652151026ce21f0c28d6692ce587415.jpg&src=srp_findsimilar&item_id=7578732190&sku_id=13996634609&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=23750.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7578732190.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13996634609%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A2375000%3BdisplayPrice%3A2375000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.7860082304526745&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=647&price=2.375E%204&review=243&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7578732190%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7578732190_ID%253Bprice%253A23750%253Bclient%253Adesktop%253Bsupplier_id%253A400982064955%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6340%253Bitem_id%253A7578732190%253Bsku_id%253A13996634609%253Bshop_id%253A6209531%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "VIdoran Smart Vitamin Rasa Jeruk 100ml",
+      "nid": "8203170691",
+      "itemId": "8203170691",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/552c064f309c12e69d452a1bfb279e8c.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp21.900",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "CMB Beauty",
+      "sellerId": "400693995366",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8203170691_ID-14611048702",
+      "skuId": "14611048702",
+      "sku": "8203170691_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "21900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8203170691;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8203170691_ID;price:21900;client:desktop;supplier_id:400693995366;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:11382;item_id:8203170691;sku_id:14611048702;shop_id:5116573;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8203170691_ID-14611048702"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F552c064f309c12e69d452a1bfb279e8c.jpg&src=srp_findsimilar&item_id=8203170691&sku_id=14611048702&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=21900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8203170691.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14611048702%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A2190000%3BdisplayPrice%3A2190000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=2.19E%204&review=&location=Kab.%20Bogor&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8203170691%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8203170691_ID%253Bprice%253A21900%253Bclient%253Adesktop%253Bsupplier_id%253A400693995366%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8203170691%253Bsku_id%253A14611048702%253Bshop_id%253A5116573%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran My Baby Milk 0-6 Bulan Kemasan 925 g",
+      "nid": "8789618422",
+      "itemId": "8789618422",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0d2142fb2b7998cda3035653f0980033.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp99.350",
+      "ratingScore": "4.714285714285714",
+      "review": "7",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Apotek Heka Bogor",
+      "sellerId": "401812288873",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8789618422_ID-16233578660",
+      "skuId": "16233578660",
+      "sku": "8789618422_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "99350",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8789618422;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8789618422_ID;price:99350;client:desktop;supplier_id:401812288873;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:13365;item_id:8789618422;sku_id:16233578660;shop_id:7020039;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8789618422_ID-16233578660"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0d2142fb2b7998cda3035653f0980033.jpg&src=srp_findsimilar&item_id=8789618422&sku_id=16233578660&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=99350.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8789618422.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16233578660%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A9935000%3BdisplayPrice%3A9935000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.714285714285714&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=9.935E%204&review=7&location=Kab.%20Bogor&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8789618422%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8789618422_ID%253Bprice%253A99350%253Bclient%253Adesktop%253Bsupplier_id%253A401812288873%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8789618422%253Bsku_id%253A16233578660%253Bshop_id%253A7020039%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy Vitamin C dan Multi Vit Ex 2025",
+      "nid": "8167572158",
+      "itemId": "8167572158",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  19% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/08e5fe3d190c15e4938312f62985dcb8.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp14.900",
+      "discount": "19% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tangerang Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/f07f3d91fc1cfac0798466c59ae909e8.jpg",
+          "sku": "8167572158_ID",
+          "skuId": "14635958174",
+          "itemUrl": "/products/pdp-i8167572158.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "TK Tiga Pahlawan",
+      "sellerId": "400716072980",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8167572158_ID-14570362759",
+      "skuId": "14570362759",
+      "sku": "8167572158_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "14900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "18444",
+      "clickTrace": "query:Vidoran;nid:8167572158;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8167572158_ID;price:14900;client:desktop;supplier_id:400716072980;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:18703;item_id:8167572158;sku_id:14570362759;shop_id:5293587;templateInfo:-1_C#107879_A3_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8167572158_ID-14570362759"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F08e5fe3d190c15e4938312f62985dcb8.jpg&src=srp_findsimilar&item_id=8167572158&sku_id=14570362759&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=14900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8167572158.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14570362759%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1490000%3BdisplayPrice%3A1490000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.49E%204&review=&location=Kota%20Tangerang%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8167572158%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8167572158_ID%253Bprice%253A14900%253Bclient%253Adesktop%253Bsupplier_id%253A400716072980%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8167572158%253Bsku_id%253A14570362759%253Bshop_id%253A5293587%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "VIDORAN 3+ VANILA 925GR - RAJA SUSU",
+      "nid": "8634292565",
+      "itemId": "8634292565",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/b69ae27aaf22193a3b2282a4f273b773.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp74.877",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634292565_ID-16050874103",
+      "skuId": "16050874103",
+      "sku": "8634292565_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "74877",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8634292565;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8634292565_ID;price:74877;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:18203;item_id:8634292565;sku_id:16050874103;shop_id:7050897;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634292565_ID-16050874103"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fb69ae27aaf22193a3b2282a4f273b773.jpg&src=srp_findsimilar&item_id=8634292565&sku_id=16050874103&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=74877.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634292565.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050874103%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A7487700%3BdisplayPrice%3A7487700%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=74877&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8634292565%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8634292565_ID%253Bprice%253A74877%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8634292565%253Bsku_id%253A16050874103%253Bshop_id%253A7050897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIDORAN MY BABY BERAT PERBOX 125GRAM UNTUK USIA 0-6 BULAN",
+      "nid": "8781742829",
+      "itemId": "8781742829",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/e1db139b94fe37da31aad7a702e2fd76.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.900",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Kudus",
+      "thumbs": [],
+      "sellerName": "Hansu Shop",
+      "sellerId": "401972432567",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8781742829_ID-16227520727",
+      "skuId": "16227520727",
+      "sku": "8781742829_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "9900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8781742829;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8781742829_ID;price:9900;client:desktop;supplier_id:401972432567;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:11382;item_id:8781742829;sku_id:16227520727;shop_id:7146317;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8781742829_ID-16227520727"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe1db139b94fe37da31aad7a702e2fd76.jpg&src=srp_findsimilar&item_id=8781742829&sku_id=16227520727&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=9900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8781742829.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16227520727%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A990000%3BdisplayPrice%3A990000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=9.9E%203&review=&location=Kab.%20Kudus&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8781742829%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8781742829_ID%253Bprice%253A9900%253Bclient%253Adesktop%253Bsupplier_id%253A401972432567%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8781742829%253Bsku_id%253A16227520727%253Bshop_id%253A7146317%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "vidoran uht",
+      "nid": "7929650284",
+      "itemId": "7929650284",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sab8d448354954b72872a42c24bf0a87e1.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp3.000",
+      "ratingScore": "4.972972972972973",
+      "review": "37",
+      "location": "Kota Bandung",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S49b5b9dacd1c4c1c886e473478496633G.jpg",
+          "sku": "7929650284_ID",
+          "skuId": "14343854386",
+          "itemUrl": "/products/pdp-i7929650284.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S9a547e29516b4fa69c89af15cabcc4ff2.jpg",
+          "sku": "7929650284_ID",
+          "skuId": "14343854387",
+          "itemUrl": "/products/pdp-i7929650284.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Se7f3217aa953436789f5603e69ca10d4i.jpg",
+          "sku": "7929650284_ID",
+          "skuId": "14343854388",
+          "itemUrl": "/products/pdp-i7929650284.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S980886fc40464d18a9350d8d9b9d16aff.jpg",
+          "sku": "7929650284_ID",
+          "skuId": "14343854389",
+          "itemUrl": "/products/pdp-i7929650284.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Mommy Twins25 ",
+      "sellerId": "401730368835",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7929650284_ID-14343854386",
+      "skuId": "14343854386",
+      "sku": "7929650284_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "3000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7929650284;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7929650284_ID;price:3000;client:desktop;supplier_id:401730368835;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:18471;item_id:7929650284;sku_id:14343854386;shop_id:6912362;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "248 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7929650284_ID-14343854386"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSab8d448354954b72872a42c24bf0a87e1.jpg&src=srp_findsimilar&item_id=7929650284&sku_id=14343854386&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=3000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7929650284.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14343854386%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A300000%3BdisplayPrice%3A300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.972972972972973&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=248&price=3E%203&review=37&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7929650284%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7929650284_ID%253Bprice%253A3000%253Bclient%253Adesktop%253Bsupplier_id%253A401730368835%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A7929650284%253Bsku_id%253A14343854386%253Bshop_id%253A6912362%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIDORAN SMART Tablet Hisap isi 25",
+      "nid": "7714680757",
+      "itemId": "7714680757",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S597a66fa6e6f4a8fb909c8092bba900f9.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp13.599",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Cirebon",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sfd1889192b954a9eb089cea4e0b4bb31i.jpg",
+          "sku": "7714680757_ID",
+          "skuId": "14199710519",
+          "itemUrl": "/products/pdp-i7714680757.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S609d129055e9477390da3a5ef3307ef1G.jpg",
+          "sku": "7714680757_ID",
+          "skuId": "14199710520",
+          "itemUrl": "/products/pdp-i7714680757.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SlametSentosaStore",
+      "sellerId": "400796508442",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7714680757_ID-14199710520",
+      "skuId": "14199710520",
+      "sku": "7714680757_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "13599",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7714680757;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7714680757_ID;price:13599;client:desktop;supplier_id:400796508442;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:11382;item_id:7714680757;sku_id:14199710520;shop_id:5948597;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7714680757_ID-14199710520"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS597a66fa6e6f4a8fb909c8092bba900f9.jpg&src=srp_findsimilar&item_id=7714680757&sku_id=14199710520&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=13599.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7714680757.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14199710520%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1359900%3BdisplayPrice%3A1359900%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=13599&review=1&location=Kota%20Cirebon&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7714680757%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7714680757_ID%253Bprice%253A13599%253Bclient%253Adesktop%253Bsupplier_id%253A400796508442%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A7714680757%253Bsku_id%253A14199710520%253Bshop_id%253A5948597%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Rasa Strawberry 25 Tablet hisap",
+      "nid": "5864906351",
+      "itemId": "5864906351",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/2cea5d7cae771a2bb93f072e9fba3ccb.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.900",
+      "ratingScore": "4.95",
+      "review": "20",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Mulia Cosmetics",
+      "sellerId": "1000023776",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "5864906351_ID-11328604050",
+      "skuId": "11328604050",
+      "sku": "5864906351_ID",
+      "categories": [
+        10100869,
+        3812,
+        10003010
+      ],
+      "price": "16900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:5864906351;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:5864906351_ID;price:16900;client:desktop;supplier_id:1000023776;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:10003010;item_id:5864906351;sku_id:11328604050;shop_id:516755;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "73 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "5864906351_ID-11328604050"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2cea5d7cae771a2bb93f072e9fba3ccb.jpg&src=srp_findsimilar&item_id=5864906351&sku_id=11328604050&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=16900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i5864906351.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11328604050%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1690000%3BdisplayPrice%3A1690000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.95&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=73&price=1.69E%204&review=20&location=Kab.%20Bogor&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A5864906351%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A5864906351_ID%253Bprice%253A16900%253Bclient%253Adesktop%253Bsupplier_id%253A1000023776%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003010%253Bitem_id%253A5864906351%253Bsku_id%253A11328604050%253Bshop_id%253A516755%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIDORAN 6-12 BULAN 125 Gram",
+      "nid": "8781870895",
+      "itemId": "8781870895",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/e6722bfc210df07a9e9523e5b583eab7.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp11.900",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kab. Kudus",
+      "thumbs": [],
+      "sellerName": "Hansu Shop",
+      "sellerId": "401972432567",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8781870895_ID-16227800036",
+      "skuId": "16227800036",
+      "sku": "8781870895_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "11900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8781870895;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8781870895_ID;price:11900;client:desktop;supplier_id:401972432567;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:11383;item_id:8781870895;sku_id:16227800036;shop_id:7146317;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8781870895_ID-16227800036"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe6722bfc210df07a9e9523e5b583eab7.jpg&src=srp_findsimilar&item_id=8781870895&sku_id=16227800036&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=11900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8781870895.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16227800036%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1190000%3BdisplayPrice%3A1190000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=1.19E%204&review=1&location=Kab.%20Kudus&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8781870895%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8781870895_ID%253Bprice%253A11900%253Bclient%253Adesktop%253Bsupplier_id%253A401972432567%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8781870895%253Bsku_id%253A16227800036%253Bshop_id%253A7146317%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Grow Multi Vitamin Pertumbuhan Gizi Anak Calsium Tinggi Badan Lysine Curcuma Nafsu Makan Pencernaan Anak Tidak mudah sakit menjaga Imun Tubuh Anak tablet hisap Rasa Jeruk",
+      "nid": "8028168122",
+      "itemId": "8028168122",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S2cc74e33f0a5415cbd74eb37f09a5d78G.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.985",
+      "ratingScore": "4.65",
+      "review": "20",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "Pumpkin Babies",
+      "sellerId": "400599846052",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8028168122_ID-14451830156",
+      "skuId": "14451830156",
+      "sku": "8028168122_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "17985",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8028168122;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8028168122_ID;price:17985;client:desktop;supplier_id:400599846052;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:18703;item_id:8028168122;sku_id:14451830156;shop_id:2303617;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "43 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8028168122_ID-14451830156"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS2cc74e33f0a5415cbd74eb37f09a5d78G.jpg&src=srp_findsimilar&item_id=8028168122&sku_id=14451830156&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=17985.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8028168122.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14451830156%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1798500%3BdisplayPrice%3A1798500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.65&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=43&price=17985&review=20&location=Kota%20Surabaya&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8028168122%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8028168122_ID%253Bprice%253A17985%253Bclient%253Adesktop%253Bsupplier_id%253A400599846052%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8028168122%253Bsku_id%253A14451830156%253Bshop_id%253A2303617%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy 54 g - Suplemen Vitamin Anak",
+      "nid": "7082566041",
+      "itemId": "7082566041",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/deb1b7eb429f9cb5a853416ea5af0aab.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.550",
+      "ratingScore": "4.883720930232558",
+      "review": "43",
+      "location": "Kota Semarang",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/bf4b3216188dab478055e3fa0e103414.jpg",
+          "sku": "7082566041_ID",
+          "skuId": "13409074823",
+          "itemUrl": "/products/pdp-i7082566041.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/d1d0e0ddb55d4e0710dfb3db75dda53c.jpg",
+          "sku": "7082566041_ID",
+          "skuId": "13409074824",
+          "itemUrl": "/products/pdp-i7082566041.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Semarang",
+      "sellerId": "400749369263",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7082566041_ID-13409074823",
+      "skuId": "13409074823",
+      "sku": "7082566041_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "16550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7082566041;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7082566041_ID;price:16550;client:desktop;supplier_id:400749369263;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:11382;item_id:7082566041;sku_id:13409074823;shop_id:5724293;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "110 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7082566041_ID-13409074823"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fdeb1b7eb429f9cb5a853416ea5af0aab.jpg&src=srp_findsimilar&item_id=7082566041&sku_id=13409074823&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=16550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7082566041.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13409074823%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1655000%3BdisplayPrice%3A1655000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.883720930232558&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=110&price=1.655E%204&review=43&location=Kota%20Semarang&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7082566041%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7082566041_ID%253Bprice%253A16550%253Bclient%253Adesktop%253Bsupplier_id%253A400749369263%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A7082566041%253Bsku_id%253A13409074823%253Bshop_id%253A5724293%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy Vitamin Anak Vitamin C Jelly Doraemon Multivitamin",
+      "nid": "7892552369",
+      "itemId": "7892552369",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  21% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1aa9f0160c83a0e7a57680a63d694c3b.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp22.400",
+      "discount": "21% Off",
+      "ratingScore": "5.0",
+      "review": "5",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "Apotek Budi Sehat",
+      "sellerId": "401680368898",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7892552369_ID-14306844007",
+      "skuId": "14306844007",
+      "sku": "7892552369_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "22400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "28500",
+      "clickTrace": "query:Vidoran;nid:7892552369;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7892552369_ID;price:22400;client:desktop;supplier_id:401680368898;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:18703;item_id:7892552369;sku_id:14306844007;shop_id:6851203;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "18 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7892552369_ID-14306844007"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1aa9f0160c83a0e7a57680a63d694c3b.png&src=srp_findsimilar&item_id=7892552369&sku_id=14306844007&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=22400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7892552369.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14306844007%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A2240000%3BdisplayPrice%3A2240000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=18&price=2.24E%204&review=5&location=Kota%20Bandung&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7892552369%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7892552369_ID%253Bprice%253A22400%253Bclient%253Adesktop%253Bsupplier_id%253A401680368898%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A7892552369%253Bsku_id%253A14306844007%253Bshop_id%253A6851203%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Gummy 54 g - Suplemen Vitamin Anak",
+      "nid": "8000312442",
+      "itemId": "8000312442",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/deb1b7eb429f9cb5a853416ea5af0aab.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.550",
+      "ratingScore": "4.8",
+      "review": "10",
+      "location": "Kab. Bogor",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/d1d0e0ddb55d4e0710dfb3db75dda53c.jpg",
+          "sku": "8000312442_ID",
+          "skuId": "14422496075",
+          "itemUrl": "/products/pdp-i8000312442.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/bf4b3216188dab478055e3fa0e103414.jpg",
+          "sku": "8000312442_ID",
+          "skuId": "14422496074",
+          "itemUrl": "/products/pdp-i8000312442.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Bogor",
+      "sellerId": "401812288873",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8000312442_ID-14422496074",
+      "skuId": "14422496074",
+      "sku": "8000312442_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "16550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8000312442;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8000312442_ID;price:16550;client:desktop;supplier_id:401812288873;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:18703;item_id:8000312442;sku_id:14422496074;shop_id:7020039;templateInfo:-1_C#107879_A3_E#",
+      "itemSoldCntShow": "45 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8000312442_ID-14422496074"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fdeb1b7eb429f9cb5a853416ea5af0aab.jpg&src=srp_findsimilar&item_id=8000312442&sku_id=14422496074&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=16550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8000312442.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14422496074%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1655000%3BdisplayPrice%3A1655000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.8&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=45&price=1.655E%204&review=10&location=Kab.%20Bogor&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8000312442%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8000312442_ID%253Bprice%253A16550%253Bclient%253Adesktop%253Bsupplier_id%253A401812288873%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8000312442%253Bsku_id%253A14422496074%253Bshop_id%253A7020039%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Orange / Anggur Tablet Hisap isi 25 - Vitamin Anak",
+      "nid": "7078592294",
+      "itemId": "7078592294",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/26ce2f12d770c18242dbde21eccb3c24.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.550",
+      "ratingScore": "4.874015748031496",
+      "review": "254",
+      "location": "Kota Semarang",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/9a0304e5a53ecbc8c7d32357facd7ce9.jpg",
+          "sku": "7078592294_ID",
+          "skuId": "13412388287",
+          "itemUrl": "/products/pdp-i7078592294.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/4583bebad21bd5d676a6ed7f9a14a092.jpg",
+          "sku": "7078592294_ID",
+          "skuId": "13634192096",
+          "itemUrl": "/products/pdp-i7078592294.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Semarang",
+      "sellerId": "400749369263",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7078592294_ID-13412388287",
+      "skuId": "13412388287",
+      "sku": "7078592294_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "16550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7078592294;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7078592294_ID;price:16550;client:desktop;supplier_id:400749369263;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:18703;item_id:7078592294;sku_id:13412388287;shop_id:5724293;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "617 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7078592294_ID-13412388287"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F26ce2f12d770c18242dbde21eccb3c24.jpg&src=srp_findsimilar&item_id=7078592294&sku_id=13412388287&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=16550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7078592294.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13412388287%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1655000%3BdisplayPrice%3A1655000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.874015748031496&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=617&price=1.655E%204&review=254&location=Kota%20Semarang&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7078592294%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7078592294_ID%253Bprice%253A16550%253Bclient%253Adesktop%253Bsupplier_id%253A400749369263%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A7078592294%253Bsku_id%253A13412388287%253Bshop_id%253A5724293%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SUSU VIDORAN 125 GRAM - 0 6 BULAN 6 12 BULAN 1 3 TAHUN",
+      "nid": "7307002843",
+      "itemId": "7307002843",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S38351dc2a89449dba73b51de7d6c7accQ.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp15.500",
+      "ratingScore": "4.738095238095238",
+      "review": "42",
+      "location": "Kota Medan",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S38351dc2a89449dba73b51de7d6c7accQ.jpg",
+          "sku": "7307002843_ID",
+          "skuId": "13695986329",
+          "itemUrl": "/products/pdp-i7307002843.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S38351dc2a89449dba73b51de7d6c7accQ.jpg",
+          "sku": "7307002843_ID",
+          "skuId": "13695986328",
+          "itemUrl": "/products/pdp-i7307002843.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S38351dc2a89449dba73b51de7d6c7accQ.jpg",
+          "sku": "7307002843_ID",
+          "skuId": "13695986327",
+          "itemUrl": "/products/pdp-i7307002843.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Grosirmedanofficial",
+      "sellerId": "1000246032",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7307002843_ID-13695986329",
+      "skuId": "13695986329",
+      "sku": "7307002843_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "15500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:7307002843;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:7307002843_ID;price:15500;client:desktop;supplier_id:1000246032;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:11383;item_id:7307002843;sku_id:13695986329;shop_id:736493;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "216 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7307002843_ID-13695986329"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS38351dc2a89449dba73b51de7d6c7accQ.jpg&src=srp_findsimilar&item_id=7307002843&sku_id=13695986329&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=15500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7307002843.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13695986329%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1550000%3BdisplayPrice%3A1550000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.738095238095238&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=216&price=1.55E%204&review=42&location=Kota%20Medan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A7307002843%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A7307002843_ID%253Bprice%253A15500%253Bclient%253Adesktop%253Bsupplier_id%253A1000246032%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A7307002843%253Bsku_id%253A13695986329%253Bshop_id%253A736493%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Syrup 100 ml - Sirup Suplemen Anak",
+      "nid": "8120300706",
+      "itemId": "8120300706",
+      "icons": [
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/9652151026ce21f0c28d6692ce587415.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp20.350",
+      "ratingScore": "4.847058823529411",
+      "review": "85",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/d0227bfa44fc192f17b381e63dec3ec4.jpg",
+          "sku": "8120300706_ID",
+          "skuId": "14514108675",
+          "itemUrl": "/products/pdp-i8120300706.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/ebcf19b683ff88846f46156fa190feaf.jpg",
+          "sku": "8120300706_ID",
+          "skuId": "14514108678",
+          "itemUrl": "/products/pdp-i8120300706.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/92e27a6c045aab26efcb033cad3ec400.jpg",
+          "sku": "8120300706_ID",
+          "skuId": "14514108677",
+          "itemUrl": "/products/pdp-i8120300706.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka Jakarta Selatan",
+      "sellerId": "401865824385",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8120300706_ID-14514108675",
+      "skuId": "14514108675",
+      "sku": "8120300706_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "20350",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8120300706;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8120300706_ID;price:20350;client:desktop;supplier_id:401865824385;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:18703;item_id:8120300706;sku_id:14514108675;shop_id:7080755;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "220 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8120300706_ID-14514108675"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F9652151026ce21f0c28d6692ce587415.jpg&src=srp_findsimilar&item_id=8120300706&sku_id=14514108675&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=20350.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8120300706.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14514108675%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A2035000%3BdisplayPrice%3A2035000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=4.847058823529411&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=220&price=2.035E%204&review=85&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8120300706%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8120300706_ID%253Bprice%253A20350%253Bclient%253Adesktop%253Bsupplier_id%253A401865824385%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8120300706%253Bsku_id%253A14514108675%253Bshop_id%253A7080755%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PAKET HEMAT ISI 5 BOX VIDORAN UNTUK USIA 0-6 BULAN 125 gram per box",
+      "nid": "8781706580",
+      "itemId": "8781706580",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/e1db139b94fe37da31aad7a702e2fd76.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp58.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Kudus",
+      "thumbs": [],
+      "sellerName": "Hansu Shop",
+      "sellerId": "401972432567",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "8781706580_ID-16227494978",
+      "skuId": "16227494978",
+      "sku": "8781706580_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "58000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:8781706580;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:8781706580_ID;price:58000;client:desktop;supplier_id:401972432567;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:11382;item_id:8781706580;sku_id:16227494978;shop_id:7146317;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8781706580_ID-16227494978"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe1db139b94fe37da31aad7a702e2fd76.jpg&src=srp_findsimilar&item_id=8781706580&sku_id=16227494978&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=58000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8781706580.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16227494978%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A5800000%3BdisplayPrice%3A5800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=5.8E%204&review=&location=Kab.%20Kudus&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A8781706580%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A8781706580_ID%253Bprice%253A58000%253Bclient%253Adesktop%253Bsupplier_id%253A401972432567%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8781706580%253Bsku_id%253A16227494978%253Bshop_id%253A7146317%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Vidoran Smart Rasa Strawberry 25 Tablet hisap",
+      "nid": "6869334736",
+      "itemId": "6869334736",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/47dbb82ed96baf84ce4782a6438a7d95.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.900",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "CMB Beauty",
+      "sellerId": "400693995366",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "6869334736_ID-13017658803",
+      "skuId": "13017658803",
+      "sku": "6869334736_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "16900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Vidoran;nid:6869334736;src:LazadaMainSrp;rn:3b6a609a23448840fa0fd01ac02822bf;region:id;sku:6869334736_ID;price:16900;client:desktop;supplier_id:400693995366;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:18703;item_id:6869334736;sku_id:13017658803;shop_id:5116573;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6869334736_ID-13017658803"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F47dbb82ed96baf84ce4782a6438a7d95.jpg&src=srp_findsimilar&item_id=6869334736&sku_id=13017658803&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Vidoran&similarType=findSimilarV1&price=16900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6869334736.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13017658803%3Bsource%3Alazada-search-voucher%3Bsn%3A3b6a609a23448840fa0fd01ac02822bf%3BoriginPrice%3A1690000%3BdisplayPrice%3A1690000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276844845&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=1.69E%204&review=&location=Kab.%20Bogor&stock=1&lang=id&request_id=3b6a609a23448840fa0fd01ac02822bf&clickTrackInfo=query%253AVidoran%253Bnid%253A6869334736%253Bsrc%253ALazadaMainSrp%253Brn%253A3b6a609a23448840fa0fd01ac02822bf%253Bregion%253Aid%253Bsku%253A6869334736_ID%253Bprice%253A16900%253Bclient%253Adesktop%253Bsupplier_id%253A400693995366%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A6869334736%253Bsku_id%253A13017658803%253Bshop_id%253A5116573%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

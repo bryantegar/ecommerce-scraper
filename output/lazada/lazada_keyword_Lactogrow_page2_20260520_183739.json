@@ -1,0 +1,2872 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Lactogrow",
+  "page": 2,
+  "job_id": "759e8cb3-525f-45dd-bdb0-9b06b1443d83",
+  "scraped_at": "2026-05-20T18:37:39.808812",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "LACTOGROW PRO 1+ Honey 1kg",
+      "nid": "8697516305",
+      "itemId": "8697516305",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7667b575642faae8224106ea2f5d52a3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp152.000",
+      "discount": "7% Off",
+      "ratingScore": "4.8545454545454545",
+      "review": "165",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697516305_ID-16133804734",
+      "skuId": "16133804734",
+      "sku": "8697516305_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "152000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "164000",
+      "clickTrace": "query:Lactogrow;nid:8697516305;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697516305_ID;price:152000;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697516305;sku_id:16133804734;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "529 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697516305_ID-16133804734"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7667b575642faae8224106ea2f5d52a3.png&src=srp_findsimilar&item_id=8697516305&sku_id=16133804734&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=152000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697516305.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133804734%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A15200000%3BdisplayPrice%3A15200000%3BsinglePromotionId%3A910000049065147%3BsingleToolCode%3AshopPromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.8545454545454545&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=529&price=1.52E%205&review=165&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697516305%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697516305_ID%253Bprice%253A152000%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697516305%253Bsku_id%253A16133804734%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestle Lactogen Lactogrow PRO 1kg Madu / Vanila",
+      "nid": "18828316257",
+      "itemId": "18828316257",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp164.200",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Palembang",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178156",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178150",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178151",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178154",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178155",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178152",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/9f2a85241458753a9f80b73859fbe2ca.jpg",
+          "sku": "18828316257_ID",
+          "skuId": "116259178153",
+          "itemUrl": "/products/pdp-i18828316257.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "jjkids_susupalembang",
+      "sellerId": "403584512471",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18828316257_ID-116259178151",
+      "skuId": "116259178151",
+      "sku": "18828316257_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13368
+      ],
+      "price": "164200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:18828316257;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:18828316257_ID;price:164200;client:desktop;supplier_id:403584512471;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:13368;item_id:18828316257;sku_id:116259178151;shop_id:8599970;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18828316257_ID-116259178151"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F9f2a85241458753a9f80b73859fbe2ca.jpg&src=srp_findsimilar&item_id=18828316257&sku_id=116259178151&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=164200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18828316257.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259178151%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A16420000%3BdisplayPrice%3A16420000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.642E%205&review=&location=Kota%20Palembang&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A18828316257%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A18828316257_ID%253Bprice%253A164200%253Bclient%253Adesktop%253Bsupplier_id%253A403584512471%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13368%253Bitem_id%253A18828316257%253Bsku_id%253A116259178151%253Bshop_id%253A8599970%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Plain 735gr",
+      "nid": "8697528405",
+      "itemId": "8697528405",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/091c5eccd823ddeadf8d76f2430d4fcd.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp125.900",
+      "discount": "14% Off",
+      "ratingScore": "4.96875",
+      "review": "126",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697528405_ID-16133836211",
+      "skuId": "16133836211",
+      "sku": "8697528405_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "125900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:8697528405;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697528405_ID;price:125900;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697528405;sku_id:16133836211;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "128 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697528405_ID-16133836211"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F091c5eccd823ddeadf8d76f2430d4fcd.png&src=srp_findsimilar&item_id=8697528405&sku_id=16133836211&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=125900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697528405.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133836211%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A12590000%3BdisplayPrice%3A12590000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.96875&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=128&price=1.259E%205&review=126&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697528405%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697528405_ID%253Bprice%253A125900%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697528405%253Bsku_id%253A16133836211%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bebelac 3 / Bebelac 1+ Vanila Susu Pertumbuhan Bubuk 800gr",
+      "nid": "8699518699",
+      "itemId": "8699518699",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  19% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/046145995b2ba8132b8261a9749457eb.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp131.300",
+      "discount": "19% Off",
+      "ratingScore": "4.96969696969697",
+      "review": "133",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac by LazMart",
+      "sellerId": "403381168283",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "8699518699_ID-16136018654",
+      "skuId": "16136018654",
+      "sku": "8699518699_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "131300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "162200",
+      "clickTrace": "query:Lactogrow;nid:8699518699;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8699518699_ID;price:131300;client:desktop;supplier_id:403381168283;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:15819;item_id:8699518699;sku_id:16136018654;shop_id:8147790;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "125 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699518699_ID-16136018654"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F046145995b2ba8132b8261a9749457eb.png&src=srp_findsimilar&item_id=8699518699&sku_id=16136018654&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=131300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699518699.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16136018654%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A13130000%3BdisplayPrice%3A13130000%3BsinglePromotionId%3A910000048815601%3BsingleToolCode%3AlazMartSinglePromotion%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.96969696969697&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=125&price=1.313E%205&review=133&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8699518699%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8699518699_ID%253Bprice%253A131300%253Bclient%253Adesktop%253Bsupplier_id%253A403381168283%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8699518699%253Bsku_id%253A16136018654%253Bshop_id%253A8147790%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Bebelac 3 / Bebelac 1+ Madu Susu Pertumbuhan Bubuk 800gr",
+      "nid": "8699534516",
+      "itemId": "8699534516",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  19% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/87277767b8749b472bff22f0d4327241.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp131.300",
+      "discount": "19% Off",
+      "ratingScore": "4.962264150943396",
+      "review": "134",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac by LazMart",
+      "sellerId": "403381168283",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "8699534516_ID-16136014396",
+      "skuId": "16136014396",
+      "sku": "8699534516_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "131300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "162200",
+      "clickTrace": "query:Lactogrow;nid:8699534516;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8699534516_ID;price:131300;client:desktop;supplier_id:403381168283;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:15819;item_id:8699534516;sku_id:16136014396;shop_id:8147790;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "179 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699534516_ID-16136014396"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F87277767b8749b472bff22f0d4327241.png&src=srp_findsimilar&item_id=8699534516&sku_id=16136014396&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=131300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699534516.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16136014396%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A13130000%3BdisplayPrice%3A13130000%3BsinglePromotionId%3A910000048815601%3BsingleToolCode%3AlazMartSinglePromotion%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.962264150943396&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=179&price=1.313E%205&review=134&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8699534516%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8699534516_ID%253Bprice%253A131300%253Bclient%253Adesktop%253Bsupplier_id%253A403381168283%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8699534516%253Bsku_id%253A16136014396%253Bshop_id%253A8147790%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "L4cto9row 1 Vanila 735gram",
+      "nid": "8758658453",
+      "itemId": "8758658453",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S3f0dcd2577fb4b46a60317bebbc99ce1p.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp170.700",
+      "ratingScore": "5.0",
+      "review": "5",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8758658453_ID-16202702197",
+      "skuId": "16202702197",
+      "sku": "8758658453_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "170700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8758658453;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8758658453_ID;price:170700;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:18203;item_id:8758658453;sku_id:16202702197;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "19 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8758658453_ID-16202702197"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS3f0dcd2577fb4b46a60317bebbc99ce1p.jpg&src=srp_findsimilar&item_id=8758658453&sku_id=16202702197&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=170700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8758658453.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16202702197%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A17070000%3BdisplayPrice%3A17070000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=19&price=1.707E%205&review=5&location=Kota%20Surabaya&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8758658453%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8758658453_ID%253Bprice%253A170700%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8758658453%253Bsku_id%253A16202702197%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 735gr",
+      "nid": "8697552362",
+      "itemId": "8697552362",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5c3cfe736723c4112e73d045e6687a0b.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp110.100",
+      "discount": "15% Off",
+      "ratingScore": "5.0",
+      "review": "8",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697552362_ID-16133842437",
+      "skuId": "16133842437",
+      "sku": "8697552362_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "110100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "129000",
+      "clickTrace": "query:Lactogrow;nid:8697552362;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697552362_ID;price:110100;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:13367;item_id:8697552362;sku_id:16133842437;shop_id:8147814;templateInfo:107879_A3#",
+      "itemSoldCntShow": "12 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697552362_ID-16133842437"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5c3cfe736723c4112e73d045e6687a0b.png&src=srp_findsimilar&item_id=8697552362&sku_id=16133842437&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=110100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697552362.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133842437%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A11010000%3BdisplayPrice%3A11010000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=12&price=1.101E%205&review=8&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697552362%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697552362_ID%253Bprice%253A110100%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8697552362%253Bsku_id%253A16133842437%253Bshop_id%253A8147814%253BtemplateInfo%253A107879_A3%2523"
+    },
+    {
+      "name": "Vidoran Xmart 3+ Box Kemasan 700 g",
+      "nid": "7928214084",
+      "itemId": "7928214084",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a6538216538d5be8d3a64930f658f135.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.650",
+      "ratingScore": "4.7407407407407405",
+      "review": "27",
+      "location": "Kota Bekasi",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/d37382ba87f3c2e5a72e0d9dbb2ca670.jpg",
+          "sku": "7928214084_ID",
+          "skuId": "14343000105",
+          "itemUrl": "/products/pdp-i7928214084.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f0e7695c9122580633cccd1cbf6cb07.jpg",
+          "sku": "7928214084_ID",
+          "skuId": "14343000106",
+          "itemUrl": "/products/pdp-i7928214084.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Apotek Heka",
+      "sellerId": "400619622149",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "7928214084_ID-14343000105",
+      "skuId": "14343000105",
+      "sku": "7928214084_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "65650",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:7928214084;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:7928214084_ID;price:65650;client:desktop;supplier_id:400619622149;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:13367;item_id:7928214084;sku_id:14343000105;shop_id:3952166;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "84 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7928214084_ID-14343000105"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa6538216538d5be8d3a64930f658f135.jpg&src=srp_findsimilar&item_id=7928214084&sku_id=14343000105&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=65650.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7928214084.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14343000105%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A6565000%3BdisplayPrice%3A6565000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.7407407407407405&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=84&price=6.565E%204&review=27&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A7928214084%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A7928214084_ID%253Bprice%253A65650%253Bclient%253Adesktop%253Bsupplier_id%253A400619622149%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7928214084%253Bsku_id%253A14343000105%253Bshop_id%253A3952166%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bebelac 4 / Bebelac 3+ Vanila Susu Pertumbuhan Bubuk 1800gr",
+      "nid": "160008494",
+      "itemId": "160008494",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  9% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b60a18210191ed2e6581c27907eb4c52.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp298.550",
+      "discount": "9% Off",
+      "ratingScore": "4.953398058252427",
+      "review": "3090",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac",
+      "sellerId": "1000001010",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "BE814TBBOJXDANID-1907755",
+      "skuId": "181834928",
+      "sku": "BE814TBBOJXDANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "298550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "328310",
+      "clickTrace": "query:Lactogrow;nid:160008494;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:BE814TBBOJXDANID;price:298550;client:desktop;supplier_id:1000001010;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:13367;item_id:160008494;sku_id:181834928;shop_id:8192;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "19.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "BE814TBBOJXDANID-1907755"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb60a18210191ed2e6581c27907eb4c52.png&src=srp_findsimilar&item_id=160008494&sku_id=181834928&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=298550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160008494.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181834928%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A29855000%3BdisplayPrice%3A29855000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.953398058252427&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=19489&price=2.9855E%205&review=3090&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A160008494%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253ABE814TBBOJXDANID%253Bprice%253A298550%253Bclient%253Adesktop%253Bsupplier_id%253A1000001010%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160008494%253Bsku_id%253A181834928%253Bshop_id%253A8192%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bebelac 3 / Bebelac 1+ Vanila Susu Pertumbuhan Bubuk 3000gr",
+      "nid": "8699526441",
+      "itemId": "8699526441",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b91178a9083be8b0ab864f5ef2d9ab11.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp515.000",
+      "discount": "10% Off",
+      "ratingScore": "4.862068965517241",
+      "review": "129",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac by LazMart",
+      "sellerId": "403381168283",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "8699526441_ID-16136018331",
+      "skuId": "16136018331",
+      "sku": "8699526441_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "515000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "569660",
+      "clickTrace": "query:Lactogrow;nid:8699526441;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8699526441_ID;price:515000;client:desktop;supplier_id:403381168283;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:15819;item_id:8699526441;sku_id:16136018331;shop_id:8147790;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "79 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699526441_ID-16136018331"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb91178a9083be8b0ab864f5ef2d9ab11.png&src=srp_findsimilar&item_id=8699526441&sku_id=16136018331&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=515000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699526441.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16136018331%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A51500000%3BdisplayPrice%3A51500000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.862068965517241&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=79&price=5.15E%205&review=129&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8699526441%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8699526441_ID%253Bprice%253A515000%253Bclient%253Adesktop%253Bsupplier_id%253A403381168283%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8699526441%253Bsku_id%253A16136018331%253Bshop_id%253A8147790%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 735gr",
+      "nid": "8697546695",
+      "itemId": "8697546695",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  21% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/233627579ea15ddb6cee7a7637eed546.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp115.800",
+      "discount": "21% Off",
+      "ratingScore": "4.923076923076923",
+      "review": "30",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697546695_ID-16133828664",
+      "skuId": "16133828664",
+      "sku": "8697546695_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "115800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:8697546695;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697546695_ID;price:115800;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697546695;sku_id:16133828664;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "35 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697546695_ID-16133828664"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F233627579ea15ddb6cee7a7637eed546.png&src=srp_findsimilar&item_id=8697546695&sku_id=16133828664&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=115800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697546695.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133828664%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A11580000%3BdisplayPrice%3A11580000%3BsinglePromotionId%3A910000048815601%3BsingleToolCode%3AlazMartSinglePromotion%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.923076923076923&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=35&price=1.158E%205&review=30&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697546695%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697546695_ID%253Bprice%253A115800%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697546695%253Bsku_id%253A16133828664%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 735gr",
+      "nid": "8697536490",
+      "itemId": "8697536490",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/23ba6010323e84e6271995660e605b32.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp125.900",
+      "discount": "14% Off",
+      "ratingScore": "4.833333333333333",
+      "review": "24",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697536490_ID-16133834212",
+      "skuId": "16133834212",
+      "sku": "8697536490_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "125900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:8697536490;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697536490_ID;price:125900;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697536490;sku_id:16133834212;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697536490_ID-16133834212"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F23ba6010323e84e6271995660e605b32.png&src=srp_findsimilar&item_id=8697536490&sku_id=16133834212&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=125900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697536490.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133834212%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A12590000%3BdisplayPrice%3A12590000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.833333333333333&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16&price=1.259E%205&review=24&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697536490%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697536490_ID%253Bprice%253A125900%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697536490%253Bsku_id%253A16133834212%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 735gr x2",
+      "nid": "8697546924",
+      "itemId": "8697546924",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/4bdad3045304af6b5c67516999b25af7.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp220.200",
+      "discount": "15% Off",
+      "ratingScore": "5.0",
+      "review": "4",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697546924_ID-16133834384",
+      "skuId": "16133834384",
+      "sku": "8697546924_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "220200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "258000",
+      "clickTrace": "query:Lactogrow;nid:8697546924;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697546924_ID;price:220200;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:13367;item_id:8697546924;sku_id:16133834384;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697546924_ID-16133834384"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4bdad3045304af6b5c67516999b25af7.png&src=srp_findsimilar&item_id=8697546924&sku_id=16133834384&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=220200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697546924.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133834384%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A22020000%3BdisplayPrice%3A22020000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=2.202E%205&review=4&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697546924%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697546924_ID%253Bprice%253A220200%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8697546924%253Bsku_id%253A16133834384%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 735gr x2",
+      "nid": "8697558261",
+      "itemId": "8697558261",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3c1ff813f009e610611ab02bbdc5de0d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp220.200",
+      "discount": "15% Off",
+      "ratingScore": "",
+      "review": "0",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697558261_ID-16133842455",
+      "skuId": "16133842455",
+      "sku": "8697558261_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "220200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "258000",
+      "clickTrace": "query:Lactogrow;nid:8697558261;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697558261_ID;price:220200;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:13367;item_id:8697558261;sku_id:16133842455;shop_id:8147814;templateInfo:-1_C#107879_A3_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697558261_ID-16133842455"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3c1ff813f009e610611ab02bbdc5de0d.png&src=srp_findsimilar&item_id=8697558261&sku_id=16133842455&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=220200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697558261.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133842455%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A22020000%3BdisplayPrice%3A22020000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=2.202E%205&review=0&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697558261%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697558261_ID%253Bprice%253A220200%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8697558261%253Bsku_id%253A16133842455%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 350gr",
+      "nid": "8697538547",
+      "itemId": "8697538547",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ccc2a820da6f10cd56db9d575e4399cf.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp58.700",
+      "discount": "14% Off",
+      "ratingScore": "",
+      "review": "25",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697538547_ID-16133850048",
+      "skuId": "16133850048",
+      "sku": "8697538547_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "58700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "68000",
+      "clickTrace": "query:Lactogrow;nid:8697538547;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697538547_ID;price:58700;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697538547;sku_id:16133850048;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697538547_ID-16133850048"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fccc2a820da6f10cd56db9d575e4399cf.png&src=srp_findsimilar&item_id=8697538547&sku_id=16133850048&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=58700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697538547.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133850048%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A5870000%3BdisplayPrice%3A5870000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=5.87E%204&review=25&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697538547%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697538547_ID%253Bprice%253A58700%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697538547%253Bsku_id%253A16133850048%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "L4CT09R0W 1 plu$+ Madu susu 735gram",
+      "nid": "8792724362",
+      "itemId": "8792724362",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Saf67382c615b4e47b7f945a515c588ac6.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp170.700",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8792724362_ID-16236580225",
+      "skuId": "16236580225",
+      "sku": "8792724362_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "170700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8792724362;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8792724362_ID;price:170700;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:18471;item_id:8792724362;sku_id:16236580225;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8792724362_ID-16236580225"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSaf67382c615b4e47b7f945a515c588ac6.jpg&src=srp_findsimilar&item_id=8792724362&sku_id=16236580225&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=170700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8792724362.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16236580225%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A17070000%3BdisplayPrice%3A17070000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.707E%205&review=&location=Kota%20Surabaya&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8792724362%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8792724362_ID%253Bprice%253A170700%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8792724362%253Bsku_id%253A16236580225%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 735gr x2",
+      "nid": "8697564025",
+      "itemId": "8697564025",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/08a75b83aacad125e33dbbff53229fd2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp251.600",
+      "discount": "14% Off",
+      "ratingScore": "5.0",
+      "review": "3",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8697564025_ID-16133848114",
+      "skuId": "16133848114",
+      "sku": "8697564025_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "251600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "293000",
+      "clickTrace": "query:Lactogrow;nid:8697564025;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697564025_ID;price:251600;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:15819;item_id:8697564025;sku_id:16133848114;shop_id:8147814;templateInfo:107879_A3_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697564025_ID-16133848114"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F08a75b83aacad125e33dbbff53229fd2.png&src=srp_findsimilar&item_id=8697564025&sku_id=16133848114&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=251600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697564025.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133848114%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A25160000%3BdisplayPrice%3A25160000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=2.516E%205&review=3&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697564025%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697564025_ID%253Bprice%253A251600%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8697564025%253Bsku_id%253A16133848114%253Bshop_id%253A8147814%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "l4ct09r0w 1 plu$+ susu Vanila 1kg",
+      "nid": "8796956245",
+      "itemId": "8796956245",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S627e7c9655e7448a95650ab22f55e6bee.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp203.456",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8796956245_ID-16240342712",
+      "skuId": "16240342712",
+      "sku": "8796956245_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "203456",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8796956245;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8796956245_ID;price:203456;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:18471;item_id:8796956245;sku_id:16240342712;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "14 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8796956245_ID-16240342712"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS627e7c9655e7448a95650ab22f55e6bee.jpg&src=srp_findsimilar&item_id=8796956245&sku_id=16240342712&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=203456.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8796956245.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16240342712%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A20345600%3BdisplayPrice%3A20345600%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=14&price=203456&review=2&location=Kota%20Surabaya&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8796956245%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8796956245_ID%253Bprice%253A203456%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8796956245%253Bsku_id%253A16240342712%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "L4ct09r0w 1 plu$+ M4du susu 1kg",
+      "nid": "8801072821",
+      "itemId": "8801072821",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  2% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sa2c607d2e4c44241a3560e23ba172530X.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp198.765",
+      "discount": "2% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8801072821_ID-16243152079",
+      "skuId": "16243152079",
+      "sku": "8801072821_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "198765",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "203456",
+      "clickTrace": "query:Lactogrow;nid:8801072821;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8801072821_ID;price:198765;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:18471;item_id:8801072821;sku_id:16243152079;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8801072821_ID-16243152079"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSa2c607d2e4c44241a3560e23ba172530X.jpg&src=srp_findsimilar&item_id=8801072821&sku_id=16243152079&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=198765.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8801072821.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16243152079%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A19876500%3BdisplayPrice%3A19876500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=198765&review=&location=Kota%20Surabaya&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8801072821%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8801072821_ID%253Bprice%253A198765%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A8801072821%253Bsku_id%253A16243152079%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 0-6 month 735gr",
+      "nid": "8697542934",
+      "itemId": "8697542934",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/838fa198c3172d6ac0beeaf5ac75e8f6.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp138.000",
+      "ratingScore": "5.0",
+      "review": "50",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "8697542934_ID-16133828853",
+      "skuId": "16133828853",
+      "sku": "8697542934_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "138000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8697542934;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697542934_ID;price:138000;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:13365;item_id:8697542934;sku_id:16133828853;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "12 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697542934_ID-16133828853"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F838fa198c3172d6ac0beeaf5ac75e8f6.png&src=srp_findsimilar&item_id=8697542934&sku_id=16133828853&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=138000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697542934.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133828853%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A13800000%3BdisplayPrice%3A13800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=12&price=1.38E%205&review=50&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697542934%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697542934_ID%253Bprice%253A138000%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8697542934%253Bsku_id%253A16133828853%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 3+ Rasa Madu 3-5 Tahun 1kg x4 (Monthly Pack)",
+      "nid": "1129582535",
+      "itemId": "1129582535",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a7f6534b49ffcaf427cd7ceac9b49fbc.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp412.700",
+      "discount": "6% Off",
+      "ratingScore": "4.912839833010895",
+      "review": "9821",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/9dd8ffdf4e5ec50845d57d8d3cb2e4fc.png",
+          "sku": "1129582535_ID",
+          "skuId": "1781556571",
+          "itemUrl": "/products/pdp-i1129582535.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow",
+      "sellerId": "1000001001",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1129582535_ID-1781556571",
+      "skuId": "1781556571",
+      "sku": "1129582535_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "412700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "438151",
+      "clickTrace": "query:Lactogrow;nid:1129582535;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:1129582535_ID;price:412700;client:desktop;supplier_id:1000001001;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:13367;item_id:1129582535;sku_id:1781556571;shop_id:8157;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "42.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1129582535_ID-1781556571"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa7f6534b49ffcaf427cd7ceac9b49fbc.jpg&src=srp_findsimilar&item_id=1129582535&sku_id=1781556571&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=412700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1129582535.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1781556571%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A41270000%3BdisplayPrice%3A41270000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.912839833010895&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=42081&price=4.127E%205&review=9821&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A1129582535%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A1129582535_ID%253Bprice%253A412700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001001%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1129582535%253Bsku_id%253A1781556571%253Bshop_id%253A8157%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+  MADU 735GR - RAJA SUSU",
+      "nid": "8634286642",
+      "itemId": "8634286642",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/61a55243a00d087c68bb4da86397e918.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp138.325",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634286642_ID-16050840527",
+      "skuId": "16050840527",
+      "sku": "8634286642_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "138325",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8634286642;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8634286642_ID;price:138325;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:11383;item_id:8634286642;sku_id:16050840527;shop_id:7050897;templateInfo:107879_A3_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634286642_ID-16050840527"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F61a55243a00d087c68bb4da86397e918.jpg&src=srp_findsimilar&item_id=8634286642&sku_id=16050840527&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=138325.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634286642.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050840527%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A13832500%3BdisplayPrice%3A13832500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=138325&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8634286642%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8634286642_ID%253Bprice%253A138325%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8634286642%253Bsku_id%253A16050840527%253Bshop_id%253A7050897%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ VANILA 735GR - RAJA SUSU",
+      "nid": "8634280996",
+      "itemId": "8634280996",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/71e6ada3e5d0375222d9141b2cccf80c.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp138.325",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634280996_ID-16050766620",
+      "skuId": "16050766620",
+      "sku": "8634280996_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "138325",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8634280996;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8634280996_ID;price:138325;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:11383;item_id:8634280996;sku_id:16050766620;shop_id:7050897;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634280996_ID-16050766620"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F71e6ada3e5d0375222d9141b2cccf80c.jpg&src=srp_findsimilar&item_id=8634280996&sku_id=16050766620&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=138325.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634280996.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050766620%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A13832500%3BdisplayPrice%3A13832500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=138325&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8634280996%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8634280996_ID%253Bprice%253A138325%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8634280996%253Bsku_id%253A16050766620%253Bshop_id%253A7050897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 0-6 month 350gr",
+      "nid": "8697534235",
+      "itemId": "8697534235",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/376fafc411236dd45541cefd8c28b3a9.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.800",
+      "ratingScore": "5.0",
+      "review": "40",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "8697534235_ID-16133836308",
+      "skuId": "16133836308",
+      "sku": "8697534235_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "65800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8697534235;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697534235_ID;price:65800;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:13365;item_id:8697534235;sku_id:16133836308;shop_id:8147814;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "13 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697534235_ID-16133836308"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F376fafc411236dd45541cefd8c28b3a9.png&src=srp_findsimilar&item_id=8697534235&sku_id=16133836308&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=65800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697534235.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133836308%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A6580000%3BdisplayPrice%3A6580000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13&price=6.58E%204&review=40&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697534235%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697534235_ID%253Bprice%253A65800%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8697534235%253Bsku_id%253A16133836308%253Bshop_id%253A8147814%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 6 -12 month 735gr",
+      "nid": "8697532612",
+      "itemId": "8697532612",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ac0856da1e5d1ed276720abfdfd8057a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp140.100",
+      "ratingScore": "4.0",
+      "review": "11",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "8697532612_ID-16133832351",
+      "skuId": "16133832351",
+      "sku": "8697532612_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "140100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8697532612;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697532612_ID;price:140100;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:13366;item_id:8697532612;sku_id:16133832351;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697532612_ID-16133832351"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fac0856da1e5d1ed276720abfdfd8057a.png&src=srp_findsimilar&item_id=8697532612&sku_id=16133832351&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=140100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697532612.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133832351%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A14010000%3BdisplayPrice%3A14010000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=1.401E%205&review=11&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697532612%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697532612_ID%253Bprice%253A140100%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A8697532612%253Bsku_id%253A16133832351%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ VANILA 1KG - RAJA SUSU",
+      "nid": "8634274861",
+      "itemId": "8634274861",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/2970c73b584dba8841196f2cdbed0544.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp147.080",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634274861_ID-16050826695",
+      "skuId": "16050826695",
+      "sku": "8634274861_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "147080",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8634274861;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8634274861_ID;price:147080;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:11383;item_id:8634274861;sku_id:16050826695;shop_id:7050897;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634274861_ID-16050826695"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F2970c73b584dba8841196f2cdbed0544.jpg&src=srp_findsimilar&item_id=8634274861&sku_id=16050826695&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=147080.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634274861.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050826695%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A14708000%3BdisplayPrice%3A14708000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.4708E%205&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8634274861%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8634274861_ID%253Bprice%253A147080%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8634274861%253Bsku_id%253A16050826695%253Bshop_id%253A7050897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 6-12 month 350gr",
+      "nid": "8697532973",
+      "itemId": "8697532973",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/30f99161b1640ae417ae337268f9f293.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.800",
+      "ratingScore": "5.0",
+      "review": "26",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow by LazMart",
+      "sellerId": "403380784478",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "8697532973_ID-16133848011",
+      "skuId": "16133848011",
+      "sku": "8697532973_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "65800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8697532973;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8697532973_ID;price:65800;client:desktop;supplier_id:403380784478;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:13366;item_id:8697532973;sku_id:16133848011;shop_id:8147814;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "14 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8697532973_ID-16133848011"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F30f99161b1640ae417ae337268f9f293.png&src=srp_findsimilar&item_id=8697532973&sku_id=16133848011&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=65800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8697532973.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16133848011%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A6580000%3BdisplayPrice%3A6580000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=14&price=6.58E%204&review=26&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8697532973%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8697532973_ID%253Bprice%253A65800%253Bclient%253Adesktop%253Bsupplier_id%253A403380784478%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A8697532973%253Bsku_id%253A16133848011%253Bshop_id%253A8147814%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "susu lactamon",
+      "nid": "1364846893",
+      "itemId": "1364846893",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/66f8e9be6c96ff831a7c8700d3e42e3a.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp43.000",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kab. Karanganyar",
+      "thumbs": [],
+      "sellerName": "Jajanan sehat717",
+      "sellerId": "400595358206",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "1364846893_ID-2465326767",
+      "skuId": "2465326767",
+      "sku": "1364846893_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "43000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:1364846893;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:1364846893_ID;price:43000;client:desktop;supplier_id:400595358206;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:18471;item_id:1364846893;sku_id:2465326767;shop_id:1953852;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1364846893_ID-2465326767"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F66f8e9be6c96ff831a7c8700d3e42e3a.jpg&src=srp_findsimilar&item_id=1364846893&sku_id=2465326767&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=43000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1364846893.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A2465326767%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A4300000%3BdisplayPrice%3A4300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=4.3E%204&review=1&location=Kab.%20Karanganyar&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A1364846893%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A1364846893_ID%253Bprice%253A43000%253Bclient%253Adesktop%253Bsupplier_id%253A400595358206%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A1364846893%253Bsku_id%253A2465326767%253Bshop_id%253A1953852%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Enfagrow Essential 4 Susu Formula 3-12 Tahun Rasa Vanila 1800gr",
+      "nid": "7039488043",
+      "itemId": "7039488043",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "195777",
+          "text": "Brand Sale, tinggal 5 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a7e53bab4bdc163a7531fbb77df1b3cd.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.184.800",
+      "discount": "12% Off",
+      "ratingScore": "4.7368421052631575",
+      "review": "513",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Enfagrow",
+      "sellerId": "1000001049",
+      "brandName": "Enfagrow",
+      "brandId": "7094",
+      "cheapest_sku": "7039488043_ID-13309066648",
+      "skuId": "13309066648",
+      "sku": "7039488043_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "1184800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1351350",
+      "clickTrace": "query:Lactogrow;nid:7039488043;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:7039488043_ID;price:1184800;client:desktop;supplier_id:1000001049;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:13367;item_id:7039488043;sku_id:13309066648;shop_id:13434;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7039488043_ID-13309066648"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa7e53bab4bdc163a7531fbb77df1b3cd.jpg&src=srp_findsimilar&item_id=7039488043&sku_id=13309066648&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=1184800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7039488043.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13309066648%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A118480000%3BdisplayPrice%3A118480000%3BsinglePromotionId%3A910000049008694%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.7368421052631575&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5652&price=1.1848E%206&review=513&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A7039488043%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A7039488043_ID%253Bprice%253A1184800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001049%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7039488043%253Bsku_id%253A13309066648%253Bshop_id%253A13434%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 4] Enfagrow A+ 4 Susu Formula 3-12 Tahun Rasa Vanila 3000gr",
+      "nid": "8033102128",
+      "itemId": "8033102128",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "195777",
+          "text": "Brand Sale, tinggal 5 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/329ac1eef3fc16a3806bff1b2dbbfab1.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.015.700",
+      "discount": "12% Off",
+      "ratingScore": "4.972972972972973",
+      "review": "37",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Enfagrow",
+      "sellerId": "1000001049",
+      "brandName": "Enfagrow",
+      "brandId": "7094",
+      "cheapest_sku": "8033102128_ID-14455882090",
+      "skuId": "14455882090",
+      "sku": "8033102128_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "5015700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "5712000",
+      "clickTrace": "query:Lactogrow;nid:8033102128;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8033102128_ID;price:5015700;client:desktop;supplier_id:1000001049;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:13367;item_id:8033102128;sku_id:14455882090;shop_id:13434;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "484 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8033102128_ID-14455882090"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F329ac1eef3fc16a3806bff1b2dbbfab1.png&src=srp_findsimilar&item_id=8033102128&sku_id=14455882090&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=5015700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8033102128.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14455882090%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A501570000%3BdisplayPrice%3A501570000%3BsinglePromotionId%3A910000049008694%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.972972972972973&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=484&price=5.0157E%206&review=37&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8033102128%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8033102128_ID%253Bprice%253A5015700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001049%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8033102128%253Bsku_id%253A14455882090%253Bshop_id%253A13434%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ VANILA 350GR - RAJA SUSU",
+      "nid": "8634340341",
+      "itemId": "8634340341",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/7771580518d883dd096462484d66e156.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp70.070",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634340341_ID-16050780779",
+      "skuId": "16050780779",
+      "sku": "8634340341_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "70070",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8634340341;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8634340341_ID;price:70070;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:11383;item_id:8634340341;sku_id:16050780779;shop_id:7050897;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634340341_ID-16050780779"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F7771580518d883dd096462484d66e156.jpg&src=srp_findsimilar&item_id=8634340341&sku_id=16050780779&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=70070.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634340341.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050780779%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A7007000%3BdisplayPrice%3A7007000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=7.007E%204&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8634340341%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8634340341_ID%253Bprice%253A70070%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8634340341%253Bsku_id%253A16050780779%253Bshop_id%253A7050897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ MADU 1KG - RAJA SUSU",
+      "nid": "8634280997",
+      "itemId": "8634280997",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/9ab4b0937edac7007cc6033da3c454c4.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp151.375",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "babyshop asan",
+      "sellerId": "401834160310",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8634280997_ID-16050860317",
+      "skuId": "16050860317",
+      "sku": "8634280997_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11383
+      ],
+      "price": "151375",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8634280997;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8634280997_ID;price:151375;client:desktop;supplier_id:401834160310;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:11383;item_id:8634280997;sku_id:16050860317;shop_id:7050897;templateInfo:107879_A3_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8634280997_ID-16050860317"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F9ab4b0937edac7007cc6033da3c454c4.jpg&src=srp_findsimilar&item_id=8634280997&sku_id=16050860317&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=151375.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8634280997.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16050860317%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A15137500%3BdisplayPrice%3A15137500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=151375&review=&location=Kota%20Bekasi&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8634280997%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8634280997_ID%253Bprice%253A151375%253Bclient%253Adesktop%253Bsupplier_id%253A401834160310%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11383%253Bitem_id%253A8634280997%253Bsku_id%253A16050860317%253Bshop_id%253A7050897%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "[Paket isi 2] Enfagrow A+ 3 Susu Formula 1-3 Tahun Original 1800gr",
+      "nid": "8830084862",
+      "itemId": "8830084862",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/15bac8be63e989f966017ea6f916984d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.752.700",
+      "discount": "12% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Enfagrow by LazMart",
+      "sellerId": "403381264190",
+      "brandName": "Enfagrow",
+      "brandId": "7094",
+      "cheapest_sku": "8830084862_ID-16263272678",
+      "skuId": "16263272678",
+      "sku": "8830084862_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "1752700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1990800",
+      "clickTrace": "query:Lactogrow;nid:8830084862;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8830084862_ID;price:1752700;client:desktop;supplier_id:403381264190;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:15819;item_id:8830084862;sku_id:16263272678;shop_id:8147768;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8830084862_ID-16263272678"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F15bac8be63e989f966017ea6f916984d.png&src=srp_findsimilar&item_id=8830084862&sku_id=16263272678&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=1752700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8830084862.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16263272678%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A175270000%3BdisplayPrice%3A175270000%3BsinglePromotionId%3A910000048819116%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5&price=1.7527E%206&review=1&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8830084862%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8830084862_ID%253Bprice%253A1752700%253Bclient%253Adesktop%253Bsupplier_id%253A403381264190%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8830084862%253Bsku_id%253A16263272678%253Bshop_id%253A8147768%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Vidoran Xmart 3+ Madu 900gr",
+      "nid": "18830156184",
+      "itemId": "18830156184",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/2fda13b12dc4fed23a5c967c22c31cae.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp183.400",
+      "discount": "14% Off",
+      "ratingScore": "4.885714285714286",
+      "review": "70",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Tempo Store LazMart",
+      "sellerId": "403398752115",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "18830156184_ID-116259694142",
+      "skuId": "116259694142",
+      "sku": "18830156184_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "183400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "212700",
+      "clickTrace": "query:Lactogrow;nid:18830156184;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:18830156184_ID;price:183400;client:desktop;supplier_id:403398752115;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:13367;item_id:18830156184;sku_id:116259694142;shop_id:8189098;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "271 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18830156184_ID-116259694142"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2fda13b12dc4fed23a5c967c22c31cae.png&src=srp_findsimilar&item_id=18830156184&sku_id=116259694142&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=183400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18830156184.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259694142%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A18340000%3BdisplayPrice%3A18340000%3BsinglePromotionId%3A910000048890545%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.885714285714286&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=271&price=1.834E%205&review=70&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A18830156184%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A18830156184_ID%253Bprice%253A183400%253Bclient%253Adesktop%253Bsupplier_id%253A403398752115%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A18830156184%253Bsku_id%253A116259694142%253Bshop_id%253A8189098%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bebelac 4 / Bebelac 3+ Madu Susu Bubuk 3000gr",
+      "nid": "8699520513",
+      "itemId": "8699520513",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5120e37834cfc091ab0c8f682933748a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp490.000",
+      "discount": "10% Off",
+      "ratingScore": "4.857142857142857",
+      "review": "114",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac by LazMart",
+      "sellerId": "403381168283",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "8699520513_ID-16136014313",
+      "skuId": "16136014313",
+      "sku": "8699520513_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "490000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "542130",
+      "clickTrace": "query:Lactogrow;nid:8699520513;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8699520513_ID;price:490000;client:desktop;supplier_id:403381168283;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:13367;item_id:8699520513;sku_id:16136014313;shop_id:8147790;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "52 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699520513_ID-16136014313"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5120e37834cfc091ab0c8f682933748a.png&src=srp_findsimilar&item_id=8699520513&sku_id=16136014313&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=490000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699520513.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16136014313%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A49000000%3BdisplayPrice%3A49000000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.857142857142857&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=52&price=4.9E%205&review=114&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8699520513%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8699520513_ID%253Bprice%253A490000%253Bclient%253Adesktop%253Bsupplier_id%253A403381168283%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8699520513%253Bsku_id%253A16136014313%253Bshop_id%253A8147790%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "Bebelac 3 / Bebelac 1+ Madu Susu Pertumbuhan Bubuk 800gr x3",
+      "nid": "8699522661",
+      "itemId": "8699522661",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/119039702b27f9b3675e6b918832ba11.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp450.000",
+      "discount": "7% Off",
+      "ratingScore": "5.0",
+      "review": "26",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac by LazMart",
+      "sellerId": "403381168283",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "8699522661_ID-16136018646",
+      "skuId": "16136018646",
+      "sku": "8699522661_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "450000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "486200",
+      "clickTrace": "query:Lactogrow;nid:8699522661;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8699522661_ID;price:450000;client:desktop;supplier_id:403381168283;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:13367;item_id:8699522661;sku_id:16136018646;shop_id:8147790;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "29 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8699522661_ID-16136018646"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F119039702b27f9b3675e6b918832ba11.png&src=srp_findsimilar&item_id=8699522661&sku_id=16136018646&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=450000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8699522661.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16136018646%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A45000000%3BdisplayPrice%3A45000000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=29&price=4.5E%205&review=26&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8699522661%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8699522661_ID%253Bprice%253A450000%253Bclient%253Adesktop%253Bsupplier_id%253A403381168283%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8699522661%253Bsku_id%253A16136018646%253Bshop_id%253A8147790%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "Susu Bubuk Fullcream Kiloan Manis dan Tawar Ukuran 500 gram",
+      "nid": "7873396956",
+      "itemId": "7873396956",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  73% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3fb66e85f5a1dc620a5755f630949716.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.500",
+      "discount": "73% Off",
+      "ratingScore": "4.688888888888889",
+      "review": "720",
+      "location": "Kab. Bandung",
+      "thumbs": [],
+      "sellerName": "Azalea.co",
+      "sellerId": "400619370002",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7873396956_ID-14286736893",
+      "skuId": "14286736893",
+      "sku": "7873396956_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18471
+      ],
+      "price": "17500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "65000",
+      "clickTrace": "query:Lactogrow;nid:7873396956;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:7873396956_ID;price:17500;client:desktop;supplier_id:400619370002;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:18471;item_id:7873396956;sku_id:14286736893;shop_id:3924004;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7873396956_ID-14286736893"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3fb66e85f5a1dc620a5755f630949716.jpg&src=srp_findsimilar&item_id=7873396956&sku_id=14286736893&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=17500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7873396956.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14286736893%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A1750000%3BdisplayPrice%3A1750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.688888888888889&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2288&price=1.75E%204&review=720&location=Kab.%20Bandung&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A7873396956%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A7873396956_ID%253Bprice%253A17500%253Bclient%253Adesktop%253Bsupplier_id%253A400619370002%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18471%253Bitem_id%253A7873396956%253Bsku_id%253A14286736893%253Bshop_id%253A3924004%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Enfagrow A+ 4 Susu Formula 3-12 Tahun Rasa Vanila 800gr",
+      "nid": "7080384539",
+      "itemId": "7080384539",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "195777",
+          "text": "Brand Sale, tinggal 5 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f3c60e10c8769c766505c359bf509801.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.087.600",
+      "discount": "12% Off",
+      "ratingScore": "4.925",
+      "review": "80",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Enfagrow",
+      "sellerId": "1000001049",
+      "brandName": "Enfagrow",
+      "brandId": "7094",
+      "cheapest_sku": "7080384539_ID-13373818122",
+      "skuId": "13373818122",
+      "sku": "7080384539_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "1087600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "1234800",
+      "clickTrace": "query:Lactogrow;nid:7080384539;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:7080384539_ID;price:1087600;client:desktop;supplier_id:1000001049;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:13367;item_id:7080384539;sku_id:13373818122;shop_id:13434;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "859 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7080384539_ID-13373818122"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff3c60e10c8769c766505c359bf509801.png&src=srp_findsimilar&item_id=7080384539&sku_id=13373818122&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=1087600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7080384539.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13373818122%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A108760000%3BdisplayPrice%3A108760000%3BsinglePromotionId%3A910000049008694%3BsingleToolCode%3AflashSale_brandShop%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.925&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=859&price=1.0876E%206&review=80&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A7080384539%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A7080384539_ID%253Bprice%253A1087600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001049%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7080384539%253Bsku_id%253A13373818122%253Bshop_id%253A13434%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogrow 3 180gr/350gr/750gr - Susu Formula 1-3 Tahun",
+      "nid": "8000344289",
+      "itemId": "8000344289",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp63.300",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472240",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472241",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472242",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472243",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472238",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6809609825db47ef88abc8771d97a8d.jpg",
+          "sku": "8000344289_ID",
+          "skuId": "14422472239",
+          "itemUrl": "/products/pdp-i8000344289.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Mitrasana Official Store",
+      "sellerId": "1000690597",
+      "brandName": "H2 Health & Happiness",
+      "brandId": "121096282",
+      "cheapest_sku": "8000344289_ID-14422472238",
+      "skuId": "14422472238",
+      "sku": "8000344289_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "63300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:8000344289;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:8000344289_ID;price:63300;client:desktop;supplier_id:1000690597;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:15819;item_id:8000344289;sku_id:14422472238;shop_id:1173669;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8000344289_ID-14422472238"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe6809609825db47ef88abc8771d97a8d.jpg&src=srp_findsimilar&item_id=8000344289&sku_id=14422472238&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=63300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8000344289.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14422472238%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A6330000%3BdisplayPrice%3A6330000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=6.33E%204&review=&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A8000344289%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253A8000344289_ID%253Bprice%253A63300%253Bclient%253Adesktop%253Bsupplier_id%253A1000690597%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8000344289%253Bsku_id%253A14422472238%253Bshop_id%253A1173669%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bebelac 3 / Bebelac 1+ Vanila Susu Pertumbuhan Bubuk 800gr x3",
+      "nid": "160025888",
+      "itemId": "160025888",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/aafcbb2122e59c4e403d55012b87f2ca.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp452.350",
+      "discount": "7% Off",
+      "ratingScore": "4.840493407060825",
+      "review": "3922",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Bebelac",
+      "sellerId": "1000001010",
+      "brandName": "Bebelac",
+      "brandId": "5778",
+      "cheapest_sku": "BE814TBAA6456NANID-13642530",
+      "skuId": "181876439",
+      "sku": "BE814TBAA6456NANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "452350",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "486200",
+      "clickTrace": "query:Lactogrow;nid:160025888;src:LazadaMainSrp;rn:f0e512cc62accee956dc4d537f892e9d;region:id;sku:BE814TBAA6456NANID;price:452350;client:desktop;supplier_id:1000001010;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:15819;item_id:160025888;sku_id:181876439;shop_id:8192;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "74.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "BE814TBAA6456NANID-13642530"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Faafcbb2122e59c4e403d55012b87f2ca.png&src=srp_findsimilar&item_id=160025888&sku_id=181876439&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=452350.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160025888.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181876439%3Bsource%3Alazada-search-voucher%3Bsn%3Af0e512cc62accee956dc4d537f892e9d%3BoriginPrice%3A45235000%3BdisplayPrice%3A45235000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277059071&c=&ratingscore=4.840493407060825&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=74823&price=4.5235E%205&review=3922&location=Kota%20Depok&stock=1&lang=id&request_id=f0e512cc62accee956dc4d537f892e9d&clickTrackInfo=query%253ALactogrow%253Bnid%253A160025888%253Bsrc%253ALazadaMainSrp%253Brn%253Af0e512cc62accee956dc4d537f892e9d%253Bregion%253Aid%253Bsku%253ABE814TBAA6456NANID%253Bprice%253A452350%253Bclient%253Adesktop%253Bsupplier_id%253A1000001010%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160025888%253Bsku_id%253A181876439%253Bshop_id%253A8192%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

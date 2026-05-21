@@ -1,0 +1,702 @@
+[
+  {
+    "name": "SID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEiz2e9M92CVW76sqkuIIJvQACgYKAdASARYSFQHGX2Min-39m5Qvmsb6Y0IOrbvSKxoVAUF8yKrcYeAZQ6gMDjaMrK_0wYwb0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEWMR3sFgIE7OmZMkKXRg5OwACgYKAR4SARYSFQHGX2MiLcmWYztkiu3bryFCKSrR0RoVAUF8yKrlknjClotdHW2kp7oPyzLq0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEJwaafzk7cBr6SiiCT3ty7wACgYKAXISARYSFQHGX2MiV9l3Aw4g2TkQC_BrMbSqMBoVAUF8yKogO2BQX_yxsDVvbuvRSejV0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HSID",
+    "value": "AvkobV034-LmbOFwZ",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "AxfWSVetcE-LvS2xa",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "tTGimM3ZFSjWtdIl/ASrKMF46evATO1pru",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "NID",
+    "value": "531=Od-d3wh3t5OYu6YvhHweNlquBDsG__1ZXQD3djQVcxp-MrpGWJieopdMMD6jyZ9NKD6BY5TU20LOeBW9itW01pUth5ISQWL8CBUI-SFwmBBP92n6G8zdjrTCOH3zOz_J8bmn2VqWb5fh9J1MgL76r-4RndWILRoi-FcCstaO_m_hd6shZy_zrTFWT9xebXB3RBXLBcPqwkwN3rCXIALWM_JniHnkkWYVF7Gnrqvynhpl-H44sdmtY6jMW6hWCnZ2bEF0XHfFfmTjUjN3CVZPDytd2bPzXOx8HdrFpO93Zw9p3aSfjKIe9aK1ckNL2jFNZeennC5qQt06KkaBi6PRwBBlVXsq-zEVaO76JcCMD76bcnlDwjniAY_IDP5yxtoN1jn6rQdmPfmfiFvv0tFO7mKTM-qia-BwqiQ5SHMy6KVNir_eGTU1XC7detA_dCdo-dCTkt-L5-ZTcQoNu36NpKOKupMjwiQFx0GigcojxbN3RR1BEOPQNME83pdhYLqK7h5pOeIh4ASzykrhe0uKO2sGTuL_3JvoMdMUytyCYZNyJFPm_Iq2W7bG4mK82399Rp_Xn3r5PxVjXF3Ct4F6aWlByl2Th_pJtGstuopYVKo2bLU8lQ2jZxWfqS4mOOI",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1795142030,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lzd_cid",
+    "value": "dcf8ed2a-456b-46fd-bd42-7d8fa00bd1f0",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1810866788,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tb_token_",
+    "value": "e77531b5407be",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "hng",
+    "value": "ID|id|IDR|360",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1781922790,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "userLanguageML",
+    "value": "id",
+    "domain": "pages.lazada.co.id",
+    "path": "/",
+    "expires": 1781922790,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__itrace_wid",
+    "value": "1a0ef949-f4fe-4653-bc36-c27887e5bf69",
+    "domain": "pages.lazada.co.id",
+    "path": "/wow/gcp/id/member",
+    "expires": 1794882790,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "client_type",
+    "value": "desktop",
+    "domain": "cart.lazada.co.id",
+    "path": "/cart/api",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "t_fv",
+    "value": "1779330791404",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1813890791,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "t_uid",
+    "value": "g5QYmnMU9X7gJnC4nJ0PSc73vl6YHBCa",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1813890791,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "t_sid",
+    "value": "03cgH6NxHZlpQWo78hbF5Z7mSRXmhgwf",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779332591,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "utm_channel",
+    "value": "NA",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779332591,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "client_type",
+    "value": "desktop",
+    "domain": "my.lazada.co.id",
+    "path": "/api/recentOrders",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_m_h5_tk",
+    "value": "8ec2d7fe0499e3c6020822a2b60dc161_1779340871258",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779935591,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_m_h5_tk_enc",
+    "value": "fd390352d985e12f6366b047e669301a",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779935591,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "lwrtk",
+    "value": "AAIEag7fZ279wMySST0QRP3XMAxRnMEX6h3HHQo84j3AF8Ti3O08jq8=",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1794882791,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "G_ENABLED_IDPS",
+    "value": "google",
+    "domain": ".pages.lazada.co.id",
+    "path": "/",
+    "expires": 1813890792,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "G_AUTHUSER_H",
+    "value": "1",
+    "domain": ".pages.lazada.co.id",
+    "path": "/wow/gcp/id/member",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "arms_uid",
+    "value": "8f4ae1ee-fe17-4c9e-96ba-9f799fbb9aef",
+    "domain": "member.lazada.co.id",
+    "path": "//user/api/loginByOAuthCode/_____tmd_____",
+    "expires": 1794882865,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "lwrid",
+    "value": "AgGeSGEynJG4wPBWKKDOvA129Au9",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1794882866,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "bx-cookie-test",
+    "value": "1",
+    "domain": "member.lazada.co.id",
+    "path": "/",
+    "expires": 1779330903,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x5sec",
+    "value": "7b22617365727665722d6c617a6164613b33223a22617c434a2f4f75644147454a6e636f6f66362f2f2f2f2f77456943584a6c5932467764474e6f59544467684f5748426b70714d4459774d325a6d4d4455774d4445774d4441774d4441774d4441774d4441774d4441774d4441774d4441774d4441774d4441774e4749325a6d526a4d6a67304d5468684f544d7a4e546b354e446b345a6a4e6b595441774d4441774d4441774d4445324d7a5578596a4932596a4d314e7a4d344f575177596d4e6d4d6a677a4e7a41794f5749355a575a6a4f413d3d222c22733b32223a2238636465386639303732373963366263227d",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779335999,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "epssw",
+    "value": "12*qMDeM0YGGIw0ftBGyLvJKpUDTFU8kOYjfHiNfi3YAzxw_GGG4UXF4wGGla9F8wGws_a0VKazGGGujrjGwT7tFTBkmiIjGOs2iuEkvsB1bXmlq8iuPhJjTUkW8jg_eg7dnTywAF1XfXfj6ZIkb046OIthwGGGGH8qYpXgNrjLo3Wt-MwqhO0t5wIf-RnO7ylmZU8WcGG7ONvyqRQdIGGGIHmpITpqO0GGGtRsmsnEsis4s6xShwrGt_iWgQ3zeR8UQJt5xOohFvsUss8KiirnbPTSVJtGbC9Ffn9u_zhT_ReWU0Xd7hp3V9t1-KyK9qtG6gIsV7tNuejqEzLD31W.",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1794882901,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "isg",
+    "value": "BBMTUrmsfTQ-2TFg24Yz91_WoZc9yKeKefXY58U0JjLiRDTmTZmB22PWeiwqf_-C",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1794882790,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tfstk",
+    "value": "giliRJt7oAy1LmseZiP6Kf81gavRX5NbSmCYDSE2LkrQDFG95oknAmbv5n9sKomUvVhY_1nc0koS6oFZBrmnv029lFwxxEmEVVex7ldcmD0uDm0X5rrq0mqxBed-5VNbgnxDwQ3_-Nzqacq4bw84oz12JR5ur-i8g3KJ9Q3s5SNqk-VT5JuUArqV_So4Tyz0YPWNQmrULzzRbSPq0e4UkPzN3Ry486zYYoP4gmue-rZU7SPq0283lfAVgucqOX-Snbcellb-1P2g4VrNDihNu-XsRkfVgXf8ZuRYxs5qxPubX8C1ZKErFle8bDRdsS0UoD2-I3fimquS3JccbFnrovmb6X8VQuktXmymd3f8S5H3EfD6lMuZ2lDz1qQkX224rfNtphfz4Y0ZeyGvA1rmLxlTCSswmoGn8fkc4XXFUjLdGy8xtt6LQya323VeaFnhmthD-eXWCRzQW3LH-t6bQya32eYhFMeaRPKR.",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1794882790,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lzd_uid",
+    "value": "403640432466",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779590101,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "lzd_sid",
+    "value": "1eaff66a7e606110b619bcd13d521520",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1779590101,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "lzd_b_csg",
+    "value": "6dcece9d",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "sgcookie",
+    "value": "E100qmUweiuLFe2fCk1m5uYh6jtKSQvg2AWB3hQuWZL%2F5nj6%2BC%2BgM6KyvkhtF%2B0XbHzYxZlO5sjMehdu7UmN4PNernWFnQa%2B%2B9QmOO55nLh%2Feaw%3D",
+    "domain": ".lazada.co.id",
+    "path": "/",
+    "expires": 1781922901,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEiz2e9M92CVW76sqkuIIJvQACgYKAdASARYSFQHGX2Min-39m5Qvmsb6Y0IOrbvSKxoVAUF8yKrcYeAZQ6gMDjaMrK_0wYwb0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSIDTS",
+    "value": "sidts-CjQBhkeRd24-clnIQ6miIjGufQNKMpD8LynscZDelODsD8ABGlginUcT6PxOPNTGoC2fNVq8EAA",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1810866860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDTS",
+    "value": "sidts-CjQBhkeRd24-clnIQ6miIjGufQNKMpD8LynscZDelODsD8ABGlginUcT6PxOPNTGoC2fNVq8EAA",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1810866860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEWMR3sFgIE7OmZMkKXRg5OwACgYKAR4SARYSFQHGX2MiLcmWYztkiu3bryFCKSrR0RoVAUF8yKrlknjClotdHW2kp7oPyzLq0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEJwaafzk7cBr6SiiCT3ty7wACgYKAXISARYSFQHGX2MiV9l3Aw4g2TkQC_BrMbSqMBoVAUF8yKogO2BQX_yxsDVvbuvRSejV0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HSID",
+    "value": "AvkobV034-LmbOFwZ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "AxfWSVetcE-LvS2xa",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "tTGimM3ZFSjWtdIl/ASrKMF46evATO1pru",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cbc",
+    "value": "T2gATKRoHYQ7uzSteooKAHfNSD6ygIudv2wHhNpdOD0puWrB6wU1OUu7Y0Av5_cAq4U=",
+    "domain": ".alibaba.com",
+    "path": "/",
+    "expires": 1810866794,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "cbc",
+    "value": "T2gAU73ZK9LcJvr67bqspK9cB3NcANOwweN7Ddm9vpLatMa9OdZn-ErB70swOHJHAQ4=",
+    "domain": ".ynuf.aliapp.org",
+    "path": "/",
+    "expires": 1810866792,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "OTZ",
+    "value": "8617114_28_28__28_",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1781922814,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "NID",
+    "value": "531=B4UNqHh3KIm495Zogx84iHFL1AVkNyLO_9iKanoFxXgMtPhj_lVLaRoHj3mQ_ytVvbMkObr3RdncaMh0bf3QgdVCTJyjGAyOOt0muXJZQX5sY1OpkTLDwYFbSDzPzcejGjMyiNCSfZ9lp1oc2H4PbKGLUt_wANUTbUGq9SpuLFBGPKn_GoKvyu3pQDAHZw7oe5nHUbnHbPgFLaGtB_sb4sEwxpHSxVQQWgG9_es5K0Ho02huqSUDGEchG2co18UA4UPdkDjBfH4r0vVfjH1Vz5Jq7SXD_mI5ZlcOcFLA7MkLRhR3mt7VcDfHMxlDmfU50eJFY8JbPZPrdrZ5jNRNTsMtJjP0yKDeqq0ro87jSFbf0MkXF33435bgGev7eXjt3cjtOGhXhxzwCKDim78PHVCV5AeXtP626dA91N-KQosUrYVmc4kJBlqGiFGG-aSsFxRKYOF-fE9bwv26AIbyi9KNnpDFlRlzg0RC26ThHQXUK7j_Ia4jwCaboYtrSWHkr93VNEwQK90cX8woVHOmPido_CK1ObmUGOQHbGoKyul_EHJBtZEkWXXPFVj772wCX28TvSqF8tO2DEEvffLKGmuD8R6AJzcSqMuS-ZXTtnZN_e9i_zhSTsxkOtnquVDeZiiIPwdspzEvvOFTtCndPv2qcqVtgvRxPdSp-AhdBf6Rqe3iq2L9B7CW3Art2VORpNJj7uPrWHKAdxl336dcHLuCcu_4LjW_uz2-oV8tAji1C_4_1dENG5-jS9aghxDsjUljH8iJ1XYEFNGhwiyazS5hJ1w3Elm3u9rrY7IwmxfHsw5KZwWrh3YX4082va1DniRfuFxCQ8us8cMlcn-CRMlA-iVoyQS5XIKbT1KPht7tmT-CaLB9Y0JJcXJZnk2rWoYPXUNFpkJ2wFPQiiPJjgJ-D__oxg-34Aw",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1795141994,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEiz2e9M92CVW76sqkuIIJvQACgYKAdASARYSFQHGX2Min-39m5Qvmsb6Y0IOrbvSKxoVAUF8yKrcYeAZQ6gMDjaMrK_0wYwb0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEWMR3sFgIE7OmZMkKXRg5OwACgYKAR4SARYSFQHGX2MiLcmWYztkiu3bryFCKSrR0RoVAUF8yKrlknjClotdHW2kp7oPyzLq0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AgXZfEdoVXDRc--XAVYr5ADdcA_1qeer_935DsUAfNWAYlEJwaafzk7cBr6SiiCT3ty7wACgYKAXISARYSFQHGX2MiV9l3Aw4g2TkQC_BrMbSqMBoVAUF8yKogO2BQX_yxsDVvbuvRSejV0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "LSID",
+    "value": "s.ID|s.youtube:g.a000-AgXZW9ocWtoUZwp9IlnVBuN6RfExynHNb1tK4NxqM_czC8YpcD-f3rUgnJGXFQXK9x-EgACgYKAckSARYSFQHGX2MiHhX4ZBa4i6zSDhaslNZEpBoVAUF8yKq7QCdv-NvtUvNWZTKJ79Ad0076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-1PLSID",
+    "value": "s.ID|s.youtube:g.a000-AgXZW9ocWtoUZwp9IlnVBuN6RfExynHNb1tK4NxqM_czC8Yycc38xfP2Cm_BXt46Tr9bwACgYKATwSARYSFQHGX2Mi8LbhFUN6SRBy3cHKxUm1-hoVAUF8yKrV2aH2ku185fP1OFzWNoI70076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-3PLSID",
+    "value": "s.ID|s.youtube:g.a000-AgXZW9ocWtoUZwp9IlnVBuN6RfExynHNb1tK4NxqM_czC8YYJej1R-__lwzyrrAgAWmAQACgYKAdwSARYSFQHGX2Mik8hIGPyOYucO_g0LPumAvBoVAUF8yKq81mrvBZVkTZS5X2GGk7AT0076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HSID",
+    "value": "Av1G7K38EuDoVVkCC",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "AvbunCDVxLeCa9wzm",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "tTGimM3ZFSjWtdIl/ASrKMF46evATO1pru",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "dGzSEWqYj5I_u6nP/AfFQxbDsRnDjaYoCU",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ACCOUNT_CHOOSER",
+    "value": "AFx_qI7EFAUf6EdMGMDvK3qDz2OXY0Mv2Kwzhq4Uk_s88wLU4i8gZO7lLmnZMr0LVLK5RDq2Mld0gInvD7qx_k7WPPA7kka8pDWoqYRfu_yGeFZRKsscjcH4Zy79AV2674mCxNVOEVunEx8w_WCd2SL61I5zc3S2MAXe9T4xKz_u33r6RSkk0BUx98Co55LF9hLiKJWs8fOZ6Cx1jA2j0T-rE1Qu7M_E8g",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-GAPS",
+    "value": "1:Mqt1Qqwv3Ugv5AJcDlrhFMuqnLR7LJ9acTntuQvUg06JzvpkshnRvvN9JZ4zqm1yoDIQVxPgiGgL9tC02agMr1eFd52MAw:DJkiVAAAMoMWEoCj",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890860,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "LSOLH",
+    "value": "|_SVI_EJ6dmICsyZQDGBAiP01BRURIZl9xMW5NemlkWUpFQjJieFV4OHdqY252QUkwSGhuN3RrYkhqZWF6RmI0b3k3U0hMU1RiU2xOTHItaw_:|29655529:2724",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1810866863,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SIDCC",
+    "value": "AKEyXzWgy0K7cg6oc338Ht4az2qe8qhK3CxMFE6ilSaRhW0sof7LMbvrVGFnnIubioXGuHsz9Q",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866900,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSIDCC",
+    "value": "AKEyXzXRYibeY1_vowBHroHH_Xl-Pir0WDx4ca983IbeAvp4xcZMCiYrfJ-Hzw2uS6HEvCgs2A",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866900,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDCC",
+    "value": "AKEyXzVGspK4rld9EE-JP0kPyjQRXDHhFKsH3rNVuB1-vq6oVI86VXrgOa-N_CD7UuX5dVEL",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866900,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

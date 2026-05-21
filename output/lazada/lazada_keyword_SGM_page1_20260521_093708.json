@@ -1,0 +1,3139 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "SGM",
+  "page": 1,
+  "job_id": "a569a985-ea0b-430f-b2a5-70ce7b872982",
+  "scraped_at": "2026-05-21T09:37:08.472905",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "SGM Ananda 2 (6-12 Bulan) Formula Bayi Bubuk 1000 gr",
+      "nid": "159940280",
+      "itemId": "159940280",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6fb7aa655448be2a615fe7f4490320b3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.130",
+      "ratingScore": "4.930940790218499",
+      "review": "35332",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAC81GANID-119890",
+      "skuId": "181733304",
+      "sku": "SG816TBAC81GANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "90130",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:159940280;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAC81GANID;price:90130;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:13365;item_id:159940280;sku_id:181733304;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "417.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAC81GANID-119890"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6fb7aa655448be2a615fe7f4490320b3.png&src=srp_findsimilar&item_id=159940280&sku_id=181733304&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=90130.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i159940280.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181733304%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A9013000%3BdisplayPrice%3A9013000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.930940790218499&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=417532&price=9.013E%204&review=35332&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A159940280%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAC81GANID%253Bprice%253A90130%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A159940280%253Bsku_id%253A181733304%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 900GR",
+      "nid": "160027789",
+      "itemId": "160027789",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/86e8e6341608a4090a189ce0f5796053.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp82.600",
+      "discount": "7% Off",
+      "ratingScore": "4.932057373773258",
+      "review": "38807",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAA6MBZSANID-15704515",
+      "skuId": "181881826",
+      "sku": "SG816TBAA6MBZSANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "82600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "89000",
+      "clickTrace": "query:SGM;nid:160027789;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAA6MBZSANID;price:82600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:15819;item_id:160027789;sku_id:181881826;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "237.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAA6MBZSANID-15704515"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F86e8e6341608a4090a189ce0f5796053.png&src=srp_findsimilar&item_id=160027789&sku_id=181881826&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=82600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160027789.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181881826%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A8260000%3BdisplayPrice%3A8260000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.932057373773258&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=237650&price=8.26E%204&review=38807&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160027789%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAA6MBZSANID%253Bprice%253A82600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160027789%253Bsku_id%253A181881826%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor Isopro Soy 1+ Vanila Susu Pertumbuhan 700gr x2",
+      "nid": "499044899",
+      "itemId": "499044899",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  22% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/af5c2cf348d93757b5b499d31399842a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp162.100",
+      "discount": "22% Off",
+      "ratingScore": "4.924365207995678",
+      "review": "16659",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "499044899_ID-629072642",
+      "skuId": "629072642",
+      "sku": "499044899_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "162100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "208200",
+      "clickTrace": "query:SGM;nid:499044899;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:499044899_ID;price:162100;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:15819;item_id:499044899;sku_id:629072642;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "112.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "499044899_ID-629072642"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Faf5c2cf348d93757b5b499d31399842a.png&src=srp_findsimilar&item_id=499044899&sku_id=629072642&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=162100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i499044899.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A629072642%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A16210000%3BdisplayPrice%3A16210000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.924365207995678&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=112253&price=1.621E%205&review=16659&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A499044899%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A499044899_ID%253Bprice%253A162100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A499044899%253Bsku_id%253A629072642%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Vanilla 900GR",
+      "nid": "160027796",
+      "itemId": "160027796",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/86efd9297115f632315b4117327d9e9e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp78.500",
+      "discount": "7% Off",
+      "ratingScore": "4.933280516099825",
+      "review": "17671",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAA6MBZQANID-15704520",
+      "skuId": "181881852",
+      "sku": "SG816TBAA6MBZQANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "78500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "84100",
+      "clickTrace": "query:SGM;nid:160027796;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAA6MBZQANID;price:78500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:13367;item_id:160027796;sku_id:181881852;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "103.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAA6MBZQANID-15704520"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F86efd9297115f632315b4117327d9e9e.png&src=srp_findsimilar&item_id=160027796&sku_id=181881852&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=78500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160027796.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181881852%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A7850000%3BdisplayPrice%3A7850000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.933280516099825&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=103770&price=7.85E%204&review=17671&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160027796%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAA6MBZQANID%253Bprice%253A78500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160027796%253Bsku_id%253A181881852%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 900GR",
+      "nid": "160027804",
+      "itemId": "160027804",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b56d422c9bd3c05a2cc0842ae4436cab.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp82.600",
+      "discount": "7% Off",
+      "ratingScore": "4.932173250349295",
+      "review": "40003",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAA6MBZKANID-15704511",
+      "skuId": "181881888",
+      "sku": "SG816TBAA6MBZKANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "82600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "89000",
+      "clickTrace": "query:SGM;nid:160027804;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAA6MBZKANID;price:82600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:15819;item_id:160027804;sku_id:181881888;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "280.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAA6MBZKANID-15704511"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb56d422c9bd3c05a2cc0842ae4436cab.png&src=srp_findsimilar&item_id=160027804&sku_id=181881888&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=82600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160027804.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181881888%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A8260000%3BdisplayPrice%3A8260000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.932173250349295&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=280106&price=8.26E%204&review=40003&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160027804%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAA6MBZKANID%253Bprice%253A82600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160027804%253Bsku_id%253A181881888%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Ananda 1 (0-6 Bulan) Formula Bayi Bubuk 1000 GR",
+      "nid": "159940324",
+      "itemId": "159940324",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a80c2b18df3cbb85344004ea599836a2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.130",
+      "ratingScore": "4.929098176086467",
+      "review": "26059",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAC81FANID-119889",
+      "skuId": "181733395",
+      "sku": "SG816TBAC81FANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "90130",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:159940324;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAC81FANID;price:90130;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:13365;item_id:159940324;sku_id:181733395;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "321.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAC81FANID-119889"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa80c2b18df3cbb85344004ea599836a2.png&src=srp_findsimilar&item_id=159940324&sku_id=181733395&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=90130.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i159940324.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181733395%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A9013000%3BdisplayPrice%3A9013000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.929098176086467&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=321395&price=9.013E%204&review=26059&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A159940324%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAC81FANID%253Bprice%253A90130%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A159940324%253Bsku_id%253A181733395%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 900GR x 4",
+      "nid": "752054946",
+      "itemId": "752054946",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/861f92e4bdd7b3594a7597a381651342.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp315.000",
+      "discount": "12% Off",
+      "ratingScore": "4.920809824095586",
+      "review": "22338",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "752054946_ID-1041242941",
+      "skuId": "1041242941",
+      "sku": "752054946_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "315000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "356000",
+      "clickTrace": "query:SGM;nid:752054946;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:752054946_ID;price:315000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:15819;item_id:752054946;sku_id:1041242941;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "123.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "752054946_ID-1041242941"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F861f92e4bdd7b3594a7597a381651342.png&src=srp_findsimilar&item_id=752054946&sku_id=1041242941&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=315000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i752054946.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1041242941%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A31500000%3BdisplayPrice%3A31500000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.920809824095586&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=123481&price=3.15E%205&review=22338&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A752054946%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A752054946_ID%253Bprice%253A315000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A752054946%253Bsku_id%253A1041242941%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Madu 900GR x 4",
+      "nid": "6050368001",
+      "itemId": "6050368001",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  18% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/bb95644499db7046233a75278c8c1744.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp294.000",
+      "discount": "18% Off",
+      "ratingScore": "4.939899423525083",
+      "review": "8153",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "6050368001_ID-11616824175",
+      "skuId": "11616824175",
+      "sku": "6050368001_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "294000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "360300",
+      "clickTrace": "query:SGM;nid:6050368001;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:6050368001_ID;price:294000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:13367;item_id:6050368001;sku_id:11616824175;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "24.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6050368001_ID-11616824175"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fbb95644499db7046233a75278c8c1744.png&src=srp_findsimilar&item_id=6050368001&sku_id=11616824175&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=294000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6050368001.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11616824175%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A29400000%3BdisplayPrice%3A29400000%3BsinglePromotionId%3A910000048885686%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.939899423525083&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=24123&price=2.94E%205&review=8153&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A6050368001%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A6050368001_ID%253Bprice%253A294000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A6050368001%253Bsku_id%253A11616824175%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Vanilla 900GR x 4",
+      "nid": "6050396567",
+      "itemId": "6050396567",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  13% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/c01e7e43b2563783caab8d8eed6c3341.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp294.000",
+      "discount": "13% Off",
+      "ratingScore": "4.9419778810706845",
+      "review": "6239",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "6050396567_ID-11616860254",
+      "skuId": "11616860254",
+      "sku": "6050396567_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "294000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "336400",
+      "clickTrace": "query:SGM;nid:6050396567;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:6050396567_ID;price:294000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:13367;item_id:6050396567;sku_id:11616860254;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "18.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6050396567_ID-11616860254"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fc01e7e43b2563783caab8d8eed6c3341.png&src=srp_findsimilar&item_id=6050396567&sku_id=11616860254&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=294000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6050396567.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11616860254%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A29400000%3BdisplayPrice%3A29400000%3BsinglePromotionId%3A910000048885686%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.9419778810706845&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=17989&price=2.94E%205&review=6239&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A6050396567%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A6050396567_ID%253Bprice%253A294000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A6050396567%253Bsku_id%253A11616860254%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor Isopro Soy 1+ Madu Susu Pertumbuhan 700gr x2",
+      "nid": "499064051",
+      "itemId": "499064051",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  22% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/72f65895dae04181baf7a724360de618.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp162.100",
+      "discount": "22% Off",
+      "ratingScore": "4.928359390461112",
+      "review": "15159",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/a1a1e87e1c75a279c7b8742d084326cf.jpg",
+          "sku": "499064051_ID",
+          "skuId": "629068723",
+          "itemUrl": "/products/pdp-i499064051.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "499064051_ID-629068723",
+      "skuId": "629068723",
+      "sku": "499064051_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "162100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "208200",
+      "clickTrace": "query:SGM;nid:499064051;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:499064051_ID;price:162100;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:15819;item_id:499064051;sku_id:629068723;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "104.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "499064051_ID-629068723"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F72f65895dae04181baf7a724360de618.png&src=srp_findsimilar&item_id=499064051&sku_id=629068723&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=162100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i499064051.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A629068723%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A16210000%3BdisplayPrice%3A16210000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.928359390461112&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=104493&price=1.621E%205&review=15159&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A499064051%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A499064051_ID%253Bprice%253A162100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A499064051%253Bsku_id%253A629068723%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 3000GR",
+      "nid": "8369312607",
+      "itemId": "8369312607",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  29% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b2aa736d189d44615eec6fca0e40b59d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp243.600",
+      "discount": "29% Off",
+      "ratingScore": "4.9155332856120255",
+      "review": "1397",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8369312607_ID-14798304250",
+      "skuId": "14798304250",
+      "sku": "8369312607_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "243600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "345000",
+      "clickTrace": "query:SGM;nid:8369312607;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8369312607_ID;price:243600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:15819;item_id:8369312607;sku_id:14798304250;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "4.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8369312607_ID-14798304250"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb2aa736d189d44615eec6fca0e40b59d.png&src=srp_findsimilar&item_id=8369312607&sku_id=14798304250&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=243600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8369312607.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14798304250%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A24360000%3BdisplayPrice%3A24360000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.9155332856120255&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4067&price=2.436E%205&review=1397&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8369312607%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8369312607_ID%253Bprice%253A243600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8369312607%253Bsku_id%253A14798304250%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 900GR x 4",
+      "nid": "752164302",
+      "itemId": "752164302",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/81cb1b860fafd3484be2b5a5cedcb97a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp315.000",
+      "discount": "12% Off",
+      "ratingScore": "4.921496634321182",
+      "review": "22878",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/81cb1b860fafd3484be2b5a5cedcb97a.png",
+          "sku": "752164302_ID",
+          "skuId": "1041326488",
+          "itemUrl": "/products/pdp-i752164302.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "752164302_ID-1041326488",
+      "skuId": "1041326488",
+      "sku": "752164302_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "315000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "356000",
+      "clickTrace": "query:SGM;nid:752164302;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:752164302_ID;price:315000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:15819;item_id:752164302;sku_id:1041326488;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "92.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "752164302_ID-1041326488"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F81cb1b860fafd3484be2b5a5cedcb97a.png&src=srp_findsimilar&item_id=752164302&sku_id=1041326488&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=315000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i752164302.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1041326488%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A31500000%3BdisplayPrice%3A31500000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.921496634321182&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=92836&price=3.15E%205&review=22878&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A752164302%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A752164302_ID%253Bprice%253A315000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A752164302%253Bsku_id%253A1041326488%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Madu 900GR",
+      "nid": "160027773",
+      "itemId": "160027773",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/174fde9b05c8130a1666b42ebb59a2e5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp78.500",
+      "discount": "7% Off",
+      "ratingScore": "4.925802287799884",
+      "review": "22467",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAA6MBZLANID-15704512",
+      "skuId": "181881773",
+      "sku": "SG816TBAA6MBZLANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "78500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "84100",
+      "clickTrace": "query:SGM;nid:160027773;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAA6MBZLANID;price:78500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:13367;item_id:160027773;sku_id:181881773;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "127.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAA6MBZLANID-15704512"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F174fde9b05c8130a1666b42ebb59a2e5.png&src=srp_findsimilar&item_id=160027773&sku_id=181881773&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=78500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160027773.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181881773%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A7850000%3BdisplayPrice%3A7850000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.925802287799884&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=127824&price=7.85E%204&review=22467&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160027773%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAA6MBZLANID%253Bprice%253A78500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160027773%253Bsku_id%253A181881773%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Ananda 1 (0-6 Bulan) Formula Bayi Bubuk 550 gr",
+      "nid": "8109732118",
+      "itemId": "8109732118",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ca4298701e389ab97310623cd433f21f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp51.900",
+      "ratingScore": "4.883116883116883",
+      "review": "770",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/ca4298701e389ab97310623cd433f21f.png",
+          "sku": "8109732118_ID",
+          "skuId": "14500856515",
+          "itemUrl": "/products/pdp-i8109732118.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8109732118_ID-14500856515",
+      "skuId": "14500856515",
+      "sku": "8109732118_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "51900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8109732118;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8109732118_ID;price:51900;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:13365;item_id:8109732118;sku_id:14500856515;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8109732118_ID-14500856515"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fca4298701e389ab97310623cd433f21f.png&src=srp_findsimilar&item_id=8109732118&sku_id=14500856515&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=51900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8109732118.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14500856515%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5190000%3BdisplayPrice%3A5190000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.883116883116883&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5253&price=5.19E%204&review=770&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8109732118%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8109732118_ID%253Bprice%253A51900%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8109732118%253Bsku_id%253A14500856515%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Ananda 2 (6-12 Bulan) Formula Bayi Bubuk 550 gr",
+      "nid": "8109894628",
+      "itemId": "8109894628",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/68ac8bdf09327da04f270cf95a229a66.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp51.900",
+      "ratingScore": "4.889200561009818",
+      "review": "713",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/68ac8bdf09327da04f270cf95a229a66.png",
+          "sku": "8109894628_ID",
+          "skuId": "14500968345",
+          "itemUrl": "/products/pdp-i8109894628.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8109894628_ID-14500968345",
+      "skuId": "14500968345",
+      "sku": "8109894628_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "51900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8109894628;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8109894628_ID;price:51900;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:13366;item_id:8109894628;sku_id:14500968345;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8109894628_ID-14500968345"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F68ac8bdf09327da04f270cf95a229a66.png&src=srp_findsimilar&item_id=8109894628&sku_id=14500968345&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=51900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8109894628.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14500968345%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5190000%3BdisplayPrice%3A5190000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.889200561009818&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5321&price=5.19E%204&review=713&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8109894628%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8109894628_ID%253Bprice%253A51900%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A8109894628%253Bsku_id%253A14500968345%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 3000GR",
+      "nid": "8369278677",
+      "itemId": "8369278677",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  30% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5445f762aa2aa25bd2a269f50c571fa4.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp242.000",
+      "discount": "30% Off",
+      "ratingScore": "4.932868352223191",
+      "review": "1147",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8369278677_ID-14798208623",
+      "skuId": "14798208623",
+      "sku": "8369278677_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "242000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "345000",
+      "clickTrace": "query:SGM;nid:8369278677;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8369278677_ID;price:242000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:15819;item_id:8369278677;sku_id:14798208623;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8369278677_ID-14798208623"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5445f762aa2aa25bd2a269f50c571fa4.png&src=srp_findsimilar&item_id=8369278677&sku_id=14798208623&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=242000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8369278677.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14798208623%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A24200000%3BdisplayPrice%3A24200000%3BsinglePromotionId%3A910000048885686%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.932868352223191&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3188&price=2.42E%205&review=1147&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8369278677%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8369278677_ID%253Bprice%253A242000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8369278677%253Bsku_id%253A14798208623%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Madu 900GR x 3",
+      "nid": "160034948",
+      "itemId": "160034948",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0cdfb45bd1eb0430a0834255b29f59b5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp223.000",
+      "discount": "12% Off",
+      "ratingScore": "4.8989885546978975",
+      "review": "12003",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAAH8DPHANID-38395277",
+      "skuId": "181902368",
+      "sku": "SG816TBAAH8DPHANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "223000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "252300",
+      "clickTrace": "query:SGM;nid:160034948;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAAH8DPHANID;price:223000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:13367;item_id:160034948;sku_id:181902368;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "175.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAAH8DPHANID-38395277"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0cdfb45bd1eb0430a0834255b29f59b5.png&src=srp_findsimilar&item_id=160034948&sku_id=181902368&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=223000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160034948.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181902368%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A22300000%3BdisplayPrice%3A22300000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.8989885546978975&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=175916&price=2.23E%205&review=12003&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160034948%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAAH8DPHANID%253Bprice%253A223000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160034948%253Bsku_id%253A181902368%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Vanilla 900GR x 3",
+      "nid": "160034945",
+      "itemId": "160034945",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b4b58b94dda418a82e2b00d37d40f002.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp223.000",
+      "discount": "12% Off",
+      "ratingScore": "4.908860438585372",
+      "review": "8288",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAAH8DPEANID-38395274",
+      "skuId": "181902365",
+      "sku": "SG816TBAAH8DPEANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "223000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "252300",
+      "clickTrace": "query:SGM;nid:160034945;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAAH8DPEANID;price:223000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:13367;item_id:160034945;sku_id:181902365;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "109.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAAH8DPEANID-38395274"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb4b58b94dda418a82e2b00d37d40f002.png&src=srp_findsimilar&item_id=160034945&sku_id=181902365&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=223000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160034945.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181902365%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A22300000%3BdisplayPrice%3A22300000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.908860438585372&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=109184&price=2.23E%205&review=8288&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160034945%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAAH8DPEANID%253Bprice%253A223000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160034945%253Bsku_id%253A181902365%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 900GR x 3",
+      "nid": "160034947",
+      "itemId": "160034947",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  11% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ebc68a1a1f82722814af92b49db1b9f4.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp238.500",
+      "discount": "11% Off",
+      "ratingScore": "4.873203029341073",
+      "review": "10394",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAAH8DPGANID-38395276",
+      "skuId": "181902367",
+      "sku": "SG816TBAAH8DPGANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "238500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "267000",
+      "clickTrace": "query:SGM;nid:160034947;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAAH8DPGANID;price:238500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:15819;item_id:160034947;sku_id:181902367;shop_id:360176;templateInfo:107879_A3_E#152450_C#",
+      "itemSoldCntShow": "190.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAAH8DPGANID-38395276"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Febc68a1a1f82722814af92b49db1b9f4.png&src=srp_findsimilar&item_id=160034947&sku_id=181902367&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=238500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160034947.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181902367%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A23850000%3BdisplayPrice%3A23850000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.873203029341073&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=190823&price=2.385E%205&review=10394&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160034947%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAAH8DPGANID%253Bprice%253A238500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160034947%253Bsku_id%253A181902367%253Bshop_id%253A360176%253BtemplateInfo%253A107879_A3_E%2523152450_C%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Madu 900GR x 3",
+      "nid": "200079728",
+      "itemId": "200079728",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  17% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5ec38ac20d0f2d8a5a863d5a5a35e6a0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp204.400",
+      "discount": "17% Off",
+      "ratingScore": "4.930439700268627",
+      "review": "7073",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBABTLSQGANID-147501325",
+      "skuId": "244745654",
+      "sku": "SG816TBABTLSQGANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "204400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "244800",
+      "clickTrace": "query:SGM;nid:200079728;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBABTLSQGANID;price:204400;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:13367;item_id:200079728;sku_id:244745654;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "46.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBABTLSQGANID-147501325"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5ec38ac20d0f2d8a5a863d5a5a35e6a0.png&src=srp_findsimilar&item_id=200079728&sku_id=244745654&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=204400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i200079728.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A244745654%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A20440000%3BdisplayPrice%3A20440000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.930439700268627&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=46528&price=2.044E%205&review=7073&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A200079728%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBABTLSQGANID%253Bprice%253A204400%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A200079728%253Bsku_id%253A244745654%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Cokelat 900GR x 3",
+      "nid": "200079727",
+      "itemId": "200079727",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  17% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ef5ecef53c0f8c0405e1db9eab4db577.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp203.600",
+      "discount": "17% Off",
+      "ratingScore": "4.925165962582981",
+      "review": "3314",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBABTLSQJANID-147501328",
+      "skuId": "244745653",
+      "sku": "SG816TBABTLSQJANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "203600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "244800",
+      "clickTrace": "query:SGM;nid:200079727;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBABTLSQJANID;price:203600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:13367;item_id:200079727;sku_id:244745653;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "18.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBABTLSQJANID-147501328"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fef5ecef53c0f8c0405e1db9eab4db577.png&src=srp_findsimilar&item_id=200079727&sku_id=244745653&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=203600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i200079727.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A244745653%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A20360000%3BdisplayPrice%3A20360000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027816&c=&ratingscore=4.925165962582981&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=18670&price=2.036E%205&review=3314&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A200079727%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBABTLSQJANID%253Bprice%253A203600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A200079727%253Bsku_id%253A244745653%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Madu 900GR",
+      "nid": "159984619",
+      "itemId": "159984619",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/adb0533fec332aa03891411209981606.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp76.400",
+      "discount": "6% Off",
+      "ratingScore": "4.938837920489297",
+      "review": "18312",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAF9H8ANID-244799",
+      "skuId": "181788255",
+      "sku": "SG816TBAF9H8ANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "76400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "81600",
+      "clickTrace": "query:SGM;nid:159984619;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAF9H8ANID;price:76400;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:13367;item_id:159984619;sku_id:181788255;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "167.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAF9H8ANID-244799"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fadb0533fec332aa03891411209981606.png&src=srp_findsimilar&item_id=159984619&sku_id=181788255&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=76400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i159984619.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181788255%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A7640000%3BdisplayPrice%3A7640000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.938837920489297&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=167042&price=7.64E%204&review=18312&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A159984619%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAF9H8ANID%253Bprice%253A76400%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A159984619%253Bsku_id%253A181788255%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 900GR x 3",
+      "nid": "160034946",
+      "itemId": "160034946",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  11% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7c566f51b876d718b684b29826d68978.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp238.500",
+      "discount": "11% Off",
+      "ratingScore": "4.87898045412387",
+      "review": "15255",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAAH8DPFANID-38395275",
+      "skuId": "181902366",
+      "sku": "SG816TBAAH8DPFANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "238500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "267000",
+      "clickTrace": "query:SGM;nid:160034946;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAAH8DPFANID;price:238500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:15819;item_id:160034946;sku_id:181902366;shop_id:360176;templateInfo:-1_C#107879_A3_E#",
+      "itemSoldCntShow": "294.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAAH8DPFANID-38395275"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7c566f51b876d718b684b29826d68978.png&src=srp_findsimilar&item_id=160034946&sku_id=181902366&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=238500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160034946.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181902366%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A23850000%3BdisplayPrice%3A23850000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.87898045412387&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=294031&price=2.385E%205&review=15255&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160034946%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAAH8DPFANID%253Bprice%253A238500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160034946%253Bsku_id%253A181902366%253Bshop_id%253A360176%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Cokelat 900GR x 3",
+      "nid": "200079726",
+      "itemId": "200079726",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/9c72401ce0036428a4a0defa35db53a7.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp222.100",
+      "discount": "12% Off",
+      "ratingScore": "4.918476326094695",
+      "review": "2809",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBABTLSQCANID-147501322",
+      "skuId": "244745652",
+      "sku": "SG816TBABTLSQCANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "222100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "252300",
+      "clickTrace": "query:SGM;nid:200079726;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBABTLSQCANID;price:222100;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:13367;item_id:200079726;sku_id:244745652;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "12.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBABTLSQCANID-147501322"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F9c72401ce0036428a4a0defa35db53a7.png&src=srp_findsimilar&item_id=200079726&sku_id=244745652&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=222100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i200079726.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A244745652%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A22210000%3BdisplayPrice%3A22210000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.918476326094695&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=12609&price=2.221E%205&review=2809&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A200079726%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBABTLSQCANID%253Bprice%253A222100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A200079726%253Bsku_id%253A244745652%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 600gr x5",
+      "nid": "497988905",
+      "itemId": "497988905",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  8% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/068129df13740cb8c8073163a9b4d21f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp286.600",
+      "discount": "8% Off",
+      "ratingScore": "4.8700943109218136",
+      "review": "3287",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/5c0c655a0d72be243c2eefb504dae0ff.png",
+          "sku": "497988905_ID",
+          "skuId": "625940406",
+          "itemUrl": "/products/pdp-i497988905.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "497988905_ID-625940406",
+      "skuId": "625940406",
+      "sku": "497988905_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "286600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "310000",
+      "clickTrace": "query:SGM;nid:497988905;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:497988905_ID;price:286600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:15819;item_id:497988905;sku_id:625940406;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "497988905_ID-625940406"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F068129df13740cb8c8073163a9b4d21f.png&src=srp_findsimilar&item_id=497988905&sku_id=625940406&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=286600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i497988905.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A625940406%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A28660000%3BdisplayPrice%3A28660000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.8700943109218136&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16764&price=2.866E%205&review=3287&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A497988905%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A497988905_ID%253Bprice%253A286600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A497988905%253Bsku_id%253A625940406%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Ananda 1 (0-6 Bulan) Formula Bayi Bubuk 400gr",
+      "nid": "8083070049",
+      "itemId": "8083070049",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/acce2373adf0676ba3951dae2aeb66b7.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp43.400",
+      "ratingScore": "4.877237851662404",
+      "review": "391",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8083070049_ID-14471812388",
+      "skuId": "14471812388",
+      "sku": "8083070049_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "43400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8083070049;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8083070049_ID;price:43400;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:13365;item_id:8083070049;sku_id:14471812388;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8083070049_ID-14471812388"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Facce2373adf0676ba3951dae2aeb66b7.jpg&src=srp_findsimilar&item_id=8083070049&sku_id=14471812388&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=43400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8083070049.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14471812388%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A4340000%3BdisplayPrice%3A4340000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.877237851662404&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1780&price=4.34E%204&review=391&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8083070049%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8083070049_ID%253Bprice%253A43400%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8083070049%253Bsku_id%253A14471812388%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Cokelat 900GR",
+      "nid": "159984698",
+      "itemId": "159984698",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/28bb60e553ab31b8a619d26a317a55c3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp76.100",
+      "discount": "7% Off",
+      "ratingScore": "4.924410432609714",
+      "review": "6403",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAF9H6ANID-244797",
+      "skuId": "181788340",
+      "sku": "SG816TBAF9H6ANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "76100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "81600",
+      "clickTrace": "query:SGM;nid:159984698;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAF9H6ANID;price:76100;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:13367;item_id:159984698;sku_id:181788340;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "34.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAF9H6ANID-244797"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F28bb60e553ab31b8a619d26a317a55c3.png&src=srp_findsimilar&item_id=159984698&sku_id=181788340&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=76100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i159984698.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181788340%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A7610000%3BdisplayPrice%3A7610000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.924410432609714&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=34719&price=7.61E%204&review=6403&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A159984698%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAF9H6ANID%253Bprice%253A76100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A159984698%253Bsku_id%253A181788340%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Pertumbuhan Rasa Madu 600gr",
+      "nid": "8083072368",
+      "itemId": "8083072368",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3e5ddcc372f636f14da8efdb0421a2b6.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp55.700",
+      "discount": "6% Off",
+      "ratingScore": "4.894171779141105",
+      "review": "652",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8083072368_ID-14471784809",
+      "skuId": "14471784809",
+      "sku": "8083072368_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "55700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "59300",
+      "clickTrace": "query:SGM;nid:8083072368;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8083072368_ID;price:55700;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:13367;item_id:8083072368;sku_id:14471784809;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8083072368_ID-14471784809"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3e5ddcc372f636f14da8efdb0421a2b6.png&src=srp_findsimilar&item_id=8083072368&sku_id=14471784809&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=55700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8083072368.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14471784809%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5570000%3BdisplayPrice%3A5570000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.894171779141105&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2183&price=5.57E%204&review=652&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8083072368%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8083072368_ID%253Bprice%253A55700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8083072368%253Bsku_id%253A14471784809%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Cokelat 900GR x 4",
+      "nid": "6050472435",
+      "itemId": "6050472435",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  8% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ea8d80c6b581322184226ba3d20de740.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp308.000",
+      "discount": "8% Off",
+      "ratingScore": "4.934975369458128",
+      "review": "1015",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "6050472435_ID-11616944167",
+      "skuId": "11616944167",
+      "sku": "6050472435_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "308000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "336400",
+      "clickTrace": "query:SGM;nid:6050472435;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:6050472435_ID;price:308000;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:13367;item_id:6050472435;sku_id:11616944167;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6050472435_ID-11616944167"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fea8d80c6b581322184226ba3d20de740.png&src=srp_findsimilar&item_id=6050472435&sku_id=11616944167&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=308000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6050472435.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11616944167%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A30800000%3BdisplayPrice%3A30800000%3BsinglePromotionId%3A910000048892520%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.934975369458128&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3069&price=3.08E%205&review=1015&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A6050472435%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A6050472435_ID%253Bprice%253A308000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A6050472435%253Bsku_id%253A11616944167%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Cokelat 900GR",
+      "nid": "160027795",
+      "itemId": "160027795",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/687ba3d5802f7b1604afae8c237c440a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp78.500",
+      "discount": "7% Off",
+      "ratingScore": "4.9390319440757455",
+      "review": "11301",
+      "location": "Kab. Deli Serdang",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "SG816TBAA6MBZOANID-15704518",
+      "skuId": "181881851",
+      "sku": "SG816TBAA6MBZOANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "78500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "84100",
+      "clickTrace": "query:SGM;nid:160027795;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:SG816TBAA6MBZOANID;price:78500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:13367;item_id:160027795;sku_id:181881851;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "54.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "SG816TBAA6MBZOANID-15704518"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F687ba3d5802f7b1604afae8c237c440a.png&src=srp_findsimilar&item_id=160027795&sku_id=181881851&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=78500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160027795.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181881851%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A7850000%3BdisplayPrice%3A7850000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.9390319440757455&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=54647&price=7.85E%204&review=11301&location=Kab.%20Deli%20Serdang&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A160027795%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253ASG816TBAA6MBZOANID%253Bprice%253A78500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160027795%253Bsku_id%253A181881851%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 600GR x 5",
+      "nid": "498016132",
+      "itemId": "498016132",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  8% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e12fe1e16cbf20286a0d41479b13513a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp286.600",
+      "discount": "8% Off",
+      "ratingScore": "4.887236084452975",
+      "review": "2084",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/e12fe1e16cbf20286a0d41479b13513a.png",
+          "sku": "498016132_ID",
+          "skuId": "625926820",
+          "itemUrl": "/products/pdp-i498016132.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "498016132_ID-625926820",
+      "skuId": "625926820",
+      "sku": "498016132_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "286600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "310000",
+      "clickTrace": "query:SGM;nid:498016132;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:498016132_ID;price:286600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:15819;item_id:498016132;sku_id:625926820;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "10.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "498016132_ID-625926820"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe12fe1e16cbf20286a0d41479b13513a.png&src=srp_findsimilar&item_id=498016132&sku_id=625926820&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=286600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i498016132.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A625926820%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A28660000%3BdisplayPrice%3A28660000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.887236084452975&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=10635&price=2.866E%205&review=2084&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A498016132%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A498016132_ID%253Bprice%253A286600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A498016132%253Bsku_id%253A625926820%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Madu 600GR x 5",
+      "nid": "1760152928",
+      "itemId": "1760152928",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/aada1793eddf4d8579e5ec2258f133c0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp274.600",
+      "discount": "7% Off",
+      "ratingScore": "4.934210526315789",
+      "review": "684",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/aada1793eddf4d8579e5ec2258f133c0.png",
+          "sku": "1760152928_ID",
+          "skuId": "3425866872",
+          "itemUrl": "/products/pdp-i1760152928.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "1760152928_ID-3425866872",
+      "skuId": "3425866872",
+      "sku": "1760152928_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "274600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "296500",
+      "clickTrace": "query:SGM;nid:1760152928;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:1760152928_ID;price:274600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:13367;item_id:1760152928;sku_id:3425866872;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1760152928_ID-3425866872"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Faada1793eddf4d8579e5ec2258f133c0.png&src=srp_findsimilar&item_id=1760152928&sku_id=3425866872&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=274600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1760152928.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A3425866872%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A27460000%3BdisplayPrice%3A27460000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.934210526315789&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3143&price=2.746E%205&review=684&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A1760152928%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A1760152928_ID%253Bprice%253A274600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1760152928%253Bsku_id%253A3425866872%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Vanilla 600GR",
+      "nid": "8083074216",
+      "itemId": "8083074216",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/49b729ab3ad31bc3292ca0c144711444.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp57.700",
+      "discount": "7% Off",
+      "ratingScore": "4.826747720364741",
+      "review": "1316",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8083074216_ID-14471854053",
+      "skuId": "14471854053",
+      "sku": "8083074216_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "57700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "62000",
+      "clickTrace": "query:SGM;nid:8083074216;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8083074216_ID;price:57700;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:15819;item_id:8083074216;sku_id:14471854053;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "4.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8083074216_ID-14471854053"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F49b729ab3ad31bc3292ca0c144711444.png&src=srp_findsimilar&item_id=8083074216&sku_id=14471854053&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=57700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8083074216.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14471854053%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5770000%3BdisplayPrice%3A5770000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.826747720364741&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4891&price=5.77E%204&review=1316&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8083074216%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8083074216_ID%253Bprice%253A57700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8083074216%253Bsku_id%253A14471854053%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 1+ dengan IronC Susu Pertumbuhan Rasa Madu 600GR",
+      "nid": "8087136294",
+      "itemId": "8087136294",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/adf04bd01c88e444a3ce18ca92e0d9d0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp57.500",
+      "discount": "7% Off",
+      "ratingScore": "4.887573964497041",
+      "review": "1183",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/adf04bd01c88e444a3ce18ca92e0d9d0.png",
+          "sku": "8087136294_ID",
+          "skuId": "14475412304",
+          "itemUrl": "/products/pdp-i8087136294.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8087136294_ID-14475412304",
+      "skuId": "14475412304",
+      "sku": "8087136294_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "57500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "62000",
+      "clickTrace": "query:SGM;nid:8087136294;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8087136294_ID;price:57500;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:15819;item_id:8087136294;sku_id:14475412304;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8087136294_ID-14475412304"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fadf04bd01c88e444a3ce18ca92e0d9d0.png&src=srp_findsimilar&item_id=8087136294&sku_id=14475412304&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=57500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8087136294.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14475412304%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5750000%3BdisplayPrice%3A5750000%3BsinglePromotionId%3A910000048885686%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.887573964497041&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5380&price=5.75E%204&review=1183&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8087136294%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8087136294_ID%253Bprice%253A57500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8087136294%253Bsku_id%253A14475412304%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Madu 575GR",
+      "nid": "8414512717",
+      "itemId": "8414512717",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  2% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/fbddf98cd47391e664f73cf1596ecac0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp49.900",
+      "discount": "2% Off",
+      "ratingScore": "4.833333333333333",
+      "review": "132",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8414512717_ID-14854738275",
+      "skuId": "14854738275",
+      "sku": "8414512717_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "49900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "50800",
+      "clickTrace": "query:SGM;nid:8414512717;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8414512717_ID;price:49900;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:13367;item_id:8414512717;sku_id:14854738275;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "398 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8414512717_ID-14854738275"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ffbddf98cd47391e664f73cf1596ecac0.png&src=srp_findsimilar&item_id=8414512717&sku_id=14854738275&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=49900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8414512717.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14854738275%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A4990000%3BdisplayPrice%3A4990000%3BsinglePromotionId%3A910000048885686%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.833333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=398&price=4.99E%204&review=132&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8414512717%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8414512717_ID%253Bprice%253A49900%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8414512717%253Bsku_id%253A14854738275%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Vanilla 575gr",
+      "nid": "18817965122",
+      "itemId": "18817965122",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e80786ff67f56c89d4bd8f226423fdcb.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp53.600",
+      "ratingScore": "5.0",
+      "review": "14",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "18817965122_ID-116253710249",
+      "skuId": "116253710249",
+      "sku": "18817965122_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "53600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:18817965122;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:18817965122_ID;price:53600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:13367;item_id:18817965122;sku_id:116253710249;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "42 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18817965122_ID-116253710249"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe80786ff67f56c89d4bd8f226423fdcb.png&src=srp_findsimilar&item_id=18817965122&sku_id=116253710249&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=53600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18817965122.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116253710249%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5360000%3BdisplayPrice%3A5360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=42&price=5.36E%204&review=14&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A18817965122%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A18817965122_ID%253Bprice%253A53600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A18817965122%253Bsku_id%253A116253710249%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Vanilla 600GR x 5",
+      "nid": "1760112971",
+      "itemId": "1760112971",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/361fd9161a0b486909df3747a17949b5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp274.600",
+      "discount": "7% Off",
+      "ratingScore": "4.954326923076923",
+      "review": "416",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/361fd9161a0b486909df3747a17949b5.png",
+          "sku": "1760112971_ID",
+          "skuId": "3425892549",
+          "itemUrl": "/products/pdp-i1760112971.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "1760112971_ID-3425892549",
+      "skuId": "3425892549",
+      "sku": "1760112971_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "274600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "296500",
+      "clickTrace": "query:SGM;nid:1760112971;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:1760112971_ID;price:274600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:13367;item_id:1760112971;sku_id:3425892549;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1760112971_ID-3425892549"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F361fd9161a0b486909df3747a17949b5.png&src=srp_findsimilar&item_id=1760112971&sku_id=3425892549&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=274600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1760112971.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A3425892549%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A27460000%3BdisplayPrice%3A27460000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.954326923076923&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1963&price=2.746E%205&review=416&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A1760112971%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A1760112971_ID%253Bprice%253A274600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1760112971%253Bsku_id%253A3425892549%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Ananda 2 (6-12 Bulan) Formula Bayi Bubuk 400gr",
+      "nid": "8083006558",
+      "itemId": "8083006558",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7d340a6dc1f4b17214f996ec381a36ad.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp43.400",
+      "ratingScore": "4.85",
+      "review": "240",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8083006558_ID-14471808462",
+      "skuId": "14471808462",
+      "sku": "8083006558_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "43400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8083006558;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8083006558_ID;price:43400;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:13366;item_id:8083006558;sku_id:14471808462;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8083006558_ID-14471808462"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7d340a6dc1f4b17214f996ec381a36ad.jpg&src=srp_findsimilar&item_id=8083006558&sku_id=14471808462&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=43400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8083006558.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14471808462%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A4340000%3BdisplayPrice%3A4340000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.85&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1214&price=4.34E%204&review=240&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8083006558%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8083006558_ID%253Bprice%253A43400%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A8083006558%253Bsku_id%253A14471808462%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 3+ dengan IronC Susu Bubuk Rasa Vanilla 600GR",
+      "nid": "8087150479",
+      "itemId": "8087150479",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a8f62f70358396d3d6e6e6db63bf6139.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp55.700",
+      "discount": "6% Off",
+      "ratingScore": "4.912718204488778",
+      "review": "401",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/a8f62f70358396d3d6e6e6db63bf6139.png",
+          "sku": "8087150479_ID",
+          "skuId": "14475424340",
+          "itemUrl": "/products/pdp-i8087150479.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8087150479_ID-14475424340",
+      "skuId": "14475424340",
+      "sku": "8087150479_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "55700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "59300",
+      "clickTrace": "query:SGM;nid:8087150479;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8087150479_ID;price:55700;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:13367;item_id:8087150479;sku_id:14475424340;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8087150479_ID-14475424340"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa8f62f70358396d3d6e6e6db63bf6139.png&src=srp_findsimilar&item_id=8087150479&sku_id=14475424340&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=55700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8087150479.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14475424340%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5570000%3BdisplayPrice%3A5570000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=4.912718204488778&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1669&price=5.57E%204&review=401&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8087150479%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8087150479_ID%253Bprice%253A55700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8087150479%253Bsku_id%253A14475424340%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Cokelat 575GR",
+      "nid": "8750382684",
+      "itemId": "8750382684",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/565ad87120096e1023a9b7101486a83c.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp53.600",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8750382684_ID-16192622898",
+      "skuId": "16192622898",
+      "sku": "8750382684_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "53600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8750382684;src:LazadaMainSrp;rn:98d3d46da859d2734539e9037f464210;region:id;sku:8750382684_ID;price:53600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:13367;item_id:8750382684;sku_id:16192622898;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "14 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8750382684_ID-16192622898"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F565ad87120096e1023a9b7101486a83c.png&src=srp_findsimilar&item_id=8750382684&sku_id=16192622898&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=53600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8750382684.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16192622898%3Bsource%3Alazada-search-voucher%3Bsn%3A98d3d46da859d2734539e9037f464210%3BoriginPrice%3A5360000%3BdisplayPrice%3A5360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331027817&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=14&price=5.36E%204&review=&location=Kota%20Depok&stock=1&lang=id&request_id=98d3d46da859d2734539e9037f464210&clickTrackInfo=query%253ASGM%253Bnid%253A8750382684%253Bsrc%253ALazadaMainSrp%253Brn%253A98d3d46da859d2734539e9037f464210%253Bregion%253Aid%253Bsku%253A8750382684_ID%253Bprice%253A53600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8750382684%253Bsku_id%253A16192622898%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

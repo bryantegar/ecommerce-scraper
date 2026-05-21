@@ -1,0 +1,78 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "SGM",
+  "page": 2,
+  "job_id": "2d152d1d-c86f-4b1d-8021-7e709d9e7152",
+  "scraped_at": "2026-05-20T18:37:32.420335",
+  "total_items": 1,
+  "items": [
+    {
+      "name": "SGM Eksplor 5+ dengan IronC Susu Bubuk Rasa Cokelat 575GR",
+      "nid": "8750382684",
+      "itemId": "8750382684",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/565ad87120096e1023a9b7101486a83c.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp53.600",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "SGM",
+      "sellerId": "1000001068",
+      "brandName": "SGM",
+      "brandId": "5780",
+      "cheapest_sku": "8750382684_ID-16192622898",
+      "skuId": "16192622898",
+      "sku": "8750382684_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "53600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:SGM;nid:8750382684;src:LazadaMainSrp;rn:f9457f09b1d90abe4b884234156ed254;region:id;sku:8750382684_ID;price:53600;client:desktop;supplier_id:1000001068;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:13367;item_id:8750382684;sku_id:16192622898;shop_id:360176;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "14 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8750382684_ID-16192622898"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F565ad87120096e1023a9b7101486a83c.png&src=srp_findsimilar&item_id=8750382684&sku_id=16192622898&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=SGM&similarType=findSimilarV1&price=53600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8750382684.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16192622898%3Bsource%3Alazada-search-voucher%3Bsn%3Af9457f09b1d90abe4b884234156ed254%3BoriginPrice%3A5360000%3BdisplayPrice%3A5360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779277051916&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=14&price=5.36E%204&review=&location=Kota%20Depok&stock=1&lang=id&request_id=f9457f09b1d90abe4b884234156ed254&clickTrackInfo=query%253ASGM%253Bnid%253A8750382684%253Bsrc%253ALazadaMainSrp%253Brn%253Af9457f09b1d90abe4b884234156ed254%253Bregion%253Aid%253Bsku%253A8750382684_ID%253Bprice%253A53600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001068%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8750382684%253Bsku_id%253A16192622898%253Bshop_id%253A360176%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

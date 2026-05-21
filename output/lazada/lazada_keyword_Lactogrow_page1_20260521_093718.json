@@ -1,0 +1,2627 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Lactogrow",
+  "page": 1,
+  "job_id": "ca6daae8-5048-4c84-8bcd-c4001eaad35d",
+  "scraped_at": "2026-05-21T09:37:18.218103",
+  "total_items": 34,
+  "items": [
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 1kg x4",
+      "nid": "4078692012",
+      "itemId": "4078692012",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/716a72f10d3c439014df408fb7a81f68.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp535.700",
+      "discount": "12% Off",
+      "ratingScore": "4.900133600534402",
+      "review": "2994",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078692012_ID-6863738057",
+      "skuId": "6863738057",
+      "sku": "4078692012_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "535700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "607000",
+      "clickTrace": "query:Lactogrow;nid:4078692012;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078692012_ID;price:535700;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078692012;sku_id:6863738057;shop_id:11526;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "13.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078692012_ID-6863738057"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F716a72f10d3c439014df408fb7a81f68.png&src=srp_findsimilar&item_id=4078692012&sku_id=6863738057&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=535700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078692012.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863738057%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A53570000%3BdisplayPrice%3A53570000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.900133600534402&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13110&price=5.357E%205&review=2994&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078692012%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078692012_ID%253Bprice%253A535700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078692012%253Bsku_id%253A6863738057%253Bshop_id%253A11526%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "Lactogrow PRO 3+ Honey 1kg x4",
+      "nid": "4078650549",
+      "itemId": "4078650549",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/fadda6a3a33756f7014b1a20ab32c74d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp526.600",
+      "discount": "13% Off",
+      "ratingScore": "4.871524729294703",
+      "review": "3417",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/abb35138cdda264ee39d0dd388c4bf2e.png",
+          "sku": "4078650549_ID",
+          "skuId": "6863682854",
+          "itemUrl": "/products/pdp-i4078650549.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078650549_ID-6863682854",
+      "skuId": "6863682854",
+      "sku": "4078650549_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "526600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "607000",
+      "clickTrace": "query:Lactogrow;nid:4078650549;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078650549_ID;price:526600;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078650549;sku_id:6863682854;shop_id:11526;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "15.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078650549_ID-6863682854"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ffadda6a3a33756f7014b1a20ab32c74d.png&src=srp_findsimilar&item_id=4078650549&sku_id=6863682854&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=526600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078650549.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863682854%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A52660000%3BdisplayPrice%3A52660000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.871524729294703&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=15635&price=5.266E%205&review=3417&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078650549%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078650549_ID%253Bprice%253A526600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078650549%253Bsku_id%253A6863682854%253Bshop_id%253A11526%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "[Paket isi 3] Lactogrow PRO 3+ Vanila 1kg",
+      "nid": "7095776194",
+      "itemId": "7095776194",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/a2489834cb82d656dcdb43aa0807bb08.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp401.800",
+      "discount": "12% Off",
+      "ratingScore": "4.913362701908958",
+      "review": "681",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "7095776194_ID-13392324984",
+      "skuId": "13392324984",
+      "sku": "7095776194_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "401800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "455000",
+      "clickTrace": "query:Lactogrow;nid:7095776194;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:7095776194_ID;price:401800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:13367;item_id:7095776194;sku_id:13392324984;shop_id:11526;templateInfo:155356_A3_D_E_G#-1_C#",
+      "itemSoldCntShow": "2.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7095776194_ID-13392324984"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa2489834cb82d656dcdb43aa0807bb08.png&src=srp_findsimilar&item_id=7095776194&sku_id=13392324984&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=401800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7095776194.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13392324984%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A40180000%3BdisplayPrice%3A40180000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.913362701908958&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2091&price=4.018E%205&review=681&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A7095776194%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A7095776194_ID%253Bprice%253A401800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7095776194%253Bsku_id%253A13392324984%253Bshop_id%253A11526%253BtemplateInfo%253A155356_A3_D_E_G%2523-1_C%2523"
+    },
+    {
+      "name": "[Paket isi 3] Lactogrow PRO 1+ Vanila 1kg",
+      "nid": "7095734058",
+      "itemId": "7095734058",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  10% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f68308085c51583942eadb3d5d5be836.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp442.800",
+      "discount": "10% Off",
+      "ratingScore": "4.929882352941177",
+      "review": "2125",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "7095734058_ID-13392326547",
+      "skuId": "13392326547",
+      "sku": "7095734058_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "442800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "490000",
+      "clickTrace": "query:Lactogrow;nid:7095734058;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:7095734058_ID;price:442800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:15819;item_id:7095734058;sku_id:13392326547;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7095734058_ID-13392326547"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff68308085c51583942eadb3d5d5be836.png&src=srp_findsimilar&item_id=7095734058&sku_id=13392326547&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=442800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7095734058.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13392326547%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A44280000%3BdisplayPrice%3A44280000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.929882352941177&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6167&price=4.428E%205&review=2125&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A7095734058%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A7095734058_ID%253Bprice%253A442800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A7095734058%253Bsku_id%253A13392326547%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 4x1kg",
+      "nid": "4078646696",
+      "itemId": "4078646696",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  8% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/496b4af742f7aa9e31d796fd509e3297.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp598.100",
+      "discount": "8% Off",
+      "ratingScore": "4.897083634610749",
+      "review": "4149",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/c2e9320d17d8f4575f1140d3bf7b5ca1.png",
+          "sku": "4078646696_ID",
+          "skuId": "6863692380",
+          "itemUrl": "/products/pdp-i4078646696.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078646696_ID-6863692380",
+      "skuId": "6863692380",
+      "sku": "4078646696_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "598100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "653000",
+      "clickTrace": "query:Lactogrow;nid:4078646696;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078646696_ID;price:598100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:15819;item_id:4078646696;sku_id:6863692380;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078646696_ID-6863692380"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F496b4af742f7aa9e31d796fd509e3297.png&src=srp_findsimilar&item_id=4078646696&sku_id=6863692380&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=598100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078646696.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863692380%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A59810000%3BdisplayPrice%3A59810000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.897083634610749&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16318&price=5.981E%205&review=4149&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078646696%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078646696_ID%253Bprice%253A598100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A4078646696%253Bsku_id%253A6863692380%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 1kg x2",
+      "nid": "4078622966",
+      "itemId": "4078622966",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6803388fffc2b82420844864427d1cbf.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp267.900",
+      "discount": "12% Off",
+      "ratingScore": "4.911019141231247",
+      "review": "1933",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078622966_ID-6863726399",
+      "skuId": "6863726399",
+      "sku": "4078622966_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "267900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "304000",
+      "clickTrace": "query:Lactogrow;nid:4078622966;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078622966_ID;price:267900;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078622966;sku_id:6863726399;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078622966_ID-6863726399"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6803388fffc2b82420844864427d1cbf.png&src=srp_findsimilar&item_id=4078622966&sku_id=6863726399&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=267900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078622966.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863726399%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A26790000%3BdisplayPrice%3A26790000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.911019141231247&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8945&price=2.679E%205&review=1933&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078622966%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078622966_ID%253Bprice%253A267900%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078622966%253Bsku_id%253A6863726399%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 1kg",
+      "nid": "4064696149",
+      "itemId": "4064696149",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  9% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6b02fa06eb59604fd6a2c76c3cd79293.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp150.000",
+      "discount": "9% Off",
+      "ratingScore": "4.943470374848851",
+      "review": "13232",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4064696149_ID-6805008512",
+      "skuId": "6805008512",
+      "sku": "4064696149_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "150000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "164000",
+      "clickTrace": "query:Lactogrow;nid:4064696149;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4064696149_ID;price:150000;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:15819;item_id:4064696149;sku_id:6805008512;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "170.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4064696149_ID-6805008512"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6b02fa06eb59604fd6a2c76c3cd79293.png&src=srp_findsimilar&item_id=4064696149&sku_id=6805008512&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=150000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4064696149.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6805008512%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A15000000%3BdisplayPrice%3A15000000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.943470374848851&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=170094&price=1.5E%205&review=13232&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4064696149%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4064696149_ID%253Bprice%253A150000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A4064696149%253Bsku_id%253A6805008512%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 1kg",
+      "nid": "4078626926",
+      "itemId": "4078626926",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e234891845e7fedcaa0101c030378375.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp132.100",
+      "discount": "13% Off",
+      "ratingScore": "4.941780821917808",
+      "review": "5256",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078626926_ID-6863734235",
+      "skuId": "6863734235",
+      "sku": "4078626926_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "132100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "152000",
+      "clickTrace": "query:Lactogrow;nid:4078626926;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078626926_ID;price:132100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078626926;sku_id:6863734235;shop_id:11526;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "68.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078626926_ID-6863734235"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe234891845e7fedcaa0101c030378375.png&src=srp_findsimilar&item_id=4078626926&sku_id=6863734235&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=132100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078626926.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863734235%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A13210000%3BdisplayPrice%3A13210000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.941780821917808&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=68711&price=1.321E%205&review=5256&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078626926%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078626926_ID%253Bprice%253A132100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078626926%253Bsku_id%253A6863734235%253Bshop_id%253A11526%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 1kg x2",
+      "nid": "4078632829",
+      "itemId": "4078632829",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/bcee0ea09d93a072cef39af50cda505c.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp267.900",
+      "discount": "12% Off",
+      "ratingScore": "4.899075500770416",
+      "review": "2596",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078632829_ID-6863738056",
+      "skuId": "6863738056",
+      "sku": "4078632829_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "267900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "304000",
+      "clickTrace": "query:Lactogrow;nid:4078632829;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078632829_ID;price:267900;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078632829;sku_id:6863738056;shop_id:11526;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "11.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078632829_ID-6863738056"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fbcee0ea09d93a072cef39af50cda505c.png&src=srp_findsimilar&item_id=4078632829&sku_id=6863738056&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=267900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078632829.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863738056%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A26790000%3BdisplayPrice%3A26790000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.899075500770416&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11868&price=2.679E%205&review=2596&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078632829%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078632829_ID%253Bprice%253A267900%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078632829%253Bsku_id%253A6863738056%253Bshop_id%253A11526%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 1kg x2",
+      "nid": "4078630818",
+      "itemId": "4078630818",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/da19eec3e5113545d78eddb08f0f1527.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp304.200",
+      "discount": "7% Off",
+      "ratingScore": "4.942701227830832",
+      "review": "3665",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078630818_ID-6863714365",
+      "skuId": "6863714365",
+      "sku": "4078630818_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "304200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "327000",
+      "clickTrace": "query:Lactogrow;nid:4078630818;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078630818_ID;price:304200;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:15819;item_id:4078630818;sku_id:6863714365;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078630818_ID-6863714365"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fda19eec3e5113545d78eddb08f0f1527.png&src=srp_findsimilar&item_id=4078630818&sku_id=6863714365&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=304200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078630818.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863714365%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A30420000%3BdisplayPrice%3A30420000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.942701227830832&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16738&price=3.042E%205&review=3665&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078630818%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078630818_ID%253Bprice%253A304200%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A4078630818%253Bsku_id%253A6863714365%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogrow PRO 1+ Honey 1kg x4",
+      "nid": "1130108802",
+      "itemId": "1130108802",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7158d8964ce9b3bbd7950790b6bf8931.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp608.400",
+      "discount": "7% Off",
+      "ratingScore": "4.856380138814735",
+      "review": "7492",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/0a4551ef43a991c30e2f81b281b7993d.png",
+          "sku": "1130108802_ID",
+          "skuId": "1782272942",
+          "itemUrl": "/products/pdp-i1130108802.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "1130108802_ID-1782272942",
+      "skuId": "1782272942",
+      "sku": "1130108802_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "608400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "653000",
+      "clickTrace": "query:Lactogrow;nid:1130108802;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:1130108802_ID;price:608400;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:15819;item_id:1130108802;sku_id:1782272942;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "39.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1130108802_ID-1782272942"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7158d8964ce9b3bbd7950790b6bf8931.png&src=srp_findsimilar&item_id=1130108802&sku_id=1782272942&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=608400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1130108802.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1782272942%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A60840000%3BdisplayPrice%3A60840000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.856380138814735&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=39271&price=6.084E%205&review=7492&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A1130108802%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A1130108802_ID%253Bprice%253A608400%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A1130108802%253Bsku_id%253A1782272942%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Lactogrow PRO 3+ Honey 1kg",
+      "nid": "7095722775",
+      "itemId": "7095722775",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/8d656f20c5d318cfe593e95267161c54.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp401.800",
+      "discount": "12% Off",
+      "ratingScore": "4.944773175542406",
+      "review": "507",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "7095722775_ID-13392322995",
+      "skuId": "13392322995",
+      "sku": "7095722775_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "401800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "455000",
+      "clickTrace": "query:Lactogrow;nid:7095722775;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:7095722775_ID;price:401800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:13367;item_id:7095722775;sku_id:13392322995;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7095722775_ID-13392322995"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F8d656f20c5d318cfe593e95267161c54.png&src=srp_findsimilar&item_id=7095722775&sku_id=13392322995&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=401800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7095722775.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13392322995%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A40180000%3BdisplayPrice%3A40180000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.944773175542406&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1224&price=4.018E%205&review=507&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A7095722775%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A7095722775_ID%253Bprice%253A401800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7095722775%253Bsku_id%253A13392322995%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 1kg x2",
+      "nid": "2873384796",
+      "itemId": "2873384796",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e0db036d0927827a26f30a628467e3c2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp304.200",
+      "discount": "7% Off",
+      "ratingScore": "4.934185784129372",
+      "review": "5318",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "2873384796_ID-5154520673",
+      "skuId": "5154520673",
+      "sku": "2873384796_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "304200",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "327000",
+      "clickTrace": "query:Lactogrow;nid:2873384796;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:2873384796_ID;price:304200;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:15819;item_id:2873384796;sku_id:5154520673;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "27.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "2873384796_ID-5154520673"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe0db036d0927827a26f30a628467e3c2.png&src=srp_findsimilar&item_id=2873384796&sku_id=5154520673&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=304200.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i2873384796.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A5154520673%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A30420000%3BdisplayPrice%3A30420000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.934185784129372&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=27586&price=3.042E%205&review=5318&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A2873384796%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A2873384796_ID%253Bprice%253A304200%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A2873384796%253Bsku_id%253A5154520673%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 1kg",
+      "nid": "4078668304",
+      "itemId": "4078668304",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/afb3af1b3dc895d0329cff5239de3082.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp134.000",
+      "discount": "12% Off",
+      "ratingScore": "4.943815331010453",
+      "review": "6888",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/26a57c665918ac595a537a20f0fdfcfd.png",
+          "sku": "4078668304_ID",
+          "skuId": "6863692379",
+          "itemUrl": "/products/pdp-i4078668304.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "4078668304_ID-6863692379",
+      "skuId": "6863692379",
+      "sku": "4078668304_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "134000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "152000",
+      "clickTrace": "query:Lactogrow;nid:4078668304;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:4078668304_ID;price:134000;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:13367;item_id:4078668304;sku_id:6863692379;shop_id:11526;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "105.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4078668304_ID-6863692379"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fafb3af1b3dc895d0329cff5239de3082.png&src=srp_findsimilar&item_id=4078668304&sku_id=6863692379&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=134000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4078668304.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6863692379%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A13400000%3BdisplayPrice%3A13400000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.943815331010453&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=105693&price=1.34E%205&review=6888&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A4078668304%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A4078668304_ID%253Bprice%253A134000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A4078668304%253Bsku_id%253A6863692379%253Bshop_id%253A11526%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "[Paket isi 3] Lactogrow PRO 1+ Honey 1kg",
+      "nid": "7095732496",
+      "itemId": "7095732496",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "121413",
+          "text": "LazFlash,tinggal 14 jam",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "flashsale"
+        },
+        {
+          "domClass": "211745",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/96fdcf8c208df6469f67cefcd180ad87.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp456.300",
+      "discount": "7% Off",
+      "ratingScore": "4.932203389830509",
+      "review": "1534",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "7095732496_ID-13392358092",
+      "skuId": "13392358092",
+      "sku": "7095732496_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "456300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "490000",
+      "clickTrace": "query:Lactogrow;nid:7095732496;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:7095732496_ID;price:456300;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:15819;item_id:7095732496;sku_id:13392358092;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "4.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7095732496_ID-13392358092"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F96fdcf8c208df6469f67cefcd180ad87.png&src=srp_findsimilar&item_id=7095732496&sku_id=13392358092&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=456300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7095732496.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13392358092%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A45630000%3BdisplayPrice%3A45630000%3BsinglePromotionId%3A910000048892520%3BsingleToolCode%3AflashSale%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.932203389830509&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4214&price=4.563E%205&review=1534&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A7095732496%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A7095732496_ID%253Bprice%253A456300%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A7095732496%253Bsku_id%253A13392358092%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 735gr",
+      "nid": "160015797",
+      "itemId": "160015797",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f8d4dcb3ab85fc66f3e34a88f5b5b4fa.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp110.000",
+      "discount": "15% Off",
+      "ratingScore": "4.907857142857143",
+      "review": "1400",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "LA810TBAA334M1ANID-5805983",
+      "skuId": "181848851",
+      "sku": "LA810TBAA334M1ANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "110000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "129000",
+      "clickTrace": "query:Lactogrow;nid:160015797;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:LA810TBAA334M1ANID;price:110000;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:13367;item_id:160015797;sku_id:181848851;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "18.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "LA810TBAA334M1ANID-5805983"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff8d4dcb3ab85fc66f3e34a88f5b5b4fa.png&src=srp_findsimilar&item_id=160015797&sku_id=181848851&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=110000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160015797.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181848851%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A11000000%3BdisplayPrice%3A11000000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.907857142857143&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=18477&price=1.1E%205&review=1400&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A160015797%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253ALA810TBAA334M1ANID%253Bprice%253A110000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160015797%253Bsku_id%253A181848851%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 1kg",
+      "nid": "414023063",
+      "itemId": "414023063",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7667b575642faae8224106ea2f5d52a3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp152.100",
+      "discount": "7% Off",
+      "ratingScore": "4.937602260895433",
+      "review": "13446",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "414023063_ID-462263083",
+      "skuId": "462263083",
+      "sku": "414023063_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "152100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "164000",
+      "clickTrace": "query:Lactogrow;nid:414023063;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:414023063_ID;price:152100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:15819;item_id:414023063;sku_id:462263083;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "171.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "414023063_ID-462263083"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7667b575642faae8224106ea2f5d52a3.png&src=srp_findsimilar&item_id=414023063&sku_id=462263083&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=152100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i414023063.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A462263083%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A15210000%3BdisplayPrice%3A15210000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.937602260895433&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=171437&price=1.521E%205&review=13446&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A414023063%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A414023063_ID%253Bprice%253A152100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A414023063%253Bsku_id%253A462263083%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 735gr x2",
+      "nid": "462738910",
+      "itemId": "462738910",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/4bdad3045304af6b5c67516999b25af7.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp220.100",
+      "discount": "15% Off",
+      "ratingScore": "4.8359375",
+      "review": "896",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "462738910_ID-558282096",
+      "skuId": "558282096",
+      "sku": "462738910_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "220100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "258000",
+      "clickTrace": "query:Lactogrow;nid:462738910;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:462738910_ID;price:220100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:13367;item_id:462738910;sku_id:558282096;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "462738910_ID-558282096"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4bdad3045304af6b5c67516999b25af7.png&src=srp_findsimilar&item_id=462738910&sku_id=558282096&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=220100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i462738910.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A558282096%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A22010000%3BdisplayPrice%3A22010000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.8359375&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6911&price=2.201E%205&review=896&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A462738910%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A462738910_ID%253Bprice%253A220100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A462738910%253Bsku_id%253A558282096%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Vanila 735gr x2",
+      "nid": "462740819",
+      "itemId": "462740819",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3c1ff813f009e610611ab02bbdc5de0d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp220.100",
+      "discount": "15% Off",
+      "ratingScore": "4.887310606060606",
+      "review": "1056",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "462740819_ID-558260698",
+      "skuId": "558260698",
+      "sku": "462740819_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "220100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "258000",
+      "clickTrace": "query:Lactogrow;nid:462740819;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:462740819_ID;price:220100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:13367;item_id:462740819;sku_id:558260698;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "462740819_ID-558260698"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3c1ff813f009e610611ab02bbdc5de0d.png&src=srp_findsimilar&item_id=462740819&sku_id=558260698&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=220100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i462740819.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A558260698%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A22010000%3BdisplayPrice%3A22010000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.887310606060606&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7017&price=2.201E%205&review=1056&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A462740819%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A462740819_ID%253Bprice%253A220100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A462740819%253Bsku_id%253A558260698%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 3+ Honey 735gr",
+      "nid": "160015824",
+      "itemId": "160015824",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5c3cfe736723c4112e73d045e6687a0b.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp110.000",
+      "discount": "15% Off",
+      "ratingScore": "4.9",
+      "review": "570",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "LA954TBAA334M7ANID-5805989",
+      "skuId": "181848878",
+      "sku": "LA954TBAA334M7ANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "110000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "129000",
+      "clickTrace": "query:Lactogrow;nid:160015824;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:LA954TBAA334M7ANID;price:110000;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:13367;item_id:160015824;sku_id:181848878;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "LA954TBAA334M7ANID-5805989"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5c3cfe736723c4112e73d045e6687a0b.png&src=srp_findsimilar&item_id=160015824&sku_id=181848878&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=110000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160015824.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181848878%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A11000000%3BdisplayPrice%3A11000000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.9&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5185&price=1.1E%205&review=570&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A160015824%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253ALA954TBAA334M7ANID%253Bprice%253A110000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A160015824%253Bsku_id%253A181848878%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 735gr",
+      "nid": "160015838",
+      "itemId": "160015838",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/23ba6010323e84e6271995660e605b32.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp125.800",
+      "discount": "14% Off",
+      "ratingScore": "4.896924355777224",
+      "review": "2406",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "LA810TBAA334LYANID-5805980",
+      "skuId": "181848892",
+      "sku": "LA810TBAA334LYANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "125800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:160015838;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:LA810TBAA334LYANID;price:125800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:15819;item_id:160015838;sku_id:181848892;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "29.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "LA810TBAA334LYANID-5805980"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F23ba6010323e84e6271995660e605b32.png&src=srp_findsimilar&item_id=160015838&sku_id=181848892&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=125800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160015838.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181848892%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A12580000%3BdisplayPrice%3A12580000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.896924355777224&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=29775&price=1.258E%205&review=2406&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A160015838%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253ALA810TBAA334LYANID%253Bprice%253A125800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160015838%253Bsku_id%253A181848892%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 735gr x2",
+      "nid": "2873396650",
+      "itemId": "2873396650",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3b15b5ca247214cb1753ebf1c37b9d13.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp251.500",
+      "discount": "14% Off",
+      "ratingScore": "4.903536977491961",
+      "review": "311",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "2873396650_ID-5154536663",
+      "skuId": "5154536663",
+      "sku": "2873396650_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "251500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "293000",
+      "clickTrace": "query:Lactogrow;nid:2873396650;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:2873396650_ID;price:251500;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:15819;item_id:2873396650;sku_id:5154536663;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "2873396650_ID-5154536663"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3b15b5ca247214cb1753ebf1c37b9d13.png&src=srp_findsimilar&item_id=2873396650&sku_id=5154536663&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=251500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i2873396650.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A5154536663%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A25150000%3BdisplayPrice%3A25150000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.903536977491961&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1487&price=2.515E%205&review=311&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A2873396650%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A2873396650_ID%253Bprice%253A251500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A2873396650%253Bsku_id%253A5154536663%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Honey 350gr",
+      "nid": "160015842",
+      "itemId": "160015842",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ccc2a820da6f10cd56db9d575e4399cf.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp58.600",
+      "discount": "14% Off",
+      "ratingScore": "4.929292929292929",
+      "review": "1188",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "LA810TBAA334LZANID-5805981",
+      "skuId": "181848896",
+      "sku": "LA810TBAA334LZANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "58600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "68000",
+      "clickTrace": "query:Lactogrow;nid:160015842;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:LA810TBAA334LZANID;price:58600;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:15819;item_id:160015842;sku_id:181848896;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "10.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "LA810TBAA334LZANID-5805981"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fccc2a820da6f10cd56db9d575e4399cf.png&src=srp_findsimilar&item_id=160015842&sku_id=181848896&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=58600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160015842.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181848896%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A5860000%3BdisplayPrice%3A5860000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.929292929292929&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=10114&price=5.86E%204&review=1188&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A160015842%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253ALA810TBAA334LZANID%253Bprice%253A58600%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160015842%253Bsku_id%253A181848896%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 735gr x2",
+      "nid": "462758309",
+      "itemId": "462758309",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/08a75b83aacad125e33dbbff53229fd2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp251.500",
+      "discount": "14% Off",
+      "ratingScore": "4.873515439429929",
+      "review": "1684",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "462758309_ID-558258690",
+      "skuId": "558258690",
+      "sku": "462758309_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "251500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "293000",
+      "clickTrace": "query:Lactogrow;nid:462758309;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:462758309_ID;price:251500;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:15819;item_id:462758309;sku_id:558258690;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "9.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "462758309_ID-558258690"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F08a75b83aacad125e33dbbff53229fd2.png&src=srp_findsimilar&item_id=462758309&sku_id=558258690&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=251500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i462758309.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A558258690%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A25150000%3BdisplayPrice%3A25150000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.873515439429929&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9669&price=2.515E%205&review=1684&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A462758309%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A462758309_ID%253Bprice%253A251500%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A462758309%253Bsku_id%253A558258690%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Plain 735gr",
+      "nid": "160015816",
+      "itemId": "160015816",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/091c5eccd823ddeadf8d76f2430d4fcd.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp125.800",
+      "discount": "14% Off",
+      "ratingScore": "4.9340344168260035",
+      "review": "5230",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "LA810TBAA334LWANID-5805978",
+      "skuId": "181848870",
+      "sku": "LA810TBAA334LWANID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "125800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:160015816;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:LA810TBAA334LWANID;price:125800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:15819;item_id:160015816;sku_id:181848870;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "66.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "LA810TBAA334LWANID-5805978"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F091c5eccd823ddeadf8d76f2430d4fcd.png&src=srp_findsimilar&item_id=160015816&sku_id=181848870&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=125800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i160015816.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A181848870%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A12580000%3BdisplayPrice%3A12580000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.9340344168260035&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=66229&price=1.258E%205&review=5230&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A160015816%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253ALA810TBAA334LWANID%253Bprice%253A125800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A160015816%253Bsku_id%253A181848870%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGROW PRO 1+ Vanila 735gr",
+      "nid": "414023062",
+      "itemId": "414023062",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/233627579ea15ddb6cee7a7637eed546.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp125.800",
+      "discount": "14% Off",
+      "ratingScore": "4.916210295728368",
+      "review": "1826",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "414023062_ID-462263082",
+      "skuId": "462263082",
+      "sku": "414023062_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "125800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "147000",
+      "clickTrace": "query:Lactogrow;nid:414023062;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:414023062_ID;price:125800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:15819;item_id:414023062;sku_id:462263082;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "18.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "414023062_ID-462263082"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F233627579ea15ddb6cee7a7637eed546.png&src=srp_findsimilar&item_id=414023062&sku_id=462263082&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=125800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i414023062.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A462263082%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A12580000%3BdisplayPrice%3A12580000%3BsinglePromotionId%3A910000048641008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.916210295728368&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=18695&price=1.258E%205&review=1826&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A414023062%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A414023062_ID%253Bprice%253A125800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A414023062%253Bsku_id%253A462263082%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogrow Susu UHT Madu Vanila 135ml",
+      "nid": "8352186979",
+      "itemId": "8352186979",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  12% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/d222a4337ed356517874ef37d7a3de2c.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.700",
+      "discount": "12% Off",
+      "ratingScore": "4.794871794871795",
+      "review": "38",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8352186979_ID-14775206078",
+      "skuId": "14775206078",
+      "sku": "8352186979_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18474
+      ],
+      "price": "5700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "6500",
+      "clickTrace": "query:Lactogrow;nid:8352186979;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:8352186979_ID;price:5700;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:18474;item_id:8352186979;sku_id:14775206078;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "316 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8352186979_ID-14775206078"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fd222a4337ed356517874ef37d7a3de2c.png&src=srp_findsimilar&item_id=8352186979&sku_id=14775206078&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=5700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8352186979.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14775206078%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A570000%3BdisplayPrice%3A570000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.794871794871795&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=316&price=5.7E%203&review=38&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A8352186979%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A8352186979_ID%253Bprice%253A5700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18474%253Bitem_id%253A8352186979%253Bsku_id%253A14775206078%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[Paket isi 3] Lactogrow Susu UHT Madu Vanila 135ml",
+      "nid": "8415984746",
+      "itemId": "8415984746",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/350106c0455276a26df0c19266c96604.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.800",
+      "discount": "14% Off",
+      "ratingScore": "4.785714285714286",
+      "review": "14",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGROW",
+      "brandId": "43482",
+      "cheapest_sku": "8415984746_ID-14856652632",
+      "skuId": "14856652632",
+      "sku": "8415984746_ID",
+      "categories": [
+        9645,
+        9646,
+        18155,
+        18474
+      ],
+      "price": "16800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "19500",
+      "clickTrace": "query:Lactogrow;nid:8415984746;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:8415984746_ID;price:16800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:18474;item_id:8415984746;sku_id:14856652632;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "30 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8415984746_ID-14856652632"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F350106c0455276a26df0c19266c96604.jpg&src=srp_findsimilar&item_id=8415984746&sku_id=14856652632&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=16800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8415984746.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14856652632%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A1680000%3BdisplayPrice%3A1680000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.785714285714286&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=30&price=1.68E%204&review=14&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A8415984746%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A8415984746_ID%253Bprice%253A16800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18474%253Bitem_id%253A8415984746%253Bsku_id%253A14856652632%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGEN PRO 0-6 month 1kg",
+      "nid": "605970489",
+      "itemId": "605970489",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/1133324cee1d4b057dfd025fac359c6e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp173.100",
+      "ratingScore": "4.942531756460797",
+      "review": "11415",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/da67a2e6cc3c505877ab278044785f11.png",
+          "sku": "605970489_ID",
+          "skuId": "851492297",
+          "itemUrl": "/products/pdp-i605970489.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "605970489_ID-851492297",
+      "skuId": "851492297",
+      "sku": "605970489_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "173100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:605970489;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:605970489_ID;price:173100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:13365;item_id:605970489;sku_id:851492297;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "67.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "605970489_ID-851492297"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1133324cee1d4b057dfd025fac359c6e.png&src=srp_findsimilar&item_id=605970489&sku_id=851492297&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=173100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i605970489.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A851492297%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A17310000%3BdisplayPrice%3A17310000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.942531756460797&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=67013&price=1.731E%205&review=11415&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A605970489%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A605970489_ID%253Bprice%253A173100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A605970489%253Bsku_id%253A851492297%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 0-6 month 350gr",
+      "nid": "511670835",
+      "itemId": "511670835",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/376fafc411236dd45541cefd8c28b3a9.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.800",
+      "ratingScore": "4.925925925925926",
+      "review": "945",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/376fafc411236dd45541cefd8c28b3a9.png",
+          "sku": "511670835_ID",
+          "skuId": "684250711",
+          "itemUrl": "/products/pdp-i511670835.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "511670835_ID-684250711",
+      "skuId": "684250711",
+      "sku": "511670835_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "65800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:511670835;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:511670835_ID;price:65800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:13365;item_id:511670835;sku_id:684250711;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "511670835_ID-684250711"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F376fafc411236dd45541cefd8c28b3a9.png&src=srp_findsimilar&item_id=511670835&sku_id=684250711&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=65800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i511670835.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A684250711%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A6580000%3BdisplayPrice%3A6580000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.925925925925926&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6148&price=6.58E%204&review=945&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A511670835%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A511670835_ID%253Bprice%253A65800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A511670835%253Bsku_id%253A684250711%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 0-6 month 735gr",
+      "nid": "511696349",
+      "itemId": "511696349",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/838fa198c3172d6ac0beeaf5ac75e8f6.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp138.000",
+      "ratingScore": "4.92361720807726",
+      "review": "1139",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "511696349_ID-684258573",
+      "skuId": "684258573",
+      "sku": "511696349_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "138000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:511696349;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:511696349_ID;price:138000;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:13365;item_id:511696349;sku_id:684258573;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "10.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "511696349_ID-684258573"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F838fa198c3172d6ac0beeaf5ac75e8f6.png&src=srp_findsimilar&item_id=511696349&sku_id=684258573&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=138000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i511696349.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A684258573%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A13800000%3BdisplayPrice%3A13800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.92361720807726&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=10190&price=1.38E%205&review=1139&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A511696349%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A511696349_ID%253Bprice%253A138000%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A511696349%253Bsku_id%253A684258573%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACTOGEN PRO 6-12 month 1kg",
+      "nid": "605992308",
+      "itemId": "605992308",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/d0a12735cb4e56c5a8984319a340c091.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp173.100",
+      "ratingScore": "4.942205073475084",
+      "review": "12181",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/606ca0d15c43141d6d8fc9b04caec23b.png",
+          "sku": "605992308_ID",
+          "skuId": "851490850",
+          "itemUrl": "/products/pdp-i605992308.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "605992308_ID-851490850",
+      "skuId": "851490850",
+      "sku": "605992308_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "173100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:605992308;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:605992308_ID;price:173100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:13366;item_id:605992308;sku_id:851490850;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "89.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "605992308_ID-851490850"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fd0a12735cb4e56c5a8984319a340c091.png&src=srp_findsimilar&item_id=605992308&sku_id=851490850&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=173100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i605992308.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A851490850%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A17310000%3BdisplayPrice%3A17310000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.942205073475084&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=89263&price=1.731E%205&review=12181&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A605992308%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A605992308_ID%253Bprice%253A173100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A605992308%253Bsku_id%253A851490850%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 6-12 month 350gr",
+      "nid": "511690411",
+      "itemId": "511690411",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/30f99161b1640ae417ae337268f9f293.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp65.800",
+      "ratingScore": "4.942184154175589",
+      "review": "467",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "511690411_ID-684246694",
+      "skuId": "684246694",
+      "sku": "511690411_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "65800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:511690411;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:511690411_ID;price:65800;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:13366;item_id:511690411;sku_id:684246694;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "511690411_ID-684246694"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F30f99161b1640ae417ae337268f9f293.png&src=srp_findsimilar&item_id=511690411&sku_id=684246694&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=65800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i511690411.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A684246694%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A6580000%3BdisplayPrice%3A6580000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.942184154175589&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2969&price=6.58E%204&review=467&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A511690411%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A511690411_ID%253Bprice%253A65800%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A511690411%253Bsku_id%253A684246694%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Lactogen PRO 6 -12 month 735gr",
+      "nid": "511678733",
+      "itemId": "511678733",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ac0856da1e5d1ed276720abfdfd8057a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp140.100",
+      "ratingScore": "4.948502994011976",
+      "review": "835",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lactogrow",
+      "sellerId": "1000001036",
+      "brandName": "LACTOGEN",
+      "brandId": "5917",
+      "cheapest_sku": "511678733_ID-684272227",
+      "skuId": "684272227",
+      "sku": "511678733_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "140100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Lactogrow;nid:511678733;src:LazadaMainSrp;rn:2562dc354afd15b45677896006761aee;region:id;sku:511678733_ID;price:140100;client:desktop;supplier_id:1000001036;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:13366;item_id:511678733;sku_id:684272227;shop_id:11526;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "511678733_ID-684272227"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fac0856da1e5d1ed276720abfdfd8057a.png&src=srp_findsimilar&item_id=511678733&sku_id=684272227&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Lactogrow&similarType=findSimilarV1&price=140100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i511678733.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A684272227%3Bsource%3Alazada-search-voucher%3Bsn%3A2562dc354afd15b45677896006761aee%3BoriginPrice%3A14010000%3BdisplayPrice%3A14010000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331037672&c=&ratingscore=4.948502994011976&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7896&price=1.401E%205&review=835&location=Kota%20Depok&stock=1&lang=id&request_id=2562dc354afd15b45677896006761aee&clickTrackInfo=query%253ALactogrow%253Bnid%253A511678733%253Bsrc%253ALazadaMainSrp%253Brn%253A2562dc354afd15b45677896006761aee%253Bregion%253Aid%253Bsku%253A511678733_ID%253Bprice%253A140100%253Bclient%253Adesktop%253Bsupplier_id%253A1000001036%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A511678733%253Bsku_id%253A684272227%253Bshop_id%253A11526%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

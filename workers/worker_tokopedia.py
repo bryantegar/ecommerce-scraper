@@ -1,223 +1,107 @@
-from itertools import cycle
-import json
-import socket
-from time import sleep
+"""Worker Tokopedia — Keyword + Store"""
+import logging, os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from sentry_sdk import capture_exception
-
-from libs.beans import Pusher, Worker
-from libs.exc import HTTPStatusException
-from libs.graceful_killer import GracefulKiller
-from libs.logger import printinfo
-from libs.proxies import get_proxy_cycle
-from services.service_general import store_raw
+from db.database import init_db, log_job_start, log_job_finish, save_tokopedia_items
 from services.service_tokopedia import ServiceTokopedia
-from settings import BEANS
 from workers.base_worker import BaseWorker
 
-HOSTNAME = socket.gethostname()
+logger = logging.getLogger(__name__)
+MAX_PAGES = int(os.getenv("TOKOPEDIA_MAX_PAGES", 3))
 
 
 class WorkerTokopedia(BaseWorker):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(self):
+        super().__init__()
+        init_db()
+        self.service = ServiceTokopedia()
+        logger.info(f"WorkerTokopedia siap. MAX_PAGES={MAX_PAGES}")
 
-    def handle_exception(self, e: Exception, job=None):
-        printinfo(f"Error processing job: {str(e)}")
-        if job:
-            capture_exception(e)
-            self.worker.buryJob(job)
+    @property
+    def platform(self): return "tokopedia"
 
-    def worker_keyword(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Tokopedia Keyword")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_keyword'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        # self.set_resources('tokopedia', 'tokopedia')
-        killer = GracefulKiller()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+    @property
+    def tube_name(self): return "ecommerce_crawler_tokopedia_keyword"
 
-        service = ServiceTokopedia()
+    def process_job(self, job_data: dict) -> bool:
+        keyword   = job_data.get("content")
+        job_id    = job_data.get("job_id", "unknown")
+        job_type  = job_data.get("job_type", "keyword")
+        store_url = job_data.get("store_url")
+        max_page  = job_data.get("max_count", MAX_PAGES)
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
+        if not keyword and not store_url:
+            logger.error("Job tidak punya 'content' atau 'store_url'. Skip.")
+            return False
+
+        log_job_start(job_id, self.platform, keyword=keyword, store_url=store_url, job_type=job_type)
+        total_saved = 0
+        final_status = "success"
+        error_msg = None
+
+        try:
+            for page_num in range(1, max_page + 1):
+                logger.info(f"  📄 Tokopedia page {page_num}/{max_page}...")
+
+                if job_type == "store" and store_url:
+                    resp = self.service.scrape_tokopedia_store(store_url, page=page_num)
+                else:
+                    resp = self.service.scrape_tokopedia_keyword(keyword, page=page_num)
+
+                if resp is None or resp.status_code != 200:
+                    logger.warning(f"  ⚠️  Status {resp.status_code if resp else 'None'} di page {page_num}")
+                    break
+
+                resp_json = resp.json()
+                name = keyword or store_url
+
+                # Cek ada data atau tidak
                 try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    keyword = message['content']
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    printinfo(
-                        f"Processing keyword: {keyword} - page: {count+1}")
-                    resp = service.scrape_tokopedia_keyword(
-                        keyword, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(
-                            resp,
-                            prefix='toped-kw',
-                            social_media='tokopedia',
-                            category='keyword'
-                        )
-                        printinfo('Saved to: '+fname)
+                    if job_type == "store":
+                        products = resp_json[0]["data"]["GetShopProduct"]["data"]
                     else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Keyword: {keyword} - page: {count}",
-                            resp=resp)
-                    worker.deleteJob(job)
+                        products = resp_json[0]["data"]["searchProductV5"]["data"]["products"]
+                    if not products:
+                        logger.info(f"  ℹ️  Tidak ada products di page {page_num}. Stop.")
+                        break
+                    logger.info(f"  ✅ {len(products)} items ditemukan di page {page_num}")
+                except (KeyError, IndexError, TypeError):
+                    logger.warning(f"  ⚠️  Tidak bisa parse response page {page_num}")
+                    break
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, keyword)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+                # FIX: simpan langsung, tidak pakai lambda
+                saved = save_tokopedia_items(
+                    job_id=job_id,
+                    keyword=name if job_type == "keyword" else None,
+                    resp_json=resp_json,
+                    page_number=page_num,
+                    store_url=store_url,
+                )
 
-    def worker_comments(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Tokopedia Comments")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_comments'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        # self.set_resources('tokopedia', 'tokopedia')
-        killer = GracefulKiller()
-        service = ServiceTokopedia()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+                # Simpan JSON output
+                from output.output_json import save_json_output
+                save_json_output(
+                    platform=self.platform,
+                    job_type=job_type,
+                    name=name,
+                    items=products,
+                    page_number=page_num,
+                    job_id=job_id,
+                )
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    product_id = message['product_id'] if 'product_id' in message else None
-                    product_url = message['product_url']
-                    if not product_id:
-                        printinfo('Fetching product_id from product_url')
-                        product_id = service.get_product_main_info(product_url)
-                    printinfo(
-                        f"Processing comments for product_id: {product_id}")
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_tokopedia_comments(
-                        product_url, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='tokped-comments', hostname=HOSTNAME,
-                                          product_id=product_id, page=count+1, social_media='tokopedia')
-                        printinfo('Saved to: '+fname)
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Comments: {product_id} - page: {count}",
-                            resp=resp)
-                    worker.deleteJob(job)
+                total_saved += saved
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, product_id)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+        except Exception as e:
+            final_status = "failed"
+            error_msg = str(e)
+            raise
+        finally:
+            log_job_finish(job_id, final_status, total_saved, error_msg)
 
-    def worker_store(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Tokopedia Store")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_tokopedia_store'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        # self.set_resources('tokopedia', 'tokopedia')
-        killer = GracefulKiller()
-        service = ServiceTokopedia()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+        logger.info(f"✅ Tokopedia '{keyword}': {total_saved} items, status={final_status}")
+        return True
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    store_url = message['store_url']
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    store_data = service.get_shop_id(store_url)
-                    if store_data[0]:
-                        store_name, shop_id = store_data
-                        resp = service.scrape_tokopedia_store(
-                            store_url, page=count+1, proxy=self.current_proxy)
-                        if resp.status_code == 200:
-                            fname = store_raw(resp, prefix='tokped-store', hostname=HOSTNAME,
-                                              store_name=store_name, page=count+1, social_media='tokopedia')
-                            printinfo('Saved to: '+fname)
-                            print(resp.json())
-                        else:
-                            raise HTTPStatusException(
-                                resp.status_code,
-                                f"Store: {store_name} - page: {count}",
-                                resp=resp)
-                        worker.deleteJob(job)
 
-                        if count >= max_count:
-                            crawl_next = False
-                        if crawl_next:
-                            message['count'] = count + 1
-                            pusher_self.setJob(json.dumps(message))
-                        else:
-                            self.conn_redis.srem(tubename, store_name)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s — %(message)s")
+    WorkerTokopedia().run()

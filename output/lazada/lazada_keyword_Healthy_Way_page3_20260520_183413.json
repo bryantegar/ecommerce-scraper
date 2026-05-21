@@ -1,0 +1,2761 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Healthy Way",
+  "page": 3,
+  "job_id": "5885e4eb-3e25-46f2-b972-684071e1b6be",
+  "scraped_at": "2026-05-20T18:34:13.511416",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "Nature's Way 1200mg Permen Kalsium dengan Vitamin D3, K2, B6, Kalsium Sitrat, Magnesium, Seng untuk Dukungan Tulang & Kekebalan Tubuh, Suplemen Kalsium untuk Wanita dan Pria",
+      "nid": "18822482004",
+      "itemId": "18822482004",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  39% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/db6e0eb7c765d018d0994321b192d62d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp89.500",
+      "discount": "39% Off",
+      "ratingScore": "5.0",
+      "review": "52",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/db6e0eb7c765d018d0994321b192d62d.jpg",
+          "sku": "18822482004_ID",
+          "skuId": "116256402683",
+          "itemUrl": "/products/pdp-i18822482004.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "V380 Health",
+      "sellerId": "402262544019",
+      "brandName": "V380",
+      "brandId": "143454",
+      "cheapest_sku": "18822482004_ID-116256402683",
+      "skuId": "116256402683",
+      "sku": "18822482004_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6340
+      ],
+      "price": "89500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "146049",
+      "clickTrace": "query:Healthy+Way;nid:18822482004;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:18822482004_ID;price:89500;client:desktop;supplier_id:402262544019;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:6340;item_id:18822482004;sku_id:116256402683;shop_id:7353897;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "55 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822482004_ID-116256402683"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fdb6e0eb7c765d018d0994321b192d62d.jpg&src=srp_findsimilar&item_id=18822482004&sku_id=116256402683&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=89500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822482004.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256402683%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A8950000%3BdisplayPrice%3A8950000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=55&price=8.95E%204&review=52&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A18822482004%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A18822482004_ID%253Bprice%253A89500%253Bclient%253Adesktop%253Bsupplier_id%253A402262544019%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6340%253Bitem_id%253A18822482004%253Bsku_id%253A116256402683%253Bshop_id%253A7353897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BRONSON VITAMIN D3 K2 5000UI ORIGINAL USA ISI 120 EXTRA STRENGTH",
+      "nid": "8831742948",
+      "itemId": "8831742948",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Se1f66378f50741b2b67952e35f70ce64I.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.000",
+      "ratingScore": "4.5",
+      "review": "2",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "Apotek Terang Bugar",
+      "sellerId": "403454208126",
+      "brandName": "bronson",
+      "brandId": "54341",
+      "cheapest_sku": "8831742948_ID-16264030977",
+      "skuId": "16264030977",
+      "sku": "8831742948_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "90000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8831742948;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8831742948_ID;price:90000;client:desktop;supplier_id:403454208126;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:6334;item_id:8831742948;sku_id:16264030977;shop_id:8345824;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8831742948_ID-16264030977"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSe1f66378f50741b2b67952e35f70ce64I.jpg&src=srp_findsimilar&item_id=8831742948&sku_id=16264030977&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=90000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8831742948.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16264030977%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9000000%3BdisplayPrice%3A9000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.5&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=9E%204&review=2&location=Kota%20Bandung&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8831742948%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8831742948_ID%253Bprice%253A90000%253Bclient%253Adesktop%253Bsupplier_id%253A403454208126%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8831742948%253Bsku_id%253A16264030977%253Bshop_id%253A8345824%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PROLACTA for baby vitamin bayi isi 50 kapsul",
+      "nid": "7714392099",
+      "itemId": "7714392099",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  3% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S394bed3cb162417693a62134d66963d3b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp58.000",
+      "discount": "3% Off",
+      "ratingScore": "4.790697674418604",
+      "review": "129",
+      "location": "Kota Jakarta Pusat",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S394bed3cb162417693a62134d66963d3b.jpg",
+          "sku": "7714392099_ID",
+          "skuId": "14198654494",
+          "itemUrl": "/products/pdp-i7714392099.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S394bed3cb162417693a62134d66963d3b.jpg",
+          "sku": "7714392099_ID",
+          "skuId": "14364730314",
+          "itemUrl": "/products/pdp-i7714392099.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "APOTEK KA 24 CEMPAKA PUTIH",
+      "sellerId": "401473904360",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7714392099_ID-14198654494",
+      "skuId": "14198654494",
+      "sku": "7714392099_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "58000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "59500",
+      "clickTrace": "query:Healthy+Way;nid:7714392099;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7714392099_ID;price:58000;client:desktop;supplier_id:401473904360;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:11382;item_id:7714392099;sku_id:14198654494;shop_id:6633607;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "346 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7714392099_ID-14198654494"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS394bed3cb162417693a62134d66963d3b.jpg&src=srp_findsimilar&item_id=7714392099&sku_id=14198654494&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=58000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7714392099.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14198654494%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A5800000%3BdisplayPrice%3A5800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.790697674418604&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=346&price=5.8E%204&review=129&location=Kota%20Jakarta%20Pusat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7714392099%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7714392099_ID%253Bprice%253A58000%253Bclient%253Adesktop%253Bsupplier_id%253A401473904360%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A7714392099%253Bsku_id%253A14198654494%253Bshop_id%253A6633607%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Curcuma Plus Support Appetite Rasa Jeruk 60 ml",
+      "nid": "5317196676",
+      "itemId": "5317196676",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f097ab3c7b3daee4006dab5846532fa7.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp16.000",
+      "ratingScore": "4.834154351395731",
+      "review": "575",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "alkesjayamedika",
+      "sellerId": "400609446063",
+      "brandName": "Tidak Ada Merk",
+      "brandId": "53944",
+      "cheapest_sku": "5317196676_ID-10387096946",
+      "skuId": "10387096946",
+      "sku": "5317196676_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "16000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:5317196676;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:5317196676_ID;price:16000;client:desktop;supplier_id:400609446063;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:6335;item_id:5317196676;sku_id:10387096946;shop_id:3057880;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "5317196676_ID-10387096946"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff097ab3c7b3daee4006dab5846532fa7.png&src=srp_findsimilar&item_id=5317196676&sku_id=10387096946&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=16000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i5317196676.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A10387096946%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A1600000%3BdisplayPrice%3A1600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.834154351395731&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2495&price=1.6E%204&review=575&location=Kota%20Tangerang&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A5317196676%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A5317196676_ID%253Bprice%253A16000%253Bclient%253Adesktop%253Bsupplier_id%253A400609446063%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A5317196676%253Bsku_id%253A10387096946%253Bshop_id%253A3057880%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "[ PAKET 4 PCS ] Pro Albumin NATAPRO 100% Ekstrak Ikan Gabus / kutuk - Kapsul Albumin Ikan Gabus - 50 kapsul",
+      "nid": "514494562",
+      "itemId": "514494562",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  40% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/77cc270d5047676a227ddcf88c83ae97.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp60.000",
+      "discount": "40% Off",
+      "ratingScore": "4.886956521739131",
+      "review": "229",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/fe02816a5f55b400f6d7266ce71e084b.png",
+          "sku": "514494562_ID",
+          "skuId": "14181840145",
+          "itemUrl": "/products/pdp-i514494562.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "habba shop",
+      "sellerId": "1000203221",
+      "brandName": "Kapsul Kutuk",
+      "brandId": "47715",
+      "cheapest_sku": "514494562_ID-14239292375",
+      "skuId": "14239292375",
+      "sku": "514494562_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "60000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "100000",
+      "clickTrace": "query:Healthy+Way;nid:514494562;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:514494562_ID;price:60000;client:desktop;supplier_id:1000203221;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:6334;item_id:514494562;sku_id:14239292375;shop_id:694398;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "810 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "514494562_ID-14239292375"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F77cc270d5047676a227ddcf88c83ae97.png&src=srp_findsimilar&item_id=514494562&sku_id=14239292375&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=60000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i514494562.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14239292375%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A6000000%3BdisplayPrice%3A6000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.886956521739131&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=810&price=6E%204&review=229&location=Kab.%20Bekasi&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A514494562%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A514494562_ID%253Bprice%253A60000%253Bclient%253Adesktop%253Bsupplier_id%253A1000203221%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A514494562%253Bsku_id%253A14239292375%253Bshop_id%253A694398%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "PJM ACC Kran Air Kran Shower Kamar Mandi Kran Cabang 2 Arah Engkol + Kepala Shower Ion Healthy Spa Blue Chrome",
+      "nid": "821890838",
+      "itemId": "821890838",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  69% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/066794bea8e18dda2b89dd67f5433a59.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp139.000",
+      "discount": "69% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "PJM Acc",
+      "sellerId": "1000419985",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "821890838_ID-1171230788",
+      "skuId": "1171230788",
+      "sku": "821890838_ID",
+      "categories": [
+        16334,
+        16373,
+        10100187,
+        10100190
+      ],
+      "price": "139000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "450000",
+      "clickTrace": "query:Healthy+Way;nid:821890838;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:821890838_ID;price:139000;client:desktop;supplier_id:1000419985;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:10100190;item_id:821890838;sku_id:1171230788;shop_id:907224;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "821890838_ID-1171230788"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F066794bea8e18dda2b89dd67f5433a59.jpg&src=srp_findsimilar&item_id=821890838&sku_id=1171230788&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=139000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i821890838.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1171230788%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A13900000%3BdisplayPrice%3A13900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=1.39E%205&review=&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A821890838%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A821890838_ID%253Bprice%253A139000%253Bclient%253Adesktop%253Bsupplier_id%253A1000419985%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100190%253Bitem_id%253A821890838%253Bsku_id%253A1171230788%253Bshop_id%253A907224%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's way Kids Smart Bursts High DHA Omega 3 Fish Oil Trio - 60 Chewable Soft Capsules",
+      "nid": "6142774870",
+      "itemId": "6142774870",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sd28ba52b69564131a483946339870e43Z.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp380.000",
+      "ratingScore": "4.75",
+      "review": "8",
+      "location": "Kab. Lebak",
+      "thumbs": [],
+      "sellerName": "Exoxy",
+      "sellerId": "1000054034",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "6142774870_ID-11721262626",
+      "skuId": "11721262626",
+      "sku": "6142774870_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "380000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:6142774870;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:6142774870_ID;price:380000;client:desktop;supplier_id:1000054034;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:6335;item_id:6142774870;sku_id:11721262626;shop_id:546924;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6142774870_ID-11721262626"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSd28ba52b69564131a483946339870e43Z.jpg&src=srp_findsimilar&item_id=6142774870&sku_id=11721262626&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=380000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6142774870.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11721262626%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A38000000%3BdisplayPrice%3A38000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.75&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=3.8E%205&review=8&location=Kab.%20Lebak&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A6142774870%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A6142774870_ID%253Bprice%253A380000%253Bclient%253Adesktop%253Bsupplier_id%253A1000054034%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A6142774870%253Bsku_id%253A11721262626%253Bshop_id%253A546924%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bio Squalene Softgel Minyak Hati Ikan Hiu Omega 3 6 9 Fish Oil Asli 100% Original Obat Pelumas Sendi",
+      "nid": "8640568362",
+      "itemId": "8640568362",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Scc27cef5577e4798a2af4931c854c7e1C.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp105.000",
+      "discount": "15% Off",
+      "ratingScore": "4.46969696969697",
+      "review": "66",
+      "location": "Kota Surakarta (Solo)",
+      "thumbs": [],
+      "sellerName": "Anya Geraldine",
+      "sellerId": "403301024860",
+      "brandName": "Bio Squalene",
+      "brandId": "124157020",
+      "cheapest_sku": "8640568362_ID-16058940849",
+      "skuId": "16058940849",
+      "sku": "8640568362_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "105000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "123000",
+      "clickTrace": "query:Healthy+Way;nid:8640568362;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8640568362_ID;price:105000;client:desktop;supplier_id:403301024860;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:6334;item_id:8640568362;sku_id:16058940849;shop_id:7944946;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "206 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8640568362_ID-16058940849"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FScc27cef5577e4798a2af4931c854c7e1C.jpg&src=srp_findsimilar&item_id=8640568362&sku_id=16058940849&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=105000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8640568362.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16058940849%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A10500000%3BdisplayPrice%3A10500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.46969696969697&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=206&price=1.05E%205&review=66&location=Kota%20Surakarta%20(Solo)&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8640568362%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8640568362_ID%253Bprice%253A105000%253Bclient%253Adesktop%253Bsupplier_id%253A403301024860%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8640568362%253Bsku_id%253A16058940849%253Bshop_id%253A7944946%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "VIDORAN SMART SIRUP 100ML MULTIVITAMIN DAN NUTRISI OTAK ANAK",
+      "nid": "5532320644",
+      "itemId": "5532320644",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/14c03c3175bfc756d6fd452b9f8e837f.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp21.500",
+      "discount": "4% Off",
+      "ratingScore": "4.905123339658444",
+      "review": "527",
+      "location": "Kota Surabaya",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/14c03c3175bfc756d6fd452b9f8e837f.jpg",
+          "sku": "5532320644_ID",
+          "skuId": "14035474930",
+          "itemUrl": "/products/pdp-i5532320644.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "APOTEK SEHATI",
+      "sellerId": "100381080",
+      "brandName": "Vidoran",
+      "brandId": "12416",
+      "cheapest_sku": "5532320644_ID-10987618116",
+      "skuId": "10987618116",
+      "sku": "5532320644_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "21500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "22500",
+      "clickTrace": "query:Healthy+Way;nid:5532320644;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:5532320644_ID;price:21500;client:desktop;supplier_id:100381080;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:6335;item_id:5532320644;sku_id:10987618116;shop_id:495075;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "5532320644_ID-10987618116"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F14c03c3175bfc756d6fd452b9f8e837f.jpg&src=srp_findsimilar&item_id=5532320644&sku_id=10987618116&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=21500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i5532320644.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A10987618116%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A2150000%3BdisplayPrice%3A2150000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.905123339658444&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1570&price=2.15E%204&review=527&location=Kota%20Surabaya&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A5532320644%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A5532320644_ID%253Bprice%253A21500%253Bclient%253Adesktop%253Bsupplier_id%253A100381080%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A5532320644%253Bsku_id%253A10987618116%253Bshop_id%253A495075%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "(BISA COD) Nature's Way Osteo K Vitamin K2 + D3 180mcg 30 Softgel Capsules ORIGINAL AUSTRALIA",
+      "nid": "6248916191",
+      "itemId": "6248916191",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3ec3a42153a9b0ae943da086007d0c68.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp372.000",
+      "discount": "6% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tasikmalaya",
+      "thumbs": [],
+      "sellerName": "De Nature Pusat",
+      "sellerId": "1000262761",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "6248916191_ID-11873930549",
+      "skuId": "11873930549",
+      "sku": "6248916191_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "372000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "395000",
+      "clickTrace": "query:Healthy+Way;nid:6248916191;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:6248916191_ID;price:372000;client:desktop;supplier_id:1000262761;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:6334;item_id:6248916191;sku_id:11873930549;shop_id:752891;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6248916191_ID-11873930549"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3ec3a42153a9b0ae943da086007d0c68.jpg&src=srp_findsimilar&item_id=6248916191&sku_id=11873930549&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=372000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6248916191.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11873930549%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A37200000%3BdisplayPrice%3A37200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=3.72E%205&review=&location=Kota%20Tasikmalaya&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A6248916191%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A6248916191_ID%253Bprice%253A372000%253Bclient%253Adesktop%253Bsupplier_id%253A1000262761%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A6248916191%253Bsku_id%253A11873930549%253Bshop_id%253A752891%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature’s nature natures way restore probiotic daily health 30 billion 30 caps",
+      "nid": "8752806493",
+      "itemId": "8752806493",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S0611b8f4093741fd90825677537b6ef3W.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp325.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bandung Barat",
+      "thumbs": [],
+      "sellerName": "Healing Hands",
+      "sellerId": "400593660541",
+      "brandName": "Life-Space",
+      "brandId": "37165",
+      "cheapest_sku": "8752806493_ID-16196280049",
+      "skuId": "16196280049",
+      "sku": "8752806493_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "325000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8752806493;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8752806493_ID;price:325000;client:desktop;supplier_id:400593660541;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:6336;item_id:8752806493;sku_id:16196280049;shop_id:1709848;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8752806493_ID-16196280049"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS0611b8f4093741fd90825677537b6ef3W.jpg&src=srp_findsimilar&item_id=8752806493&sku_id=16196280049&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=325000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8752806493.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16196280049%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A32500000%3BdisplayPrice%3A32500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3.25E%205&review=&location=Kab.%20Bandung%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8752806493%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8752806493_ID%253Bprice%253A325000%253Bclient%253Adesktop%253Bsupplier_id%253A400593660541%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8752806493%253Bsku_id%253A16196280049%253Bshop_id%253A1709848%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Little swisse iron vitamin c vit c anak kids 40 gummies",
+      "nid": "8750204263",
+      "itemId": "8750204263",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sd92450125b694488a6aaa5ee4aa02e99o.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp365.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bandung Barat",
+      "thumbs": [],
+      "sellerName": "Healing Hands",
+      "sellerId": "400593660541",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "8750204263_ID-16192400358",
+      "skuId": "16192400358",
+      "sku": "8750204263_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "365000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8750204263;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8750204263_ID;price:365000;client:desktop;supplier_id:400593660541;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:18703;item_id:8750204263;sku_id:16192400358;shop_id:1709848;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8750204263_ID-16192400358"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSd92450125b694488a6aaa5ee4aa02e99o.jpg&src=srp_findsimilar&item_id=8750204263&sku_id=16192400358&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=365000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8750204263.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16192400358%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A36500000%3BdisplayPrice%3A36500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=3.65E%205&review=&location=Kab.%20Bandung%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8750204263%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8750204263_ID%253Bprice%253A365000%253Bclient%253Adesktop%253Bsupplier_id%253A400593660541%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8750204263%253Bsku_id%253A16192400358%253Bshop_id%253A1709848%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Little swisse multivitamin anak kids 50 gummies",
+      "nid": "8752444157",
+      "itemId": "8752444157",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sdff137c2508548fd99087fdd7947a0dcL.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp350.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bandung Barat",
+      "thumbs": [],
+      "sellerName": "Healing Hands",
+      "sellerId": "400593660541",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "8752444157_ID-16195812991",
+      "skuId": "16195812991",
+      "sku": "8752444157_ID",
+      "categories": [
+        13361,
+        18675,
+        18703
+      ],
+      "price": "350000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8752444157;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8752444157_ID;price:350000;client:desktop;supplier_id:400593660541;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:18703;item_id:8752444157;sku_id:16195812991;shop_id:1709848;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8752444157_ID-16195812991"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSdff137c2508548fd99087fdd7947a0dcL.jpg&src=srp_findsimilar&item_id=8752444157&sku_id=16195812991&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=350000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8752444157.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16195812991%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A35000000%3BdisplayPrice%3A35000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3.5E%205&review=&location=Kab.%20Bandung%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8752444157%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8752444157_ID%253Bprice%253A350000%253Bclient%253Adesktop%253Bsupplier_id%253A400593660541%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18703%253Bitem_id%253A8752444157%253Bsku_id%253A16195812991%253Bshop_id%253A1709848%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "cerbrofot gold rasa jeruk 100ml untuk anak tumbuh kembang",
+      "nid": "8022120459",
+      "itemId": "8022120459",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S5db7a6d233af48afa848c897a9b02bb5S.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp21.500",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "DeDunia Sehat",
+      "sellerId": "400626654532",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8022120459_ID-14446762022",
+      "skuId": "14446762022",
+      "sku": "8022120459_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "21500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8022120459;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8022120459_ID;price:21500;client:desktop;supplier_id:400626654532;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:6336;item_id:8022120459;sku_id:14446762022;shop_id:4570816;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8022120459_ID-14446762022"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS5db7a6d233af48afa848c897a9b02bb5S.jpg&src=srp_findsimilar&item_id=8022120459&sku_id=14446762022&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=21500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8022120459.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14446762022%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A2150000%3BdisplayPrice%3A2150000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2.15E%204&review=&location=Kota%20Tangerang&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8022120459%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8022120459_ID%253Bprice%253A21500%253Bclient%253Adesktop%253Bsupplier_id%253A400626654532%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8022120459%253Bsku_id%253A14446762022%253Bshop_id%253A4570816%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Healthy Care Triple Strength Fish Oil 150 Capsules",
+      "nid": "18824267380",
+      "itemId": "18824267380",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/8394ad3db9fb467738eeff7065b9a6ea.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp523.888",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Tangerang",
+      "thumbs": [],
+      "sellerName": "healthgallerystore",
+      "sellerId": "403572576249",
+      "brandName": "Healthy Care",
+      "brandId": "110096095",
+      "cheapest_sku": "18824267380_ID-116256932328",
+      "skuId": "116256932328",
+      "sku": "18824267380_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6339
+      ],
+      "price": "523888",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:18824267380;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:18824267380_ID;price:523888;client:desktop;supplier_id:403572576249;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:6339;item_id:18824267380;sku_id:116256932328;shop_id:8573194;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18824267380_ID-116256932328"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F8394ad3db9fb467738eeff7065b9a6ea.jpg&src=srp_findsimilar&item_id=18824267380&sku_id=116256932328&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=523888.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18824267380.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256932328%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A52388800%3BdisplayPrice%3A52388800%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=523888&review=&location=Kab.%20Tangerang&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A18824267380%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A18824267380_ID%253Bprice%253A523888%253Bclient%253Adesktop%253Bsupplier_id%253A403572576249%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6339%253Bitem_id%253A18824267380%253Bsku_id%253A116256932328%253Bshop_id%253A8573194%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Healthy Care Vitamin D3 1000IU - 250 Capsules",
+      "nid": "18822626190",
+      "itemId": "18822626190",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/4e3ce34559e1d23d0c684237575029b8.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp329.888",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Tangerang",
+      "thumbs": [],
+      "sellerName": "healthgallerystore",
+      "sellerId": "403572576249",
+      "brandName": "Healthy Care",
+      "brandId": "110096095",
+      "cheapest_sku": "18822626190_ID-116256426973",
+      "skuId": "116256426973",
+      "sku": "18822626190_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "329888",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:18822626190;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:18822626190_ID;price:329888;client:desktop;supplier_id:403572576249;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:6334;item_id:18822626190;sku_id:116256426973;shop_id:8573194;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822626190_ID-116256426973"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4e3ce34559e1d23d0c684237575029b8.jpg&src=srp_findsimilar&item_id=18822626190&sku_id=116256426973&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=329888.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822626190.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256426973%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A32988800%3BdisplayPrice%3A32988800%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=329888&review=&location=Kab.%20Tangerang&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A18822626190%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A18822626190_ID%253Bprice%253A329888%253Bclient%253Adesktop%253Bsupplier_id%253A403572576249%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A18822626190%253Bsku_id%253A116256426973%253Bshop_id%253A8573194%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Suplemen Tinggi Badan Suplemen Pertumbuhan Tulang untuk Mendukung Sendi, Anak-anak dan Dewasa",
+      "nid": "7883504083",
+      "itemId": "7883504083",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3a3b1ce04516aa680a0c4b446cecbbf1.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp60.259",
+      "discount": "50% Off",
+      "ratingScore": "4.883720930232558",
+      "review": "43",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/e3926246327013602adb52592b40e077.jpg",
+          "sku": "7883504083_ID",
+          "skuId": "14297898762",
+          "itemUrl": "/products/pdp-i7883504083.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/f45baf76fd3f243cca74fedb34dc35d1.jpg",
+          "sku": "7883504083_ID",
+          "skuId": "14297898761",
+          "itemUrl": "/products/pdp-i7883504083.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/a7cc8e945a6c65bdb6ce8085047750f4.jpg",
+          "sku": "7883504083_ID",
+          "skuId": "14297898763",
+          "itemUrl": "/products/pdp-i7883504083.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "uUMNpnoG",
+      "sellerId": "401154896768",
+      "brandName": "Balincer",
+      "brandId": "125850653",
+      "cheapest_sku": "7883504083_ID-14297898761",
+      "skuId": "14297898761",
+      "sku": "7883504083_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "60259",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "120518",
+      "clickTrace": "query:Healthy+Way;nid:7883504083;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7883504083_ID;price:60259;client:desktop;supplier_id:401154896768;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:6334;item_id:7883504083;sku_id:14297898761;shop_id:6347809;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "89 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7883504083_ID-14297898761"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3a3b1ce04516aa680a0c4b446cecbbf1.jpg&src=srp_findsimilar&item_id=7883504083&sku_id=14297898761&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=60259.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7883504083.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14297898761%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A6025900%3BdisplayPrice%3A6025900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.883720930232558&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=89&price=60259&review=43&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7883504083%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7883504083_ID%253Bprice%253A60259%253Bclient%253Adesktop%253Bsupplier_id%253A401154896768%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A7883504083%253Bsku_id%253A14297898761%253Bshop_id%253A6347809%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "(BISA COD) Nature's Way Odourless Fish Oil 1000mg - 1500mg isi 200 caps DIJAMIN ORIGINAL",
+      "nid": "6037342151",
+      "itemId": "6037342151",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/1435640671e028f2f729ea86ad5318a4.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp395.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tasikmalaya",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/99c97622d921f521221a4d15d140c3e0.png",
+          "sku": "6037342151_ID",
+          "skuId": "11599680356",
+          "itemUrl": "/products/pdp-i6037342151.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "De Nature Pusat",
+      "sellerId": "1000262761",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "6037342151_ID-11599680355",
+      "skuId": "11599680355",
+      "sku": "6037342151_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "395000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:6037342151;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:6037342151_ID;price:395000;client:desktop;supplier_id:1000262761;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:6335;item_id:6037342151;sku_id:11599680355;shop_id:752891;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6037342151_ID-11599680355"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F1435640671e028f2f729ea86ad5318a4.jpg&src=srp_findsimilar&item_id=6037342151&sku_id=11599680355&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=395000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6037342151.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11599680355%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A39500000%3BdisplayPrice%3A39500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=3.95E%205&review=&location=Kota%20Tasikmalaya&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A6037342151%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A6037342151_ID%253Bprice%253A395000%253Bclient%253Adesktop%253Bsupplier_id%253A1000262761%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A6037342151%253Bsku_id%253A11599680355%253Bshop_id%253A752891%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way 5-in-1 Omega-3 Gummies | 460mg DHA, 230mg EPA with Methylfolate & B12 for Brain & Eyes",
+      "nid": "18822256288",
+      "itemId": "18822256288",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  38% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/7aeb64af69931491e2eac1a553d35805.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.000",
+      "discount": "38% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/7aeb64af69931491e2eac1a553d35805.jpg",
+          "sku": "18822256288_ID",
+          "skuId": "116256419563",
+          "itemUrl": "/products/pdp-i18822256288.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "BBEEAAUU",
+      "sellerId": "401837472113",
+      "brandName": "LEEGO HOME",
+      "brandId": "127188205",
+      "cheapest_sku": "18822256288_ID-116256419563",
+      "skuId": "116256419563",
+      "sku": "18822256288_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "90000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "145350",
+      "clickTrace": "query:Healthy+Way;nid:18822256288;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:18822256288_ID;price:90000;client:desktop;supplier_id:401837472113;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:6335;item_id:18822256288;sku_id:116256419563;shop_id:7055640;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822256288_ID-116256419563"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F7aeb64af69931491e2eac1a553d35805.jpg&src=srp_findsimilar&item_id=18822256288&sku_id=116256419563&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=90000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822256288.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256419563%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9000000%3BdisplayPrice%3A9000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9E%204&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A18822256288%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A18822256288_ID%253Bprice%253A90000%253Bclient%253Adesktop%253Bsupplier_id%253A401837472113%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A18822256288%253Bsku_id%253A116256419563%253Bshop_id%253A7055640%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Kapsul Bunkell Vitamin D3 + K2, Kalsium membantu menjaga kesehatan tulang, meningkatkan osteoporosis, Lansia, D3 10.000 IU, Kesehatan Imun",
+      "nid": "8385794116",
+      "itemId": "8385794116",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/701963c2441b08e34b09af019c4f6ae5.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp60.153",
+      "discount": "50% Off",
+      "ratingScore": "4.954545454545454",
+      "review": "22",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/cfdf070bfc247c9ed2e1ecb760a286f0.jpg",
+          "sku": "8385794116_ID",
+          "skuId": "14821776058",
+          "itemUrl": "/products/pdp-i8385794116.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/b77d2cf6ac5dad5a4e4c5c56f65e0569.jpg",
+          "sku": "8385794116_ID",
+          "skuId": "14821776059",
+          "itemUrl": "/products/pdp-i8385794116.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/49a7bb3f356c70477b903b67af924b61.jpg",
+          "sku": "8385794116_ID",
+          "skuId": "14821776060",
+          "itemUrl": "/products/pdp-i8385794116.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Azc5kPJ2",
+      "sellerId": "401709216343",
+      "brandName": "Daitea",
+      "brandId": "125849879",
+      "cheapest_sku": "8385794116_ID-14821776058",
+      "skuId": "14821776058",
+      "sku": "8385794116_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "60153",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "120306",
+      "clickTrace": "query:Healthy+Way;nid:8385794116;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8385794116_ID;price:60153;client:desktop;supplier_id:401709216343;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:6334;item_id:8385794116;sku_id:14821776058;shop_id:6884548;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "63 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8385794116_ID-14821776058"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F701963c2441b08e34b09af019c4f6ae5.jpg&src=srp_findsimilar&item_id=8385794116&sku_id=14821776058&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=60153.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8385794116.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14821776058%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A6015300%3BdisplayPrice%3A6015300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.954545454545454&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=63&price=60153&review=22&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8385794116%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8385794116_ID%253Bprice%253A60153%253Bclient%253Adesktop%253Bsupplier_id%253A401709216343%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8385794116%253Bsku_id%253A14821776058%253Bshop_id%253A6884548%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Kompleks Pertumbuhan Anak Usia 4+ Tahun: D3/K2 + Kalsium, Magnesium, Fosfor, Seng, Vitamin C | Mendukung Pertumbuhan",
+      "nid": "8829108341",
+      "itemId": "8829108341",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/524671888f7a1a71b3055b3ab1bd0d60.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp95.000",
+      "discount": "55% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/524671888f7a1a71b3055b3ab1bd0d60.jpg",
+          "sku": "8829108341_ID",
+          "skuId": "16262088611",
+          "itemUrl": "/products/pdp-i8829108341.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Cailosh",
+      "sellerId": "401790576529",
+      "brandName": "KUMADA",
+      "brandId": "126993020",
+      "cheapest_sku": "8829108341_ID-16262088611",
+      "skuId": "16262088611",
+      "sku": "8829108341_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "95000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "210000",
+      "clickTrace": "query:Healthy+Way;nid:8829108341;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8829108341_ID;price:95000;client:desktop;supplier_id:401790576529;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:6334;item_id:8829108341;sku_id:16262088611;shop_id:6994840;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8829108341_ID-16262088611"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F524671888f7a1a71b3055b3ab1bd0d60.jpg&src=srp_findsimilar&item_id=8829108341&sku_id=16262088611&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=95000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8829108341.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16262088611%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9500000%3BdisplayPrice%3A9500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=9.5E%204&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8829108341%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8829108341_ID%253Bprice%253A95000%253Bclient%253Adesktop%253Bsupplier_id%253A401790576529%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8829108341%253Bsku_id%253A16262088611%253Bshop_id%253A6994840%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Suplemen Minyak Ikan Omega 3 BALINCER, 1280 mg, mendukung fungsi jantung, otak, dan mata.",
+      "nid": "8370120887",
+      "itemId": "8370120887",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/cda2cb782ae6c6a0cfc9cf0cbcd575ac.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp110.300",
+      "discount": "50% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/44db23670fa861345f15cddfc7c3074b.jpg",
+          "sku": "8370120887_ID",
+          "skuId": "14799586959",
+          "itemUrl": "/products/pdp-i8370120887.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "uUMNpnoG",
+      "sellerId": "401154896768",
+      "brandName": "Balincer",
+      "brandId": "125850653",
+      "cheapest_sku": "8370120887_ID-14799586959",
+      "skuId": "14799586959",
+      "sku": "8370120887_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "110300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "220600",
+      "clickTrace": "query:Healthy+Way;nid:8370120887;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8370120887_ID;price:110300;client:desktop;supplier_id:401154896768;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:6335;item_id:8370120887;sku_id:14799586959;shop_id:6347809;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8370120887_ID-14799586959"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fcda2cb782ae6c6a0cfc9cf0cbcd575ac.jpg&src=srp_findsimilar&item_id=8370120887&sku_id=14799586959&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=110300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8370120887.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14799586959%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A11030000%3BdisplayPrice%3A11030000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=1.103E%205&review=1&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8370120887%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8370120887_ID%253Bprice%253A110300%253Bclient%253Adesktop%253Bsupplier_id%253A401154896768%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A8370120887%253Bsku_id%253A14799586959%253Bshop_id%253A6347809%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Evening Primrose Seed Oil Capsules – Supports Female Hormone Balance and Skin Elasticity 120pcs",
+      "nid": "8803494696",
+      "itemId": "8803494696",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  42% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/27391029a2f88067ac3a0589bbf05d34.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp103.600",
+      "discount": "42% Off",
+      "ratingScore": "5.0",
+      "review": "57",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/27391029a2f88067ac3a0589bbf05d34.jpg",
+          "sku": "8803494696_ID",
+          "skuId": "16244310843",
+          "itemUrl": "/products/pdp-i8803494696.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "V380 Health",
+      "sellerId": "402262544019",
+      "brandName": "V380",
+      "brandId": "143454",
+      "cheapest_sku": "8803494696_ID-16244310843",
+      "skuId": "16244310843",
+      "sku": "8803494696_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6348
+      ],
+      "price": "103600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "178530",
+      "clickTrace": "query:Healthy+Way;nid:8803494696;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8803494696_ID;price:103600;client:desktop;supplier_id:402262544019;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:6348;item_id:8803494696;sku_id:16244310843;shop_id:7353897;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "62 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8803494696_ID-16244310843"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F27391029a2f88067ac3a0589bbf05d34.jpg&src=srp_findsimilar&item_id=8803494696&sku_id=16244310843&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=103600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8803494696.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16244310843%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A10360000%3BdisplayPrice%3A10360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=62&price=1.036E%205&review=57&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8803494696%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8803494696_ID%253Bprice%253A103600%253Bclient%253Adesktop%253Bsupplier_id%253A402262544019%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6348%253Bitem_id%253A8803494696%253Bsku_id%253A16244310843%253Bshop_id%253A7353897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Height Growth Gummies for Kids Vitamins Gummies Improve bone density, support joint health, calcium strengthens bones 60pcs Permen jeli peninggi badan anak Kalsium memperkuat tulang",
+      "nid": "8388758209",
+      "itemId": "8388758209",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  38% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/6b479e2e280217baa1cfa90021a73813.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp85.290",
+      "discount": "38% Off",
+      "ratingScore": "4.93956043956044",
+      "review": "182",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/6b479e2e280217baa1cfa90021a73813.jpg",
+          "sku": "8388758209_ID",
+          "skuId": "14827550313",
+          "itemUrl": "/products/pdp-i8388758209.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "V380 Health",
+      "sellerId": "402262544019",
+      "brandName": "V380",
+      "brandId": "143454",
+      "cheapest_sku": "8388758209_ID-14827550313",
+      "skuId": "14827550313",
+      "sku": "8388758209_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "85290",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "138313",
+      "clickTrace": "query:Healthy+Way;nid:8388758209;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8388758209_ID;price:85290;client:desktop;supplier_id:402262544019;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:6334;item_id:8388758209;sku_id:14827550313;shop_id:7353897;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "355 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8388758209_ID-14827550313"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F6b479e2e280217baa1cfa90021a73813.jpg&src=srp_findsimilar&item_id=8388758209&sku_id=14827550313&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=85290.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8388758209.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14827550313%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A8529000%3BdisplayPrice%3A8529000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.93956043956044&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=355&price=8.529E%204&review=182&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8388758209%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8388758209_ID%253Bprice%253A85290%253Bclient%253Adesktop%253Bsupplier_id%253A402262544019%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8388758209%253Bsku_id%253A14827550313%253Bshop_id%253A7353897%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "DANA Saldo Rp 100.000 by Share Treats",
+      "nid": "7678036248",
+      "itemId": "7678036248",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  15% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/969a7572aa0d78018be2fd92d6eb4e47.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp107.900",
+      "discount": "15% Off",
+      "ratingScore": "4.715195632393085",
+      "review": "13188",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/09788285e992e3219ea0d33052b51c4f.png",
+          "sku": "7678036248_ID",
+          "skuId": "16201814615",
+          "itemUrl": "/products/pdp-i7678036248.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/7df5d37b2662ca5586a36195fe3f52f9.png",
+          "sku": "7678036248_ID",
+          "skuId": "16201814614",
+          "itemUrl": "/products/pdp-i7678036248.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e5fe8ab7efb3a7304a7836432498b025.png",
+          "sku": "7678036248_ID",
+          "skuId": "16201814611",
+          "itemUrl": "/products/pdp-i7678036248.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/028a7927f6c2eaae6785c913dce4b36b.png",
+          "sku": "7678036248_ID",
+          "skuId": "16201814613",
+          "itemUrl": "/products/pdp-i7678036248.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2ca99ecbd1795f33ee4257c92a3cf476.png",
+          "sku": "7678036248_ID",
+          "skuId": "16201814612",
+          "itemUrl": "/products/pdp-i7678036248.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Share Treats",
+      "sellerId": "401412000510",
+      "brandName": "Share Treats ID",
+      "brandId": "124032227",
+      "cheapest_sku": "7678036248_ID-14099820330",
+      "skuId": "14099820330",
+      "sku": "7678036248_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "107900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "127078",
+      "clickTrace": "query:Healthy+Way;nid:7678036248;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7678036248_ID;price:107900;client:desktop;supplier_id:401412000510;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:10100045;item_id:7678036248;sku_id:14099820330;shop_id:6557055;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "92.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7678036248_ID-14099820330"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F969a7572aa0d78018be2fd92d6eb4e47.png&src=srp_findsimilar&item_id=7678036248&sku_id=14099820330&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=107900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7678036248.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14099820330%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A10790000%3BdisplayPrice%3A10790000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.715195632393085&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=91991&price=1.079E%205&review=13188&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7678036248%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7678036248_ID%253Bprice%253A107900%253Bclient%253Adesktop%253Bsupplier_id%253A401412000510%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A7678036248%253Bsku_id%253A14099820330%253Bshop_id%253A6557055%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature’s Way Daily Probiotic Gummies | Mendukung kesehatan usus dan kekebalan tubuh, membantu pencernaan/mudah ditelan",
+      "nid": "8829114521",
+      "itemId": "8829114521",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/7fbbdeb6e91db40e2067c8782cf125e7.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp95.500",
+      "discount": "55% Off",
+      "ratingScore": "5.0",
+      "review": "17",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/7fbbdeb6e91db40e2067c8782cf125e7.jpg",
+          "sku": "8829114521_ID",
+          "skuId": "16262076890",
+          "itemUrl": "/products/pdp-i8829114521.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Cailosh",
+      "sellerId": "401790576529",
+      "brandName": "KUMADA",
+      "brandId": "126993020",
+      "cheapest_sku": "8829114521_ID-16262076890",
+      "skuId": "16262076890",
+      "sku": "8829114521_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "95500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "210000",
+      "clickTrace": "query:Healthy+Way;nid:8829114521;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8829114521_ID;price:95500;client:desktop;supplier_id:401790576529;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:6336;item_id:8829114521;sku_id:16262076890;shop_id:6994840;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "19 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8829114521_ID-16262076890"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F7fbbdeb6e91db40e2067c8782cf125e7.jpg&src=srp_findsimilar&item_id=8829114521&sku_id=16262076890&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=95500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8829114521.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16262076890%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9550000%3BdisplayPrice%3A9550000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=19&price=9.55E%204&review=17&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8829114521%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8829114521_ID%253Bprice%253A95500%253Bclient%253Adesktop%253Bsupplier_id%253A401790576529%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8829114521%253Bsku_id%253A16262076890%253Bshop_id%253A6994840%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Magnesium Gummies 60pcs May Support the Nervous System, Sleep Support and Healthy Relaxation",
+      "nid": "8808118611",
+      "itemId": "8808118611",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/9ea85dd3a602ede9c0933dc1aa7c913a.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp90.680",
+      "discount": "50% Off",
+      "ratingScore": "5.0",
+      "review": "65",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/9ea85dd3a602ede9c0933dc1aa7c913a.jpg",
+          "sku": "8808118611_ID",
+          "skuId": "16247260776",
+          "itemUrl": "/products/pdp-i8808118611.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "ISPYN SMARTYPAY NETWORK",
+      "sellerId": "402601808610",
+      "brandName": "ISPYN SMARTYPAY NETWORK & Lukisan",
+      "brandId": "127339300",
+      "cheapest_sku": "8808118611_ID-16247260776",
+      "skuId": "16247260776",
+      "sku": "8808118611_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6346
+      ],
+      "price": "90680",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "180000",
+      "clickTrace": "query:Healthy+Way;nid:8808118611;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8808118611_ID;price:90680;client:desktop;supplier_id:402601808610;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:6346;item_id:8808118611;sku_id:16247260776;shop_id:7701885;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "65 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808118611_ID-16247260776"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F9ea85dd3a602ede9c0933dc1aa7c913a.jpg&src=srp_findsimilar&item_id=8808118611&sku_id=16247260776&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=90680.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808118611.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247260776%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9068000%3BdisplayPrice%3A9068000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=65&price=9.068E%204&review=65&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8808118611%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8808118611_ID%253Bprice%253A90680%253Bclient%253Adesktop%253Bsupplier_id%253A402601808610%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6346%253Bitem_id%253A8808118611%253Bsku_id%253A16247260776%253Bshop_id%253A7701885%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Suplemen Minyak Ikan Omega-3 - Dengan DHA dan EAP untuk Mendukung Otak, Jantung, 120 Kapsul",
+      "nid": "8181762552",
+      "itemId": "8181762552",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/ee002d504bac2dd9464713b73c77b306.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp143.013",
+      "discount": "50% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/f6d8efd471fc107d4a9e01a5ef191be2.jpg",
+          "sku": "8181762552_ID",
+          "skuId": "14586708399",
+          "itemUrl": "/products/pdp-i8181762552.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/b408f5ca38073736f76a1aa05873b215.jpg",
+          "sku": "8181762552_ID",
+          "skuId": "14586708398",
+          "itemUrl": "/products/pdp-i8181762552.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/f68e463ed31f4916cb6c66a70cd15aee.jpg",
+          "sku": "8181762552_ID",
+          "skuId": "14586708397",
+          "itemUrl": "/products/pdp-i8181762552.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Azc5kPJ2",
+      "sellerId": "401709216343",
+      "brandName": "Daitea",
+      "brandId": "125849879",
+      "cheapest_sku": "8181762552_ID-14586708399",
+      "skuId": "14586708399",
+      "sku": "8181762552_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "143013",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "286026",
+      "clickTrace": "query:Healthy+Way;nid:8181762552;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8181762552_ID;price:143013;client:desktop;supplier_id:401709216343;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:6335;item_id:8181762552;sku_id:14586708399;shop_id:6884548;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8181762552_ID-14586708399"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fee002d504bac2dd9464713b73c77b306.jpg&src=srp_findsimilar&item_id=8181762552&sku_id=14586708399&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=143013.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8181762552.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14586708399%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A14301300%3BdisplayPrice%3A14301300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=143013&review=1&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8181762552%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8181762552_ID%253Bprice%253A143013%253Bclient%253Adesktop%253Bsupplier_id%253A401709216343%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A8181762552%253Bsku_id%253A14586708399%253Bshop_id%253A6884548%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's way Kids Smart Bursts High DHA Omega 3 Fish Oil Trio - 60 Chewable Soft Capsules",
+      "nid": "6142776693",
+      "itemId": "6142776693",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Se93b721bb9264d7f8e5aa8062c4c7ae3h.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp390.000",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kab. Lebak",
+      "thumbs": [],
+      "sellerName": "FeLina",
+      "sellerId": "400608420810",
+      "brandName": "Nature's Way",
+      "brandId": "13475",
+      "cheapest_sku": "6142776693_ID-11721240822",
+      "skuId": "11721240822",
+      "sku": "6142776693_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "390000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:6142776693;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:6142776693_ID;price:390000;client:desktop;supplier_id:400608420810;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:6335;item_id:6142776693;sku_id:11721240822;shop_id:2989563;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6142776693_ID-11721240822"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSe93b721bb9264d7f8e5aa8062c4c7ae3h.jpg&src=srp_findsimilar&item_id=6142776693&sku_id=11721240822&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=390000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6142776693.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11721240822%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A39000000%3BdisplayPrice%3A39000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4&price=3.9E%205&review=1&location=Kab.%20Lebak&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A6142776693%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A6142776693_ID%253Bprice%253A390000%253Bclient%253Adesktop%253Bsupplier_id%253A400608420810%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A6142776693%253Bsku_id%253A11721240822%253Bshop_id%253A2989563%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nutriflakes Asam Lambung - Sereal Makanan Penderita Maag & Asam Lambung /Bermanfaat Untuk Diet /Gerd",
+      "nid": "7455796590",
+      "itemId": "7455796590",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/83c00886908fcdcc22b7ff006ac094e8.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp100.000",
+      "ratingScore": "4.869033047735618",
+      "review": "817",
+      "location": "Kota Surabaya",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/2eec41df7d88de328ce571d38f781195.jpg",
+          "sku": "7455796590_ID",
+          "skuId": "13869590929",
+          "itemUrl": "/products/pdp-i7455796590.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2eec41df7d88de328ce571d38f781195.jpg",
+          "sku": "7455796590_ID",
+          "skuId": "13869590928",
+          "itemUrl": "/products/pdp-i7455796590.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2eec41df7d88de328ce571d38f781195.jpg",
+          "sku": "7455796590_ID",
+          "skuId": "13869590927",
+          "itemUrl": "/products/pdp-i7455796590.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2eec41df7d88de328ce571d38f781195.jpg",
+          "sku": "7455796590_ID",
+          "skuId": "13869590930",
+          "itemUrl": "/products/pdp-i7455796590.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Nutriflakes Healthy Store",
+      "sellerId": "400795365480",
+      "brandName": "Nutriflakes",
+      "brandId": "124174404",
+      "cheapest_sku": "7455796590_ID-13869590927",
+      "skuId": "13869590927",
+      "sku": "7455796590_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "100000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:7455796590;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7455796590_ID;price:100000;client:desktop;supplier_id:400795365480;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:6336;item_id:7455796590;sku_id:13869590927;shop_id:5925642;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7455796590_ID-13869590927"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F83c00886908fcdcc22b7ff006ac094e8.jpg&src=srp_findsimilar&item_id=7455796590&sku_id=13869590927&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=100000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7455796590.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13869590927%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A10000000%3BdisplayPrice%3A10000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.869033047735618&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2134&price=1E%205&review=817&location=Kota%20Surabaya&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7455796590%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7455796590_ID%253Bprice%253A100000%253Bclient%253Adesktop%253Bsupplier_id%253A400795365480%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A7455796590%253Bsku_id%253A13869590927%253Bshop_id%253A5925642%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Suplemen Vitamin D3 + K2 - Suplemen Pendukung Tulang & Sendi Imunitas Penyerapan Kalsium 120 Kapsul",
+      "nid": "8141662879",
+      "itemId": "8141662879",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/196fde11a637ce12a8d27df9691f1af5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp60.134",
+      "discount": "50% Off",
+      "ratingScore": "4.878787878787879",
+      "review": "33",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/95d2b6c9acd60363ce68fc6ee00ba7b4.jpg",
+          "sku": "8141662879_ID",
+          "skuId": "14538240087",
+          "itemUrl": "/products/pdp-i8141662879.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/248424fe02a2c1401191ac0cae40322d.jpg",
+          "sku": "8141662879_ID",
+          "skuId": "14538240085",
+          "itemUrl": "/products/pdp-i8141662879.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/ab7042f38d522a028c4e7223fc91ffd5.jpg",
+          "sku": "8141662879_ID",
+          "skuId": "14538240086",
+          "itemUrl": "/products/pdp-i8141662879.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Kesehatan dan Nutrisi",
+      "sellerId": "401263440350",
+      "brandName": "Kenofor",
+      "brandId": "127049072",
+      "cheapest_sku": "8141662879_ID-14538240085",
+      "skuId": "14538240085",
+      "sku": "8141662879_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "60134",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "120268",
+      "clickTrace": "query:Healthy+Way;nid:8141662879;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8141662879_ID;price:60134;client:desktop;supplier_id:401263440350;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:6334;item_id:8141662879;sku_id:14538240085;shop_id:6440137;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "76 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8141662879_ID-14538240085"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F196fde11a637ce12a8d27df9691f1af5.png&src=srp_findsimilar&item_id=8141662879&sku_id=14538240085&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=60134.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8141662879.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14538240085%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A6013400%3BdisplayPrice%3A6013400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.878787878787879&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=76&price=60134&review=33&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8141662879%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8141662879_ID%253Bprice%253A60134%253Bclient%253Adesktop%253Bsupplier_id%253A401263440350%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8141662879%253Bsku_id%253A14538240085%253Bshop_id%253A6440137%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Advanced Liposomal Vitamin C Gummies - Meningkatkan Produksi Kolagen & Pertahanan Sel",
+      "nid": "18822242474",
+      "itemId": "18822242474",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  38% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/8427d95f747e0a1036ab1e7959947ec3.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp89.500",
+      "discount": "38% Off",
+      "ratingScore": "5.0",
+      "review": "56",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/8427d95f747e0a1036ab1e7959947ec3.jpg",
+          "sku": "18822242474_ID",
+          "skuId": "116256415909",
+          "itemUrl": "/products/pdp-i18822242474.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "BBEEAAUU",
+      "sellerId": "401837472113",
+      "brandName": "LEEGO HOME",
+      "brandId": "127188205",
+      "cheapest_sku": "18822242474_ID-116256415909",
+      "skuId": "116256415909",
+      "sku": "18822242474_ID",
+      "categories": [
+        10100869,
+        3835,
+        6309,
+        6330
+      ],
+      "price": "89500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "145200",
+      "clickTrace": "query:Healthy+Way;nid:18822242474;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:18822242474_ID;price:89500;client:desktop;supplier_id:401837472113;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:6330;item_id:18822242474;sku_id:116256415909;shop_id:7055640;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "58 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822242474_ID-116256415909"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F8427d95f747e0a1036ab1e7959947ec3.jpg&src=srp_findsimilar&item_id=18822242474&sku_id=116256415909&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=89500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822242474.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256415909%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A8950000%3BdisplayPrice%3A8950000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=58&price=8.95E%204&review=56&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A18822242474%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A18822242474_ID%253Bprice%253A89500%253Bclient%253Adesktop%253Bsupplier_id%253A401837472113%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6330%253Bitem_id%253A18822242474%253Bsku_id%253A116256415909%253Bshop_id%253A7055640%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nature's Way Evening Primrose Seed Oil Capsules – Supports Female Hormone Balance and Skin Elasticity 120pcs",
+      "nid": "8808766243",
+      "itemId": "8808766243",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  47% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/9c1b17a064cd5c50b03250fbd9c1c84b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp93.548",
+      "discount": "47% Off",
+      "ratingScore": "5.0",
+      "review": "66",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/dc2d8d7ab148d02d0a8a6aea51eda3bf.jpg",
+          "sku": "8808766243_ID",
+          "skuId": "16247814207",
+          "itemUrl": "/products/pdp-i8808766243.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "PETGLOW",
+      "sellerId": "402623312477",
+      "brandName": "PETGLOW",
+      "brandId": "124522246",
+      "cheapest_sku": "8808766243_ID-16247814207",
+      "skuId": "16247814207",
+      "sku": "8808766243_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6348
+      ],
+      "price": "93548",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "176105",
+      "clickTrace": "query:Healthy+Way;nid:8808766243;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8808766243_ID;price:93548;client:desktop;supplier_id:402623312477;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:6348;item_id:8808766243;sku_id:16247814207;shop_id:7740913;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "69 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8808766243_ID-16247814207"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F9c1b17a064cd5c50b03250fbd9c1c84b.jpg&src=srp_findsimilar&item_id=8808766243&sku_id=16247814207&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=93548.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8808766243.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16247814207%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A9354800%3BdisplayPrice%3A9354800%3BsinglePromotionId%3A910000048724113%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=69&price=93548&review=66&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8808766243%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8808766243_ID%253Bprice%253A93548%253Bclient%253Adesktop%253Bsupplier_id%253A402623312477%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6348%253Bitem_id%253A8808766243%253Bsku_id%253A16247814207%253Bshop_id%253A7740913%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BEAU Probiotics Probiotik Kapsul - 50 Miliar CFU, Keseimbangan Pencernaan yang Sehat Mengisi Ulang Sistem Kekebalan Tubuh yang Sehat",
+      "nid": "8370012484",
+      "itemId": "8370012484",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  66% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/ce85f4b9556b838a4c600c524b41e3fb.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp68.000",
+      "discount": "66% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Sehat semuaIndo",
+      "sellerId": "401669984303",
+      "brandName": "BBEEAAUU",
+      "brandId": "124370653",
+      "cheapest_sku": "8370012484_ID-14799164755",
+      "skuId": "14799164755",
+      "sku": "8370012484_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "68000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "199000",
+      "clickTrace": "query:Healthy+Way;nid:8370012484;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8370012484_ID;price:68000;client:desktop;supplier_id:401669984303;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:6336;item_id:8370012484;sku_id:14799164755;shop_id:6835257;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8370012484_ID-14799164755"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fce85f4b9556b838a4c600c524b41e3fb.jpg&src=srp_findsimilar&item_id=8370012484&sku_id=14799164755&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=68000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8370012484.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14799164755%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A6800000%3BdisplayPrice%3A6800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=6.8E%204&review=&location=Kota%20Tangerang&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8370012484%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8370012484_ID%253Bprice%253A68000%253Bclient%253Adesktop%253Bsupplier_id%253A401669984303%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8370012484%253Bsku_id%253A14799164755%253Bshop_id%253A6835257%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Pro Albumin (Ekstrak Ikan Gabus/Kutuk By Gemblong Herbal",
+      "nid": "8710084690",
+      "itemId": "8710084690",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S78bdef0dfff148f7aa391d68d739cd78e.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.500",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bekasi",
+      "thumbs": [],
+      "sellerName": "Gemblong HERBAL",
+      "sellerId": "403404896663",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8710084690_ID-16147018549",
+      "skuId": "16147018549",
+      "sku": "8710084690_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "17500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:8710084690;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8710084690_ID;price:17500;client:desktop;supplier_id:403404896663;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:6334;item_id:8710084690;sku_id:16147018549;shop_id:8208848;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8710084690_ID-16147018549"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS78bdef0dfff148f7aa391d68d739cd78e.jpg&src=srp_findsimilar&item_id=8710084690&sku_id=16147018549&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=17500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8710084690.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16147018549%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A1750000%3BdisplayPrice%3A1750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.75E%204&review=&location=Kab.%20Bekasi&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8710084690%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8710084690_ID%253Bprice%253A17500%253Bclient%253Adesktop%253Bsupplier_id%253A403404896663%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8710084690%253Bsku_id%253A16147018549%253Bshop_id%253A8208848%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "GIZIFIT Asli Original BPOM Penambah Nafsu Makan Berat Badan & Kecerdasan Anak",
+      "nid": "8270306690",
+      "itemId": "8270306690",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  42% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/baf1af4a64ee746401f4ec39356bf73d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp26.000",
+      "discount": "42% Off",
+      "ratingScore": "4.617021276595745",
+      "review": "47",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "Toko Juragan Herbal",
+      "sellerId": "402363664132",
+      "brandName": "Darusyifa",
+      "brandId": "12522",
+      "cheapest_sku": "8270306690_ID-14679864415",
+      "skuId": "14679864415",
+      "sku": "8270306690_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        11382
+      ],
+      "price": "26000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "45000",
+      "clickTrace": "query:Healthy+Way;nid:8270306690;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8270306690_ID;price:26000;client:desktop;supplier_id:402363664132;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:11382;item_id:8270306690;sku_id:14679864415;shop_id:7460975;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "202 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8270306690_ID-14679864415"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fbaf1af4a64ee746401f4ec39356bf73d.jpg&src=srp_findsimilar&item_id=8270306690&sku_id=14679864415&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=26000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8270306690.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14679864415%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A2600000%3BdisplayPrice%3A2600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.617021276595745&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=202&price=2.6E%204&review=47&location=Kota%20Bekasi&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8270306690%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8270306690_ID%253Bprice%253A26000%253Bclient%253Adesktop%253Bsupplier_id%253A402363664132%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A11382%253Bitem_id%253A8270306690%253Bsku_id%253A14679864415%253Bshop_id%253A7460975%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow Baby 2 Susu Formula untuk Bayi Usia 6-12 Bulan 120gr",
+      "nid": "7997128659",
+      "itemId": "7997128659",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7efcdfecaa278654e06385b533c66917.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp12.700",
+      "ratingScore": "4.853061224489796",
+      "review": "245",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow",
+      "sellerId": "1000001001",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "7997128659_ID-14418748889",
+      "skuId": "14418748889",
+      "sku": "7997128659_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "12700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Healthy+Way;nid:7997128659;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7997128659_ID;price:12700;client:desktop;supplier_id:1000001001;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:13366;item_id:7997128659;sku_id:14418748889;shop_id:8157;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7997128659_ID-14418748889"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7efcdfecaa278654e06385b533c66917.jpg&src=srp_findsimilar&item_id=7997128659&sku_id=14418748889&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=12700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7997128659.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14418748889%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A1270000%3BdisplayPrice%3A1270000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.853061224489796&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2046&price=1.27E%204&review=245&location=Kota%20Depok&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7997128659%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7997128659_ID%253Bprice%253A12700%253Bclient%253Adesktop%253Bsupplier_id%253A1000001001%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A7997128659%253Bsku_id%253A14418748889%253Bshop_id%253A8157%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Albumin fit Original inayah ekstrak ikan gabus kutuk kemasan terbaru 2026 Mempercepat penyembuhan Luka",
+      "nid": "7295582715",
+      "itemId": "7295582715",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  21% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S835de4685bfd4e498f54d3365fc708e6E.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp19.700",
+      "discount": "21% Off",
+      "ratingScore": "5.0",
+      "review": "23",
+      "location": "Kab. Bekasi",
+      "thumbs": [],
+      "sellerName": "SetuHerbalCentre",
+      "sellerId": "400737426173",
+      "brandName": "Inayah",
+      "brandId": "50210",
+      "cheapest_sku": "7295582715_ID-116265673093",
+      "skuId": "116265673093",
+      "sku": "7295582715_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6335
+      ],
+      "price": "19700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "25000",
+      "clickTrace": "query:Healthy+Way;nid:7295582715;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:7295582715_ID;price:19700;client:desktop;supplier_id:400737426173;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:6335;item_id:7295582715;sku_id:116265673093;shop_id:5444554;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "155 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7295582715_ID-116265673093"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS835de4685bfd4e498f54d3365fc708e6E.jpg&src=srp_findsimilar&item_id=7295582715&sku_id=116265673093&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=19700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7295582715.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116265673093%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A1970000%3BdisplayPrice%3A1970000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=155&price=1.97E%204&review=23&location=Kab.%20Bekasi&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A7295582715%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A7295582715_ID%253Bprice%253A19700%253Bclient%253Adesktop%253Bsupplier_id%253A400737426173%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6335%253Bitem_id%253A7295582715%253Bsku_id%253A116265673093%253Bshop_id%253A5444554%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LACPRODAY - Probiotic with Grape Flavor - 3 Strain & 3 Billion CFU Pouch  ISI 10, 14 & 28 Sachets",
+      "nid": "8731032500",
+      "itemId": "8731032500",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  36% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/dcf598cf1b1de1e0fa1f80512f4d6259.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp128.000",
+      "discount": "36% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Surabaya",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/fba47f4cea2957eb1c523cb704944b98.jpg",
+          "sku": "8731032500_ID",
+          "skuId": "16170264538",
+          "itemUrl": "/products/pdp-i8731032500.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/47957bedc2d5f7c6fa63433e6c6672f8.jpg",
+          "sku": "8731032500_ID",
+          "skuId": "16170264540",
+          "itemUrl": "/products/pdp-i8731032500.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/a51c4228910d46fbc9767dcff29c7733.jpg",
+          "sku": "8731032500_ID",
+          "skuId": "16170264539",
+          "itemUrl": "/products/pdp-i8731032500.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "YANSA SKINCARE",
+      "sellerId": "400727793226",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8731032500_ID-16170264538",
+      "skuId": "16170264538",
+      "sku": "8731032500_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6336
+      ],
+      "price": "128000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "200000",
+      "clickTrace": "query:Healthy+Way;nid:8731032500;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8731032500_ID;price:128000;client:desktop;supplier_id:400727793226;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:6336;item_id:8731032500;sku_id:16170264538;shop_id:5384055;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8731032500_ID-16170264538"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fdcf598cf1b1de1e0fa1f80512f4d6259.jpg&src=srp_findsimilar&item_id=8731032500&sku_id=16170264538&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=128000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8731032500.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16170264538%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A12800000%3BdisplayPrice%3A12800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.28E%205&review=&location=Kota%20Surabaya&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8731032500%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8731032500_ID%253Bprice%253A128000%253Bclient%253Adesktop%253Bsupplier_id%253A400727793226%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6336%253Bitem_id%253A8731032500%253Bsku_id%253A16170264538%253Bshop_id%253A5384055%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PAKET 2 BOTOL Pro Albumin 100% Ekstrak Ikan Gabus / kutuk - Kapsul Albumin Ikan Gabus - 50 kapsul BY HERBAL STORE",
+      "nid": "8364736806",
+      "itemId": "8364736806",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-test-11.slatic.net/p/206c22e179ac3b178d5672e3f0cd95d2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp25.000",
+      "discount": "6% Off",
+      "ratingScore": "4.666666666666667",
+      "review": "3",
+      "location": "Kota Jakarta Pusat",
+      "thumbs": [],
+      "sellerName": "HAWAII INDONESIA",
+      "sellerId": "402512320787",
+      "brandName": "ash shihah",
+      "brandId": "241129",
+      "cheapest_sku": "8364736806_ID-14791890220",
+      "skuId": "14791890220",
+      "sku": "8364736806_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        6334
+      ],
+      "price": "25000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "26638",
+      "clickTrace": "query:Healthy+Way;nid:8364736806;src:LazadaMainSrp;rn:74a79845173adcd1c4ff08cd15fcb418;region:id;sku:8364736806_ID;price:25000;client:desktop;supplier_id:402512320787;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:6334;item_id:8364736806;sku_id:14791890220;shop_id:7574621;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "7 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8364736806_ID-14791890220"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-test-11.slatic.net%2Fp%2F206c22e179ac3b178d5672e3f0cd95d2.png&src=srp_findsimilar&item_id=8364736806&sku_id=14791890220&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Healthy%2BWay&similarType=findSimilarV1&price=25000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8364736806.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14791890220%3Bsource%3Alazada-search-voucher%3Bsn%3A74a79845173adcd1c4ff08cd15fcb418%3BoriginPrice%3A2500000%3BdisplayPrice%3A2500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276852934&c=&ratingscore=4.666666666666667&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=2.5E%204&review=3&location=Kota%20Jakarta%20Pusat&stock=1&lang=id&request_id=74a79845173adcd1c4ff08cd15fcb418&clickTrackInfo=query%253AHealthy%252BWay%253Bnid%253A8364736806%253Bsrc%253ALazadaMainSrp%253Brn%253A74a79845173adcd1c4ff08cd15fcb418%253Bregion%253Aid%253Bsku%253A8364736806_ID%253Bprice%253A25000%253Bclient%253Adesktop%253Bsupplier_id%253A402512320787%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6334%253Bitem_id%253A8364736806%253Bsku_id%253A14791890220%253Bshop_id%253A7574621%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

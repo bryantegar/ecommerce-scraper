@@ -1,0 +1,3726 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Friesland Campina",
+  "page": 3,
+  "job_id": "73a39ef5-7c27-47cf-9c7c-2e74084e7d5c",
+  "scraped_at": "2026-05-20T18:34:02.317263",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "Campina Hula Hula Maxx - Es Krim",
+      "nid": "8751586804",
+      "itemId": "8751586804",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/941a55450480c44863d66994e8b3d024.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp60.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [],
+      "sellerName": "Campina Ice Cream",
+      "sellerId": "400602273005",
+      "brandName": "Campina",
+      "brandId": "123475421",
+      "cheapest_sku": "8751586804_ID-16194576980",
+      "skuId": "16194576980",
+      "sku": "8751586804_ID",
+      "categories": [
+        9645,
+        18054,
+        18181,
+        18624
+      ],
+      "price": "60000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8751586804;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8751586804_ID;price:60000;client:desktop;supplier_id:400602273005;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:18624;item_id:8751586804;sku_id:16194576980;shop_id:2407691;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8751586804_ID-16194576980"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F941a55450480c44863d66994e8b3d024.jpg&src=srp_findsimilar&item_id=8751586804&sku_id=16194576980&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=60000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8751586804.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16194576980%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A6000000%3BdisplayPrice%3A6000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=6E%204&review=&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8751586804%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8751586804_ID%253Bprice%253A60000%253Bclient%253Adesktop%253Bsupplier_id%253A400602273005%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18624%253Bitem_id%253A8751586804%253Bsku_id%253A16194576980%253Bshop_id%253A2407691%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "NGEBOEL KOOL MIXX 4IN1 SALT 15ML 10MG KOOLMIXX BY NGEBOEL LIQUID",
+      "nid": "8772972472",
+      "itemId": "8772972472",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp32.500",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+          "sku": "8772972472_ID",
+          "skuId": "16217814084",
+          "itemUrl": "/products/pdp-i8772972472.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+          "sku": "8772972472_ID",
+          "skuId": "16217814080",
+          "itemUrl": "/products/pdp-i8772972472.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+          "sku": "8772972472_ID",
+          "skuId": "16217814081",
+          "itemUrl": "/products/pdp-i8772972472.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+          "sku": "8772972472_ID",
+          "skuId": "16217814082",
+          "itemUrl": "/products/pdp-i8772972472.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/3ccd05836e772754070dbe5a64b899b4.jpg",
+          "sku": "8772972472_ID",
+          "skuId": "16217814083",
+          "itemUrl": "/products/pdp-i8772972472.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "88sixteen",
+      "sellerId": "400597449054",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8772972472_ID-16217814080",
+      "skuId": "16217814080",
+      "sku": "8772972472_ID",
+      "categories": [
+        10100412,
+        9246,
+        15164
+      ],
+      "price": "32500",
+      "restrictedAge": 21,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8772972472;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8772972472_ID;price:32500;client:desktop;supplier_id:400597449054;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:15164;item_id:8772972472;sku_id:16217814080;shop_id:2174978;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8772972472_ID-16217814080"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3ccd05836e772754070dbe5a64b899b4.jpg&src=srp_findsimilar&item_id=8772972472&sku_id=16217814080&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=32500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8772972472.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16217814080%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A3250000%3BdisplayPrice%3A3250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=3.25E%204&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8772972472%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8772972472_ID%253Bprice%253A32500%253Bclient%253Adesktop%253Bsupplier_id%253A400597449054%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15164%253Bitem_id%253A8772972472%253Bsku_id%253A16217814080%253Bshop_id%253A2174978%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SONY PlayStation 2 HDD 250GB 1Tahun Garansi - Full 230 Games",
+      "nid": "18844700169",
+      "itemId": "18844700169",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  66% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp120.300",
+      "discount": "66% Off",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kab. Bogor",
+      "thumbs": [
+        {
+          "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+          "sku": "18844700169_ID",
+          "skuId": "116265031453",
+          "itemUrl": "/products/pdp-i18844700169.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+          "sku": "18844700169_ID",
+          "skuId": "116265031456",
+          "itemUrl": "/products/pdp-i18844700169.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+          "sku": "18844700169_ID",
+          "skuId": "116265031457",
+          "itemUrl": "/products/pdp-i18844700169.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+          "sku": "18844700169_ID",
+          "skuId": "116265031454",
+          "itemUrl": "/products/pdp-i18844700169.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-test-11.slatic.net/p/b3834627773d43886d145f7da82a228f.jpg",
+          "sku": "18844700169_ID",
+          "skuId": "116265031455",
+          "itemUrl": "/products/pdp-i18844700169.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dhukin Mart",
+      "sellerId": "403619840030",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18844700169_ID-116265031452",
+      "skuId": "116265031452",
+      "sku": "18844700169_ID",
+      "categories": [
+        10100871,
+        10100427
+      ],
+      "price": "120300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "349000",
+      "clickTrace": "query:Friesland+Campina;nid:18844700169;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18844700169_ID;price:120300;client:desktop;supplier_id:403619840030;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:10100427;item_id:18844700169;sku_id:116265031452;shop_id:8643474;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "5 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18844700169_ID-116265031452"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-test-11.slatic.net%2Fp%2Fb3834627773d43886d145f7da82a228f.jpg&src=srp_findsimilar&item_id=18844700169&sku_id=116265031452&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=120300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18844700169.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116265031452%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A12030000%3BdisplayPrice%3A12030000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5&price=1.203E%205&review=1&location=Kab.%20Bogor&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18844700169%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18844700169_ID%253Bprice%253A120300%253Bclient%253Adesktop%253Bsupplier_id%253A403619840030%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100427%253Bitem_id%253A18844700169%253Bsku_id%253A116265031452%253Bshop_id%253A8643474%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BIG SALE Sarung Jempol AP King Gaming V2 Super Responsif Gaming Mobile Legends & Free Fire Kualitas Terbaik",
+      "nid": "18835601881",
+      "itemId": "18835601881",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  72% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S6d782def28184040a48f97df0c28d1beA.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.900",
+      "discount": "72% Off",
+      "ratingScore": "3.8095238095238093",
+      "review": "42",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Seeaf10030bc04183b863cae91cd763085.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238284",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S7475ea4aa7834034b7e85c7b0f81225c7.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238285",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sfd0112f9a3a34a8c9fb798276e7698d01.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238282",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S6755f7d77e0b4d0fa9e86634fcb6a53ca.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238283",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Se1682582b5c84195b1b560f4897db257z.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238281",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S7504aa74ac8249a78a90d76325bfcf07s.jpg",
+          "sku": "18835601881_ID",
+          "skuId": "116261238286",
+          "itemUrl": "/products/pdp-i18835601881.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "IMAH ACC OLSHOP ",
+      "sellerId": "400622982091",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18835601881_ID-116261238284",
+      "skuId": "116261238284",
+      "sku": "18835601881_ID",
+      "categories": [
+        42062201,
+        10100439,
+        10100431
+      ],
+      "price": "9900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "35000",
+      "clickTrace": "query:Friesland+Campina;nid:18835601881;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18835601881_ID;price:9900;client:desktop;supplier_id:400622982091;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:10100431;item_id:18835601881;sku_id:116261238284;shop_id:4304634;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "199 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18835601881_ID-116261238284"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS6d782def28184040a48f97df0c28d1beA.jpg&src=srp_findsimilar&item_id=18835601881&sku_id=116261238284&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=9900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18835601881.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116261238284%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A990000%3BdisplayPrice%3A990000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.8095238095238093&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=199&price=9.9E%203&review=42&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18835601881%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18835601881_ID%253Bprice%253A9900%253Bclient%253Adesktop%253Bsupplier_id%253A400622982091%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100431%253Bitem_id%253A18835601881%253Bsku_id%253A116261238284%253Bshop_id%253A4304634%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BELI 1 GRATIS 1 MAKARONI CIKRUH PEDAS DAUN JERUK/ MAKANAN GURIH MAKANAN KHAS BANDUNG",
+      "nid": "18831547972",
+      "itemId": "18831547972",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  33% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S533cdd23078848ae92210c2804b38bd32.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp10.000",
+      "discount": "33% Off",
+      "ratingScore": "4.166666666666667",
+      "review": "24",
+      "location": "Kab. Bandung",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S533cdd23078848ae92210c2804b38bd32.jpg",
+          "sku": "18831547972_ID",
+          "skuId": "116259933359",
+          "itemUrl": "/products/pdp-i18831547972.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S533cdd23078848ae92210c2804b38bd32.jpg",
+          "sku": "18831547972_ID",
+          "skuId": "116259933357",
+          "itemUrl": "/products/pdp-i18831547972.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S533cdd23078848ae92210c2804b38bd32.jpg",
+          "sku": "18831547972_ID",
+          "skuId": "116259933358",
+          "itemUrl": "/products/pdp-i18831547972.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "CEMILAN SAJODO ",
+      "sellerId": "400617111016",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18831547972_ID-116259933357",
+      "skuId": "116259933357",
+      "sku": "18831547972_ID",
+      "categories": [
+        9645,
+        10003012,
+        10003049,
+        10003237
+      ],
+      "price": "10000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "15000",
+      "clickTrace": "query:Friesland+Campina;nid:18831547972;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18831547972_ID;price:10000;client:desktop;supplier_id:400617111016;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:10003237;item_id:18831547972;sku_id:116259933357;shop_id:3712443;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "96 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18831547972_ID-116259933357"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS533cdd23078848ae92210c2804b38bd32.jpg&src=srp_findsimilar&item_id=18831547972&sku_id=116259933357&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=10000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18831547972.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259933357%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1000000%3BdisplayPrice%3A1000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.166666666666667&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=96&price=1E%204&review=24&location=Kab.%20Bandung&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18831547972%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18831547972_ID%253Bprice%253A10000%253Bclient%253Adesktop%253Bsupplier_id%253A400617111016%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003237%253Bitem_id%253A18831547972%253Bsku_id%253A116259933357%253Bshop_id%253A3712443%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Fermipan Soft 2 in 1 [500 gr]",
+      "nid": "4861074815",
+      "itemId": "4861074815",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/030ad8b71d1acb82c79f6916d169a424.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp64.958",
+      "ratingScore": "4.911290322580645",
+      "review": "124",
+      "location": "Kota Malang",
+      "thumbs": [],
+      "sellerName": "ok-grosir",
+      "sellerId": "400602498252",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "4861074815_ID-8985498928",
+      "skuId": "8985498928",
+      "sku": "4861074815_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "64958",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:4861074815;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:4861074815_ID;price:64958;client:desktop;supplier_id:400602498252;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:10003264;item_id:4861074815;sku_id:8985498928;shop_id:2455290;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "466 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4861074815_ID-8985498928"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F030ad8b71d1acb82c79f6916d169a424.jpg&src=srp_findsimilar&item_id=4861074815&sku_id=8985498928&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=64958.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4861074815.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A8985498928%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A6495800%3BdisplayPrice%3A6495800%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.911290322580645&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=466&price=64958&review=124&location=Kota%20Malang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A4861074815%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A4861074815_ID%253Bprice%253A64958%253Bclient%253Adesktop%253Bsupplier_id%253A400602498252%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A4861074815%253Bsku_id%253A8985498928%253Bshop_id%253A2455290%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Sarung jempol Gaming AP KING V4 terbaru kualitas super responsif",
+      "nid": "18838180206",
+      "itemId": "18838180206",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  78% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S7784adf184614f68909e825b2d625da8u.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.999",
+      "discount": "78% Off",
+      "ratingScore": "4.0",
+      "review": "12",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [],
+      "sellerName": "GearUp Store ",
+      "sellerId": "403582592115",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18838180206_ID-116262523730",
+      "skuId": "116262523730",
+      "sku": "18838180206_ID",
+      "categories": [
+        42062201,
+        10100439,
+        10100431
+      ],
+      "price": "9999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "45000",
+      "clickTrace": "query:Friesland+Campina;nid:18838180206;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18838180206_ID;price:9999;client:desktop;supplier_id:403582592115;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:10100431;item_id:18838180206;sku_id:116262523730;shop_id:8591070;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "54 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18838180206_ID-116262523730"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS7784adf184614f68909e825b2d625da8u.jpg&src=srp_findsimilar&item_id=18838180206&sku_id=116262523730&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=9999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18838180206.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116262523730%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A999900%3BdisplayPrice%3A999900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=54&price=9999&review=12&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18838180206%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18838180206_ID%253Bprice%253A9999%253Bclient%253Adesktop%253Bsupplier_id%253A403582592115%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100431%253Bitem_id%253A18838180206%253Bsku_id%253A116262523730%253Bshop_id%253A8591070%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PISAU DAPUR SUPER SEPUH BAJA HSS TAJAM SIAP PAKAI",
+      "nid": "8616658438",
+      "itemId": "8616658438",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  40% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S45ed9db6ccd54a9d8a77b068480d61a8l.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp30.000",
+      "discount": "40% Off",
+      "ratingScore": "4.484276729559748",
+      "review": "159",
+      "location": "Kab. Serang",
+      "thumbs": [],
+      "sellerName": "RIYADI BILAH BANTEN",
+      "sellerId": "401410640798",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8616658438_ID-16022658212",
+      "skuId": "16022658212",
+      "sku": "8616658438_ID",
+      "categories": [
+        16336,
+        62551602,
+        16361,
+        16516,
+        16785
+      ],
+      "price": "30000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "50000",
+      "clickTrace": "query:Friesland+Campina;nid:8616658438;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8616658438_ID;price:30000;client:desktop;supplier_id:401410640798;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:16785;item_id:8616658438;sku_id:16022658212;shop_id:6555124;templateInfo:-1_A3_C#107879_A3_C#",
+      "itemSoldCntShow": "553 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8616658438_ID-16022658212"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS45ed9db6ccd54a9d8a77b068480d61a8l.jpg&src=srp_findsimilar&item_id=8616658438&sku_id=16022658212&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=30000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8616658438.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16022658212%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A3000000%3BdisplayPrice%3A3000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.484276729559748&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=553&price=3E%204&review=159&location=Kab.%20Serang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8616658438%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8616658438_ID%253Bprice%253A30000%253Bclient%253Adesktop%253Bsupplier_id%253A401410640798%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16785%253Bitem_id%253A8616658438%253Bsku_id%253A16022658212%253Bshop_id%253A6555124%253BtemplateInfo%253A-1_A3_C%2523107879_A3_C%2523"
+    },
+    {
+      "name": "KEEPFS | Topi Five Panel Corduroy Black | Basic",
+      "nid": "8374088208",
+      "itemId": "8374088208",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/eb2554dd662f96e97a1412c4a02910a9.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp27.500",
+      "ratingScore": "3.6363636363636362",
+      "review": "22",
+      "location": "Kab. Bandung",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/cba9ec7e69c1d833178cb8b133264e64.jpg",
+          "sku": "8374088208_ID",
+          "skuId": "14804726815",
+          "itemUrl": "/products/pdp-i8374088208.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/1966a98b87326848184be41304bf3637.jpg",
+          "sku": "8374088208_ID",
+          "skuId": "14804726816",
+          "itemUrl": "/products/pdp-i8374088208.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/eb2554dd662f96e97a1412c4a02910a9.jpg",
+          "sku": "8374088208_ID",
+          "skuId": "14804726814",
+          "itemUrl": "/products/pdp-i8374088208.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/27a93a3f0eef59977138d8b91aa64b49.jpg",
+          "sku": "8374088208_ID",
+          "skuId": "14804726817",
+          "itemUrl": "/products/pdp-i8374088208.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c6729392d8c9654773ce49e518763fde.jpg",
+          "sku": "8374088208_ID",
+          "skuId": "14804726818",
+          "itemUrl": "/products/pdp-i8374088208.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Hokiidoky",
+      "sellerId": "402261216040",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8374088208_ID-14804726815",
+      "skuId": "14804726815",
+      "sku": "8374088208_ID",
+      "categories": [
+        11949,
+        4978,
+        4983
+      ],
+      "price": "27500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8374088208;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8374088208_ID;price:27500;client:desktop;supplier_id:402261216040;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:4983;item_id:8374088208;sku_id:14804726815;shop_id:7352634;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "60 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8374088208_ID-14804726815"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Feb2554dd662f96e97a1412c4a02910a9.jpg&src=srp_findsimilar&item_id=8374088208&sku_id=14804726815&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=27500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8374088208.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14804726815%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2750000%3BdisplayPrice%3A2750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.6363636363636362&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=60&price=2.75E%204&review=22&location=Kab.%20Bandung&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8374088208%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8374088208_ID%253Bprice%253A27500%253Bclient%253Adesktop%253Bsupplier_id%253A402261216040%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A4983%253Bitem_id%253A8374088208%253Bsku_id%253A14804726815%253Bshop_id%253A7352634%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Topi wanita anti UV masker outdoor / topi musim panas / Topi Pantai Wanita Anti Uv / Topi Haji Lebar Lipat Praktis / Topi fashion wanita Kekinian",
+      "nid": "8678026969",
+      "itemId": "8678026969",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/e127164ab06cc9047d290b608de14159.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp41.000",
+      "ratingScore": "4.6521739130434785",
+      "review": "23",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/f2e1e0b788785a11879d585e4f1afe58.jpg",
+          "sku": "8678026969_ID",
+          "skuId": "16116700680",
+          "itemUrl": "/products/pdp-i8678026969.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/d84422f59460640184f39f4e2a809c1d.jpg",
+          "sku": "8678026969_ID",
+          "skuId": "16116700681",
+          "itemUrl": "/products/pdp-i8678026969.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/8b217ebeeadc924ce322ea319ae609f4.jpg",
+          "sku": "8678026969_ID",
+          "skuId": "16116700682",
+          "itemUrl": "/products/pdp-i8678026969.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/a6daf1f52feb021144eedc41b8cf38c8.jpg",
+          "sku": "8678026969_ID",
+          "skuId": "16116700683",
+          "itemUrl": "/products/pdp-i8678026969.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/62dc97c6b33dad9d476b928b720362ea.jpg",
+          "sku": "8678026969_ID",
+          "skuId": "16116700679",
+          "itemUrl": "/products/pdp-i8678026969.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SmileOneee",
+      "sellerId": "402245568795",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8678026969_ID-16116700680",
+      "skuId": "16116700680",
+      "sku": "8678026969_ID",
+      "categories": [
+        11949,
+        4978,
+        4983
+      ],
+      "price": "41000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8678026969;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8678026969_ID;price:41000;client:desktop;supplier_id:402245568795;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:4983;item_id:8678026969;sku_id:16116700680;shop_id:7339408;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "86 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8678026969_ID-16116700680"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fe127164ab06cc9047d290b608de14159.jpg&src=srp_findsimilar&item_id=8678026969&sku_id=16116700680&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=41000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8678026969.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16116700680%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A4100000%3BdisplayPrice%3A4100000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.6521739130434785&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=86&price=4.1E%204&review=23&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8678026969%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8678026969_ID%253Bprice%253A41000%253Bclient%253Adesktop%253Bsupplier_id%253A402245568795%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A4983%253Bitem_id%253A8678026969%253Bsku_id%253A16116700680%253Bshop_id%253A7339408%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Sarung Jempol Gaming AP King | Accessories Finger Sleeve Mobile Legend & Free\nFire",
+      "nid": "18823492181",
+      "itemId": "18823492181",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  78% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sda580de409db45b7b154040eb3598234C.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.999",
+      "discount": "78% Off",
+      "ratingScore": "3.6153846153846154",
+      "review": "78",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "AP KING GROSIR",
+      "sellerId": "403541792119",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18823492181_ID-116256755076",
+      "skuId": "116256755076",
+      "sku": "18823492181_ID",
+      "categories": [
+        11949,
+        17030,
+        17300
+      ],
+      "price": "9999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "45000",
+      "clickTrace": "query:Friesland+Campina;nid:18823492181;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18823492181_ID;price:9999;client:desktop;supplier_id:403541792119;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:17300;item_id:18823492181;sku_id:116256755076;shop_id:8520332;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "390 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18823492181_ID-116256755076"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSda580de409db45b7b154040eb3598234C.jpg&src=srp_findsimilar&item_id=18823492181&sku_id=116256755076&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=9999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18823492181.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256755076%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A999900%3BdisplayPrice%3A999900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.6153846153846154&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=390&price=9999&review=78&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18823492181%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18823492181_ID%253Bprice%253A9999%253Bclient%253Adesktop%253Bsupplier_id%253A403541792119%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A17300%253Bitem_id%253A18823492181%253Bsku_id%253A116256755076%253Bshop_id%253A8520332%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Brighton Granity Casserole Bowl 1L GM2851 Sharon Series",
+      "nid": "814582367",
+      "itemId": "814582367",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f3ce629e82aec1be608fb5ad17a22d6e.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp100.000",
+      "ratingScore": "4.891304347826087",
+      "review": "92",
+      "location": "Kota Semarang",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/4a3ae914122df6310c7ba81f2ee2bb8b.jpg",
+          "sku": "814582367_ID",
+          "skuId": "1157712528",
+          "itemUrl": "/products/pdp-i814582367.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/9a81998c556a494a8dcb4b55ce75189e.jpg",
+          "sku": "814582367_ID",
+          "skuId": "1157712527",
+          "itemUrl": "/products/pdp-i814582367.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/f43377705a2be588be2a0b0c2751a493.jpg",
+          "sku": "814582367_ID",
+          "skuId": "1157712529",
+          "itemUrl": "/products/pdp-i814582367.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Brighton Tableware",
+      "sellerId": "1000401711",
+      "brandName": "Brighton",
+      "brandId": "3378",
+      "cheapest_sku": "814582367_ID-1157712526",
+      "skuId": "1157712526",
+      "sku": "814582367_ID",
+      "categories": [
+        16336,
+        62552404,
+        16357,
+        16467
+      ],
+      "price": "100000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:814582367;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:814582367_ID;price:100000;client:desktop;supplier_id:1000401711;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:16467;item_id:814582367;sku_id:1157712526;shop_id:889348;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "287 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "814582367_ID-1157712526"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff3ce629e82aec1be608fb5ad17a22d6e.jpg&src=srp_findsimilar&item_id=814582367&sku_id=1157712526&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=100000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i814582367.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1157712526%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A10000000%3BdisplayPrice%3A10000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.891304347826087&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=287&price=1E%205&review=92&location=Kota%20Semarang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A814582367%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A814582367_ID%253Bprice%253A100000%253Bclient%253Adesktop%253Bsupplier_id%253A1000401711%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16467%253Bitem_id%253A814582367%253Bsku_id%253A1157712526%253Bshop_id%253A889348%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Bisa Cod Kartu XL Dengan Nomor Cantik 12 Dijit +Kuota 3000GB Buruan Di Beli Stok Terbatas.",
+      "nid": "18823111047",
+      "itemId": "18823111047",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  73% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp22.000",
+      "discount": "73% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693492",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693493",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693490",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693491",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693496",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693497",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693494",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693495",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693489",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693487",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693488",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693481",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693482",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693480",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693485",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693486",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693483",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693484",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693478",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693511",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693479",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693512",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693476",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693477",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693510",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693515",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693513",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693514",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693470",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693471",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693474",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693475",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693472",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693473",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693467",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693500",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693468",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693501",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693466",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693504",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693505",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693469",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693502",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693503",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693508",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693509",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693506",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693507",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693498",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0c6bc85d21d34cd8a437bf0000d622e0O.jpg",
+          "sku": "18823111047_ID",
+          "skuId": "116256693499",
+          "itemUrl": "/products/pdp-i18823111047.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "beauty numbers00",
+      "sellerId": "403454576160",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18823111047_ID-116256693492",
+      "skuId": "116256693492",
+      "sku": "18823111047_ID",
+      "categories": [
+        16337,
+        62357001,
+        14733
+      ],
+      "price": "22000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "80000",
+      "clickTrace": "query:Friesland+Campina;nid:18823111047;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18823111047_ID;price:22000;client:desktop;supplier_id:403454576160;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:14733;item_id:18823111047;sku_id:116256693492;shop_id:8347626;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18823111047_ID-116256693492"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS0c6bc85d21d34cd8a437bf0000d622e0O.jpg&src=srp_findsimilar&item_id=18823111047&sku_id=116256693492&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=22000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18823111047.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256693492%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2200000%3BdisplayPrice%3A2200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=2.2E%204&review=&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18823111047%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18823111047_ID%253Bprice%253A22000%253Bclient%253Adesktop%253Bsupplier_id%253A403454576160%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A14733%253Bitem_id%253A18823111047%253Bsku_id%253A116256693492%253Bshop_id%253A8347626%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Topi Ropehat Corduroy Sweet Memories Blue Mustard",
+      "nid": "8756338270",
+      "itemId": "8756338270",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  76% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/6695fb63248a5c7ddc603b4e1ea01819.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp13.000",
+      "discount": "76% Off",
+      "ratingScore": "3.5",
+      "review": "8",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/5bcdee7c59ee1141f534ecef8b2faa84.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496405",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/55e3fd9e2b647e3d68fd6367b7fceeb5.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496404",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/a7d9678c138100f0e29bbf46f500c404.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496406",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/6f9f6ebf3e0ffa4fd8984f48b217daec.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496401",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/2f1d3907c5a1eaa3b251f68869df3dbd.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496403",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/40f51b30086973f85dc06c92a3b9bc31.jpg",
+          "sku": "8756338270_ID",
+          "skuId": "16200496402",
+          "itemUrl": "/products/pdp-i8756338270.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "edrik store",
+      "sellerId": "402501472623",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8756338270_ID-16200496406",
+      "skuId": "16200496406",
+      "sku": "8756338270_ID",
+      "categories": [
+        11949,
+        4978,
+        4983
+      ],
+      "price": "13000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "55000",
+      "clickTrace": "query:Friesland+Campina;nid:8756338270;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8756338270_ID;price:13000;client:desktop;supplier_id:402501472623;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:4983;item_id:8756338270;sku_id:16200496406;shop_id:7566368;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "64 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8756338270_ID-16200496406"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F6695fb63248a5c7ddc603b4e1ea01819.jpg&src=srp_findsimilar&item_id=8756338270&sku_id=16200496406&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=13000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8756338270.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16200496406%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1300000%3BdisplayPrice%3A1300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.5&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=64&price=1.3E%204&review=8&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8756338270%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8756338270_ID%253Bprice%253A13000%253Bclient%253Adesktop%253Bsupplier_id%253A402501472623%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A4983%253Bitem_id%253A8756338270%253Bsku_id%253A16200496406%253Bshop_id%253A7566368%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PROMO DISKON RDA 22mm murah double coil",
+      "nid": "8703090535",
+      "itemId": "8703090535",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/ef75d400f0ace0a542581ce41326405f.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp30.000",
+      "ratingScore": "3.0",
+      "review": "2",
+      "location": "Kota Jakarta Pusat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/650a38a9b1cc86209dfd6f0d3bc89ed5.jpg",
+          "sku": "8703090535_ID",
+          "skuId": "16139376919",
+          "itemUrl": "/products/pdp-i8703090535.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/047bf9c7ec97577e9921f417efe3dad9.jpg",
+          "sku": "8703090535_ID",
+          "skuId": "16139376921",
+          "itemUrl": "/products/pdp-i8703090535.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Tripel Acc",
+      "sellerId": "400609497139",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8703090535_ID-16139376920",
+      "skuId": "16139376920",
+      "sku": "8703090535_ID",
+      "categories": [
+        10100412,
+        9246,
+        15162
+      ],
+      "price": "30000",
+      "restrictedAge": 21,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8703090535;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8703090535_ID;price:30000;client:desktop;supplier_id:400609497139;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:15162;item_id:8703090535;sku_id:16139376920;shop_id:3062314;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8703090535_ID-16139376920"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fef75d400f0ace0a542581ce41326405f.jpg&src=srp_findsimilar&item_id=8703090535&sku_id=16139376920&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=30000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8703090535.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16139376920%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A3000000%3BdisplayPrice%3A3000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=3E%204&review=2&location=Kota%20Jakarta%20Pusat&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8703090535%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8703090535_ID%253Bprice%253A30000%253Bclient%253Adesktop%253Bsupplier_id%253A400609497139%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15162%253Bitem_id%253A8703090535%253Bsku_id%253A16139376920%253Bshop_id%253A3062314%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Fermipan saset/ragi instant isi 11gr pak( satu kotak isi 4 pak)",
+      "nid": "8411316009",
+      "itemId": "8411316009",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  2% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S6c32716e68fe4dd1a4020741b03f1032C.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp23.500",
+      "discount": "2% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Riposhop",
+      "sellerId": "402590480461",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8411316009_ID-14851844814",
+      "skuId": "14851844814",
+      "sku": "8411316009_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "23500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "24000",
+      "clickTrace": "query:Friesland+Campina;nid:8411316009;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8411316009_ID;price:23500;client:desktop;supplier_id:402590480461;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:10003264;item_id:8411316009;sku_id:14851844814;shop_id:7683297;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8411316009_ID-14851844814"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS6c32716e68fe4dd1a4020741b03f1032C.jpg&src=srp_findsimilar&item_id=8411316009&sku_id=14851844814&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=23500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8411316009.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14851844814%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2350000%3BdisplayPrice%3A2350000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4&price=2.35E%204&review=&location=Kab.%20Bogor&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8411316009%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8411316009_ID%253Bprice%253A23500%253Bclient%253Adesktop%253Bsupplier_id%253A402590480461%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A8411316009%253Bsku_id%253A14851844814%253Bshop_id%253A7683297%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Eatsambel Paket Hemat Isi 4 Kaleng - Cumi Ciamik / Cakalang Rindu / Teri / Ayam Suwir 150 gr",
+      "nid": "8189462558",
+      "itemId": "8189462558",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  34% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/3816a1bc0d0ac7b648feb0d925086896.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp195.979",
+      "discount": "34% Off",
+      "ratingScore": "4.588235294117647",
+      "review": "17",
+      "location": "Kota Tangerang",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/1df6b916010c1e9e0cb45b8b1c66c53a.jpg",
+          "sku": "8189462558_ID",
+          "skuId": "14595502762",
+          "itemUrl": "/products/pdp-i8189462558.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/f5651e6c39a4a32a2861fc6ab73abe66.jpg",
+          "sku": "8189462558_ID",
+          "skuId": "14595502763",
+          "itemUrl": "/products/pdp-i8189462558.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/6eec9b7083255d5636fc7152697d44bd.jpg",
+          "sku": "8189462558_ID",
+          "skuId": "14595502760",
+          "itemUrl": "/products/pdp-i8189462558.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e6912c53a1d0dda107be5a9b5ff39a02.jpg",
+          "sku": "8189462558_ID",
+          "skuId": "14595502761",
+          "itemUrl": "/products/pdp-i8189462558.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "SHTR SHOP ID",
+      "sellerId": "400717737106",
+      "brandName": "Eat Sambel",
+      "brandId": "123732018",
+      "cheapest_sku": "8189462558_ID-14595502764",
+      "skuId": "14595502764",
+      "sku": "8189462558_ID",
+      "categories": [
+        9645,
+        10003013,
+        18139,
+        18451
+      ],
+      "price": "195979",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "299000",
+      "clickTrace": "query:Friesland+Campina;nid:8189462558;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8189462558_ID;price:195979;client:desktop;supplier_id:400717737106;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:18451;item_id:8189462558;sku_id:14595502764;shop_id:5310852;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "61 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8189462558_ID-14595502764"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3816a1bc0d0ac7b648feb0d925086896.jpg&src=srp_findsimilar&item_id=8189462558&sku_id=14595502764&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=195979.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8189462558.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14595502764%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A19597900%3BdisplayPrice%3A19597900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.588235294117647&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=61&price=195979&review=17&location=Kota%20Tangerang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8189462558%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8189462558_ID%253Bprice%253A195979%253Bclient%253Adesktop%253Bsupplier_id%253A400717737106%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18451%253Bitem_id%253A8189462558%253Bsku_id%253A14595502764%253Bshop_id%253A5310852%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "DANA Saldo Rp 9.000 by Share Treats",
+      "nid": "8395804722",
+      "itemId": "8395804722",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/db459541ab0d20931f3c96888155810d.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp10.137",
+      "discount": "6% Off",
+      "ratingScore": "4.823291820935712",
+      "review": "2971",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/09bd446c8726fcba851501adc2e5608b.png",
+          "sku": "8395804722_ID",
+          "skuId": "16213730996",
+          "itemUrl": "/products/pdp-i8395804722.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "8395804722_ID",
+          "skuId": "16213730995",
+          "itemUrl": "/products/pdp-i8395804722.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2ca99ecbd1795f33ee4257c92a3cf476.png",
+          "sku": "8395804722_ID",
+          "skuId": "16213730998",
+          "itemUrl": "/products/pdp-i8395804722.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/969a7572aa0d78018be2fd92d6eb4e47.png",
+          "sku": "8395804722_ID",
+          "skuId": "16213730997",
+          "itemUrl": "/products/pdp-i8395804722.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/028a7927f6c2eaae6785c913dce4b36b.png",
+          "sku": "8395804722_ID",
+          "skuId": "16213730999",
+          "itemUrl": "/products/pdp-i8395804722.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Share Treats",
+      "sellerId": "401412000510",
+      "brandName": "Share Treats ID",
+      "brandId": "124032227",
+      "cheapest_sku": "8395804722_ID-14835758546",
+      "skuId": "14835758546",
+      "sku": "8395804722_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "10137",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "10800",
+      "clickTrace": "query:Friesland+Campina;nid:8395804722;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8395804722_ID;price:10137;client:desktop;supplier_id:401412000510;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:10100045;item_id:8395804722;sku_id:14835758546;shop_id:6557055;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "55.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8395804722_ID-14835758546"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fdb459541ab0d20931f3c96888155810d.png&src=srp_findsimilar&item_id=8395804722&sku_id=14835758546&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=10137.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8395804722.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14835758546%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1013700%3BdisplayPrice%3A1013700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.823291820935712&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=55205&price=10137&review=2971&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8395804722%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8395804722_ID%253Bprice%253A10137%253Bclient%253Adesktop%253Bsupplier_id%253A401412000510%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A8395804722%253Bsku_id%253A14835758546%253Bshop_id%253A6557055%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Filma/forvita/palmia margarine mentega 200g (promo mantap)",
+      "nid": "7917284479",
+      "itemId": "7917284479",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  25% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S186f91058d0a40909e3d5970acec21ccA.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp8.999",
+      "discount": "25% Off",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Bekasi",
+      "thumbs": [],
+      "sellerName": "Saynaa_store",
+      "sellerId": "401578544860",
+      "brandName": "FILMA",
+      "brandId": "15762",
+      "cheapest_sku": "7917284479_ID-14333468197",
+      "skuId": "14333468197",
+      "sku": "7917284479_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "8999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "11999",
+      "clickTrace": "query:Friesland+Campina;nid:7917284479;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:7917284479_ID;price:8999;client:desktop;supplier_id:401578544860;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:10003264;item_id:7917284479;sku_id:14333468197;shop_id:6739129;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "13 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7917284479_ID-14333468197"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS186f91058d0a40909e3d5970acec21ccA.jpg&src=srp_findsimilar&item_id=7917284479&sku_id=14333468197&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=8999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7917284479.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14333468197%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A899900%3BdisplayPrice%3A899900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13&price=8999&review=2&location=Kota%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A7917284479%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A7917284479_ID%253Bprice%253A8999%253Bclient%253Adesktop%253Bsupplier_id%253A401578544860%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A7917284479%253Bsku_id%253A14333468197%253Bshop_id%253A6739129%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "filma mentega 200 gr",
+      "nid": "8290770334",
+      "itemId": "8290770334",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Scd759e791dcc4a92ba333bf4bca0fc80l.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp6.500",
+      "ratingScore": "5.0",
+      "review": "0",
+      "location": "Kab. Bekasi",
+      "thumbs": [],
+      "sellerName": "JAJ STORE",
+      "sellerId": "402361568007",
+      "brandName": "FILMA",
+      "brandId": "15762",
+      "cheapest_sku": "8290770334_ID-14700660124",
+      "skuId": "14700660124",
+      "sku": "8290770334_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "6500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8290770334;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8290770334_ID;price:6500;client:desktop;supplier_id:402361568007;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:10003264;item_id:8290770334;sku_id:14700660124;shop_id:7459275;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8290770334_ID-14700660124"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FScd759e791dcc4a92ba333bf4bca0fc80l.jpg&src=srp_findsimilar&item_id=8290770334&sku_id=14700660124&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=6500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8290770334.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14700660124%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A650000%3BdisplayPrice%3A650000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4&price=6.5E%203&review=0&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8290770334%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8290770334_ID%253Bprice%253A6500%253Bclient%253Adesktop%253Bsupplier_id%253A402361568007%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A8290770334%253Bsku_id%253A14700660124%253Bshop_id%253A7459275%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Topi Ducati Lenovo Marc Marquez 93 Bisbol",
+      "nid": "8605270269",
+      "itemId": "8605270269",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/5c385d0d1bf515432d29577494fdd478.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.190",
+      "discount": "14% Off",
+      "ratingScore": "4.519114688128773",
+      "review": "994",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/ad3a7e6903e0637c7150979bf0af8de1.jpg",
+          "sku": "8605270269_ID",
+          "skuId": "16007890340",
+          "itemUrl": "/products/pdp-i8605270269.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/cf42354df5fc82725663057c5f1fbc48.jpg",
+          "sku": "8605270269_ID",
+          "skuId": "16007890339",
+          "itemUrl": "/products/pdp-i8605270269.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "MASHELSTORE",
+      "sellerId": "400607295091",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8605270269_ID-16007890341",
+      "skuId": "16007890341",
+      "sku": "8605270269_ID",
+      "categories": [
+        11949,
+        4978,
+        4983
+      ],
+      "price": "17190",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "20000",
+      "clickTrace": "query:Friesland+Campina;nid:8605270269;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8605270269_ID;price:17190;client:desktop;supplier_id:400607295091;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:4983;item_id:8605270269;sku_id:16007890341;shop_id:2863046;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8605270269_ID-16007890341"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F5c385d0d1bf515432d29577494fdd478.jpg&src=srp_findsimilar&item_id=8605270269&sku_id=16007890341&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=17190.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8605270269.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16007890341%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1719000%3BdisplayPrice%3A1719000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.519114688128773&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3244&price=1.719E%204&review=994&location=Kota%20Depok&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8605270269%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8605270269_ID%253Bprice%253A17190%253Bclient%253Adesktop%253Bsupplier_id%253A400607295091%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A4983%253Bitem_id%253A8605270269%253Bsku_id%253A16007890341%253Bshop_id%253A2863046%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "seblak beton/kerupuk beton/seblak as beton/jaat beton bantet renyah viral pedas daun jeruk bumbu melimpah",
+      "nid": "8648074612",
+      "itemId": "8648074612",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/750083c5092813d6d7dcdf2d6a8a4359.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp10.999",
+      "ratingScore": "4.0",
+      "review": "2",
+      "location": "Kab. Garut",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/101387facb0a5c50864072cba35d773b.jpg",
+          "sku": "8648074612_ID",
+          "skuId": "16072692736",
+          "itemUrl": "/products/pdp-i8648074612.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c97532af8196fddc46e5b264232b6294.jpg",
+          "sku": "8648074612_ID",
+          "skuId": "16072692735",
+          "itemUrl": "/products/pdp-i8648074612.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/101387facb0a5c50864072cba35d773b.jpg",
+          "sku": "8648074612_ID",
+          "skuId": "16072692737",
+          "itemUrl": "/products/pdp-i8648074612.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c97532af8196fddc46e5b264232b6294.jpg",
+          "sku": "8648074612_ID",
+          "skuId": "16072692734",
+          "itemUrl": "/products/pdp-i8648074612.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "MAMAH BIZAR",
+      "sellerId": "402188832715",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8648074612_ID-16072692736",
+      "skuId": "16072692736",
+      "sku": "8648074612_ID",
+      "categories": [
+        9645,
+        10003013,
+        18139,
+        18451
+      ],
+      "price": "10999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8648074612;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8648074612_ID;price:10999;client:desktop;supplier_id:402188832715;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:18451;item_id:8648074612;sku_id:16072692736;shop_id:7294343;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "19 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8648074612_ID-16072692736"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F750083c5092813d6d7dcdf2d6a8a4359.jpg&src=srp_findsimilar&item_id=8648074612&sku_id=16072692736&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=10999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8648074612.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16072692736%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1099900%3BdisplayPrice%3A1099900%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=19&price=10999&review=2&location=Kab.%20Garut&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8648074612%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8648074612_ID%253Bprice%253A10999%253Bclient%253Adesktop%253Bsupplier_id%253A402188832715%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18451%253Bitem_id%253A8648074612%253Bsku_id%253A16072692736%253Bshop_id%253A7294343%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PACIFIC MINIVELO CLASH 5.0 - 22 INCH - DIRTHE SHOP",
+      "nid": "7986134756",
+      "itemId": "7986134756",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/db0ebf93500a911e187e514f49b43470.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp8.457.000",
+      "discount": "50% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/44c86737ec97ef4496bdcfa22e1bde6a.jpg",
+          "sku": "7986134756_ID",
+          "skuId": "14405314538",
+          "itemUrl": "/products/pdp-i7986134756.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c89c93677e73db81d213ab8cd68fa987.jpg",
+          "sku": "7986134756_ID",
+          "skuId": "14405314539",
+          "itemUrl": "/products/pdp-i7986134756.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/0dad3788b4cfaa2c95592d2885030de6.jpg",
+          "sku": "7986134756_ID",
+          "skuId": "14405314540",
+          "itemUrl": "/products/pdp-i7986134756.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dianastore3",
+      "sellerId": "401481520513",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7986134756_ID-14405314538",
+      "skuId": "14405314538",
+      "sku": "7986134756_ID",
+      "categories": [
+        2994,
+        5249,
+        243,
+        246,
+        15555
+      ],
+      "price": "8457000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "16914000",
+      "clickTrace": "query:Friesland+Campina;nid:7986134756;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:7986134756_ID;price:8457000;client:desktop;supplier_id:401481520513;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:15555;item_id:7986134756;sku_id:14405314538;shop_id:6641354;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7986134756_ID-14405314538"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fdb0ebf93500a911e187e514f49b43470.jpg&src=srp_findsimilar&item_id=7986134756&sku_id=14405314538&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=8457000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7986134756.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14405314538%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A845700000%3BdisplayPrice%3A845700000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=8.457E%206&review=&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A7986134756%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A7986134756_ID%253Bprice%253A8457000%253Bclient%253Adesktop%253Bsupplier_id%253A401481520513%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15555%253Bitem_id%253A7986134756%253Bsku_id%253A14405314538%253Bshop_id%253A6641354%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Fermipan sachet ragi instan 1 box isi 4 x 11gr",
+      "nid": "8110600784",
+      "itemId": "8110600784",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S5737d0681d4b4461965170a4c466df62p.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp20.184",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S5737d0681d4b4461965170a4c466df62p.jpg",
+          "sku": "8110600784_ID",
+          "skuId": "14501708013",
+          "itemUrl": "/products/pdp-i8110600784.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S5737d0681d4b4461965170a4c466df62p.jpg",
+          "sku": "8110600784_ID",
+          "skuId": "14501708012",
+          "itemUrl": "/products/pdp-i8110600784.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Serba Sukses",
+      "sellerId": "401885840318",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8110600784_ID-14501708012",
+      "skuId": "14501708012",
+      "sku": "8110600784_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "20184",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8110600784;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8110600784_ID;price:20184;client:desktop;supplier_id:401885840318;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:10003264;item_id:8110600784;sku_id:14501708012;shop_id:7096143;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "6 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8110600784_ID-14501708012"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS5737d0681d4b4461965170a4c466df62p.jpg&src=srp_findsimilar&item_id=8110600784&sku_id=14501708012&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=20184.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8110600784.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14501708012%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2018400%3BdisplayPrice%3A2018400%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=20184&review=&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8110600784%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8110600784_ID%253Bprice%253A20184%253Bclient%253Adesktop%253Bsupplier_id%253A401885840318%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A8110600784%253Bsku_id%253A14501708012%253Bshop_id%253A7096143%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Topi Jaring Troylee Design KTM Gopro 4wp Racing",
+      "nid": "8605200561",
+      "itemId": "8605200561",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  14% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/9208efbcb05838bd772eab16064a2732.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.190",
+      "discount": "14% Off",
+      "ratingScore": "4.294117647058823",
+      "review": "85",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/2de0827d04a9426977acb8298e4382a7.jpg",
+          "sku": "8605200561_ID",
+          "skuId": "16007844043",
+          "itemUrl": "/products/pdp-i8605200561.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/d8a2923b6af757771ffc1f25a3487a72.jpg",
+          "sku": "8605200561_ID",
+          "skuId": "16007844044",
+          "itemUrl": "/products/pdp-i8605200561.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/c5b92e9cfae75d601838869b91d7a09e.jpg",
+          "sku": "8605200561_ID",
+          "skuId": "16007844045",
+          "itemUrl": "/products/pdp-i8605200561.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "MASHELSTORE",
+      "sellerId": "400607295091",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8605200561_ID-16007844046",
+      "skuId": "16007844046",
+      "sku": "8605200561_ID",
+      "categories": [
+        11949,
+        4978,
+        4983
+      ],
+      "price": "17190",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "20000",
+      "clickTrace": "query:Friesland+Campina;nid:8605200561;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8605200561_ID;price:17190;client:desktop;supplier_id:400607295091;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:4983;item_id:8605200561;sku_id:16007844046;shop_id:2863046;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "291 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8605200561_ID-16007844046"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F9208efbcb05838bd772eab16064a2732.jpg&src=srp_findsimilar&item_id=8605200561&sku_id=16007844046&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=17190.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8605200561.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16007844046%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1719000%3BdisplayPrice%3A1719000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.294117647058823&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=291&price=1.719E%204&review=85&location=Kota%20Depok&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8605200561%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8605200561_ID%253Bprice%253A17190%253Bclient%253Adesktop%253Bsupplier_id%253A400607295091%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A4983%253Bitem_id%253A8605200561%253Bsku_id%253A16007844046%253Bshop_id%253A2863046%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Snack berhadiah langsung dlm kemasan",
+      "nid": "8246816963",
+      "itemId": "8246816963",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/6ee17383cb309924f528515a5e541ee4.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp13.000",
+      "ratingScore": "3.32",
+      "review": "1175",
+      "location": "Kab. Klaten",
+      "thumbs": [],
+      "sellerName": "Snack.Murah",
+      "sellerId": "402010656646",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8246816963_ID-14653678922",
+      "skuId": "14653678922",
+      "sku": "8246816963_ID",
+      "categories": [
+        9645,
+        10003012,
+        10003049,
+        10003239
+      ],
+      "price": "13000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8246816963;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8246816963_ID;price:13000;client:desktop;supplier_id:402010656646;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:10003239;item_id:8246816963;sku_id:14653678922;shop_id:7161989;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "6.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8246816963_ID-14653678922"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6ee17383cb309924f528515a5e541ee4.jpg&src=srp_findsimilar&item_id=8246816963&sku_id=14653678922&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=13000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8246816963.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14653678922%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1300000%3BdisplayPrice%3A1300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.32&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6924&price=1.3E%204&review=1175&location=Kab.%20Klaten&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8246816963%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8246816963_ID%253Bprice%253A13000%253Bclient%253Adesktop%253Bsupplier_id%253A402010656646%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003239%253Bitem_id%253A8246816963%253Bsku_id%253A14653678922%253Bshop_id%253A7161989%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Fermipan Ragi Instan Sachet 11gr",
+      "nid": "8016242280",
+      "itemId": "8016242280",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S79fd5de20de44fd4b93938be91e3806dx.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp6.000",
+      "discount": "50% Off",
+      "ratingScore": "5.0",
+      "review": "21",
+      "location": "Kab. Klaten",
+      "thumbs": [],
+      "sellerName": "Sembako Grosir Klaten",
+      "sellerId": "401459104635",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8016242280_ID-14439846199",
+      "skuId": "14439846199",
+      "sku": "8016242280_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "6000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "12000",
+      "clickTrace": "query:Friesland+Campina;nid:8016242280;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8016242280_ID;price:6000;client:desktop;supplier_id:401459104635;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:10003264;item_id:8016242280;sku_id:14439846199;shop_id:6616461;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "54 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8016242280_ID-14439846199"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS79fd5de20de44fd4b93938be91e3806dx.jpg&src=srp_findsimilar&item_id=8016242280&sku_id=14439846199&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=6000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8016242280.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14439846199%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A600000%3BdisplayPrice%3A600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=54&price=6E%203&review=21&location=Kab.%20Klaten&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8016242280%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8016242280_ID%253Bprice%253A6000%253Bclient%253Adesktop%253Bsupplier_id%253A401459104635%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A8016242280%253Bsku_id%253A14439846199%253Bshop_id%253A6616461%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Gelasan dragon 1600 yard",
+      "nid": "7943092665",
+      "itemId": "7943092665",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S515fbf2b422e4eb48256631c61d84765D.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.500",
+      "ratingScore": "4.682475884244373",
+      "review": "2488",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Lubna#accesories layangan",
+      "sellerId": "400618461577",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7943092665_ID-14356248004",
+      "skuId": "14356248004",
+      "sku": "7943092665_ID",
+      "categories": [
+        2994,
+        5249,
+        13670,
+        13672
+      ],
+      "price": "17500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:7943092665;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:7943092665_ID;price:17500;client:desktop;supplier_id:400618461577;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:13672;item_id:7943092665;sku_id:14356248004;shop_id:3870712;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "10.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7943092665_ID-14356248004"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS515fbf2b422e4eb48256631c61d84765D.jpg&src=srp_findsimilar&item_id=7943092665&sku_id=14356248004&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=17500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7943092665.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14356248004%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1750000%3BdisplayPrice%3A1750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.682475884244373&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=10427&price=1.75E%204&review=2488&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A7943092665%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A7943092665_ID%253Bprice%253A17500%253Bclient%253Adesktop%253Bsupplier_id%253A400618461577%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13672%253Bitem_id%253A7943092665%253Bsku_id%253A14356248004%253Bshop_id%253A3870712%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "promo kartu perdana INDOSAT 10 digit dengan nomor cantik bonus kuota 1000gb /1tahun bisa di gunakan di seluruh wilayah Indonesia (bisa request)",
+      "nid": "18831687231",
+      "itemId": "18831687231",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  78% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp18.000",
+      "discount": "78% Off",
+      "ratingScore": "3.8",
+      "review": "10",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967136",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967137",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967134",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967135",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967138",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967139",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967172",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967170",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967171",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967132",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967133",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967130",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967131",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967147",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967148",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967145",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967146",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967149",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967140",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967143",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967144",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967141",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967142",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967114",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967158",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967115",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967159",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967156",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967157",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967118",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967119",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967116",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967117",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967150",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967151",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967154",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967155",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967152",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967153",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967125",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967169",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967126",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967123",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967167",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967124",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967168",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967129",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967127",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967128",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967161",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967162",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967160",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967121",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967165",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967122",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967166",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967163",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967120",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S937034aba0944b89b259cee38f596a10O.jpg",
+          "sku": "18831687231_ID",
+          "skuId": "116259967164",
+          "itemUrl": "/products/pdp-i18831687231.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "TELKOM HUB",
+      "sellerId": "403572240619",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18831687231_ID-116259967136",
+      "skuId": "116259967136",
+      "sku": "18831687231_ID",
+      "categories": [
+        16337,
+        62357001,
+        14733
+      ],
+      "price": "18000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "80000",
+      "clickTrace": "query:Friesland+Campina;nid:18831687231;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18831687231_ID;price:18000;client:desktop;supplier_id:403572240619;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:14733;item_id:18831687231;sku_id:116259967136;shop_id:8580534;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "25 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18831687231_ID-116259967136"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS937034aba0944b89b259cee38f596a10O.jpg&src=srp_findsimilar&item_id=18831687231&sku_id=116259967136&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=18000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18831687231.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259967136%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1800000%3BdisplayPrice%3A1800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.8&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=25&price=1.8E%204&review=10&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18831687231%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18831687231_ID%253Bprice%253A18000%253Bclient%253Adesktop%253Bsupplier_id%253A403572240619%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A14733%253Bitem_id%253A18831687231%253Bsku_id%253A116259967136%253Bshop_id%253A8580534%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Fermipan Pengembang Kue Dan Donat",
+      "nid": "6957946820",
+      "itemId": "6957946820",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sa79aae59ec744101b656ed0680c452770.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.000",
+      "ratingScore": "4.9",
+      "review": "9",
+      "location": "Kota Serang",
+      "thumbs": [],
+      "sellerName": "CrystaLNoahshop",
+      "sellerId": "400596297824",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6957946820_ID-13177824060",
+      "skuId": "13177824060",
+      "sku": "6957946820_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "9000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:6957946820;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:6957946820_ID;price:9000;client:desktop;supplier_id:400596297824;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:10003264;item_id:6957946820;sku_id:13177824060;shop_id:2068413;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "37 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6957946820_ID-13177824060"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSa79aae59ec744101b656ed0680c452770.jpg&src=srp_findsimilar&item_id=6957946820&sku_id=13177824060&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=9000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6957946820.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13177824060%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A900000%3BdisplayPrice%3A900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.9&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=37&price=9E%203&review=9&location=Kota%20Serang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A6957946820%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A6957946820_ID%253Bprice%253A9000%253Bclient%253Adesktop%253Bsupplier_id%253A400596297824%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A6957946820%253Bsku_id%253A13177824060%253Bshop_id%253A2068413%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Penn Torque 5 Black - Trqs5B",
+      "nid": "726396981",
+      "itemId": "726396981",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f7ebc062e7d9dc18ef615bee447861ae.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.750.000",
+      "discount": "50% Off",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Tangerang",
+      "thumbs": [],
+      "sellerName": "Dapur Pancing",
+      "sellerId": "100362744",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "726396981_ID-1006026841",
+      "skuId": "1006026841",
+      "sku": "726396981_ID",
+      "categories": [
+        2994,
+        5249,
+        7920,
+        15637
+      ],
+      "price": "9750000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "19500000",
+      "clickTrace": "query:Friesland+Campina;nid:726396981;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:726396981_ID;price:9750000;client:desktop;supplier_id:100362744;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:15637;item_id:726396981;sku_id:1006026841;shop_id:458834;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "726396981_ID-1006026841"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff7ebc062e7d9dc18ef615bee447861ae.jpg&src=srp_findsimilar&item_id=726396981&sku_id=1006026841&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=9750000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i726396981.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1006026841%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A975000000%3BdisplayPrice%3A975000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9.75E%206&review=&location=Kota%20Tangerang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A726396981%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A726396981_ID%253Bprice%253A9750000%253Bclient%253Adesktop%253Bsupplier_id%253A100362744%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15637%253Bitem_id%253A726396981%253Bsku_id%253A1006026841%253Bshop_id%253A458834%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "KUACI REBO UK 140 GR",
+      "nid": "8348570190",
+      "itemId": "8348570190",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S4aa5ce7cac6943b3a340e548cf31ab41q.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp13.000",
+      "ratingScore": "5.0",
+      "review": "5",
+      "location": "Kota Serang",
+      "thumbs": [],
+      "sellerName": "TOSERBAWAHYU",
+      "sellerId": "401762336172",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8348570190_ID-14770158263",
+      "skuId": "14770158263",
+      "sku": "8348570190_ID",
+      "categories": [
+        9645,
+        10003013,
+        18139,
+        18451
+      ],
+      "price": "13000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8348570190;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8348570190_ID;price:13000;client:desktop;supplier_id:401762336172;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:18451;item_id:8348570190;sku_id:14770158263;shop_id:6958989;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "21 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8348570190_ID-14770158263"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS4aa5ce7cac6943b3a340e548cf31ab41q.jpg&src=srp_findsimilar&item_id=8348570190&sku_id=14770158263&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=13000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8348570190.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14770158263%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A1300000%3BdisplayPrice%3A1300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=21&price=1.3E%204&review=5&location=Kota%20Serang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8348570190%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8348570190_ID%253Bprice%253A13000%253Bclient%253Adesktop%253Bsupplier_id%253A401762336172%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18451%253Bitem_id%253A8348570190%253Bsku_id%253A14770158263%253Bshop_id%253A6958989%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "fermipan Ragi  sachet",
+      "nid": "6974044932",
+      "itemId": "6974044932",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S82f0b8f1ede6423ea01c1538ba3ea7c1r.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp6.500",
+      "discount": "7% Off",
+      "ratingScore": "4.928571428571429",
+      "review": "336",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Sumber plastik01",
+      "sellerId": "400739508362",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6974044932_ID-13204298537",
+      "skuId": "13204298537",
+      "sku": "6974044932_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "6500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "7000",
+      "clickTrace": "query:Friesland+Campina;nid:6974044932;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:6974044932_ID;price:6500;client:desktop;supplier_id:400739508362;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:10003264;item_id:6974044932;sku_id:13204298537;shop_id:5461282;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6974044932_ID-13204298537"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS82f0b8f1ede6423ea01c1538ba3ea7c1r.jpg&src=srp_findsimilar&item_id=6974044932&sku_id=13204298537&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=6500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6974044932.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13204298537%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A650000%3BdisplayPrice%3A650000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.928571428571429&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1204&price=6.5E%203&review=336&location=Kab.%20Bogor&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A6974044932%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A6974044932_ID%253Bprice%253A6500%253Bclient%253Adesktop%253Bsupplier_id%253A400739508362%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A6974044932%253Bsku_id%253A13204298537%253Bshop_id%253A5461282%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Promo Alexandre Christie AC 6566/AC 6141 PRIA ORIGINAL RUBBER",
+      "nid": "8410086124",
+      "itemId": "8410086124",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  59% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/other/common/54e2fef15df7427e8644055ec8d6b531.jpeg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp263.590",
+      "discount": "59% Off",
+      "ratingScore": "3.6666666666666665",
+      "review": "3",
+      "location": "Kab. Bekasi",
+      "thumbs": [],
+      "sellerName": "FC CakiL Store",
+      "sellerId": "402120240333",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8410086124_ID-14850628585",
+      "skuId": "14850628585",
+      "sku": "8410086124_ID",
+      "categories": [
+        11949,
+        12020,
+        12022
+      ],
+      "price": "263590",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "645000",
+      "clickTrace": "query:Friesland+Campina;nid:8410086124;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8410086124_ID;price:263590;client:desktop;supplier_id:402120240333;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:12022;item_id:8410086124;sku_id:14850628585;shop_id:7239005;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "29 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8410086124_ID-14850628585"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fother%2Fcommon%2F54e2fef15df7427e8644055ec8d6b531.jpeg&src=srp_findsimilar&item_id=8410086124&sku_id=14850628585&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=263590.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8410086124.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14850628585%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A26359000%3BdisplayPrice%3A26359000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=3.6666666666666665&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=29&price=2.6359E%205&review=3&location=Kab.%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8410086124%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8410086124_ID%253Bprice%253A263590%253Bclient%253Adesktop%253Bsupplier_id%253A402120240333%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A12022%253Bitem_id%253A8410086124%253Bsku_id%253A14850628585%253Bshop_id%253A7239005%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Like Tik**Tok Permanen Proses Cepat",
+      "nid": "8376534344",
+      "itemId": "8376534344",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  78% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.100",
+      "discount": "78% Off",
+      "ratingScore": "4.626834381551363",
+      "review": "477",
+      "location": "Kota Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+          "sku": "8376534344_ID",
+          "skuId": "14808504884",
+          "itemUrl": "/products/pdp-i8376534344.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+          "sku": "8376534344_ID",
+          "skuId": "14808504885",
+          "itemUrl": "/products/pdp-i8376534344.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+          "sku": "8376534344_ID",
+          "skuId": "14808504881",
+          "itemUrl": "/products/pdp-i8376534344.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+          "sku": "8376534344_ID",
+          "skuId": "14808504882",
+          "itemUrl": "/products/pdp-i8376534344.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S998624a9906d46459932b0cb9ec6bd07a.jpg",
+          "sku": "8376534344_ID",
+          "skuId": "14808504883",
+          "itemUrl": "/products/pdp-i8376534344.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "OBBYMARKET",
+      "sellerId": "400601055075",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8376534344_ID-14808504881",
+      "skuId": "14808504881",
+      "sku": "8376534344_ID",
+      "categories": [
+        10676,
+        18680,
+        21018201
+      ],
+      "price": "1100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "5000",
+      "clickTrace": "query:Friesland+Campina;nid:8376534344;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8376534344_ID;price:1100;client:desktop;supplier_id:400601055075;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:21018201;item_id:8376534344;sku_id:14808504881;shop_id:2353432;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8376534344_ID-14808504881"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS998624a9906d46459932b0cb9ec6bd07a.jpg&src=srp_findsimilar&item_id=8376534344&sku_id=14808504881&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=1100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8376534344.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14808504881%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A110000%3BdisplayPrice%3A110000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.626834381551363&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3875&price=1.1E%203&review=477&location=Kota%20Bekasi&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8376534344%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8376534344_ID%253Bprice%253A1100%253Bclient%253Adesktop%253Bsupplier_id%253A400601055075%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A21018201%253Bitem_id%253A8376534344%253Bsku_id%253A14808504881%253Bshop_id%253A2353432%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "ASAR Humanity - Sedekah Subuh Pendatang Rezeki",
+      "nid": "8625906433",
+      "itemId": "8625906433",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/3053d5bcd9469cac0c9bc306103702ec.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp2.000",
+      "ratingScore": "4.884615384615385",
+      "review": "26",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "ASAR Humanity ",
+      "sellerId": "400685397367",
+      "brandName": "ASAR Humanity",
+      "brandId": "124394222",
+      "cheapest_sku": "8625906433_ID-16038380832",
+      "skuId": "16038380832",
+      "sku": "8625906433_ID",
+      "categories": [
+        10676,
+        18680,
+        21018201
+      ],
+      "price": "2000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8625906433;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8625906433_ID;price:2000;client:desktop;supplier_id:400685397367;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:21018201;item_id:8625906433;sku_id:16038380832;shop_id:5045334;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "379 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8625906433_ID-16038380832"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3053d5bcd9469cac0c9bc306103702ec.jpg&src=srp_findsimilar&item_id=8625906433&sku_id=16038380832&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=2000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8625906433.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16038380832%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A200000%3BdisplayPrice%3A200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.884615384615385&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=379&price=2E%203&review=26&location=Kota%20Depok&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8625906433%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8625906433_ID%253Bprice%253A2000%253Bclient%253Adesktop%253Bsupplier_id%253A400685397367%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A21018201%253Bitem_id%253A8625906433%253Bsku_id%253A16038380832%253Bshop_id%253A5045334%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Pengembang Fermipan Instant Ragi Kering untuk Roti Eceran 11Gr",
+      "nid": "8799032662",
+      "itemId": "8799032662",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/befce2b12efde1ff7c0cde72e6f77598.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp7.000",
+      "ratingScore": "4.5",
+      "review": "2",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/324a802ffde8d1fcf007ab2e56e062e9.jpg",
+          "sku": "8799032662_ID",
+          "skuId": "16241688635",
+          "itemUrl": "/products/pdp-i8799032662.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/324a802ffde8d1fcf007ab2e56e062e9.jpg",
+          "sku": "8799032662_ID",
+          "skuId": "16241688632",
+          "itemUrl": "/products/pdp-i8799032662.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/324a802ffde8d1fcf007ab2e56e062e9.jpg",
+          "sku": "8799032662_ID",
+          "skuId": "16241688634",
+          "itemUrl": "/products/pdp-i8799032662.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/befce2b12efde1ff7c0cde72e6f77598.jpg",
+          "sku": "8799032662_ID",
+          "skuId": "16241688633",
+          "itemUrl": "/products/pdp-i8799032662.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Tan Murah",
+      "sellerId": "403488672813",
+      "brandName": "fermipan",
+      "brandId": "165671",
+      "cheapest_sku": "8799032662_ID-16241688632",
+      "skuId": "16241688632",
+      "sku": "8799032662_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "7000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:8799032662;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:8799032662_ID;price:7000;client:desktop;supplier_id:403488672813;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:10003264;item_id:8799032662;sku_id:16241688632;shop_id:8415802;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8799032662_ID-16241688632"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fbefce2b12efde1ff7c0cde72e6f77598.jpg&src=srp_findsimilar&item_id=8799032662&sku_id=16241688632&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=7000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8799032662.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16241688632%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A700000%3BdisplayPrice%3A700000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.5&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=7E%203&review=2&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A8799032662%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A8799032662_ID%253Bprice%253A7000%253Bclient%253Adesktop%253Bsupplier_id%253A403488672813%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A8799032662%253Bsku_id%253A16241688632%253Bshop_id%253A8415802%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Fermipan Ragi instan isi 4 x 11 gram",
+      "nid": "18841241014",
+      "itemId": "18841241014",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S14cd4989960b44c1aad8a79792f5be6dB.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp22.550",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Tangerang",
+      "thumbs": [],
+      "sellerName": "Degantropicoco ",
+      "sellerId": "403572960867",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18841241014_ID-116263573034",
+      "skuId": "116263573034",
+      "sku": "18841241014_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "22550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Friesland+Campina;nid:18841241014;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:18841241014_ID;price:22550;client:desktop;supplier_id:403572960867;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:10003264;item_id:18841241014;sku_id:116263573034;shop_id:8586428;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18841241014_ID-116263573034"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS14cd4989960b44c1aad8a79792f5be6dB.jpg&src=srp_findsimilar&item_id=18841241014&sku_id=116263573034&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=22550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18841241014.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116263573034%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2255000%3BdisplayPrice%3A2255000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2.255E%204&review=&location=Kab.%20Tangerang&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A18841241014%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A18841241014_ID%253Bprice%253A22550%253Bclient%253Adesktop%253Bsupplier_id%253A403572960867%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A18841241014%253Bsku_id%253A116263573034%253Bshop_id%253A8586428%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Fermipan Ragi Instan Sachet 11gr (1pak = 4sachet)",
+      "nid": "6072902708",
+      "itemId": "6072902708",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  2% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S143eccf3a0504af68762257d8219df64Z.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp23.900",
+      "discount": "2% Off",
+      "ratingScore": "4.954545454545454",
+      "review": "44",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "TOKO BARU 227",
+      "sellerId": "1000393606",
+      "brandName": "Ragil",
+      "brandId": "185010",
+      "cheapest_sku": "6072902708_ID-11643566825",
+      "skuId": "11643566825",
+      "sku": "6072902708_ID",
+      "categories": [
+        9645,
+        10003013,
+        10003054,
+        10003264
+      ],
+      "price": "23900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "24500",
+      "clickTrace": "query:Friesland+Campina;nid:6072902708;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:6072902708_ID;price:23900;client:desktop;supplier_id:1000393606;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:10003264;item_id:6072902708;sku_id:11643566825;shop_id:881462;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "324 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6072902708_ID-11643566825"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS143eccf3a0504af68762257d8219df64Z.jpg&src=srp_findsimilar&item_id=6072902708&sku_id=11643566825&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=23900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6072902708.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11643566825%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A2390000%3BdisplayPrice%3A2390000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.954545454545454&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=324&price=2.39E%204&review=44&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A6072902708%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A6072902708_ID%253Bprice%253A23900%253Bclient%253Adesktop%253Bsupplier_id%253A1000393606%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003264%253Bitem_id%253A6072902708%253Bsku_id%253A11643566825%253Bshop_id%253A881462%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "DANA Saldo Rp 30.000 by Share Treats",
+      "nid": "7677970775",
+      "itemId": "7677970775",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  7% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp33.539",
+      "discount": "7% Off",
+      "ratingScore": "4.758776195950128",
+      "review": "11308",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "16217162406",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "14099492614",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "16217162402",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "16217162403",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "16217162404",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e11be4147ecefd503e928d84b2198def.png",
+          "sku": "7677970775_ID",
+          "skuId": "16217162405",
+          "itemUrl": "/products/pdp-i7677970775.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Share Treats",
+      "sellerId": "401412000510",
+      "brandName": "Share Treats ID",
+      "brandId": "124032227",
+      "cheapest_sku": "7677970775_ID-14099492614",
+      "skuId": "14099492614",
+      "sku": "7677970775_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "33539",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "36000",
+      "clickTrace": "query:Friesland+Campina;nid:7677970775;src:LazadaMainSrp;rn:3384a91c01f6342cbad9ce305acf4e5f;region:id;sku:7677970775_ID;price:33539;client:desktop;supplier_id:401412000510;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:10100045;item_id:7677970775;sku_id:14099492614;shop_id:6557055;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "72.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7677970775_ID-14099492614"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe11be4147ecefd503e928d84b2198def.png&src=srp_findsimilar&item_id=7677970775&sku_id=14099492614&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Friesland%2BCampina&similarType=findSimilarV1&price=33539.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7677970775.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14099492614%3Bsource%3Alazada-search-voucher%3Bsn%3A3384a91c01f6342cbad9ce305acf4e5f%3BoriginPrice%3A3353900%3BdisplayPrice%3A3353900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276841700&c=&ratingscore=4.758776195950128&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=72290&price=33539&review=11308&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=3384a91c01f6342cbad9ce305acf4e5f&clickTrackInfo=query%253AFriesland%252BCampina%253Bnid%253A7677970775%253Bsrc%253ALazadaMainSrp%253Brn%253A3384a91c01f6342cbad9ce305acf4e5f%253Bregion%253Aid%253Bsku%253A7677970775_ID%253Bprice%253A33539%253Bclient%253Adesktop%253Bsupplier_id%253A401412000510%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A7677970775%253Bsku_id%253A14099492614%253Bshop_id%253A6557055%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

@@ -1,227 +1,90 @@
-from itertools import cycle
-import json
-import re
-import socket
-from time import sleep
-from typing import Optional
+"""Worker Shopee — Keyword + Store"""
+import logging, os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from sentry_sdk import capture_exception
-
-from libs.beans import Pusher, Worker
-from libs.exc import HTTPStatusException
-from libs.graceful_killer import GracefulKiller
-from libs.logger import printinfo
-from libs.proxies import get_proxy_cycle
-from libs.cookies_manager import get_cookies
-from services.service_general import store_raw
+from db.database import init_db, save_shopee_items
 from services.service_shopee import ServiceShopee
-from settings import BEANS
 from workers.base_worker import BaseWorker
 
-HOSTNAME = socket.gethostname()
+logger = logging.getLogger(__name__)
+MAX_PAGES = int(os.getenv("SHOPEE_MAX_PAGES", 3))
 
 
 class WorkerShopee(BaseWorker):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(self):
+        super().__init__()
+        init_db()
+        self.service = ServiceShopee()
+        logger.info(f"WorkerShopee siap. MAX_PAGES={MAX_PAGES}")
 
-    def handle_exception(self, e: Exception, job=None):
-        printinfo(f"Error processing job: {str(e)}")
-        if job:
-            capture_exception(e)
-            self.worker.buryJob(job)
+    @property
+    def platform(self): return "shopee"
 
-    def worker_keyword(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Shopee Keyword")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_keyword'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('shopee', 'shopee')
-        killer = GracefulKiller()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            printinfo('No Proxy Mode')
-            proxy_cycle = cycle([None])
+    @property
+    def tube_name(self): return "ecommerce_crawler_shopee_keyword"
 
-        service = ServiceShopee()
+    def process_job(self, job_data: dict) -> bool:
+        keyword   = job_data.get("content")
+        job_id    = job_data.get("job_id", "unknown")
+        job_type  = job_data.get("job_type", "keyword")
+        store_url = job_data.get("store_url")
+        max_page  = job_data.get("max_count", MAX_PAGES)
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    keyword = message['content']
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_shopee_keyword(
-                        keyword, cookies=self.cookies, page=count+1, proxy=self.current_proxy)
+        if not keyword and not store_url:
+            logger.error("Job tidak punya 'content' atau 'store_url'. Skip.")
+            return False
 
-                    if resp.get('is_captcha'):
-                        print('Captcha detected')
-                        worker.releaseJob(job)
+        cookies = self.get_cookies()
+        if not cookies:
+            raise RuntimeError("Cookie Shopee tidak tersedia")
 
-                    elif resp['status'] == 200 and resp['items']:
-                        fname = store_raw(resp['items'], prefix='shopee-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count+1, social_media='shopee')
-                        printinfo('Saved to: '+fname)
-                        worker.deleteJob(job)
-                    else:
-                        raise HTTPStatusException(
-                            resp['status'],
-                            f"Keyword: {keyword} - page: {count}",
-                            resp=resp)
+        from db.database import log_job_start, log_job_finish
+        log_job_start(job_id, self.platform, keyword=keyword, store_url=store_url, job_type=job_type)
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, keyword)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+        total_saved = 0
+        final_status = "success"
+        error_msg = None
 
-    def worker_comments(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Shopee Comments")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_comments'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('shopee', 'shopee')
-        killer = GracefulKiller()
-        service = ServiceShopee()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+        try:
+            for page_num in range(1, max_page + 1):
+                logger.info(f"  📄 Page {page_num}/{max_page}...")
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    product_url = message['product_url']
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_shopee_comments(
-                        product_url, page=count+1, cookies=self.cookies, proxy=self.current_proxy)
-                    product_id = resp['product_id']
+                if job_type == "store" and store_url:
+                    result = self.service.scrape_shopee_store(store_url, page_num, cookies)
+                else:
+                    result = self.service.scrape_shopee_keyword(keyword=keyword, cookies=cookies, page_num=page_num)
 
-                    if resp.get('is_captcha'):
-                        print('Captcha detected')
-                        worker.releaseJob(job)
-                    elif resp['status'] == 200 and resp['items']:
-                        fname = store_raw(resp['items'], prefix='shopee-cm', hostname=HOSTNAME,
-                                          product_id=product_id, page=count+1, social_media='shopee')
-                        printinfo('Saved to: '+fname)
-                        worker.deleteJob(job)
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Comments: {product_id} - page: {count}",
-                            resp=resp)
+                if result.get("is_captcha") or result.get("status") == 403:
+                    logger.warning(f"  ⚠️  Captcha detected di page {page_num}!")
+                    self.cm.invalidate(self.platform)
+                    final_status = "captcha"
+                    break
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, product_id)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+                items = result.get("items") or []
+                if not items:
+                    logger.info(f"  ℹ️  Tidak ada items di page {page_num}. Stop.")
+                    break
 
-    def worker_store(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Shopee Store")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_shopee_store'
-        worker = Worker(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('shopee', 'shopee')
-        killer = GracefulKiller()
-        service = ServiceShopee()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+                logger.info(f"  ✅ {len(items)} items ditemukan di page {page_num}")
+                name = keyword or store_url
+                saved = self.save_and_publish(
+                    items=items, save_fn=save_shopee_items,
+                    job_id=job_id, name=name, job_type=job_type,
+                    page_number=page_num, store_url=store_url,
+                )
+                total_saved += saved
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    store_url = message['store_url']
-                    store_name = service.extract_store_name(store_url)
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    resp = service.scrape_shopee_store(
-                        store_url, page=count+1, cookies=self.cookies, proxy=self.current_proxy)
+        except Exception as e:
+            final_status = "failed"
+            error_msg = str(e)
+            raise
+        finally:
+            log_job_finish(job_id, final_status, total_saved, error_msg)
 
-                    if resp.get('is_captcha'):
-                        print('Captcha detected')
-                        worker.releaseJob(job)
+        logger.info(f"✅ Shopee '{keyword}': {total_saved} items, status={final_status}")
+        return final_status in ("success", "captcha")
 
-                    elif resp['status'] == 200 and resp['items']:
-                        fname = store_raw(resp['items'], prefix='shopee-store', hostname=HOSTNAME,
-                                          store_name=store_name, page=count+1, social_media='shopee')
-                        printinfo('Saved to: '+fname)
-                        worker.deleteJob(job)
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Store: {store_name} - page: {count}",
-                            resp=resp)
 
-                    if count >= max_count:
-                        crawl_next = False
-                    if crawl_next:
-                        message['count'] = count + 1
-                        pusher_self.setJob(json.dumps(message))
-                    else:
-                        self.conn_redis.srem(tubename, store_name)
-                except Exception as e:
-                    self.handle_exception(e, job)
-        self.worker_exit()
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s — %(message)s")
+    WorkerShopee().run()

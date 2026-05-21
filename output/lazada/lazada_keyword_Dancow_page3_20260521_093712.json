@@ -1,0 +1,3020 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Dancow",
+  "page": 3,
+  "job_id": "323aa948-b914-4247-aea9-b4f3cbfb6d31",
+  "scraped_at": "2026-05-21T09:37:12.449147",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "Nestlé Dancow 3+ Rasa Vanila 1kg",
+      "nid": "8696046937",
+      "itemId": "8696046937",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7b970e896b1ddc4a9869b0e860ae561e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp103.400",
+      "discount": "6% Off",
+      "ratingScore": "4.897526501766785",
+      "review": "383",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696046937_ID-16132652381",
+      "skuId": "16132652381",
+      "sku": "8696046937_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "103400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "109538",
+      "clickTrace": "query:Dancow;nid:8696046937;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696046937_ID;price:103400;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696046937;sku_id:16132652381;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.6K Terjual",
+      "recommendTips": {
+        "icon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/8b0ecef9d15f15034049b87ae0be91f2-24-24.png",
+          "width": 12,
+          "height": 12
+        },
+        "recommendId": 24,
+        "text": [
+          {
+            "content": " in Susu Batita (1- dibawah 3 tahun)",
+            "fontcolor": "#936952",
+            "fontsize": 11,
+            "listlayoutcontent": " in Susu Batita (1- dibawah 3 tahun)"
+          }
+        ],
+        "clickIcon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/92920d168e0afc82cf0904240d09329e-8-14.png",
+          "width": 4,
+          "height": 7
+        },
+        "clickUrl": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/id/homepage/bestsellers3&wx_navbar_transparent=true&lzd_navbar_hidden=truehttps://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?at_iframe=1&prefetch_replace=1&wx_navbar_transparent=true&data_prefetch=true&wh_pid=%2Flazada%2Fchannel%2Fid%2Fhomepage%2Fbestsellers3&params=%7B%22clickTrackInfo%22%3A%22itemId%3A8696046937%3BchannelId%3A827800610%22%7D&hybrid=1&lzd_navbar_hidden=true&channelId=827800610&channelIds=827800610&scenario=crowdListMzl&search=search&scene=crowdListMzl&filterBizType=crowdListMzl&wyswyg=1&jumpArgs=itemId%3A8696046937%3BchannelId%3Acrowd_list%23827800610&clickTrackInfo=%7B%22predict_cate_ids%22%3A%2215819%2C13367%22%2C%22selected_cate_id%22%3A%2215819%22%2C%22rn%22%3A%226ea839b4cbcc33e57a1d778e279f1939%22%2C%22pre_cate_id%22%3A%2215819%22%2C%22pre_item_id%22%3A%228696046937%22%2C%22reason_id%22%3A%2224%22%7D",
+        "showType": "0",
+        "traceInfo": "2",
+        "bgColor": "#FFF3EA",
+        "recommendText": "Top 2",
+        "recommendTextColor": "#936952",
+        "recommendTextFont": "semiBold",
+        "wfMarginLeft": "0",
+        "wfMarginRight": "2",
+        "wfMarginBottom": "2"
+      },
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696046937_ID-16132652381"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7b970e896b1ddc4a9869b0e860ae561e.png&src=srp_findsimilar&item_id=8696046937&sku_id=16132652381&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=103400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696046937.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132652381%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10340000%3BdisplayPrice%3A10340000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.897526501766785&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1566&price=1.034E%205&review=383&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696046937%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696046937_ID%253Bprice%253A103400%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696046937%253Bsku_id%253A16132652381%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 3+ Rasa Madu 3-5 Tahun 1kg",
+      "nid": "8695824097",
+      "itemId": "8695824097",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/cd636c26c1f2dc6bbb5e3e9c66a3fca7.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp103.400",
+      "discount": "6% Off",
+      "ratingScore": "4.94238683127572",
+      "review": "343",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/505a1f7f0c0dcf66703cbaaf5a7e459a.png",
+          "sku": "8695824097_ID",
+          "skuId": "16132366438",
+          "itemUrl": "/products/pdp-i8695824097.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8695824097_ID-16132366438",
+      "skuId": "16132366438",
+      "sku": "8695824097_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "103400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "109538",
+      "clickTrace": "query:Dancow;nid:8695824097;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8695824097_ID;price:103400;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:15819;item_id:8695824097;sku_id:16132366438;shop_id:8147808;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "1.3K Terjual",
+      "recommendTips": {
+        "icon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/8b0ecef9d15f15034049b87ae0be91f2-24-24.png",
+          "width": 12,
+          "height": 12
+        },
+        "recommendId": 22,
+        "text": [
+          {
+            "content": " in Susu Batita (1- dibawah 3 tahun)",
+            "fontcolor": "#936952",
+            "fontsize": 11,
+            "listlayoutcontent": " in Susu Batita (1- dibawah 3 tahun)"
+          }
+        ],
+        "clickIcon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/92920d168e0afc82cf0904240d09329e-8-14.png",
+          "width": 4,
+          "height": 7
+        },
+        "clickUrl": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/id/homepage/bestsellers3&wx_navbar_transparent=true&lzd_navbar_hidden=truehttps://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?at_iframe=1&prefetch_replace=1&wx_navbar_transparent=true&data_prefetch=true&wh_pid=%2Flazada%2Fchannel%2Fid%2Fhomepage%2Fbestsellers3&params=%7B%22clickTrackInfo%22%3A%22itemId%3A8695824097%3BchannelId%3A922104529%22%7D&hybrid=1&lzd_navbar_hidden=true&channelId=922104529&channelIds=922104529&scenario=crowdListMzl&search=search&scene=crowdListMzl&filterBizType=crowdListMzl&wyswyg=1&jumpArgs=itemId%3A8695824097%3BchannelId%3Acrowd_list%23922104529&clickTrackInfo=%7B%22predict_cate_ids%22%3A%2215819%2C13367%22%2C%22selected_cate_id%22%3A%2215819%22%2C%22rn%22%3A%226ea839b4cbcc33e57a1d778e279f1939%22%2C%22pre_cate_id%22%3A%2215819%22%2C%22pre_item_id%22%3A%228695824097%22%2C%22reason_id%22%3A%2222%22%7D",
+        "showType": "0",
+        "traceInfo": "1",
+        "bgColor": "#FFF3EA",
+        "recommendText": "Top 1",
+        "recommendTextColor": "#936952",
+        "recommendTextFont": "semiBold",
+        "wfMarginLeft": "0",
+        "wfMarginRight": "2",
+        "wfMarginBottom": "2"
+      },
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8695824097_ID-16132366438"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fcd636c26c1f2dc6bbb5e3e9c66a3fca7.png&src=srp_findsimilar&item_id=8695824097&sku_id=16132366438&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=103400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8695824097.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132366438%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10340000%3BdisplayPrice%3A10340000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.94238683127572&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1258&price=1.034E%205&review=343&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8695824097%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8695824097_ID%253Bprice%253A103400%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8695824097%253Bsku_id%253A16132366438%253Bshop_id%253A8147808%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "SUSU DANCOW SACHET ISI 10",
+      "nid": "8653532945",
+      "itemId": "8653532945",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S142bfa153a244f46b70ae1d981e55d67x.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp40.056",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "Zachgrosir",
+      "sellerId": "401900016088",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8653532945_ID-16082254649",
+      "skuId": "16082254649",
+      "sku": "8653532945_ID",
+      "categories": [
+        9645,
+        9646,
+        18156,
+        10003026,
+        10003116
+      ],
+      "price": "40056",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8653532945;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8653532945_ID;price:40056;client:desktop;supplier_id:401900016088;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:10003116;item_id:8653532945;sku_id:16082254649;shop_id:7105197;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8653532945_ID-16082254649"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS142bfa153a244f46b70ae1d981e55d67x.jpg&src=srp_findsimilar&item_id=8653532945&sku_id=16082254649&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=40056.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8653532945.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16082254649%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A4005600%3BdisplayPrice%3A4005600%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=40056&review=&location=Kota%20Surabaya&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8653532945%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8653532945_ID%253Bprice%253A40056%253Bclient%253Adesktop%253Bsupplier_id%253A401900016088%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003116%253Bitem_id%253A8653532945%253Bsku_id%253A16082254649%253Bshop_id%253A7105197%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Rasa Vanila 750gr",
+      "nid": "8695840108",
+      "itemId": "8695840108",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  5% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/fb02254de848ab831a140cf4c1dec24f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp76.600",
+      "discount": "5% Off",
+      "ratingScore": "4.98125",
+      "review": "260",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/bffa2f4624a721f61c75ae966dd56076.png",
+          "sku": "8695840108_ID",
+          "skuId": "16132366589",
+          "itemUrl": "/products/pdp-i8695840108.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8695840108_ID-16132366589",
+      "skuId": "16132366589",
+      "sku": "8695840108_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "76600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "80900",
+      "clickTrace": "query:Dancow;nid:8695840108;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8695840108_ID;price:76600;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:13367;item_id:8695840108;sku_id:16132366589;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.5K Terjual",
+      "recommendTips": {
+        "icon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/8b0ecef9d15f15034049b87ae0be91f2-24-24.png",
+          "width": 12,
+          "height": 12
+        },
+        "recommendId": 24,
+        "text": [
+          {
+            "content": " in Susu Pertumbuhan (>3Tahun)",
+            "fontcolor": "#936952",
+            "fontsize": 11,
+            "listlayoutcontent": " in Susu Pertumbuhan (>3Tahun)"
+          }
+        ],
+        "clickIcon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/92920d168e0afc82cf0904240d09329e-8-14.png",
+          "width": 4,
+          "height": 7
+        },
+        "clickUrl": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/id/homepage/bestsellers3&wx_navbar_transparent=true&lzd_navbar_hidden=truehttps://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?at_iframe=1&prefetch_replace=1&wx_navbar_transparent=true&data_prefetch=true&wh_pid=%2Flazada%2Fchannel%2Fid%2Fhomepage%2Fbestsellers3&params=%7B%22clickTrackInfo%22%3A%22itemId%3A8695840108%3BchannelId%3A978603137%22%7D&hybrid=1&lzd_navbar_hidden=true&channelId=978603137&channelIds=978603137&scenario=crowdListMzl&search=search&scene=crowdListMzl&filterBizType=crowdListMzl&wyswyg=1&jumpArgs=itemId%3A8695840108%3BchannelId%3Acrowd_list%23978603137&clickTrackInfo=%7B%22predict_cate_ids%22%3A%2215819%2C13367%22%2C%22selected_cate_id%22%3A%2213367%22%2C%22rn%22%3A%226ea839b4cbcc33e57a1d778e279f1939%22%2C%22pre_cate_id%22%3A%2213367%22%2C%22pre_item_id%22%3A%228695840108%22%2C%22reason_id%22%3A%2224%22%7D",
+        "showType": "0",
+        "traceInfo": "3",
+        "bgColor": "#FFF3EA",
+        "recommendText": "Top 3",
+        "recommendTextColor": "#936952",
+        "recommendTextFont": "semiBold",
+        "wfMarginLeft": "0",
+        "wfMarginRight": "2",
+        "wfMarginBottom": "2"
+      },
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8695840108_ID-16132366589"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ffb02254de848ab831a140cf4c1dec24f.png&src=srp_findsimilar&item_id=8695840108&sku_id=16132366589&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=76600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8695840108.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132366589%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A7660000%3BdisplayPrice%3A7660000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.98125&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1483&price=7.66E%204&review=260&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8695840108%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8695840108_ID%253Bprice%253A76600%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8695840108%253Bsku_id%253A16132366589%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Vanila Susu Pertumbuhan Anak 1-3 Tahun 1kg",
+      "nid": "8695856472",
+      "itemId": "8695856472",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5bfc7a2a40dfe92cddd6f201ae2fe0a8.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp105.300",
+      "discount": "6% Off",
+      "ratingScore": "4.943037974683544",
+      "review": "416",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/694eda18a4104219041873eb2d7ce5d6.png",
+          "sku": "8695856472_ID",
+          "skuId": "16132360774",
+          "itemUrl": "/products/pdp-i8695856472.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8695856472_ID-16132360774",
+      "skuId": "16132360774",
+      "sku": "8695856472_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "105300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "111526",
+      "clickTrace": "query:Dancow;nid:8695856472;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8695856472_ID;price:105300;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:15819;item_id:8695856472;sku_id:16132360774;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.7K Terjual",
+      "recommendTips": {
+        "icon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/8b0ecef9d15f15034049b87ae0be91f2-24-24.png",
+          "width": 12,
+          "height": 12
+        },
+        "recommendId": 24,
+        "text": [
+          {
+            "content": " in Susu Batita (1- dibawah 3 tahun)",
+            "fontcolor": "#936952",
+            "fontsize": 11,
+            "listlayoutcontent": " in Susu Batita (1- dibawah 3 tahun)"
+          }
+        ],
+        "clickIcon": {
+          "imgUrl": "https://img.lazcdn.com/us/media/92920d168e0afc82cf0904240d09329e-8-14.png",
+          "width": 4,
+          "height": 7
+        },
+        "clickUrl": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/id/homepage/bestsellers3&wx_navbar_transparent=true&lzd_navbar_hidden=truehttps://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?at_iframe=1&prefetch_replace=1&wx_navbar_transparent=true&data_prefetch=true&wh_pid=%2Flazada%2Fchannel%2Fid%2Fhomepage%2Fbestsellers3&params=%7B%22clickTrackInfo%22%3A%22itemId%3A8695856472%3BchannelId%3A827800610%22%7D&hybrid=1&lzd_navbar_hidden=true&channelId=827800610&channelIds=827800610&scenario=crowdListMzl&search=search&scene=crowdListMzl&filterBizType=crowdListMzl&wyswyg=1&jumpArgs=itemId%3A8695856472%3BchannelId%3Acrowd_list%23827800610&clickTrackInfo=%7B%22predict_cate_ids%22%3A%2215819%2C13367%22%2C%22selected_cate_id%22%3A%2215819%22%2C%22rn%22%3A%226ea839b4cbcc33e57a1d778e279f1939%22%2C%22pre_cate_id%22%3A%2215819%22%2C%22pre_item_id%22%3A%228695856472%22%2C%22reason_id%22%3A%2224%22%7D",
+        "showType": "0",
+        "traceInfo": "3",
+        "bgColor": "#FFF3EA",
+        "recommendText": "Top 3",
+        "recommendTextColor": "#936952",
+        "recommendTextFont": "semiBold",
+        "wfMarginLeft": "0",
+        "wfMarginRight": "2",
+        "wfMarginBottom": "2"
+      },
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8695856472_ID-16132360774"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5bfc7a2a40dfe92cddd6f201ae2fe0a8.png&src=srp_findsimilar&item_id=8695856472&sku_id=16132360774&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=105300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8695856472.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132360774%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10530000%3BdisplayPrice%3A10530000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.943037974683544&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1715&price=1.053E%205&review=416&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8695856472%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8695856472_ID%253Bprice%253A105300%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8695856472%253Bsku_id%253A16132360774%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Susu Bubuk Dancow Sachet - Campuran Umpan Pancing",
+      "nid": "3935462826",
+      "itemId": "3935462826",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sca4f3c47aab642da8f5f66e2f010cdefE.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp4.500",
+      "ratingScore": "4.886621315192744",
+      "review": "441",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/20c03a87f9a9b4d02627186d25df4282.jpg",
+          "sku": "3935462826_ID",
+          "skuId": "6551304015",
+          "itemUrl": "/products/pdp-i3935462826.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Umpan Kriik",
+      "sellerId": "1000075014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "3935462826_ID-6551304015",
+      "skuId": "6551304015",
+      "sku": "3935462826_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        10003073
+      ],
+      "price": "4500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:3935462826;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:3935462826_ID;price:4500;client:desktop;supplier_id:1000075014;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:10003073;item_id:3935462826;sku_id:6551304015;shop_id:567840;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "2.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "3935462826_ID-6551304015"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSca4f3c47aab642da8f5f66e2f010cdefE.jpg&src=srp_findsimilar&item_id=3935462826&sku_id=6551304015&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=4500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i3935462826.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A6551304015%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A450000%3BdisplayPrice%3A450000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.886621315192744&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2893&price=4.5E%203&review=441&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A3935462826%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A3935462826_ID%253Bprice%253A4500%253Bclient%253Adesktop%253Bsupplier_id%253A1000075014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003073%253Bitem_id%253A3935462826%253Bsku_id%253A6551304015%253Bshop_id%253A567840%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Madu Susu Pertumbuhan Anak 1-3 Tahun 1kg",
+      "nid": "8695868558",
+      "itemId": "8695868558",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5161208f9f5ce153cef2b065c8feb96a.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp105.300",
+      "discount": "6% Off",
+      "ratingScore": "4.92",
+      "review": "425",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/7fa196e55f8a8d4e07e3baa2811c37b2.png",
+          "sku": "8695868558_ID",
+          "skuId": "16132430066",
+          "itemUrl": "/products/pdp-i8695868558.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8695868558_ID-16132430066",
+      "skuId": "16132430066",
+      "sku": "8695868558_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "105300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "111526",
+      "clickTrace": "query:Dancow;nid:8695868558;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8695868558_ID;price:105300;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:15819;item_id:8695868558;sku_id:16132430066;shop_id:8147808;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "1.8K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8695868558_ID-16132430066"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5161208f9f5ce153cef2b065c8feb96a.png&src=srp_findsimilar&item_id=8695868558&sku_id=16132430066&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=105300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8695868558.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132430066%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10530000%3BdisplayPrice%3A10530000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.92&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1809&price=1.053E%205&review=425&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8695868558%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8695868558_ID%253Bprice%253A105300%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8695868558%253Bsku_id%253A16132430066%253Bshop_id%253A8147808%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Nestle Dancow GroPlus Susu Pertumbuhan Anak Usia 1+ 400gr",
+      "nid": "8696068388",
+      "itemId": "8696068388",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  3% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/e725f0a02d52d5123be8dee2145aca94.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp69.550",
+      "discount": "3% Off",
+      "ratingScore": "4.957894736842105",
+      "review": "104",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696068388_ID-16132660333",
+      "skuId": "16132660333",
+      "sku": "8696068388_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "69550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "72000",
+      "clickTrace": "query:Dancow;nid:8696068388;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696068388_ID;price:69550;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696068388;sku_id:16132660333;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "430 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696068388_ID-16132660333"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fe725f0a02d52d5123be8dee2145aca94.png&src=srp_findsimilar&item_id=8696068388&sku_id=16132660333&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=69550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696068388.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132660333%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A6955000%3BdisplayPrice%3A6955000%3BsinglePromotionId%3A910000049074151%3BsingleToolCode%3AshopPromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.957894736842105&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=430&price=6.955E%204&review=104&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696068388%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696068388_ID%253Bprice%253A69550%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696068388%253Bsku_id%253A16132660333%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SUSU DANCOW 1 RENCENG isi 10 Rasa Coklat / Putih",
+      "nid": "8262816929",
+      "itemId": "8262816929",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/7e5194bbe841aef7c8166d4de82877c2.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp42.000",
+      "ratingScore": "4.771428571428571",
+      "review": "34",
+      "location": "Kab. Probolinggo",
+      "thumbs": [],
+      "sellerName": "JASTORE92",
+      "sellerId": "401613776889",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8262816929_ID-14673702872",
+      "skuId": "14673702872",
+      "sku": "8262816929_ID",
+      "categories": [
+        9645,
+        9646,
+        18156,
+        10003026,
+        10003116
+      ],
+      "price": "42000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8262816929;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8262816929_ID;price:42000;client:desktop;supplier_id:401613776889;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:10003116;item_id:8262816929;sku_id:14673702872;shop_id:6776294;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "337 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8262816929_ID-14673702872"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7e5194bbe841aef7c8166d4de82877c2.jpg&src=srp_findsimilar&item_id=8262816929&sku_id=14673702872&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=42000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8262816929.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14673702872%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A4200000%3BdisplayPrice%3A4200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.771428571428571&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=337&price=4.2E%204&review=34&location=Kab.%20Probolinggo&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8262816929%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8262816929_ID%253Bprice%253A42000%253Bclient%253Adesktop%253Bsupplier_id%253A401613776889%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003116%253Bitem_id%253A8262816929%253Bsku_id%253A14673702872%253Bshop_id%253A6776294%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "DanGro Gain & Grow Dancow 1+ Box 400 g - Susu Bayi Tinggi Kalori",
+      "nid": "18835369990",
+      "itemId": "18835369990",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68675",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMall"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/c75785c5d9618c71bf67e6cec0f3ed94.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp108.650",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Semarang",
+      "thumbs": [],
+      "sellerName": "Apotek Heka Majapahit",
+      "sellerId": "402350256135",
+      "brandName": "Nestlé",
+      "brandId": "12906",
+      "cheapest_sku": "18835369990_ID-116261049166",
+      "skuId": "116261049166",
+      "sku": "18835369990_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "108650",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:18835369990;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:18835369990_ID;price:108650;client:desktop;supplier_id:402350256135;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:15819;item_id:18835369990;sku_id:116261049166;shop_id:7449306;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18835369990_ID-116261049166"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fc75785c5d9618c71bf67e6cec0f3ed94.png&src=srp_findsimilar&item_id=18835369990&sku_id=116261049166&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=108650.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18835369990.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116261049166%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10865000%3BdisplayPrice%3A10865000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=1.0865E%205&review=&location=Kota%20Semarang&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A18835369990%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A18835369990_ID%253Bprice%253A108650%253Bclient%253Adesktop%253Bsupplier_id%253A402350256135%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A18835369990%253Bsku_id%253A116261049166%253Bshop_id%253A7449306%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Madu 1-3 Tahun 1kg x2",
+      "nid": "8696040739",
+      "itemId": "8696040739",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/c5866f2d5e571083280b93e7817e19bd.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp210.600",
+      "discount": "6% Off",
+      "ratingScore": "4.919254658385094",
+      "review": "261",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696040739_ID-16132642443",
+      "skuId": "16132642443",
+      "sku": "8696040739_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "210600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "223053",
+      "clickTrace": "query:Dancow;nid:8696040739;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696040739_ID;price:210600;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696040739;sku_id:16132642443;shop_id:8147808;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "494 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696040739_ID-16132642443"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fc5866f2d5e571083280b93e7817e19bd.jpg&src=srp_findsimilar&item_id=8696040739&sku_id=16132642443&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=210600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696040739.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132642443%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A21060000%3BdisplayPrice%3A21060000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.919254658385094&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=494&price=2.106E%205&review=261&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696040739%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696040739_ID%253Bprice%253A210600%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696040739%253Bsku_id%253A16132642443%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 3+ Rasa Madu 3-5 Tahun 1kg x2",
+      "nid": "8696132429",
+      "itemId": "8696132429",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/4899ca1e17f767f522814173f5e7fef4.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp210.100",
+      "discount": "4% Off",
+      "ratingScore": "4.818181818181818",
+      "review": "122",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696132429_ID-16132788355",
+      "skuId": "16132788355",
+      "sku": "8696132429_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "210100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "219075",
+      "clickTrace": "query:Dancow;nid:8696132429;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696132429_ID;price:210100;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696132429;sku_id:16132788355;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "93 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696132429_ID-16132788355"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4899ca1e17f767f522814173f5e7fef4.jpg&src=srp_findsimilar&item_id=8696132429&sku_id=16132788355&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=210100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696132429.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132788355%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A21010000%3BdisplayPrice%3A21010000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.818181818181818&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=93&price=2.101E%205&review=122&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696132429%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696132429_ID%253Bprice%253A210100%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696132429%253Bsku_id%253A16132788355%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Vanila 1-3 Tahun 1kg x2",
+      "nid": "8696068281",
+      "itemId": "8696068281",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/36acb76609cdee30701bcf4a2c630ea3.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp213.400",
+      "discount": "4% Off",
+      "ratingScore": "5.0",
+      "review": "104",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696068281_ID-16132660122",
+      "skuId": "16132660122",
+      "sku": "8696068281_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "213400",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "223053",
+      "clickTrace": "query:Dancow;nid:8696068281;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696068281_ID;price:213400;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696068281;sku_id:16132660122;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "66 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696068281_ID-16132660122"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F36acb76609cdee30701bcf4a2c630ea3.jpg&src=srp_findsimilar&item_id=8696068281&sku_id=16132660122&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=213400.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696068281.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132660122%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A21340000%3BdisplayPrice%3A21340000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=66&price=2.134E%205&review=104&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696068281%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696068281_ID%253Bprice%253A213400%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696068281%253Bsku_id%253A16132660122%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 3+ Rasa Vanila Susu Pertumbuhan Anak 3-5 Tahun 750gr",
+      "nid": "8696138489",
+      "itemId": "8696138489",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  1% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6c6718e17e43eb8bcda7f4b3148395d9.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp80.700",
+      "discount": "1% Off",
+      "ratingScore": "4.966666666666667",
+      "review": "130",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/b47c79ec9a276c084d96e46717ce5f5f.png",
+          "sku": "8696138489_ID",
+          "skuId": "16132796354",
+          "itemUrl": "/products/pdp-i8696138489.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696138489_ID-16132796354",
+      "skuId": "16132796354",
+      "sku": "8696138489_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "80700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "81500",
+      "clickTrace": "query:Dancow;nid:8696138489;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696138489_ID;price:80700;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696138489;sku_id:16132796354;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "88 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696138489_ID-16132796354"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6c6718e17e43eb8bcda7f4b3148395d9.png&src=srp_findsimilar&item_id=8696138489&sku_id=16132796354&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=80700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696138489.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132796354%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8070000%3BdisplayPrice%3A8070000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.966666666666667&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=88&price=8.07E%204&review=130&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696138489%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696138489_ID%253Bprice%253A80700%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696138489%253Bsku_id%253A16132796354%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow Baby 1 Susu Formula untuk Bayi Usia 0-6 Bulan 120gr",
+      "nid": "8696146758",
+      "itemId": "8696146758",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/767c99e6f5e1ed640284b161dfdf209d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp12.700",
+      "ratingScore": "5.0",
+      "review": "20",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696146758_ID-16132804440",
+      "skuId": "16132804440",
+      "sku": "8696146758_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13365
+      ],
+      "price": "12700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8696146758;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696146758_ID;price:12700;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:13365;item_id:8696146758;sku_id:16132804440;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "113 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696146758_ID-16132804440"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F767c99e6f5e1ed640284b161dfdf209d.jpg&src=srp_findsimilar&item_id=8696146758&sku_id=16132804440&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=12700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696146758.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132804440%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A1270000%3BdisplayPrice%3A1270000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=113&price=1.27E%204&review=20&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696146758%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696146758_ID%253Bprice%253A12700%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13365%253Bitem_id%253A8696146758%253Bsku_id%253A16132804440%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Rasa Madu 5-7 Tahun 1kg",
+      "nid": "8696056606",
+      "itemId": "8696056606",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5296070538d010d2ae3719628bb7d3b0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp103.250",
+      "discount": "4% Off",
+      "ratingScore": "4.9625",
+      "review": "260",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/f9694a993dee76dd4f671139201c5f6e.png",
+          "sku": "8696056606_ID",
+          "skuId": "16132620821",
+          "itemUrl": "/products/pdp-i8696056606.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696056606_ID-16132620821",
+      "skuId": "16132620821",
+      "sku": "8696056606_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "103250",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "107966",
+      "clickTrace": "query:Dancow;nid:8696056606;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696056606_ID;price:103250;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696056606;sku_id:16132620821;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "742 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696056606_ID-16132620821"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5296070538d010d2ae3719628bb7d3b0.png&src=srp_findsimilar&item_id=8696056606&sku_id=16132620821&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=103250.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696056606.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132620821%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A10325000%3BdisplayPrice%3A10325000%3BsinglePromotionId%3A910000049074151%3BsingleToolCode%3AshopPromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.9625&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=742&price=1.0325E%205&review=260&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696056606%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696056606_ID%253Bprice%253A103250%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696056606%253Bsku_id%253A16132620821%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Rasa Madu 1kg x2",
+      "nid": "8696068075",
+      "itemId": "8696068075",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/d9f39429f3fb5770980b4c61e4d55793.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp203.300",
+      "discount": "6% Off",
+      "ratingScore": "4.9541984732824424",
+      "review": "231",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696068075_ID-16132620858",
+      "skuId": "16132620858",
+      "sku": "8696068075_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "203300",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "215932",
+      "clickTrace": "query:Dancow;nid:8696068075;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696068075_ID;price:203300;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696068075;sku_id:16132620858;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "537 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696068075_ID-16132620858"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fd9f39429f3fb5770980b4c61e4d55793.jpg&src=srp_findsimilar&item_id=8696068075&sku_id=16132620858&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=203300.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696068075.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132620858%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A20330000%3BdisplayPrice%3A20330000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.9541984732824424&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=537&price=2.033E%205&review=231&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696068075%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696068075_ID%253Bprice%253A203300%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696068075%253Bsku_id%253A16132620858%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 5+ Madu Susu Pertumbuhan Anak 5-12 Tahun Box Bundle 2x1Kg",
+      "nid": "1012252449",
+      "itemId": "1012252449",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/561cf9595d9cc829557d3448a6bf552e.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp203.350",
+      "discount": "6% Off",
+      "ratingScore": "4.945604048070841",
+      "review": "2139",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1012252449_ID-1514818922",
+      "skuId": "1514818922",
+      "sku": "1012252449_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "203350",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "215932",
+      "clickTrace": "query:Dancow;nid:1012252449;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1012252449_ID;price:203350;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:13367;item_id:1012252449;sku_id:1514818922;shop_id:1276298;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "9.7K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1012252449_ID-1514818922"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F561cf9595d9cc829557d3448a6bf552e.png&src=srp_findsimilar&item_id=1012252449&sku_id=1514818922&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=203350.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1012252449.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1514818922%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A20335000%3BdisplayPrice%3A20335000%3BsinglePromotionId%3A910000049074151%3BsingleToolCode%3AshopPromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.945604048070841&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9740&price=2.0335E%205&review=2139&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1012252449%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1012252449_ID%253Bprice%253A203350%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1012252449%253Bsku_id%253A1514818922%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Madu Susu Pertumbuhan Anak 1-3 Tahun 750gr",
+      "nid": "8696064513",
+      "itemId": "8696064513",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5465027966bd6aa71067867073935752.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp80.000",
+      "discount": "4% Off",
+      "ratingScore": "4.9714285714285715",
+      "review": "135",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/71f8cceec98d8edebb1822b0c98b830b.png",
+          "sku": "8696064513_ID",
+          "skuId": "16132622990",
+          "itemUrl": "/products/pdp-i8696064513.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696064513_ID-16132622990",
+      "skuId": "16132622990",
+      "sku": "8696064513_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "80000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "83500",
+      "clickTrace": "query:Dancow;nid:8696064513;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696064513_ID;price:80000;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696064513;sku_id:16132622990;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "134 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696064513_ID-16132622990"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5465027966bd6aa71067867073935752.png&src=srp_findsimilar&item_id=8696064513&sku_id=16132622990&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=80000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696064513.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132622990%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8000000%3BdisplayPrice%3A8000000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=4.9714285714285715&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=134&price=8E%204&review=135&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696064513%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696064513_ID%253Bprice%253A80000%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696064513%253Bsku_id%253A16132622990%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Rasa Madu 750gr",
+      "nid": "8696074449",
+      "itemId": "8696074449",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6b9fc3aaae3d6d7cbdb9a154d4516be3.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp77.500",
+      "discount": "4% Off",
+      "ratingScore": "5.0",
+      "review": "75",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/a6d5fd0d0dc996a3a84326aecc634023.png",
+          "sku": "8696074449_ID",
+          "skuId": "16132678132",
+          "itemUrl": "/products/pdp-i8696074449.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696074449_ID-16132678132",
+      "skuId": "16132678132",
+      "sku": "8696074449_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "77500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "80900",
+      "clickTrace": "query:Dancow;nid:8696074449;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696074449_ID;price:77500;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696074449;sku_id:16132678132;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "105 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696074449_ID-16132678132"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6b9fc3aaae3d6d7cbdb9a154d4516be3.png&src=srp_findsimilar&item_id=8696074449&sku_id=16132678132&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=77500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696074449.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132678132%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A7750000%3BdisplayPrice%3A7750000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=105&price=7.75E%204&review=75&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696074449%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696074449_ID%253Bprice%253A77500%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696074449%253Bsku_id%253A16132678132%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 3+ Madu Susu Pertumbuhan Anak 3-5 Tahun Box 750gr",
+      "nid": "8696068670",
+      "itemId": "8696068670",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/2da652406c049480d43c480eba8c43ca.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp78.000",
+      "discount": "4% Off",
+      "ratingScore": "5.0",
+      "review": "57",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/12bf998876c44f5ec24ec68dca53547e.png",
+          "sku": "8696068670_ID",
+          "skuId": "16132682117",
+          "itemUrl": "/products/pdp-i8696068670.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696068670_ID-16132682117",
+      "skuId": "16132682117",
+      "sku": "8696068670_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "78000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "81500",
+      "clickTrace": "query:Dancow;nid:8696068670;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696068670_ID;price:78000;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696068670;sku_id:16132682117;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "157 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696068670_ID-16132682117"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2da652406c049480d43c480eba8c43ca.png&src=srp_findsimilar&item_id=8696068670&sku_id=16132682117&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=78000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696068670.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132682117%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A7800000%3BdisplayPrice%3A7800000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031987&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=157&price=7.8E%204&review=57&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696068670%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696068670_ID%253Bprice%253A78000%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696068670%253Bsku_id%253A16132682117%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Cokelat Susu Pertumbuhan Anak 5-6 Tahun Box 750gr",
+      "nid": "8696064652",
+      "itemId": "8696064652",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/d9fc7dce9d7295b3c776b1662ca07a1f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp82.100",
+      "discount": "4% Off",
+      "ratingScore": "4.9375",
+      "review": "57",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/88b3bbb85986775152a88143244b2877.png",
+          "sku": "8696064652_ID",
+          "skuId": "16132646994",
+          "itemUrl": "/products/pdp-i8696064652.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696064652_ID-16132646994",
+      "skuId": "16132646994",
+      "sku": "8696064652_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "82100",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "85760",
+      "clickTrace": "query:Dancow;nid:8696064652;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696064652_ID;price:82100;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696064652;sku_id:16132646994;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "85 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696064652_ID-16132646994"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fd9fc7dce9d7295b3c776b1662ca07a1f.png&src=srp_findsimilar&item_id=8696064652&sku_id=16132646994&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=82100.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696064652.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132646994%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8210000%3BdisplayPrice%3A8210000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.9375&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=85&price=8.21E%204&review=57&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696064652%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696064652_ID%253Bprice%253A82100%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696064652%253Bsku_id%253A16132646994%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestle Dancow 3+ Cokelat Susu Pertumbuhan Anak 3-5 Tahun Box 750gr",
+      "nid": "8696064328",
+      "itemId": "8696064328",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/538a5c287a510fd589ea63e4d269822f.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp82.700",
+      "discount": "4% Off",
+      "ratingScore": "4.948717948717949",
+      "review": "138",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696064328_ID-16132622796",
+      "skuId": "16132622796",
+      "sku": "8696064328_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "82700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "86390",
+      "clickTrace": "query:Dancow;nid:8696064328;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696064328_ID;price:82700;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696064328;sku_id:16132622796;shop_id:8147808;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "165 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696064328_ID-16132622796"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F538a5c287a510fd589ea63e4d269822f.png&src=srp_findsimilar&item_id=8696064328&sku_id=16132622796&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=82700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696064328.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132622796%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8270000%3BdisplayPrice%3A8270000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.948717948717949&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=165&price=8.27E%204&review=138&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696064328%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696064328_ID%253Bprice%253A82700%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696064328%253Bsku_id%253A16132622796%253Bshop_id%253A8147808%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "NESTLE DANCOW FORTI GRO  FULL CREAM 26 GR",
+      "nid": "8831746323",
+      "itemId": "8831746323",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/b6b4fc748762aa2b56275e81f9eeb93d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.800",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kota Medan",
+      "thumbs": [],
+      "sellerName": "INTI JAYA BAKING ",
+      "sellerId": "403562112164",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8831746323_ID-116255902541",
+      "skuId": "116255902541",
+      "sku": "8831746323_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "5800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8831746323;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8831746323_ID;price:5800;client:desktop;supplier_id:403562112164;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:13367;item_id:8831746323;sku_id:116255902541;shop_id:8554244;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8831746323_ID-116255902541"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fb6b4fc748762aa2b56275e81f9eeb93d.jpg&src=srp_findsimilar&item_id=8831746323&sku_id=116255902541&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=5800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8831746323.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116255902541%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A580000%3BdisplayPrice%3A580000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=5.8E%203&review=&location=Kota%20Medan&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8831746323%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8831746323_ID%253Bprice%253A5800%253Bclient%253Adesktop%253Bsupplier_id%253A403562112164%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8831746323%253Bsku_id%253A116255902541%253Bshop_id%253A8554244%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 3+ Vanila Susu Pertumbuhan Anak 3-5 Tahun Box Bundle 4x1Kg (MONTHLY PACK)",
+      "nid": "1131226257",
+      "itemId": "1131226257",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/9490d422cf78595edc979429610b13b9.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp438.151",
+      "ratingScore": "4.924305555555556",
+      "review": "1440",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1131226257_ID-1783678930",
+      "skuId": "1783678930",
+      "sku": "1131226257_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "438151",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:1131226257;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1131226257_ID;price:438151;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:13367;item_id:1131226257;sku_id:1783678930;shop_id:1276298;templateInfo:-1_C#107879_A3_E#",
+      "itemSoldCntShow": "8.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1131226257_ID-1783678930"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F9490d422cf78595edc979429610b13b9.png&src=srp_findsimilar&item_id=1131226257&sku_id=1783678930&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=438151.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1131226257.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1783678930%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A43815100%3BdisplayPrice%3A43815100%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.924305555555556&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8065&price=438151&review=1440&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1131226257%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1131226257_ID%253Bprice%253A438151%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1131226257%253Bsku_id%253A1783678930%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_C%2523107879_A3_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow Baby 2 Susu Formula untuk Bayi Usia 6-12 Bulan 120gr",
+      "nid": "8696156043",
+      "itemId": "8696156043",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7efcdfecaa278654e06385b533c66917.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp12.700",
+      "ratingScore": "5.0",
+      "review": "40",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696156043_ID-16132796548",
+      "skuId": "16132796548",
+      "sku": "8696156043_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13366
+      ],
+      "price": "12700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8696156043;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696156043_ID;price:12700;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:13366;item_id:8696156043;sku_id:16132796548;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "82 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696156043_ID-16132796548"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7efcdfecaa278654e06385b533c66917.jpg&src=srp_findsimilar&item_id=8696156043&sku_id=16132796548&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=12700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696156043.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132796548%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A1270000%3BdisplayPrice%3A1270000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=82&price=1.27E%204&review=40&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696156043%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696156043_ID%253Bprice%253A12700%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13366%253Bitem_id%253A8696156043%253Bsku_id%253A16132796548%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "SUSU BUBUK ANAK INSTANT DANCOW VANILLA FORTIGRO 27g RENCENG ISI 10 SACHET",
+      "nid": "7841138583",
+      "itemId": "7841138583",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sdd0fd8c06ec842c2a74af9908a09838db.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp46.167",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Makassar",
+      "thumbs": [],
+      "sellerName": "Supersembako88",
+      "sellerId": "401506912941",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "7841138583_ID-14267796693",
+      "skuId": "14267796693",
+      "sku": "7841138583_ID",
+      "categories": [
+        9645,
+        10003011,
+        10003042,
+        10003183
+      ],
+      "price": "46167",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:7841138583;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:7841138583_ID;price:46167;client:desktop;supplier_id:401506912941;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:10003183;item_id:7841138583;sku_id:14267796693;shop_id:6664444;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "17 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7841138583_ID-14267796693"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSdd0fd8c06ec842c2a74af9908a09838db.jpg&src=srp_findsimilar&item_id=7841138583&sku_id=14267796693&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=46167.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7841138583.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14267796693%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A4616700%3BdisplayPrice%3A4616700%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=17&price=46167&review=2&location=Kota%20Makassar&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A7841138583%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A7841138583_ID%253Bprice%253A46167%253Bclient%253Adesktop%253Bsupplier_id%253A401506912941%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003183%253Bitem_id%253A7841138583%253Bsku_id%253A14267796693%253Bshop_id%253A6664444%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 3+ Madu Susu Pertumbuhan Anak 3-5 Tahun Box Bundle 4x1Kg (MONTHLY PACK)",
+      "nid": "1131198596",
+      "itemId": "1131198596",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b1daffd13ae60c01ae8c2f7d8a3efd82.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp438.151",
+      "ratingScore": "4.909375",
+      "review": "1280",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1131198596_ID-1783680626",
+      "skuId": "1783680626",
+      "sku": "1131198596_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "438151",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:1131198596;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1131198596_ID;price:438151;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:13367;item_id:1131198596;sku_id:1783680626;shop_id:1276298;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1131198596_ID-1783680626"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb1daffd13ae60c01ae8c2f7d8a3efd82.png&src=srp_findsimilar&item_id=1131198596&sku_id=1783680626&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=438151.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1131198596.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1783680626%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A43815100%3BdisplayPrice%3A43815100%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.909375&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8151&price=438151&review=1280&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1131198596%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1131198596_ID%253Bprice%253A438151%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A1131198596%253Bsku_id%253A1783680626%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 5+ Rasa Vanila 5-6 Tahun 350gr",
+      "nid": "8696146748",
+      "itemId": "8696146748",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/64425f276710e2e2334aa889314339bb.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp37.900",
+      "discount": "4% Off",
+      "ratingScore": "5.0",
+      "review": "33",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696146748_ID-16132804406",
+      "skuId": "16132804406",
+      "sku": "8696146748_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "37900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "39500",
+      "clickTrace": "query:Dancow;nid:8696146748;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696146748_ID;price:37900;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:13367;item_id:8696146748;sku_id:16132804406;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "16 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696146748_ID-16132804406"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F64425f276710e2e2334aa889314339bb.png&src=srp_findsimilar&item_id=8696146748&sku_id=16132804406&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=37900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696146748.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132804406%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A3790000%3BdisplayPrice%3A3790000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16&price=3.79E%204&review=33&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696146748%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696146748_ID%253Bprice%253A37900%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A8696146748%253Bsku_id%253A16132804406%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestle DANCOW 1+ Vanila Box 1Kg Susu Pertumbuhan Anak 1-3 Tahun Bundle 4x1Kg (MONTHLY PACK)",
+      "nid": "1131204477",
+      "itemId": "1131204477",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  6% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/5906e980c082262773968d49c9506d5d.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp420.550",
+      "discount": "6% Off",
+      "ratingScore": "4.925720620842572",
+      "review": "902",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1131204477_ID-1783652766",
+      "skuId": "1783652766",
+      "sku": "1131204477_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "420550",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "446105",
+      "clickTrace": "query:Dancow;nid:1131204477;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1131204477_ID;price:420550;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:15819;item_id:1131204477;sku_id:1783652766;shop_id:1276298;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "4.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1131204477_ID-1783652766"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F5906e980c082262773968d49c9506d5d.jpg&src=srp_findsimilar&item_id=1131204477&sku_id=1783652766&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=420550.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1131204477.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1783652766%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A42055000%3BdisplayPrice%3A42055000%3BsinglePromotionId%3A910000049074151%3BsingleToolCode%3AshopPromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.925720620842572&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4396&price=4.2055E%205&review=902&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1131204477%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1131204477_ID%253Bprice%253A420550%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A1131204477%253Bsku_id%253A1783652766%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Dancaw 1 Renceng 10 Pcs",
+      "nid": "6973928049",
+      "itemId": "6973928049",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S5c6e7e755e7247cb9692f71b77e50df33.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp43.000",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kab. Lebak",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S5c6e7e755e7247cb9692f71b77e50df33.jpg",
+          "sku": "6973928049_ID",
+          "skuId": "13203926847",
+          "itemUrl": "/products/pdp-i6973928049.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S5c6e7e755e7247cb9692f71b77e50df33.jpg",
+          "sku": "6973928049_ID",
+          "skuId": "13203926846",
+          "itemUrl": "/products/pdp-i6973928049.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Bumi Maja Wiratama",
+      "sellerId": "400620642717",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "6973928049_ID-13203926847",
+      "skuId": "13203926847",
+      "sku": "6973928049_ID",
+      "categories": [
+        9645,
+        9646,
+        18156,
+        10003026,
+        10003116
+      ],
+      "price": "43000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:6973928049;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:6973928049_ID;price:43000;client:desktop;supplier_id:400620642717;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:10003116;item_id:6973928049;sku_id:13203926847;shop_id:4062827;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "6 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6973928049_ID-13203926847"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS5c6e7e755e7247cb9692f71b77e50df33.jpg&src=srp_findsimilar&item_id=6973928049&sku_id=13203926847&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=43000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6973928049.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13203926847%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A4300000%3BdisplayPrice%3A4300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=4.3E%204&review=1&location=Kab.%20Lebak&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A6973928049%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A6973928049_ID%253Bprice%253A43000%253Bclient%253Adesktop%253Bsupplier_id%253A400620642717%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10003116%253Bitem_id%253A6973928049%253Bsku_id%253A13203926847%253Bshop_id%253A4062827%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "D4NC0W fortigro SUSU BUBUK 390gram",
+      "nid": "8687918443",
+      "itemId": "8687918443",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S2d692c0949cb483a87dbdf8669c210d2M.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp66.900",
+      "ratingScore": "5.0",
+      "review": "1",
+      "location": "Kota Surabaya",
+      "thumbs": [],
+      "sellerName": "UD. Avee Babyshop & Bhaskara Mart",
+      "sellerId": "400999888338",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8687918443_ID-16126140741",
+      "skuId": "16126140741",
+      "sku": "8687918443_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "66900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8687918443;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8687918443_ID;price:66900;client:desktop;supplier_id:400999888338;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:18203;item_id:8687918443;sku_id:16126140741;shop_id:6224210;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8687918443_ID-16126140741"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS2d692c0949cb483a87dbdf8669c210d2M.jpg&src=srp_findsimilar&item_id=8687918443&sku_id=16126140741&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=66900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8687918443.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16126140741%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A6690000%3BdisplayPrice%3A6690000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=6.69E%204&review=1&location=Kota%20Surabaya&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8687918443%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8687918443_ID%253Bprice%253A66900%253Bclient%253Adesktop%253Bsupplier_id%253A400999888338%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8687918443%253Bsku_id%253A16126140741%253Bshop_id%253A6224210%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestle DANCOW 1+ Madu Box 1Kg Susu Pertumbuhan Anak 1-3 Tahun Bundle 4x1Kg (MONTHLY PACK)",
+      "nid": "1131170516",
+      "itemId": "1131170516",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/f12bf5ec115cc1505f4608b80b8ed368.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp446.105",
+      "ratingScore": "4.916296296296296",
+      "review": "1350",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1131170516_ID-1783666077",
+      "skuId": "1783666077",
+      "sku": "1131170516_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "446105",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:1131170516;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1131170516_ID;price:446105;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:15819;item_id:1131170516;sku_id:1783666077;shop_id:1276298;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "8.1K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1131170516_ID-1783666077"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Ff12bf5ec115cc1505f4608b80b8ed368.png&src=srp_findsimilar&item_id=1131170516&sku_id=1783666077&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=446105.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1131170516.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1783666077%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A44610500%3BdisplayPrice%3A44610500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.916296296296296&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8132&price=446105&review=1350&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1131170516%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1131170516_ID%253Bprice%253A446105%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A1131170516%253Bsku_id%253A1783666077%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "DANCOW GROW PLUS 400 GRAM/NEW DANCOW  GRO PLUS 400 GRAM",
+      "nid": "8630522451",
+      "itemId": "8630522451",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/47951bfefe66bf6832c965eb5a0bf8df.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp78.950",
+      "ratingScore": "4.645161290322581",
+      "review": "31",
+      "location": "Kota Cimahi",
+      "thumbs": [],
+      "sellerName": "anwie",
+      "sellerId": "100106198",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8630522451_ID-16232570594",
+      "skuId": "16232570594",
+      "sku": "8630522451_ID",
+      "categories": [
+        10100869,
+        3835,
+        6311,
+        6356
+      ],
+      "price": "78950",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8630522451;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8630522451_ID;price:78950;client:desktop;supplier_id:100106198;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:6356;item_id:8630522451;sku_id:16232570594;shop_id:2655;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "125 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8630522451_ID-16232570594"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F47951bfefe66bf6832c965eb5a0bf8df.jpg&src=srp_findsimilar&item_id=8630522451&sku_id=16232570594&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=78950.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8630522451.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16232570594%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A7895000%3BdisplayPrice%3A7895000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.645161290322581&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=125&price=7.895E%204&review=31&location=Kota%20Cimahi&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8630522451%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8630522451_ID%253Bprice%253A78950%253Bclient%253Adesktop%253Bsupplier_id%253A100106198%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A6356%253Bitem_id%253A8630522451%253Bsku_id%253A16232570594%253Bshop_id%253A2655%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 5+ Vanila Susu Pertumbuhan Anak 5-6 Tahun Box 750g",
+      "nid": "7590358287",
+      "itemId": "7590358287",
+      "icons": [
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/90f7b3dc27e1f2a65f9f683051c47b6b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp80.900",
+      "ratingScore": "4.9128086419753085",
+      "review": "1296",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "7590358287_ID-13999972436",
+      "skuId": "13999972436",
+      "sku": "7590358287_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        13367
+      ],
+      "price": "80900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:7590358287;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:7590358287_ID;price:80900;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:13367;item_id:7590358287;sku_id:13999972436;shop_id:1276298;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "9.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7590358287_ID-13999972436"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F90f7b3dc27e1f2a65f9f683051c47b6b.jpg&src=srp_findsimilar&item_id=7590358287&sku_id=13999972436&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=80900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7590358287.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13999972436%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8090000%3BdisplayPrice%3A8090000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.9128086419753085&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9373&price=8.09E%204&review=1296&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A7590358287%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A7590358287_ID%253Bprice%253A80900%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A13367%253Bitem_id%253A7590358287%253Bsku_id%253A13999972436%253Bshop_id%253A1276298%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Nestlé Dancow 3+ Rasa Vanila 3-5 Tahun 1kg x2",
+      "nid": "8696056921",
+      "itemId": "8696056921",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  4% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/533090520e904bf6358aba6dc09ec963.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp209.600",
+      "discount": "4% Off",
+      "ratingScore": "5.0",
+      "review": "116",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696056921_ID-16132646784",
+      "skuId": "16132646784",
+      "sku": "8696056921_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "209600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "219075",
+      "clickTrace": "query:Dancow;nid:8696056921;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696056921_ID;price:209600;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696056921;sku_id:16132646784;shop_id:8147808;templateInfo:-1_A3#107879_C_E#",
+      "itemSoldCntShow": "72 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696056921_ID-16132646784"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F533090520e904bf6358aba6dc09ec963.jpg&src=srp_findsimilar&item_id=8696056921&sku_id=16132646784&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=209600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696056921.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132646784%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A20960000%3BdisplayPrice%3A20960000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=72&price=2.096E%205&review=116&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696056921%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696056921_ID%253Bprice%253A209600%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696056921%253Bsku_id%253A16132646784%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3%2523107879_C_E%2523"
+    },
+    {
+      "name": "Nestlé DANCOW 1+ Madu Susu Pertumbuhan Anak 1-3 Tahun Box Bundle 2x1Kg",
+      "nid": "1012252447",
+      "itemId": "1012252447",
+      "icons": [
+        {
+          "domClass": "105286",
+          "text": "Jaminan Harga Terendah",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "LPG"
+        },
+        {
+          "domClass": "215498",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "campaign"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7fe955ddfa6099a2da25117feb621210.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp210.500",
+      "discount": "6% Off",
+      "ratingScore": "4.937647455342097",
+      "review": "3772",
+      "location": "Kota Depok",
+      "thumbs": [],
+      "sellerName": "Lazada Retail Baby Store",
+      "sellerId": "400590681014",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "1012252447_ID-1514818920",
+      "skuId": "1514818920",
+      "sku": "1012252447_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "210500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "223053",
+      "clickTrace": "query:Dancow;nid:1012252447;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:1012252447_ID;price:210500;client:desktop;supplier_id:400590681014;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:15819;item_id:1012252447;sku_id:1514818920;shop_id:1276298;templateInfo:155356_D_E_G#-1_A3_C#",
+      "itemSoldCntShow": "15.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "1012252447_ID-1514818920"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7fe955ddfa6099a2da25117feb621210.png&src=srp_findsimilar&item_id=1012252447&sku_id=1514818920&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=210500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i1012252447.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A1514818920%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A21050000%3BdisplayPrice%3A21050000%3BsinglePromotionId%3A910000048955407%3BsingleToolCode%3AmillionSubsidy%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=4.937647455342097&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=15266&price=2.105E%205&review=3772&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A1012252447%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A1012252447_ID%253Bprice%253A210500%253Bclient%253Adesktop%253Bsupplier_id%253A400590681014%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A1012252447%253Bsku_id%253A1514818920%253Bshop_id%253A1276298%253BtemplateInfo%253A155356_D_E_G%2523-1_A3_C%2523"
+    },
+    {
+      "name": "Nestlé Dancow 1+ Rasa Vanila Susu Pertumbuhan Anak 1-3 Tahun 750gr",
+      "nid": "8696138331",
+      "itemId": "8696138331",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  1% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        },
+        {
+          "domClass": "216208",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazmom"
+        },
+        {
+          "domClass": "68676",
+          "type": "img",
+          "group": "3",
+          "showType": "0",
+          "bizType": "lazMallDaily"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/45869b25d40a7086ba6e57d95936d8a9.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp82.900",
+      "discount": "1% Off",
+      "ratingScore": "5.0",
+      "review": "88",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/84d4c82d749c75559b496f2fdf77b1c2.png",
+          "sku": "8696138331_ID",
+          "skuId": "16132778672",
+          "itemUrl": "/products/pdp-i8696138331.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dancow by LazMart",
+      "sellerId": "403381456067",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8696138331_ID-16132778672",
+      "skuId": "16132778672",
+      "sku": "8696138331_ID",
+      "categories": [
+        13361,
+        10100747,
+        13363,
+        15819
+      ],
+      "price": "82900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "83500",
+      "clickTrace": "query:Dancow;nid:8696138331;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8696138331_ID;price:82900;client:desktop;supplier_id:403381456067;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:15819;item_id:8696138331;sku_id:16132778672;shop_id:8147808;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "91 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8696138331_ID-16132778672"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F45869b25d40a7086ba6e57d95936d8a9.png&src=srp_findsimilar&item_id=8696138331&sku_id=16132778672&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=82900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8696138331.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16132778672%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A8290000%3BdisplayPrice%3A8290000%3BsinglePromotionId%3A910000048564783%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=91&price=8.29E%204&review=88&location=Kota%20Depok&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8696138331%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8696138331_ID%253Bprice%253A82900%253Bclient%253Adesktop%253Bsupplier_id%253A403381456067%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15819%253Bitem_id%253A8696138331%253Bsku_id%253A16132778672%253Bshop_id%253A8147808%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "dancow fortigro bubuk sachet isi 2",
+      "nid": "8607396698",
+      "itemId": "8607396698",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/c1c92d3138ceef78d18fd9d3822a7e0b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.700",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Sleman",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/c1c92d3138ceef78d18fd9d3822a7e0b.jpg",
+          "sku": "8607396698_ID",
+          "skuId": "16010992449",
+          "itemUrl": "/products/pdp-i8607396698.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Aystsa",
+      "sellerId": "403262848382",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8607396698_ID-16010992450",
+      "skuId": "16010992450",
+      "sku": "8607396698_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "9700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8607396698;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8607396698_ID;price:9700;client:desktop;supplier_id:403262848382;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:18203;item_id:8607396698;sku_id:16010992450;shop_id:7849820;templateInfo:107879_A3_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8607396698_ID-16010992450"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fc1c92d3138ceef78d18fd9d3822a7e0b.jpg&src=srp_findsimilar&item_id=8607396698&sku_id=16010992450&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=9700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8607396698.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16010992450%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A970000%3BdisplayPrice%3A970000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=9.7E%203&review=&location=Kab.%20Sleman&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8607396698%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8607396698_ID%253Bprice%253A9700%253Bclient%253Adesktop%253Bsupplier_id%253A403262848382%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8607396698%253Bsku_id%253A16010992450%253Bshop_id%253A7849820%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "dancow fortigro bubuk sachet isi 2",
+      "nid": "8364068172",
+      "itemId": "8364068172",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/c1c92d3138ceef78d18fd9d3822a7e0b.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.700",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Klaten",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/c1c92d3138ceef78d18fd9d3822a7e0b.jpg",
+          "sku": "8364068172_ID",
+          "skuId": "14790618460",
+          "itemUrl": "/products/pdp-i8364068172.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Ardsaa Store ",
+      "sellerId": "401680208442",
+      "brandName": "Dancow",
+      "brandId": "5781",
+      "cheapest_sku": "8364068172_ID-14790618459",
+      "skuId": "14790618459",
+      "sku": "8364068172_ID",
+      "categories": [
+        10100869,
+        3835,
+        6310,
+        18203
+      ],
+      "price": "9700",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Dancow;nid:8364068172;src:LazadaMainSrp;rn:6ea839b4cbcc33e57a1d778e279f1939;region:id;sku:8364068172_ID;price:9700;client:desktop;supplier_id:401680208442;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:18203;item_id:8364068172;sku_id:14790618459;shop_id:6847765;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8364068172_ID-14790618459"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fc1c92d3138ceef78d18fd9d3822a7e0b.jpg&src=srp_findsimilar&item_id=8364068172&sku_id=14790618459&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Dancow&similarType=findSimilarV1&price=9700.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8364068172.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14790618459%3Bsource%3Alazada-search-voucher%3Bsn%3A6ea839b4cbcc33e57a1d778e279f1939%3BoriginPrice%3A970000%3BdisplayPrice%3A970000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779331031988&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9.7E%203&review=&location=Kab.%20Klaten&stock=1&lang=id&request_id=6ea839b4cbcc33e57a1d778e279f1939&clickTrackInfo=query%253ADancow%253Bnid%253A8364068172%253Bsrc%253ALazadaMainSrp%253Brn%253A6ea839b4cbcc33e57a1d778e279f1939%253Bregion%253Aid%253Bsku%253A8364068172_ID%253Bprice%253A9700%253Bclient%253Adesktop%253Bsupplier_id%253A401680208442%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A18203%253Bitem_id%253A8364068172%253Bsku_id%253A14790618459%253Bshop_id%253A6847765%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    }
+  ]
+}

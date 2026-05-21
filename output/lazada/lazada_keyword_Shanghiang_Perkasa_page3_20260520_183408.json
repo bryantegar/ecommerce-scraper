@@ -1,0 +1,3732 @@
+{
+  "platform": "lazada",
+  "job_type": "keyword",
+  "name": "Shanghiang Perkasa",
+  "page": 3,
+  "job_id": "bc926c00-1459-4b72-93cf-17464f0b816f",
+  "scraped_at": "2026-05-20T18:34:08.854965",
+  "total_items": 40,
+  "items": [
+    {
+      "name": "Peluit Hitam 2pcs Acme Satpam Suara Kencang Security",
+      "nid": "6901698954",
+      "itemId": "6901698954",
+      "icons": [],
+      "image": "https://sg-test-11.slatic.net/p/69b9e7cc009cfb6471a1ea3710276be2.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp6.600",
+      "ratingScore": "4.602941176470588",
+      "review": "68",
+      "location": "Kab. Bandung Barat",
+      "thumbs": [],
+      "sellerName": "Pangeran Pramuka",
+      "sellerId": "29881",
+      "brandName": "Acme",
+      "brandId": "17",
+      "cheapest_sku": "6901698954_ID-13078646870",
+      "skuId": "13078646870",
+      "sku": "6901698954_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "6600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6901698954;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6901698954_ID;price:6600;client:desktop;supplier_id:29881;session_id:;biz_source:h5_internal;slot:0;utlog_bucket_id:470687;asc_category_id:15449;item_id:6901698954;sku_id:13078646870;shop_id:18794;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "231 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6901698954_ID-13078646870"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2F69b9e7cc009cfb6471a1ea3710276be2.jpg&src=srp_findsimilar&item_id=6901698954&sku_id=13078646870&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=6600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6901698954.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13078646870%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A660000%3BdisplayPrice%3A660000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.602941176470588&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=231&price=6.6E%203&review=68&location=Kab.%20Bandung%20Barat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6901698954%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6901698954_ID%253Bprice%253A6600%253Bclient%253Adesktop%253Bsupplier_id%253A29881%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A6901698954%253Bsku_id%253A13078646870%253Bshop_id%253A18794%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Paket 1 Lusin Cone Kerucut Lentur untuk latihan olahraga Sepakbola",
+      "nid": "6382912496",
+      "itemId": "6382912496",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/2afaea3418d1bc93ad3d734022a0cbdb.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp74.500",
+      "ratingScore": "4.893203883495145",
+      "review": "206",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-live-01.slatic.net/p/7a5e03edfc6721eafe77307f5605d4b6.png",
+          "sku": "6382912496_ID",
+          "skuId": "12100438571",
+          "itemUrl": "/products/pdp-i6382912496.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-live-01.slatic.net/p/aeb477e6485ea0110d9f2383d7686e2d.jpg",
+          "sku": "6382912496_ID",
+          "skuId": "12100438572",
+          "itemUrl": "/products/pdp-i6382912496.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-live-01.slatic.net/p/20cadab396c875e6aee59d7b1e4880a3.jpg",
+          "sku": "6382912496_ID",
+          "skuId": "12100438573",
+          "itemUrl": "/products/pdp-i6382912496.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "YURONG_STORE",
+      "sellerId": "400613514118",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6382912496_ID-12100438571",
+      "skuId": "12100438571",
+      "sku": "6382912496_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "74500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6382912496;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6382912496_ID;price:74500;client:desktop;supplier_id:400613514118;session_id:;biz_source:h5_internal;slot:1;utlog_bucket_id:470687;asc_category_id:15449;item_id:6382912496;sku_id:12100438571;shop_id:3443287;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "620 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6382912496_ID-12100438571"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2afaea3418d1bc93ad3d734022a0cbdb.jpg&src=srp_findsimilar&item_id=6382912496&sku_id=12100438571&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=74500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6382912496.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A12100438571%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A7450000%3BdisplayPrice%3A7450000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.893203883495145&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=620&price=7.45E%204&review=206&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6382912496%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6382912496_ID%253Bprice%253A74500%253Bclient%253Adesktop%253Bsupplier_id%253A400613514118%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A6382912496%253Bsku_id%253A12100438571%253Bshop_id%253A3443287%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PROMO 10 PCS Meterai Asli 10000 / tempel Rp10000 Original",
+      "nid": "18834383205",
+      "itemId": "18834383205",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  45% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/4d67825db289fbe8ba7af0af5ee937c2.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp66.500",
+      "discount": "45% Off",
+      "ratingScore": "4.333333333333333",
+      "review": "6",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Nature's ID",
+      "sellerId": "1000309355",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18834383205_ID-116260740307",
+      "skuId": "116260740307",
+      "sku": "18834383205_ID",
+      "categories": [
+        16337,
+        16369,
+        62550805,
+        16706
+      ],
+      "price": "66500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "120000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18834383205;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18834383205_ID;price:66500;client:desktop;supplier_id:1000309355;session_id:;biz_source:h5_internal;slot:2;utlog_bucket_id:470687;asc_category_id:16706;item_id:18834383205;sku_id:116260740307;shop_id:798779;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "22 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18834383205_ID-116260740307"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F4d67825db289fbe8ba7af0af5ee937c2.png&src=srp_findsimilar&item_id=18834383205&sku_id=116260740307&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=66500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18834383205.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116260740307%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A6650000%3BdisplayPrice%3A6650000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.333333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=22&price=6.65E%204&review=6&location=Kab.%20Bogor&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18834383205%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18834383205_ID%253Bprice%253A66500%253Bclient%253Adesktop%253Bsupplier_id%253A1000309355%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16706%253Bitem_id%253A18834383205%253Bsku_id%253A116260740307%253Bshop_id%253A798779%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Speeds Peluit Wasit Elektronik Whistle Olahraga Periwitan Sports Referee 3 Mode Portable 007-19",
+      "nid": "8074550107",
+      "itemId": "8074550107",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  10% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/6cfe286a343ce115dea41543d27cdad1.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp77.625",
+      "discount": "10% Off",
+      "ratingScore": "4.580645161290323",
+      "review": "31",
+      "location": "Kab. Sidoarjo",
+      "thumbs": [],
+      "sellerName": "Loveseasport",
+      "sellerId": "401869744518",
+      "brandName": "SPEEDS",
+      "brandId": "48379",
+      "cheapest_sku": "8074550107_ID-14466452054",
+      "skuId": "14466452054",
+      "sku": "8074550107_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "77625",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "86250",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8074550107;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8074550107_ID;price:77625;client:desktop;supplier_id:401869744518;session_id:;biz_source:h5_internal;slot:3;utlog_bucket_id:470687;asc_category_id:15449;item_id:8074550107;sku_id:14466452054;shop_id:7084118;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "66 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8074550107_ID-14466452054"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F6cfe286a343ce115dea41543d27cdad1.jpg&src=srp_findsimilar&item_id=8074550107&sku_id=14466452054&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=77625.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8074550107.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14466452054%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A7762500%3BdisplayPrice%3A7762500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.580645161290323&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=66&price=77625&review=31&location=Kab.%20Sidoarjo&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8074550107%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8074550107_ID%253Bprice%253A77625%253Bclient%253Adesktop%253Bsupplier_id%253A401869744518%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A8074550107%253Bsku_id%253A14466452054%253Bshop_id%253A7084118%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PROMO Meterai Asli 10000 / tempel Rp10000 Original",
+      "nid": "5105252884",
+      "itemId": "5105252884",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  45% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/7f83633f259f7b303532be14baa03e33.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp66.500",
+      "discount": "45% Off",
+      "ratingScore": "4.820652173913044",
+      "review": "181",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Nature's ID",
+      "sellerId": "1000309355",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "5105252884_ID-16045842454",
+      "skuId": "16045842454",
+      "sku": "5105252884_ID",
+      "categories": [
+        16337,
+        16369,
+        62550805,
+        16706
+      ],
+      "price": "66500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "120000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:5105252884;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:5105252884_ID;price:66500;client:desktop;supplier_id:1000309355;session_id:;biz_source:h5_internal;slot:4;utlog_bucket_id:470687;asc_category_id:16706;item_id:5105252884;sku_id:16045842454;shop_id:798779;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "683 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "5105252884_ID-16045842454"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F7f83633f259f7b303532be14baa03e33.jpg&src=srp_findsimilar&item_id=5105252884&sku_id=16045842454&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=66500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i5105252884.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16045842454%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A6650000%3BdisplayPrice%3A6650000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.820652173913044&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=683&price=6.65E%204&review=181&location=Kab.%20Bogor&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A5105252884%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A5105252884_ID%253Bprice%253A66500%253Bclient%253Adesktop%253Bsupplier_id%253A1000309355%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16706%253Bitem_id%253A5105252884%253Bsku_id%253A16045842454%253Bshop_id%253A798779%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "Essen raja empang paling ampuh dlm segala jenis cuaca di jamin gacor",
+      "nid": "8789886323",
+      "itemId": "8789886323",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  73% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Scd9af18eec0145fda8b8d511fbaed4f1O.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp15.000",
+      "discount": "73% Off",
+      "ratingScore": "5.0",
+      "review": "0",
+      "location": "Kab. Bandung",
+      "thumbs": [],
+      "sellerName": "NARJI FISHING CAGUR STORE",
+      "sellerId": "400775856019",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8789886323_ID-16233806419",
+      "skuId": "16233806419",
+      "sku": "8789886323_ID",
+      "categories": [
+        2994,
+        5249,
+        7920,
+        15636
+      ],
+      "price": "15000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "55000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8789886323;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8789886323_ID;price:15000;client:desktop;supplier_id:400775856019;session_id:;biz_source:h5_internal;slot:5;utlog_bucket_id:470687;asc_category_id:15636;item_id:8789886323;sku_id:16233806419;shop_id:5866842;templateInfo:-1_A3_C#107879_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8789886323_ID-16233806419"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FScd9af18eec0145fda8b8d511fbaed4f1O.jpg&src=srp_findsimilar&item_id=8789886323&sku_id=16233806419&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=15000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8789886323.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16233806419%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1500000%3BdisplayPrice%3A1500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4&price=1.5E%204&review=0&location=Kab.%20Bandung&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8789886323%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8789886323_ID%253Bprice%253A15000%253Bclient%253Adesktop%253Bsupplier_id%253A400775856019%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15636%253Bitem_id%253A8789886323%253Bsku_id%253A16233806419%253Bshop_id%253A5866842%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "DISNEY HOTSTAR PREMIUM",
+      "nid": "7546420492",
+      "itemId": "7546420492",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  31% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0c53292e69e886509b8dce03e51e6bc8.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp27.500",
+      "discount": "31% Off",
+      "ratingScore": "4.599388379204893",
+      "review": "327",
+      "location": "Kota Pontianak",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/0c53292e69e886509b8dce03e51e6bc8.jpg",
+          "sku": "7546420492_ID",
+          "skuId": "14277348714",
+          "itemUrl": "/products/pdp-i7546420492.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/0c53292e69e886509b8dce03e51e6bc8.jpg",
+          "sku": "7546420492_ID",
+          "skuId": "14277348715",
+          "itemUrl": "/products/pdp-i7546420492.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "tokoakun.indonesia",
+      "sellerId": "401159392033",
+      "brandName": "Digital",
+      "brandId": "9153",
+      "cheapest_sku": "7546420492_ID-14277348714",
+      "skuId": "14277348714",
+      "sku": "7546420492_ID",
+      "categories": [
+        10676,
+        62357202,
+        18730,
+        10100033
+      ],
+      "price": "27500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "40000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7546420492;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7546420492_ID;price:27500;client:desktop;supplier_id:401159392033;session_id:;biz_source:h5_internal;slot:6;utlog_bucket_id:470687;asc_category_id:10100033;item_id:7546420492;sku_id:14277348714;shop_id:6351310;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "733 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7546420492_ID-14277348714"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0c53292e69e886509b8dce03e51e6bc8.jpg&src=srp_findsimilar&item_id=7546420492&sku_id=14277348714&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=27500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7546420492.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14277348714%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A2750000%3BdisplayPrice%3A2750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.599388379204893&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=733&price=2.75E%204&review=327&location=Kota%20Pontianak&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7546420492%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7546420492_ID%253Bprice%253A27500%253Bclient%253Adesktop%253Bsupplier_id%253A401159392033%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100033%253Bitem_id%253A7546420492%253Bsku_id%253A14277348714%253Bshop_id%253A6351310%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "PRODUK TERCEPAT DALAM PENGISIAN DNA DIGITAL",
+      "nid": "18833263014",
+      "itemId": "18833263014",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp268.000",
+      "ratingScore": "4.75",
+      "review": "40",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441029",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116264620816",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441025",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116264620819",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441026",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441027",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116264620817",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441028",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116264620818",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441032",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441033",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441023",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441024",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441030",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116260441031",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0ee5cfb3134b4f96a10cdba35599547b5.jpg",
+          "sku": "18833263014_ID",
+          "skuId": "116264620820",
+          "itemUrl": "/products/pdp-i18833263014.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "BERKAH MEDSOS1",
+      "sellerId": "401465936879",
+      "brandName": "Media",
+      "brandId": "1103",
+      "cheapest_sku": "18833263014_ID-116264620816",
+      "skuId": "116264620816",
+      "sku": "18833263014_ID",
+      "categories": [
+        10100047,
+        10002974,
+        10002980,
+        10002999
+      ],
+      "price": "268000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18833263014;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18833263014_ID;price:268000;client:desktop;supplier_id:401465936879;session_id:;biz_source:h5_internal;slot:7;utlog_bucket_id:470687;asc_category_id:10002999;item_id:18833263014;sku_id:116264620816;shop_id:6626555;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "116 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18833263014_ID-116264620816"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS0ee5cfb3134b4f96a10cdba35599547b5.jpg&src=srp_findsimilar&item_id=18833263014&sku_id=116264620816&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=268000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18833263014.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116264620816%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A26800000%3BdisplayPrice%3A26800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.75&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=116&price=2.68E%205&review=40&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18833263014%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18833263014_ID%253Bprice%253A268000%253Bclient%253Adesktop%253Bsupplier_id%253A401465936879%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002999%253Bitem_id%253A18833263014%253Bsku_id%253A116264620816%253Bshop_id%253A6626555%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Papan Strategi Football / Papan Strategi Untuk Taktik Pelatih Sepak Bola Atau Futsal",
+      "nid": "8653056917",
+      "itemId": "8653056917",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  67% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/f506df0efc3bef9f7f3d75e3baf6ff2f.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp51.895",
+      "discount": "67% Off",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/7106ca4d29ba0d43550a639f6b1eeaf1.jpg",
+          "sku": "8653056917_ID",
+          "skuId": "16081454057",
+          "itemUrl": "/products/pdp-i8653056917.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "TOP TOOL ID",
+      "sellerId": "402621328117",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8653056917_ID-16081454057",
+      "skuId": "16081454057",
+      "sku": "8653056917_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "51895",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "155000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8653056917;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8653056917_ID;price:51895;client:desktop;supplier_id:402621328117;session_id:;biz_source:h5_internal;slot:8;utlog_bucket_id:470687;asc_category_id:15449;item_id:8653056917;sku_id:16081454057;shop_id:7736895;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "8 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8653056917_ID-16081454057"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Ff506df0efc3bef9f7f3d75e3baf6ff2f.jpg&src=srp_findsimilar&item_id=8653056917&sku_id=16081454057&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=51895.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8653056917.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16081454057%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A5189500%3BdisplayPrice%3A5189500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=51895&review=2&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8653056917%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8653056917_ID%253Bprice%253A51895%253Bclient%253Adesktop%253Bsupplier_id%253A402621328117%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A8653056917%253Bsku_id%253A16081454057%253Bshop_id%253A7736895%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Peluit Wasit Pramuka Isi 12 Pcs MERAH",
+      "nid": "6071638662",
+      "itemId": "6071638662",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Se448a0c78a644158bbf64e875b78b2fan.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.999",
+      "ratingScore": "4.93010752688172",
+      "review": "558",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [],
+      "sellerName": "Bul88 Shop",
+      "sellerId": "100377932",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6071638662_ID-11641878886",
+      "skuId": "11641878886",
+      "sku": "6071638662_ID",
+      "categories": [
+        16337,
+        16369,
+        62550805,
+        16706
+      ],
+      "price": "17999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6071638662;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6071638662_ID;price:17999;client:desktop;supplier_id:100377932;session_id:;biz_source:h5_internal;slot:9;utlog_bucket_id:470687;asc_category_id:16706;item_id:6071638662;sku_id:11641878886;shop_id:491936;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.2K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6071638662_ID-11641878886"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSe448a0c78a644158bbf64e875b78b2fan.jpg&src=srp_findsimilar&item_id=6071638662&sku_id=11641878886&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=17999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6071638662.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11641878886%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.93010752688172&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3229&price=17999&review=558&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6071638662%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6071638662_ID%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A100377932%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16706%253Bitem_id%253A6071638662%253Bsku_id%253A11641878886%253Bshop_id%253A491936%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "LOKLOK VIP PREMIUM TERMURAH 1 BULAN",
+      "nid": "8667004690",
+      "itemId": "8667004690",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  48% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/2eda3305f55ce7b2f4a58abb8a6fa760.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp26.000",
+      "discount": "48% Off",
+      "ratingScore": "4.666666666666667",
+      "review": "14",
+      "location": "Kota Pontianak",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/2eda3305f55ce7b2f4a58abb8a6fa760.jpg",
+          "sku": "8667004690_ID",
+          "skuId": "16103682797",
+          "itemUrl": "/products/pdp-i8667004690.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2eda3305f55ce7b2f4a58abb8a6fa760.jpg",
+          "sku": "8667004690_ID",
+          "skuId": "116261340604",
+          "itemUrl": "/products/pdp-i8667004690.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "tokoakun.indonesia",
+      "sellerId": "401159392033",
+      "brandName": "Media",
+      "brandId": "1103",
+      "cheapest_sku": "8667004690_ID-16103682797",
+      "skuId": "16103682797",
+      "sku": "8667004690_ID",
+      "categories": [
+        10676,
+        18680,
+        10100057
+      ],
+      "price": "26000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "50000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8667004690;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8667004690_ID;price:26000;client:desktop;supplier_id:401159392033;session_id:;biz_source:h5_internal;slot:10;utlog_bucket_id:470687;asc_category_id:10100057;item_id:8667004690;sku_id:16103682797;shop_id:6351310;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "54 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8667004690_ID-16103682797"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2eda3305f55ce7b2f4a58abb8a6fa760.jpg&src=srp_findsimilar&item_id=8667004690&sku_id=16103682797&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=26000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8667004690.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16103682797%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A2600000%3BdisplayPrice%3A2600000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.666666666666667&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=54&price=2.6E%204&review=14&location=Kota%20Pontianak&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8667004690%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8667004690_ID%253Bprice%253A26000%253Bclient%253Adesktop%253Bsupplier_id%253A401159392033%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100057%253Bitem_id%253A8667004690%253Bsku_id%253A16103682797%253Bshop_id%253A6351310%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Saldo DANA 10.000",
+      "nid": "18827965680",
+      "itemId": "18827965680",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  5% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/24efe54d1e825637d75e0b6607f24e59.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp11.130",
+      "discount": "5% Off",
+      "ratingScore": "4.892857142857143",
+      "review": "84",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/daaf46121ad026cbf3565423bf9d34ca.jpg",
+          "sku": "18827965680_ID",
+          "skuId": "116262625828",
+          "itemUrl": "/products/pdp-i18827965680.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/9cc5db5dbdb8ea142052ae3cafdc94a8.jpg",
+          "sku": "18827965680_ID",
+          "skuId": "116262625829",
+          "itemUrl": "/products/pdp-i18827965680.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/82f6a83400fcf516ad4053b823ca8499.jpg",
+          "sku": "18827965680_ID",
+          "skuId": "116262625830",
+          "itemUrl": "/products/pdp-i18827965680.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/4478f4e4e5b9f81afe8e0edd10e66f9e.jpg",
+          "sku": "18827965680_ID",
+          "skuId": "116262625831",
+          "itemUrl": "/products/pdp-i18827965680.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "G-Mobile",
+      "sellerId": "403498880726",
+      "brandName": "Dana",
+      "brandId": "248",
+      "cheapest_sku": "18827965680_ID-116258989132",
+      "skuId": "116258989132",
+      "sku": "18827965680_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "11130",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "11683",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18827965680;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18827965680_ID;price:11130;client:desktop;supplier_id:403498880726;session_id:;biz_source:h5_internal;slot:11;utlog_bucket_id:470687;asc_category_id:10100045;item_id:18827965680;sku_id:116258989132;shop_id:8436828;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "577 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18827965680_ID-116258989132"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F24efe54d1e825637d75e0b6607f24e59.png&src=srp_findsimilar&item_id=18827965680&sku_id=116258989132&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=11130.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18827965680.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116258989132%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1113000%3BdisplayPrice%3A1113000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.892857142857143&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=577&price=1.113E%204&review=84&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18827965680%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18827965680_ID%253Bprice%253A11130%253Bclient%253Adesktop%253Bsupplier_id%253A403498880726%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A18827965680%253Bsku_id%253A116258989132%253Bshop_id%253A8436828%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Capcut Pro Premium 1 bulan untuk HP Smartphone & PC promo termurah",
+      "nid": "8287544354",
+      "itemId": "8287544354",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  60% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/96ca6ece271a4126cad40ac809402952.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.999",
+      "discount": "60% Off",
+      "ratingScore": "4.844444444444444",
+      "review": "1125",
+      "location": "Kab. Deli Serdang",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/96ca6ece271a4126cad40ac809402952.png",
+          "sku": "8287544354_ID",
+          "skuId": "14697420813",
+          "itemUrl": "/products/pdp-i8287544354.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/96ca6ece271a4126cad40ac809402952.png",
+          "sku": "8287544354_ID",
+          "skuId": "14812550894",
+          "itemUrl": "/products/pdp-i8287544354.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/96ca6ece271a4126cad40ac809402952.png",
+          "sku": "8287544354_ID",
+          "skuId": "14812550895",
+          "itemUrl": "/products/pdp-i8287544354.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "DigitalDailySolution",
+      "sellerId": "400613445198",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8287544354_ID-14812550895",
+      "skuId": "14812550895",
+      "sku": "8287544354_ID",
+      "categories": [
+        10676,
+        10100049,
+        42016603
+      ],
+      "price": "5999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "15000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8287544354;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8287544354_ID;price:5999;client:desktop;supplier_id:400613445198;session_id:;biz_source:h5_internal;slot:12;utlog_bucket_id:470687;asc_category_id:42016603;item_id:8287544354;sku_id:14812550895;shop_id:3446153;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "4.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8287544354_ID-14812550895"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F96ca6ece271a4126cad40ac809402952.png&src=srp_findsimilar&item_id=8287544354&sku_id=14812550895&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=5999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8287544354.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14812550895%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A599900%3BdisplayPrice%3A599900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.844444444444444&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=4498&price=5999&review=1125&location=Kab.%20Deli%20Serdang&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8287544354%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8287544354_ID%253Bprice%253A5999%253Bclient%253Adesktop%253Bsupplier_id%253A400613445198%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A42016603%253Bitem_id%253A8287544354%253Bsku_id%253A14812550895%253Bshop_id%253A3446153%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Cone Mangkuk Alat Perlengkapan Latihan Olahraga Anak Dewasa Sepak Bola Futsal Kelincahan",
+      "nid": "8415480821",
+      "itemId": "8415480821",
+      "icons": [
+        {
+          "domClass": "110274",
+          "text": "Baru",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "new"
+        },
+        {
+          "domClass": "120014",
+          "text": "Hemat  73% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.999",
+      "discount": "73% Off",
+      "ratingScore": "4.8",
+      "review": "10",
+      "location": "Kab. Lamongan",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+          "sku": "8415480821_ID",
+          "skuId": "14856030492",
+          "itemUrl": "/products/pdp-i8415480821.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+          "sku": "8415480821_ID",
+          "skuId": "14856030493",
+          "itemUrl": "/products/pdp-i8415480821.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+          "sku": "8415480821_ID",
+          "skuId": "14856030496",
+          "itemUrl": "/products/pdp-i8415480821.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+          "sku": "8415480821_ID",
+          "skuId": "14856030494",
+          "itemUrl": "/products/pdp-i8415480821.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S0021efd5dae04e62aa417cbcd0e7c4a73.jpg",
+          "sku": "8415480821_ID",
+          "skuId": "14856030495",
+          "itemUrl": "/products/pdp-i8415480821.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "AMGOODS.CO",
+      "sellerId": "400626633816",
+      "brandName": "CONE",
+      "brandId": "140060",
+      "cheapest_sku": "8415480821_ID-14856030492",
+      "skuId": "14856030492",
+      "sku": "8415480821_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "1999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "7500",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8415480821;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8415480821_ID;price:1999;client:desktop;supplier_id:400626633816;session_id:;biz_source:h5_internal;slot:13;utlog_bucket_id:470687;asc_category_id:15449;item_id:8415480821;sku_id:14856030492;shop_id:4585477;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "59 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8415480821_ID-14856030492"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS0021efd5dae04e62aa417cbcd0e7c4a73.jpg&src=srp_findsimilar&item_id=8415480821&sku_id=14856030492&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=1999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8415480821.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14856030492%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A199900%3BdisplayPrice%3A199900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.8&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=59&price=1999&review=10&location=Kab.%20Lamongan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8415480821%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8415480821_ID%253Bprice%253A1999%253Bclient%253Adesktop%253Bsupplier_id%253A400626633816%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A8415480821%253Bsku_id%253A14856030492%253Bshop_id%253A4585477%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "CONE MANGKOK MARKER TEMPAT LAPANGAN SPORT CONES LATIHAN FUTSAL / Alat Olahraga Marker / Cone Mangkuk Bola Sepak / Futsal / Training Latihan Atlet Sepak Bola Mangkok",
+      "nid": "8670360935",
+      "itemId": "8670360935",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  65% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://sg-test-11.slatic.net/p/a2e7ed8b79d60a4009053e04841773a6.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp35.000",
+      "discount": "65% Off",
+      "ratingScore": "5.0",
+      "review": "2",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [
+        {
+          "image": "https://sg-test-11.slatic.net/p/a2e7ed8b79d60a4009053e04841773a6.jpg",
+          "sku": "8670360935_ID",
+          "skuId": "16108218824",
+          "itemUrl": "/products/pdp-i8670360935.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/a2e7ed8b79d60a4009053e04841773a6.jpg",
+          "sku": "8670360935_ID",
+          "skuId": "16108218823",
+          "itemUrl": "/products/pdp-i8670360935.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://sg-test-11.slatic.net/p/a2e7ed8b79d60a4009053e04841773a6.jpg",
+          "sku": "8670360935_ID",
+          "skuId": "16108218825",
+          "itemUrl": "/products/pdp-i8670360935.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Matahari ID",
+      "sellerId": "402621008699",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8670360935_ID-16108218825",
+      "skuId": "16108218825",
+      "sku": "8670360935_ID",
+      "categories": [
+        2994,
+        5230,
+        216,
+        15449
+      ],
+      "price": "35000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "99000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8670360935;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8670360935_ID;price:35000;client:desktop;supplier_id:402621008699;session_id:;biz_source:h5_internal;slot:14;utlog_bucket_id:470687;asc_category_id:15449;item_id:8670360935;sku_id:16108218825;shop_id:7737081;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8670360935_ID-16108218825"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fa2e7ed8b79d60a4009053e04841773a6.jpg&src=srp_findsimilar&item_id=8670360935&sku_id=16108218825&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=35000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8670360935.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16108218825%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A3500000%3BdisplayPrice%3A3500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=5.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=3.5E%204&review=2&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8670360935%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8670360935_ID%253Bprice%253A35000%253Bclient%253Adesktop%253Bsupplier_id%253A402621008699%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15449%253Bitem_id%253A8670360935%253Bsku_id%253A16108218825%253Bshop_id%253A7737081%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "CETAK FOTO UKURAN 2R 25 FOTO  TERMURAH DAN TERLARIS BISA COOD",
+      "nid": "7490540465",
+      "itemId": "7490540465",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  51% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sb2ef5dc878064dfe85cdbcc821c815d37.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.900",
+      "discount": "51% Off",
+      "ratingScore": "4.775386684599866",
+      "review": "1487",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "cindoshop.id",
+      "sellerId": "401144416322",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7490540465_ID-13905620555",
+      "skuId": "13905620555",
+      "sku": "7490540465_ID",
+      "categories": [
+        10100083,
+        16342,
+        16726
+      ],
+      "price": "5900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "12000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7490540465;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7490540465_ID;price:5900;client:desktop;supplier_id:401144416322;session_id:;biz_source:h5_internal;slot:15;utlog_bucket_id:470687;asc_category_id:16726;item_id:7490540465;sku_id:13905620555;shop_id:6337214;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7490540465_ID-13905620555"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSb2ef5dc878064dfe85cdbcc821c815d37.jpg&src=srp_findsimilar&item_id=7490540465&sku_id=13905620555&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=5900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7490540465.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13905620555%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A590000%3BdisplayPrice%3A590000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.775386684599866&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6517&price=5.9E%203&review=1487&location=Kab.%20Bogor&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7490540465%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7490540465_ID%253Bprice%253A5900%253Bclient%253Adesktop%253Bsupplier_id%253A401144416322%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16726%253Bitem_id%253A7490540465%253Bsku_id%253A13905620555%253Bshop_id%253A6337214%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "rumput gajah mini 1 meter persegi",
+      "nid": "8719868328",
+      "itemId": "8719868328",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sae3d6e057da741d3b4439343688c91ffK.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp22.000",
+      "ratingScore": "",
+      "review": "",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "Adrian Taman floris",
+      "sellerId": "400602651432",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8719868328_ID-16156510816",
+      "skuId": "16156510816",
+      "sku": "8719868328_ID",
+      "categories": [
+        10100245,
+        16365,
+        16653
+      ],
+      "price": "22000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8719868328;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8719868328_ID;price:22000;client:desktop;supplier_id:400602651432;session_id:;biz_source:h5_internal;slot:16;utlog_bucket_id:470687;asc_category_id:16653;item_id:8719868328;sku_id:16156510816;shop_id:2479115;templateInfo:-1_A3_E#107879_A3_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8719868328_ID-16156510816"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSae3d6e057da741d3b4439343688c91ffK.jpg&src=srp_findsimilar&item_id=8719868328&sku_id=16156510816&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=22000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8719868328.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16156510816%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A2200000%3BdisplayPrice%3A2200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2.2E%204&review=&location=Kab.%20Bogor&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8719868328%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8719868328_ID%253Bprice%253A22000%253Bclient%253Adesktop%253Bsupplier_id%253A400602651432%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16653%253Bitem_id%253A8719868328%253Bsku_id%253A16156510816%253Bshop_id%253A2479115%253BtemplateInfo%253A-1_A3_E%2523107879_A3_E%2523"
+    },
+    {
+      "name": "BAZNAS - SEDEKAH SUBUH",
+      "nid": "5051168394",
+      "itemId": "5051168394",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp2.000",
+      "ratingScore": "4.943946188340807",
+      "review": "2230",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+          "sku": "5051168394_ID",
+          "skuId": "12663196244",
+          "itemUrl": "/products/pdp-i5051168394.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+          "sku": "5051168394_ID",
+          "skuId": "12663196245",
+          "itemUrl": "/products/pdp-i5051168394.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+          "sku": "5051168394_ID",
+          "skuId": "9383338744",
+          "itemUrl": "/products/pdp-i5051168394.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+          "sku": "5051168394_ID",
+          "skuId": "12663196246",
+          "itemUrl": "/products/pdp-i5051168394.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/118fed2ece6d1bea38d7739cae71eb52.jpg",
+          "sku": "5051168394_ID",
+          "skuId": "12663196247",
+          "itemUrl": "/products/pdp-i5051168394.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "BAZNAS",
+      "sellerId": "100289008",
+      "brandName": "Badan Amil Zakat Nasional",
+      "brandId": "124298496",
+      "cheapest_sku": "5051168394_ID-12663196244",
+      "skuId": "12663196244",
+      "sku": "5051168394_ID",
+      "categories": [
+        10676,
+        18680,
+        21018201
+      ],
+      "price": "2000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:5051168394;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:5051168394_ID;price:2000;client:desktop;supplier_id:100289008;session_id:;biz_source:h5_internal;slot:17;utlog_bucket_id:470687;asc_category_id:21018201;item_id:5051168394;sku_id:12663196244;shop_id:384991;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "12.5K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "5051168394_ID-12663196244"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F118fed2ece6d1bea38d7739cae71eb52.jpg&src=srp_findsimilar&item_id=5051168394&sku_id=12663196244&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=2000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i5051168394.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A12663196244%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A200000%3BdisplayPrice%3A200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.943946188340807&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=12511&price=2E%203&review=2230&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A5051168394%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A5051168394_ID%253Bprice%253A2000%253Bclient%253Adesktop%253Bsupplier_id%253A100289008%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A21018201%253Bitem_id%253A5051168394%253Bsku_id%253A12663196244%253Bshop_id%253A384991%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Voucher Digital Ultra Voucher Rp. 50.000 - Voucher Value",
+      "nid": "6930306506",
+      "itemId": "6930306506",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  25% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/b85e8ad1f9f31955687c736949042ea5.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp53.600",
+      "discount": "25% Off",
+      "ratingScore": "4.881724845995893",
+      "review": "2435",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "ULTRA VOUCHER",
+      "sellerId": "100097815",
+      "brandName": "Ultra Voucher",
+      "brandId": "249920",
+      "cheapest_sku": "6930306506_ID-13128866325",
+      "skuId": "13128866325",
+      "sku": "6930306506_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "53600",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "71500",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6930306506;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6930306506_ID;price:53600;client:desktop;supplier_id:100097815;session_id:;biz_source:h5_internal;slot:18;utlog_bucket_id:470687;asc_category_id:10100045;item_id:6930306506;sku_id:13128866325;shop_id:228283;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "44.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6930306506_ID-13128866325"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fb85e8ad1f9f31955687c736949042ea5.png&src=srp_findsimilar&item_id=6930306506&sku_id=13128866325&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=53600.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6930306506.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13128866325%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A5360000%3BdisplayPrice%3A5360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.881724845995893&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=44272&price=5.36E%204&review=2435&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6930306506%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6930306506_ID%253Bprice%253A53600%253Bclient%253Adesktop%253Bsupplier_id%253A100097815%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A6930306506%253Bsku_id%253A13128866325%253Bshop_id%253A228283%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Essen Samudera Fishing Aroma Strawberry Walang Essen ikan Mas Harian Lomba Babon indukan Galapung Galatama",
+      "nid": "8623584713",
+      "itemId": "8623584713",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  29% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sde9cb12c943049bfbafadba2b748b9b6f.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp32.000",
+      "discount": "29% Off",
+      "ratingScore": "4.333333333333333",
+      "review": "3",
+      "location": "Kab. Garut",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S453e3949cadc4c629d19e9c04b3738eam.jpg",
+          "sku": "8623584713_ID",
+          "skuId": "16034370092",
+          "itemUrl": "/products/pdp-i8623584713.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sf9b29f7a196340e58c445ada7812b6d86.jpg",
+          "sku": "8623584713_ID",
+          "skuId": "16034370093",
+          "itemUrl": "/products/pdp-i8623584713.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "ESSEN MANCING GROSIRAN",
+      "sellerId": "402325568703",
+      "brandName": "Samudera Fishing",
+      "brandId": "127383669",
+      "cheapest_sku": "8623584713_ID-16034370092",
+      "skuId": "16034370092",
+      "sku": "8623584713_ID",
+      "categories": [
+        2994,
+        5249,
+        7920,
+        15636
+      ],
+      "price": "32000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "45000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8623584713;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8623584713_ID;price:32000;client:desktop;supplier_id:402325568703;session_id:;biz_source:h5_internal;slot:19;utlog_bucket_id:470687;asc_category_id:15636;item_id:8623584713;sku_id:16034370092;shop_id:7427134;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "11 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8623584713_ID-16034370092"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSde9cb12c943049bfbafadba2b748b9b6f.jpg&src=srp_findsimilar&item_id=8623584713&sku_id=16034370092&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=32000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8623584713.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16034370092%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A3200000%3BdisplayPrice%3A3200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.333333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=3.2E%204&review=3&location=Kab.%20Garut&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8623584713%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8623584713_ID%253Bprice%253A32000%253Bclient%253Adesktop%253Bsupplier_id%253A402325568703%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15636%253Bitem_id%253A8623584713%253Bsku_id%253A16034370092%253Bshop_id%253A7427134%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "KARTU FISIK E WALLET DANA Bisa SCAN QR, Costum Nama dan Foto Sendiri",
+      "nid": "8829900625",
+      "itemId": "8829900625",
+      "icons": [],
+      "image": "https://img.lazcdn.com/us/lzd_seller_ai_business/seller/ai/3e246c31-cfcc-4b99-a5f8-78f4cf4b5eca.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp15.000",
+      "ratingScore": "4.925925925925926",
+      "review": "27",
+      "location": "Kota Cilegon",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/9a479b83e3b9f0cad741b1cba63bd436.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032475",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/bdf3b7ffc91e5c951ddffbca378cd991.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032474",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/dfeb3b279e4eac7765db3d4b744544c1.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032477",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/7c73c4776a90f305c0217eb173ce8001.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032476",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/feca1c444ee0e60838eb4eb536eb47d2.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032471",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/15059515dc04c770dd744742f0f78cbb.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032482",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/86da0343fc6e66c3388604cb2488e034.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032470",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/efe5fe896dc7f2de2d0aee16e91439ad.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032481",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/41c2a58bb1c0ad69605eee1b2a6d2932.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032473",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/e9252a6e4fa082c095a0ba033570b36a.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032472",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/830e8524ccae846bea596a7e0d705512.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032483",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/122675a21bee1a72510f987762a1539c.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032480",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/5ce452ccbe5a2a9722a6e35b2bf20d29.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032479",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/79277710fa3519268305cbd58f320f42.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032478",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/01e786e92c2bd0b1c008d5c67548b266.jpg",
+          "sku": "8829900625_ID",
+          "skuId": "16263032469",
+          "itemUrl": "/products/pdp-i8829900625.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "AGNET",
+      "sellerId": "400618629280",
+      "brandName": "blueprint",
+      "brandId": "6621",
+      "cheapest_sku": "8829900625_ID-16263032475",
+      "skuId": "16263032475",
+      "sku": "8829900625_ID",
+      "categories": [
+        16337,
+        16369,
+        62550805,
+        16706
+      ],
+      "price": "15000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8829900625;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8829900625_ID;price:15000;client:desktop;supplier_id:400618629280;session_id:;biz_source:h5_internal;slot:20;utlog_bucket_id:470687;asc_category_id:16706;item_id:8829900625;sku_id:16263032475;shop_id:3903128;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "49 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8829900625_ID-16263032475"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fimg.lazcdn.com%2Fus%2Flzd_seller_ai_business%2Fseller%2Fai%2F3e246c31-cfcc-4b99-a5f8-78f4cf4b5eca.jpg&src=srp_findsimilar&item_id=8829900625&sku_id=16263032475&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=15000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8829900625.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16263032475%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1500000%3BdisplayPrice%3A1500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.925925925925926&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=49&price=1.5E%204&review=27&location=Kota%20Cilegon&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8829900625%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8829900625_ID%253Bprice%253A15000%253Bclient%253Adesktop%253Bsupplier_id%253A400618629280%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16706%253Bitem_id%253A8829900625%253Bsku_id%253A16263032475%253Bshop_id%253A3903128%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "CETAK FOTO UKURAN 2R 50 FOTO TERLARIS",
+      "nid": "7490556180",
+      "itemId": "7490556180",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  36% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S676960363df741a2983a5b8fff2eda49O.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.900",
+      "discount": "36% Off",
+      "ratingScore": "4.75725406935598",
+      "review": "1413",
+      "location": "Kab. Bogor",
+      "thumbs": [],
+      "sellerName": "cindoshop.id",
+      "sellerId": "401144416322",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7490556180_ID-13905632287",
+      "skuId": "13905632287",
+      "sku": "7490556180_ID",
+      "categories": [
+        10100083,
+        16342,
+        16726
+      ],
+      "price": "9900",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "15500",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7490556180;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7490556180_ID;price:9900;client:desktop;supplier_id:401144416322;session_id:;biz_source:h5_internal;slot:21;utlog_bucket_id:470687;asc_category_id:16726;item_id:7490556180;sku_id:13905632287;shop_id:6337214;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "6.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7490556180_ID-13905632287"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS676960363df741a2983a5b8fff2eda49O.jpg&src=srp_findsimilar&item_id=7490556180&sku_id=13905632287&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=9900.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7490556180.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13905632287%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A990000%3BdisplayPrice%3A990000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.75725406935598&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5962&price=9.9E%203&review=1413&location=Kab.%20Bogor&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7490556180%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7490556180_ID%253Bprice%253A9900%253Bclient%253Adesktop%253Bsupplier_id%253A401144416322%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16726%253Bitem_id%253A7490556180%253Bsku_id%253A13905632287%253Bshop_id%253A6337214%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "YOUTUBE PREMIUM 3 BULAN BERGARANSI",
+      "nid": "7243826242",
+      "itemId": "7243826242",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp33.000",
+      "ratingScore": "4.89225181598063",
+      "review": "826",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "13576044465",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16169878593",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16169878594",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "13576044468",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16093436454",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16093436453",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16093436456",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16168970977",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16093436455",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2b43016d54f04602b94edeaace3f5a662.jpg",
+          "sku": "7243826242_ID",
+          "skuId": "16168970976",
+          "itemUrl": "/products/pdp-i7243826242.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Mensprem",
+      "sellerId": "400619553302",
+      "brandName": "Youtube",
+      "brandId": "78094",
+      "cheapest_sku": "7243826242_ID-16168970976",
+      "skuId": "16168970976",
+      "sku": "7243826242_ID",
+      "categories": [
+        3441,
+        42006401
+      ],
+      "price": "33000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7243826242;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7243826242_ID;price:33000;client:desktop;supplier_id:400619553302;session_id:;biz_source:h5_internal;slot:22;utlog_bucket_id:470687;asc_category_id:42006401;item_id:7243826242;sku_id:16168970976;shop_id:3944124;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "1.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7243826242_ID-16168970976"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS2b43016d54f04602b94edeaace3f5a662.jpg&src=srp_findsimilar&item_id=7243826242&sku_id=16168970976&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=33000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7243826242.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16168970976%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A3300000%3BdisplayPrice%3A3300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.89225181598063&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1935&price=3.3E%204&review=826&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7243826242%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7243826242_ID%253Bprice%253A33000%253Bclient%253Adesktop%253Bsupplier_id%253A400619553302%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A42006401%253Bitem_id%253A7243826242%253Bsku_id%253A16168970976%253Bshop_id%253A3944124%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "VIEWS TWITTER BERGARANSI | JASMEDIA - VOUCHER DIGITAL",
+      "nid": "7635336347",
+      "itemId": "7635336347",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S9b4390aaa37a429c85c0e71fd16a5b1cP.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp2.000",
+      "ratingScore": "4.77782635480217",
+      "review": "100642",
+      "location": "Kab. Banyumas",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S9b4390aaa37a429c85c0e71fd16a5b1cP.jpg",
+          "sku": "7635336347_ID",
+          "skuId": "14042988411",
+          "itemUrl": "/products/pdp-i7635336347.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S9b4390aaa37a429c85c0e71fd16a5b1cP.jpg",
+          "sku": "7635336347_ID",
+          "skuId": "14042988410",
+          "itemUrl": "/products/pdp-i7635336347.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Jasmedia3",
+      "sellerId": "401309952664",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "7635336347_ID-14042988410",
+      "skuId": "14042988410",
+      "sku": "7635336347_ID",
+      "categories": [
+        10100047,
+        10002974,
+        10002980,
+        10002999
+      ],
+      "price": "2000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7635336347;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7635336347_ID;price:2000;client:desktop;supplier_id:401309952664;session_id:;biz_source:h5_internal;slot:23;utlog_bucket_id:470687;asc_category_id:10002999;item_id:7635336347;sku_id:14042988410;shop_id:6476343;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "484.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7635336347_ID-14042988410"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS9b4390aaa37a429c85c0e71fd16a5b1cP.jpg&src=srp_findsimilar&item_id=7635336347&sku_id=14042988410&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=2000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7635336347.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14042988410%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A200000%3BdisplayPrice%3A200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.77782635480217&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=484948&price=2E%203&review=100642&location=Kab.%20Banyumas&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7635336347%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7635336347_ID%253Bprice%253A2000%253Bclient%253Adesktop%253Bsupplier_id%253A401309952664%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002999%253Bitem_id%253A7635336347%253Bsku_id%253A14042988410%253Bshop_id%253A6476343%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "ISI ULANG SALDO 1.000 DAN PULSA REGULER ALL OPERATOR BY A3CELL23",
+      "nid": "18834571405",
+      "itemId": "18834571405",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S27b5dfc703154589abc05027f059cf9cr.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.800",
+      "ratingScore": "4.784090909090909",
+      "review": "88",
+      "location": "Kota Jakarta Selatan",
+      "thumbs": [],
+      "sellerName": "A3Cell23",
+      "sellerId": "401309232166",
+      "brandName": "all operator",
+      "brandId": "98634",
+      "cheapest_sku": "18834571405_ID-116260813188",
+      "skuId": "116260813188",
+      "sku": "18834571405_ID",
+      "categories": [
+        10100047,
+        10002974,
+        10002975,
+        10002981
+      ],
+      "price": "1800",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18834571405;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18834571405_ID;price:1800;client:desktop;supplier_id:401309232166;session_id:;biz_source:h5_internal;slot:24;utlog_bucket_id:470687;asc_category_id:10002981;item_id:18834571405;sku_id:116260813188;shop_id:6475170;templateInfo:107879_A3_C_E#",
+      "itemSoldCntShow": "793 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18834571405_ID-116260813188"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS27b5dfc703154589abc05027f059cf9cr.jpg&src=srp_findsimilar&item_id=18834571405&sku_id=116260813188&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=1800.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18834571405.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116260813188%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A180000%3BdisplayPrice%3A180000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.784090909090909&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=793&price=1.8E%203&review=88&location=Kota%20Jakarta%20Selatan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18834571405%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18834571405_ID%253Bprice%253A1800%253Bclient%253Adesktop%253Bsupplier_id%253A401309232166%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002981%253Bitem_id%253A18834571405%253Bsku_id%253A116260813188%253Bshop_id%253A6475170%253BtemplateInfo%253A107879_A3_C_E%2523"
+    },
+    {
+      "name": "VIU INDONESIA PRIVATE BERGARANSI",
+      "nid": "7577092839",
+      "itemId": "7577092839",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S18a0aa45cf0346e3a0afce52e5ccc9cfP.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp9.000",
+      "discount": "55% Off",
+      "ratingScore": "4.910112359550562",
+      "review": "801",
+      "location": "Kota Makassar",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Scc956e18f59b4900ba0b12cfbd4da24bw.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14269060584",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S485c06509b074434a81999d2f1e40698S.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14406144030",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Seba9c5c6ea5d4c0eaf76d22139427e070.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14269060586",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sada8135baf9044ffbefbebc59d5901ebQ.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14269060585",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S9373d9ecbfd34a72b14ea9ba49e595c03.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14406144027",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/Sa741c7ef4f184f2bbe392ea5c0e62140S.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14406144029",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S57f905bf71694a529c6e2029882f8559U.jpg",
+          "sku": "7577092839_ID",
+          "skuId": "14406144028",
+          "itemUrl": "/products/pdp-i7577092839.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Minne.ID",
+      "sellerId": "401044608811",
+      "brandName": "VIU",
+      "brandId": "151100",
+      "cheapest_sku": "7577092839_ID-14269060584",
+      "skuId": "14269060584",
+      "sku": "7577092839_ID",
+      "categories": [
+        10100047,
+        10002974,
+        10002980,
+        10002997
+      ],
+      "price": "9000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "20000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:7577092839;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:7577092839_ID;price:9000;client:desktop;supplier_id:401044608811;session_id:;biz_source:h5_internal;slot:25;utlog_bucket_id:470687;asc_category_id:10002997;item_id:7577092839;sku_id:14269060584;shop_id:6261268;templateInfo:107879_A3#",
+      "itemSoldCntShow": "1.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "7577092839_ID-14269060584"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS18a0aa45cf0346e3a0afce52e5ccc9cfP.jpg&src=srp_findsimilar&item_id=7577092839&sku_id=14269060584&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=9000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i7577092839.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14269060584%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A900000%3BdisplayPrice%3A900000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.910112359550562&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1900&price=9E%203&review=801&location=Kota%20Makassar&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A7577092839%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A7577092839_ID%253Bprice%253A9000%253Bclient%253Adesktop%253Bsupplier_id%253A401044608811%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002997%253Bitem_id%253A7577092839%253Bsku_id%253A14269060584%253Bshop_id%253A6261268%253BtemplateInfo%253A107879_A3%2523"
+    },
+    {
+      "name": "Magasine Bening Le Magasen 14 Round Otomatis",
+      "nid": "18817822879",
+      "itemId": "18817822879",
+      "icons": [],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sd83bfab81732441bbdc9eb9444ee2926h.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp70.000",
+      "ratingScore": "4.75",
+      "review": "4",
+      "location": "Kota Makassar",
+      "thumbs": [],
+      "sellerName": "ShopDebo",
+      "sellerId": "403545104275",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18817822879_ID-116253700222",
+      "skuId": "116253700222",
+      "sku": "18817822879_ID",
+      "categories": [
+        2994,
+        5249,
+        15710,
+        15720
+      ],
+      "price": "70000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18817822879;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18817822879_ID;price:70000;client:desktop;supplier_id:403545104275;session_id:;biz_source:h5_internal;slot:26;utlog_bucket_id:470687;asc_category_id:15720;item_id:18817822879;sku_id:116253700222;shop_id:8533372;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "19 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18817822879_ID-116253700222"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSd83bfab81732441bbdc9eb9444ee2926h.jpg&src=srp_findsimilar&item_id=18817822879&sku_id=116253700222&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=70000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18817822879.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116253700222%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A7000000%3BdisplayPrice%3A7000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.75&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=19&price=7E%204&review=4&location=Kota%20Makassar&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18817822879%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18817822879_ID%253Bprice%253A70000%253Bclient%253Adesktop%253Bsupplier_id%253A403545104275%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15720%253Bitem_id%253A18817822879%253Bsku_id%253A116253700222%253Bshop_id%253A8533372%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "TERLARIS SKIN DEKER SEPAK BOLA SKIN / DEKER FUTSAL SKIN DEKER AC MILAN / DEKER BARCALONA / DEKER CHELSEA / DEKER JUVENTUS / DEKER BAYER MUNCHEN / DEKER MAN CITY / DEKER REAL MADRID / DEKER MAN MU TERMURAH PELINDUNG TULANG KAKI SD SMP SMA",
+      "nid": "6543974410",
+      "itemId": "6543974410",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  67% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S3a251873a5be42b4b2ac0be6d5af5cfaE.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp10.000",
+      "discount": "67% Off",
+      "ratingScore": "4.719101123595506",
+      "review": "89",
+      "location": "Kota Bandung",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S3a251873a5be42b4b2ac0be6d5af5cfaE.jpg",
+          "sku": "6543974410_ID",
+          "skuId": "14190374965",
+          "itemUrl": "/products/pdp-i6543974410.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S3a251873a5be42b4b2ac0be6d5af5cfaE.jpg",
+          "sku": "6543974410_ID",
+          "skuId": "14190374964",
+          "itemUrl": "/products/pdp-i6543974410.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Sepatu_murah93",
+      "sellerId": "1000286038",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6543974410_ID-14190374965",
+      "skuId": "14190374965",
+      "sku": "6543974410_ID",
+      "categories": [
+        2994,
+        7632,
+        62552601,
+        62551204
+      ],
+      "price": "10000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "30000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6543974410;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6543974410_ID;price:10000;client:desktop;supplier_id:1000286038;session_id:;biz_source:h5_internal;slot:27;utlog_bucket_id:470687;asc_category_id:62551204;item_id:6543974410;sku_id:14190374965;shop_id:775783;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "410 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6543974410_ID-14190374965"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS3a251873a5be42b4b2ac0be6d5af5cfaE.jpg&src=srp_findsimilar&item_id=6543974410&sku_id=14190374965&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=10000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6543974410.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14190374965%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1000000%3BdisplayPrice%3A1000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.719101123595506&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=410&price=1E%204&review=89&location=Kota%20Bandung&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6543974410%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6543974410_ID%253Bprice%253A10000%253Bclient%253Adesktop%253Bsupplier_id%253A1000286038%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A62551204%253Bitem_id%253A6543974410%253Bsku_id%253A14190374965%253Bshop_id%253A775783%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "BAZNAS - SEDEKAH MULIAKAN YATIM",
+      "nid": "3422118749",
+      "itemId": "3422118749",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/35da6666bbaff56077bd98141c3865fa.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp5.000",
+      "ratingScore": "4.988970588235294",
+      "review": "544",
+      "location": "Kota Jakarta Timur",
+      "thumbs": [],
+      "sellerName": "BAZNAS",
+      "sellerId": "100289008",
+      "brandName": "Badan Amil Zakat Nasional",
+      "brandId": "124298496",
+      "cheapest_sku": "3422118749_ID-11087398259",
+      "skuId": "11087398259",
+      "sku": "3422118749_ID",
+      "categories": [
+        10676,
+        18680,
+        21018201
+      ],
+      "price": "5000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:3422118749;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:3422118749_ID;price:5000;client:desktop;supplier_id:100289008;session_id:;biz_source:h5_internal;slot:28;utlog_bucket_id:470687;asc_category_id:21018201;item_id:3422118749;sku_id:11087398259;shop_id:384991;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.0K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "3422118749_ID-11087398259"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F35da6666bbaff56077bd98141c3865fa.jpg&src=srp_findsimilar&item_id=3422118749&sku_id=11087398259&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=5000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i3422118749.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A11087398259%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A500000%3BdisplayPrice%3A500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.988970588235294&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2044&price=5E%203&review=544&location=Kota%20Jakarta%20Timur&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A3422118749%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A3422118749_ID%253Bprice%253A5000%253Bclient%253Adesktop%253Bsupplier_id%253A100289008%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A21018201%253Bitem_id%253A3422118749%253Bsku_id%253A11087398259%253Bshop_id%253A384991%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Reelshort VIP Akun Sharing Premium 1 Bulan",
+      "nid": "8726098908",
+      "itemId": "8726098908",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  50% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/45395b5461f3ce87b92ca485fee53bf0.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp12.000",
+      "discount": "50% Off",
+      "ratingScore": "4.928571428571429",
+      "review": "84",
+      "location": "Kota Jakarta Pusat",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/45395b5461f3ce87b92ca485fee53bf0.png",
+          "sku": "8726098908_ID",
+          "skuId": "116263636854",
+          "itemUrl": "/products/pdp-i8726098908.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/45395b5461f3ce87b92ca485fee53bf0.png",
+          "sku": "8726098908_ID",
+          "skuId": "116263636853",
+          "itemUrl": "/products/pdp-i8726098908.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Aye Undangan Digital Jakpus",
+      "sellerId": "401598688768",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8726098908_ID-116263636853",
+      "skuId": "116263636853",
+      "sku": "8726098908_ID",
+      "categories": [
+        10676,
+        10100049,
+        42016603
+      ],
+      "price": "12000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "24000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8726098908;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8726098908_ID;price:12000;client:desktop;supplier_id:401598688768;session_id:;biz_source:h5_internal;slot:29;utlog_bucket_id:470687;asc_category_id:42016603;item_id:8726098908;sku_id:116263636853;shop_id:6758029;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "506 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8726098908_ID-116263636853"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F45395b5461f3ce87b92ca485fee53bf0.png&src=srp_findsimilar&item_id=8726098908&sku_id=116263636853&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=12000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8726098908.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116263636853%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1200000%3BdisplayPrice%3A1200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.928571428571429&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=506&price=1.2E%204&review=84&location=Kota%20Jakarta%20Pusat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8726098908%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8726098908_ID%253Bprice%253A12000%253Bclient%253Adesktop%253Bsupplier_id%253A401598688768%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A42016603%253Bitem_id%253A8726098908%253Bsku_id%253A116263636853%253Bshop_id%253A6758029%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Saldo DANA 30.000",
+      "nid": "18827969677",
+      "itemId": "18827969677",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  5% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/93cb71b5704b1abef4960aae4327c269.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp33.280",
+      "discount": "5% Off",
+      "ratingScore": "4.71875",
+      "review": "32",
+      "location": "Kota Jakarta Utara",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/55cf5ab7a03f8e4f0beb5731b21bed40.png",
+          "sku": "18827969677_ID",
+          "skuId": "116261528604",
+          "itemUrl": "/products/pdp-i18827969677.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/6a4326f4e7e8a3f8f4bac25303c75d64.png",
+          "sku": "18827969677_ID",
+          "skuId": "116261528605",
+          "itemUrl": "/products/pdp-i18827969677.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/dabfb4b1ac17fdb33aa1d657cc728ba4.png",
+          "sku": "18827969677_ID",
+          "skuId": "116262677542",
+          "itemUrl": "/products/pdp-i18827969677.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/24d86de241d1af4a567546ee6ec609f0.png",
+          "sku": "18827969677_ID",
+          "skuId": "116258976673",
+          "itemUrl": "/products/pdp-i18827969677.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/cc8cf768a114c8850c80973b64dcb388.png",
+          "sku": "18827969677_ID",
+          "skuId": "116261528603",
+          "itemUrl": "/products/pdp-i18827969677.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "G-Mobile",
+      "sellerId": "403498880726",
+      "brandName": "Dana",
+      "brandId": "248",
+      "cheapest_sku": "18827969677_ID-116261528605",
+      "skuId": "116261528605",
+      "sku": "18827969677_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "33280",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "34939",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18827969677;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18827969677_ID;price:33280;client:desktop;supplier_id:403498880726;session_id:;biz_source:h5_internal;slot:30;utlog_bucket_id:470687;asc_category_id:10100045;item_id:18827969677;sku_id:116261528605;shop_id:8436828;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "323 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18827969677_ID-116261528605"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F93cb71b5704b1abef4960aae4327c269.png&src=srp_findsimilar&item_id=18827969677&sku_id=116261528605&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=33280.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18827969677.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116261528605%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A3328000%3BdisplayPrice%3A3328000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.71875&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=323&price=3.328E%204&review=32&location=Kota%20Jakarta%20Utara&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18827969677%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18827969677_ID%253Bprice%253A33280%253Bclient%253Adesktop%253Bsupplier_id%253A403498880726%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A18827969677%253Bsku_id%253A116261528605%253Bshop_id%253A8436828%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Essen galatama lele brajmusti adunn mancing 30 ml",
+      "nid": "8152930458",
+      "itemId": "8152930458",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  55% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/49cf5b7b83b61ac8e70ed50abbdd0daf.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp18.000",
+      "discount": "55% Off",
+      "ratingScore": "4.571709233791749",
+      "review": "509",
+      "location": "Kota Cimahi",
+      "thumbs": [],
+      "sellerName": "I&D.CO",
+      "sellerId": "401412192248",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8152930458_ID-16128574971",
+      "skuId": "16128574971",
+      "sku": "8152930458_ID",
+      "categories": [
+        2994,
+        5249,
+        7920,
+        15636
+      ],
+      "price": "18000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "40000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8152930458;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8152930458_ID;price:18000;client:desktop;supplier_id:401412192248;session_id:;biz_source:h5_internal;slot:31;utlog_bucket_id:470687;asc_category_id:15636;item_id:8152930458;sku_id:16128574971;shop_id:6557149;templateInfo:107879_A3_C#",
+      "itemSoldCntShow": "1.9K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8152930458_ID-16128574971"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F49cf5b7b83b61ac8e70ed50abbdd0daf.png&src=srp_findsimilar&item_id=8152930458&sku_id=16128574971&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=18000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8152930458.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16128574971%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1800000%3BdisplayPrice%3A1800000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.571709233791749&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1871&price=1.8E%204&review=509&location=Kota%20Cimahi&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8152930458%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8152930458_ID%253Bprice%253A18000%253Bclient%253Adesktop%253Bsupplier_id%253A401412192248%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15636%253Bitem_id%253A8152930458%253Bsku_id%253A16128574971%253Bshop_id%253A6557149%253BtemplateInfo%253A107879_A3_C%2523"
+    },
+    {
+      "name": "DANA Nominal Rp.15.000 oleh Tokodouble",
+      "nid": "18829951612",
+      "itemId": "18829951612",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  5% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Sddac0f2889d84b2cad24aae02e71470ey.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp17.500",
+      "discount": "5% Off",
+      "ratingScore": "4.631578947368421",
+      "review": "19",
+      "location": "Kota Bandung",
+      "thumbs": [],
+      "sellerName": "TOKODOUBLE",
+      "sellerId": "100091066",
+      "brandName": "Dana",
+      "brandId": "248",
+      "cheapest_sku": "18829951612_ID-116259488033",
+      "skuId": "116259488033",
+      "sku": "18829951612_ID",
+      "categories": [
+        10676,
+        18680,
+        10100045
+      ],
+      "price": "17500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "18500",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18829951612;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18829951612_ID;price:17500;client:desktop;supplier_id:100091066;session_id:;biz_source:h5_internal;slot:32;utlog_bucket_id:470687;asc_category_id:10100045;item_id:18829951612;sku_id:116259488033;shop_id:7157;templateInfo:-1_A3_C#107879_A3_C#",
+      "itemSoldCntShow": "222 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18829951612_ID-116259488033"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSddac0f2889d84b2cad24aae02e71470ey.jpg&src=srp_findsimilar&item_id=18829951612&sku_id=116259488033&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=17500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18829951612.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116259488033%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1750000%3BdisplayPrice%3A1750000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.631578947368421&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=222&price=1.75E%204&review=19&location=Kota%20Bandung&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18829951612%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18829951612_ID%253Bprice%253A17500%253Bclient%253Adesktop%253Bsupplier_id%253A100091066%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10100045%253Bitem_id%253A18829951612%253Bsku_id%253A116259488033%253Bshop_id%253A7157%253BtemplateInfo%253A-1_A3_C%2523107879_A3_C%2523"
+    },
+    {
+      "name": "💵SUPER MURAH !!! ISI ULANG PULSA MURAH TELKOMSEL DARI 10.000 - 200.000 BY YUDABAE",
+      "nid": "8658882675",
+      "itemId": "8658882675",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp73.000",
+      "ratingScore": "3.951923076923077",
+      "review": "104",
+      "location": "Kab. Banyumas",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404558",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404569",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404559",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404565",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404576",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404566",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404567",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404557",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404568",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404561",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404572",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404562",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404573",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404563",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404574",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404564",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404575",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404570",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404560",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2f2ae43fce3139a9cfa247800fc03a0b.png",
+          "sku": "8658882675_ID",
+          "skuId": "16092404571",
+          "itemUrl": "/products/pdp-i8658882675.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "YUDABAE13 ",
+      "sellerId": "401160000685",
+      "brandName": "Telkomsel",
+      "brandId": "5094",
+      "cheapest_sku": "8658882675_ID-16092404563",
+      "skuId": "16092404563",
+      "sku": "8658882675_ID",
+      "categories": [
+        10100047,
+        10002974,
+        10002980,
+        10002999
+      ],
+      "price": "73000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8658882675;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8658882675_ID;price:73000;client:desktop;supplier_id:401160000685;session_id:;biz_source:h5_internal;slot:33;utlog_bucket_id:470687;asc_category_id:10002999;item_id:8658882675;sku_id:16092404563;shop_id:6352609;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "659 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8658882675_ID-16092404563"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F2f2ae43fce3139a9cfa247800fc03a0b.png&src=srp_findsimilar&item_id=8658882675&sku_id=16092404563&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=73000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8658882675.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16092404563%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A7300000%3BdisplayPrice%3A7300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=3.951923076923077&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=659&price=7.3E%204&review=104&location=Kab.%20Banyumas&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8658882675%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8658882675_ID%253Bprice%253A73000%253Bclient%253Adesktop%253Bsupplier_id%253A401160000685%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002999%253Bitem_id%253A8658882675%253Bsku_id%253A16092404563%253Bshop_id%253A6352609%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Kartu Kuota Telkomsel 3GB FULL 24 Jam Siap Pakai",
+      "nid": "4095288711",
+      "itemId": "4095288711",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/3eab476bc66791836577a82a4eb613a3.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp12.500",
+      "ratingScore": "4.769705277587389",
+      "review": "4377",
+      "location": "Kota Depok",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/8c6d55bf9689c9353d6df6cd78bd31b5.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "16219248701",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/1faa0f3f56b4e5b76a6594469dc57f96.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "14638356530",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/f0751593a0937c25b447b334a7efd7c5.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "116254010290",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/482841aadb7793432ddf1834042be1a9.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "116258818738",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/eb9a10597f12f3879be9277d10b4f39b.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "116266637521",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/830be6c8d46a147c21a5b2d5edf4171b.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "16181214478",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/7003873df19aa2431f70d9ff5ecb2823.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "16050050638",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/a5b5611daa0cd6adbc82ed37e55c6f6b.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "116255799982",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/89d9a7c102a0805c72164579c76603c8.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "14783048983",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/40278b89a8b2e3922f487c50544d68e3.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "14624904643",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/3eab476bc66791836577a82a4eb613a3.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "16064404997",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/2ef0671b06edabf3cdfa0a017c94ebd1.jpg",
+          "sku": "4095288711_ID",
+          "skuId": "14624904644",
+          "itemUrl": "/products/pdp-i4095288711.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Dyba Cell",
+      "sellerId": "400590843279",
+      "brandName": "Telkomsel",
+      "brandId": "5094",
+      "cheapest_sku": "4095288711_ID-14783048983",
+      "skuId": "14783048983",
+      "sku": "4095288711_ID",
+      "categories": [
+        16337,
+        62357001,
+        14733
+      ],
+      "price": "12500",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:4095288711;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:4095288711_ID;price:12500;client:desktop;supplier_id:400590843279;session_id:;biz_source:h5_internal;slot:34;utlog_bucket_id:470687;asc_category_id:14733;item_id:4095288711;sku_id:14783048983;shop_id:1346223;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "17.3K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "4095288711_ID-14783048983"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F3eab476bc66791836577a82a4eb613a3.jpg&src=srp_findsimilar&item_id=4095288711&sku_id=14783048983&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=12500.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i4095288711.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A14783048983%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1250000%3BdisplayPrice%3A1250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.769705277587389&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=17287&price=1.25E%204&review=4377&location=Kota%20Depok&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A4095288711%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A4095288711_ID%253Bprice%253A12500%253Bclient%253Adesktop%253Bsupplier_id%253A400590843279%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A14733%253Bitem_id%253A4095288711%253Bsku_id%253A14783048983%253Bshop_id%253A1346223%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Kartu eMoney eToll Mandiri edisi Livin Bumi Langit",
+      "nid": "6869076315",
+      "itemId": "6869076315",
+      "icons": [
+        {
+          "domClass": "207006",
+          "type": "img",
+          "group": "6",
+          "showType": "0",
+          "bizType": "voucherMax"
+        }
+      ],
+      "image": "https://id-live-01.slatic.net/p/0d24a41a1868e5bfbcd21765597f44b6.png",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp50.000",
+      "ratingScore": "4.874414245548266",
+      "review": "1067",
+      "location": "Kota Tangerang Selatan",
+      "thumbs": [
+        {
+          "image": "https://id-live-01.slatic.net/p/67e669827598b1c6cda944fb1dde44ae.png",
+          "sku": "6869076315_ID",
+          "skuId": "13017024639",
+          "itemUrl": "/products/pdp-i6869076315.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://id-live-01.slatic.net/p/0d24a41a1868e5bfbcd21765597f44b6.png",
+          "sku": "6869076315_ID",
+          "skuId": "13017024635",
+          "itemUrl": "/products/pdp-i6869076315.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "Fasya_Shopper",
+      "sellerId": "400683663484",
+      "brandName": "e money",
+      "brandId": "166112",
+      "cheapest_sku": "6869076315_ID-13017024639",
+      "skuId": "13017024639",
+      "sku": "6869076315_ID",
+      "categories": [
+        13386,
+        14028,
+        14052,
+        14061
+      ],
+      "price": "50000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6869076315;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6869076315_ID;price:50000;client:desktop;supplier_id:400683663484;session_id:;biz_source:h5_internal;slot:35;utlog_bucket_id:470687;asc_category_id:14061;item_id:6869076315;sku_id:13017024639;shop_id:5032528;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "2.6K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6869076315_ID-13017024639"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2F0d24a41a1868e5bfbcd21765597f44b6.png&src=srp_findsimilar&item_id=6869076315&sku_id=13017024639&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=50000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6869076315.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A13017024639%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A5000000%3BdisplayPrice%3A5000000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.874414245548266&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2562&price=5E%204&review=1067&location=Kota%20Tangerang%20Selatan&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6869076315%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6869076315_ID%253Bprice%253A50000%253Bclient%253Adesktop%253Bsupplier_id%253A400683663484%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A14061%253Bitem_id%253A6869076315%253Bsku_id%253A13017024639%253Bshop_id%253A5032528%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Cone Mangkuk Olahraga Latihan Kun Mangkok Marker Sports futsal cones kon kone sport",
+      "nid": "6358478244",
+      "itemId": "6358478244",
+      "icons": [],
+      "image": "https://id-live-01.slatic.net/p/a33b40167322db5955deb7151078e840.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp1.349",
+      "ratingScore": "4.735294117647059",
+      "review": "102",
+      "location": "Kota Jakarta Barat",
+      "thumbs": [],
+      "sellerName": "Kastil TERMURAH",
+      "sellerId": "100349740",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "6358478244_ID-12056060966",
+      "skuId": "12056060966",
+      "sku": "6358478244_ID",
+      "categories": [
+        2994,
+        7632,
+        62552601,
+        62551204
+      ],
+      "price": "1349",
+      "restrictedAge": 0,
+      "inStock": true,
+      "clickTrace": "query:Shanghiang+Perkasa;nid:6358478244;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:6358478244_ID;price:1349;client:desktop;supplier_id:100349740;session_id:;biz_source:h5_internal;slot:36;utlog_bucket_id:470687;asc_category_id:62551204;item_id:6358478244;sku_id:12056060966;shop_id:445783;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "3.4K Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "6358478244_ID-12056060966"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fid-live-01.slatic.net%2Fp%2Fa33b40167322db5955deb7151078e840.jpg&src=srp_findsimilar&item_id=6358478244&sku_id=12056060966&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=1349.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i6358478244.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A12056060966%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A134900%3BdisplayPrice%3A134900%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.735294117647059&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3376&price=1349&review=102&location=Kota%20Jakarta%20Barat&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A6358478244%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A6358478244_ID%253Bprice%253A1349%253Bclient%253Adesktop%253Bsupplier_id%253A100349740%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A62551204%253Bitem_id%253A6358478244%253Bsku_id%253A12056060966%253Bshop_id%253A445783%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Promo Kartu Perdana Cantik Telkomsel Extra Paket 50 GB Berlaku untuk semua Wilayah",
+      "nid": "18818145038",
+      "itemId": "18818145038",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  67% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp14.799",
+      "discount": "67% Off",
+      "ratingScore": "3.7196969696969697",
+      "review": "132",
+      "location": "Kab. Bekasi",
+      "thumbs": [
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774500",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774501",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774502",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774503",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774504",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149289",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774510",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774511",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774512",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774513",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774514",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774515",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149284",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149286",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149285",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149288",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149287",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774505",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774506",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774507",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774508",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774509",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644714",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644713",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644712",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644711",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644710",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149293",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149292",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149295",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149294",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149297",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741976",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149296",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149299",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161580",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149298",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161581",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161575",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161576",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161573",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161574",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161579",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149291",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161577",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149290",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161578",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253774516",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644709",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644708",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644707",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644706",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644705",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149301",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254149300",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741982",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741981",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741980",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253926487",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253926488",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254161572",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253926489",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741979",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253926485",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741978",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116253926486",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254741977",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644717",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644716",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        },
+        {
+          "image": "https://filebroker-cdn.lazada.co.id/kf/S2afe063aabc64e6180da7812a47d2bf9t.jpg",
+          "sku": "18818145038_ID",
+          "skuId": "116254644715",
+          "itemUrl": "/products/pdp-i18818145038.html",
+          "querystring": ""
+        }
+      ],
+      "sellerName": "IMAH ACC OLSHOP ",
+      "sellerId": "400622982091",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "18818145038_ID-116253774500",
+      "skuId": "116253774500",
+      "sku": "18818145038_ID",
+      "categories": [
+        16337,
+        62357001,
+        62357002
+      ],
+      "price": "14799",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "45000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18818145038;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18818145038_ID;price:14799;client:desktop;supplier_id:400622982091;session_id:;biz_source:h5_internal;slot:37;utlog_bucket_id:470687;asc_category_id:62357002;item_id:18818145038;sku_id:116253774500;shop_id:4304634;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "278 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18818145038_ID-116253774500"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FS2afe063aabc64e6180da7812a47d2bf9t.jpg&src=srp_findsimilar&item_id=18818145038&sku_id=116253774500&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=14799.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18818145038.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116253774500%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1479900%3BdisplayPrice%3A1479900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=3.7196969696969697&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=278&price=14799&review=132&location=Kab.%20Bekasi&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18818145038%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18818145038_ID%253Bprice%253A14799%253Bclient%253Adesktop%253Bsupplier_id%253A400622982091%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A62357002%253Bitem_id%253A18818145038%253Bsku_id%253A116253774500%253Bshop_id%253A4304634%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "Essen Oplosan Kiduri Adun Mancing 30 ML Original Premium",
+      "nid": "8686540066",
+      "itemId": "8686540066",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  68% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Se6ced2376bdf407c9d5520747b2735795.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp18.999",
+      "discount": "68% Off",
+      "ratingScore": "3.0",
+      "review": "2",
+      "location": "Kab. Bandung",
+      "thumbs": [],
+      "sellerName": "jedudpancing.store",
+      "sellerId": "402603104073",
+      "brandName": "No Brand",
+      "brandId": "4484",
+      "cheapest_sku": "8686540066_ID-16124628680",
+      "skuId": "16124628680",
+      "sku": "8686540066_ID",
+      "categories": [
+        2994,
+        5249,
+        7920,
+        15636
+      ],
+      "price": "18999",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "60000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:8686540066;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:8686540066_ID;price:18999;client:desktop;supplier_id:402603104073;session_id:;biz_source:h5_internal;slot:38;utlog_bucket_id:470687;asc_category_id:15636;item_id:8686540066;sku_id:16124628680;shop_id:7704549;templateInfo:-1_A3_C#107879_E#",
+      "itemSoldCntShow": "9 Terjual",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "8686540066_ID-16124628680"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSe6ced2376bdf407c9d5520747b2735795.jpg&src=srp_findsimilar&item_id=8686540066&sku_id=16124628680&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=18999.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i8686540066.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A16124628680%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A1899900%3BdisplayPrice%3A1899900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=3.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9&price=18999&review=2&location=Kab.%20Bandung&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A8686540066%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A8686540066_ID%253Bprice%253A18999%253Bclient%253Adesktop%253Bsupplier_id%253A402603104073%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A15636%253Bitem_id%253A8686540066%253Bsku_id%253A16124628680%253Bshop_id%253A7704549%253BtemplateInfo%253A-1_A3_C%2523107879_E%2523"
+    },
+    {
+      "name": "benih padi ciherang sugih kemasan 1kg",
+      "nid": "18822468387",
+      "itemId": "18822468387",
+      "icons": [
+        {
+          "domClass": "120014",
+          "text": "Hemat  52% dengan voucher",
+          "type": "text",
+          "group": "2",
+          "showType": "0",
+          "bizType": "voucherApplied"
+        }
+      ],
+      "image": "https://filebroker-cdn.lazada.co.id/kf/Se6bc573bda09450e960f5d9a0e373f6fH.jpg",
+      "isSmartImage": false,
+      "originalPriceShow": "",
+      "priceShow": "Rp25.000",
+      "discount": "52% Off",
+      "ratingScore": "4.0",
+      "review": "1",
+      "location": "Kab. Karawang",
+      "thumbs": [],
+      "sellerName": "ANUGRAH TANI 97",
+      "sellerId": "403320400553",
+      "brandName": "Padi",
+      "brandId": "1267",
+      "cheapest_sku": "18822468387_ID-116256398520",
+      "skuId": "116256398520",
+      "sku": "18822468387_ID",
+      "categories": [
+        10100245,
+        16365,
+        16653
+      ],
+      "price": "25000",
+      "restrictedAge": 0,
+      "inStock": true,
+      "originalPrice": "52000",
+      "clickTrace": "query:Shanghiang+Perkasa;nid:18822468387;src:LazadaMainSrp;rn:88cbaccc5f66c6af98f40a620c2e8299;region:id;sku:18822468387_ID;price:25000;client:desktop;supplier_id:403320400553;session_id:;biz_source:h5_internal;slot:39;utlog_bucket_id:470687;asc_category_id:16653;item_id:18822468387;sku_id:116256398520;shop_id:7982642;templateInfo:107879_A3_C_E#",
+      "longImageDisplayable": false,
+      "skus": [
+        {
+          "id": "18822468387_ID-116256398520"
+        }
+      ],
+      "promotionId": "",
+      "isSponsored": false,
+      "tItemType": "nt_product",
+      "skuType": "2",
+      "adFlag": "0",
+      "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Ffilebroker-cdn.lazada.co.id%2Fkf%2FSe6bc573bda09450e960f5d9a0e373f6fH.jpg&src=srp_findsimilar&item_id=18822468387&sku_id=116256398520&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=Shanghiang%2BPerkasa&similarType=findSimilarV1&price=25000.00&spuTriggerItem=0",
+      "gridTitleLine": "2",
+      "isFission": "0",
+      "isBadgeAutoScroll": false,
+      "showCart": false,
+      "showBackIcon": false,
+      "showUnitPrice": false,
+      "itemUrl": "//www.lazada.co.id/products/pdp-i18822468387.html",
+      "querystring": "fs_ab=2&priceCompare=skuId%3A116256398520%3Bsource%3Alazada-search-voucher%3Bsn%3A88cbaccc5f66c6af98f40a620c2e8299%3BoriginPrice%3A2500000%3BdisplayPrice%3A2500000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1779276848258&c=&ratingscore=4.0&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=1&price=2.5E%204&review=1&location=Kab.%20Karawang&stock=1&lang=id&request_id=88cbaccc5f66c6af98f40a620c2e8299&clickTrackInfo=query%253AShanghiang%252BPerkasa%253Bnid%253A18822468387%253Bsrc%253ALazadaMainSrp%253Brn%253A88cbaccc5f66c6af98f40a620c2e8299%253Bregion%253Aid%253Bsku%253A18822468387_ID%253Bprice%253A25000%253Bclient%253Adesktop%253Bsupplier_id%253A403320400553%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A16653%253Bitem_id%253A18822468387%253Bsku_id%253A116256398520%253Bshop_id%253A7982642%253BtemplateInfo%253A107879_A3_C_E%2523"
+    }
+  ]
+}

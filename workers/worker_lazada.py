@@ -1,252 +1,102 @@
-from itertools import cycle
-import json
-import re
-import socket
-from time import sleep
-from typing import Optional
+"""Worker Lazada — Keyword + Store"""
+import logging, os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from sentry_sdk import capture_exception
-
-from libs.beans import Pusher, Worker
-from libs.exc import HTTPStatusException
-from libs.graceful_killer import GracefulKiller
-from libs.logger import printinfo
-from libs.proxies import get_proxy_cycle
-from services.service_general import store_raw
+from db.database import init_db, log_job_start, log_job_finish, save_lazada_items
 from services.service_lazada import ServiceLazada
-from settings import BEANS
 from workers.base_worker import BaseWorker
 
-HOSTNAME = socket.gethostname()
+logger = logging.getLogger(__name__)
+MAX_PAGES = int(os.getenv("LAZADA_MAX_PAGES", 3))
 
 
 class WorkerLazada(BaseWorker):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(self):
+        super().__init__()
+        init_db()
+        self.service = ServiceLazada()
+        logger.info(f"WorkerLazada siap. MAX_PAGES={MAX_PAGES}")
 
-    def extract_item_id(url) -> Optional[str]:
-        match: re.Match = re.search(r'i(\d+)-', url)
-        if match:
-            return match.group(1)
-        return None
+    @property
+    def platform(self): return "lazada"
 
-    def handle_exception(self, e: Exception, job=None):
-        printinfo(f"Error processing job: {str(e)}")
-        if job:
-            capture_exception(e)
-            self.worker.buryJob(job)
+    @property
+    def tube_name(self): return "ecommerce_crawler_lazada_keyword"
 
-    def worker_scrape_comments(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Lazada Comments")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_comments'
-        worker = Worker(
-            tubename,
-            BEANS[self.config]['host'],
-            BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('lazada', 'lazada')
-        killer = GracefulKiller()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+    def process_job(self, job_data: dict) -> bool:
+        keyword   = job_data.get("content")
+        job_id    = job_data.get("job_id", "unknown")
+        job_type  = job_data.get("job_type", "keyword")
+        store_url = job_data.get("store_url")
+        max_page  = job_data.get("max_count", MAX_PAGES)
 
-        service = ServiceLazada()
+        if not keyword and not store_url:
+            logger.error("Job tidak punya 'content' atau 'store_url'. Skip.")
+            return False
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    item_id = message['product_id'] if 'item_id' in message else self.extract_item_id(
-                        message['product_url'])
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    if item_id:
-                        resp = service.scrape_lazada_comments(
-                            item_id, self.cookies, page=count+1, proxy=self.current_proxy)
+        cookies = self.get_cookies()
+        if not cookies:
+            raise RuntimeError("Cookie Lazada tidak tersedia")
 
-                        if resp.status_code == 200:
-                            data = resp.json()
-                            ret_status = str(data.get("ret", []))
-                            
-                            if "FAIL_SYS" in ret_status:
-                                print('Captcha Detected')
-                                worker.releaseJob(job)
-                            else:
-                                reviews = data.get('data', {}).get('module', {}).get('reviews', [])
-                                if not reviews:
-                                    print(f" [Lazada Service] No review in page {count}.")
-                                    worker.deleteJob(job)
-                                    continue
-                                fname = store_raw(reviews, prefix='lzd-cm', hostname=HOSTNAME,
-                                                  product_id=item_id, page=count+1,
-                                                  cookie=self.complete_cookie, social_media='lazada')
-                                printinfo('Saved to: '+fname)
-                        else:
-                            raise HTTPStatusException(
-                                resp.status_code,
-                                f"Item ID: {item_id}", resp=resp
-                            )
+        log_job_start(job_id, self.platform, keyword=keyword, store_url=store_url, job_type=job_type)
+        total_saved = 0
+        final_status = "success"
+        error_msg = None
 
-                    if count >= max_count:
-                        crawl_next = False
+        try:
+            for page_num in range(1, max_page + 1):
+                logger.info(f"  📄 Lazada page {page_num}/{max_page}...")
 
-                    worker.deleteJob(job)
+                if job_type == "store" and store_url:
+                    resp = self.service.scrape_lazada_store(store_url, page=page_num)
+                else:
+                    resp = self.service.scrape_lazada_keyword(keyword, cookies=cookies, page=page_num)
 
-                    if not crawl_next:
-                        self.conn_redis.srem(tubename, item_id)
-                    else:
-                        message['count'] = count + 1
-                        pusher_self.setJob(tubename, json.dumps(message))
+                if resp is None or resp.status_code != 200:
+                    logger.warning(f"  ⚠️  Status {resp.status_code if resp else 'None'}")
+                    break
 
-                except Exception as e:
-                    self.handle_exception(e, job)
-                    killer.kill_now = self.kill_now
-        self.worker_exit()
+                resp_json = resp.json()
+                items = resp_json.get("mods", {}).get("listItems", [])
 
-    def worker_scrape_keyword(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Lazada Keyword")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_keyword'
-        worker = Worker(
-            tubename,
-            BEANS[self.config]['host'],
-            BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('lazada', 'lazada')
-        killer = GracefulKiller()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+                if not items:
+                    logger.info(f"  ℹ️  Tidak ada items di page {page_num}. Stop.")
+                    break
 
-        service = ServiceLazada()
+                logger.info(f"  ✅ {len(items)} items ditemukan di page {page_num}")
+                name = keyword or store_url
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    keyword = message['content']
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
+                saved = save_lazada_items(
+                    job_id=job_id,
+                    keyword=name if job_type == "keyword" else None,
+                    resp_json=resp_json,
+                    page_number=page_num,
+                    store_url=store_url,
+                )
 
-                    resp = service.scrape_lazada_keyword(
-                        keyword,
-                        self.cookies,
-                        page=count+1,
-                        proxy=self.current_proxy
-                    )
-                    print(resp.text[:500])
+                from output.output_json import save_json_output
+                save_json_output(
+                    platform=self.platform,
+                    job_type=job_type,
+                    name=name,
+                    items=items,
+                    page_number=page_num,
+                    job_id=job_id,
+                )
 
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='lzd-kw', hostname=HOSTNAME,
-                                          keyword=keyword, page=count+1,
-                                          cookie=self.complete_cookie, social_media='lazada')
-                        printinfo('Saved to: '+fname)
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Keyword: {keyword} - page: {count}", resp=resp
-                        )
-                    if count >= max_count:
-                        crawl_next = False
+                total_saved += saved
 
-                    worker.deleteJob(job)
+        except Exception as e:
+            final_status = "failed"
+            error_msg = str(e)
+            raise
+        finally:
+            log_job_finish(job_id, final_status, total_saved, error_msg)
 
-                    if not crawl_next:
-                        self.conn_redis.srem(tubename, keyword)
-                    else:
-                        message['count'] = count + 1
-                        pusher_self.setJob(tubename, json.dumps(message))
-                except Exception as e:
-                    self.handle_exception(e, job)
-                    killer.kill_now = self.kill_now
-        self.worker_exit()
-    
-    def worker_scrape_store(self):
-        printinfo("----------------------------------")
-        printinfo("Starting Worker Lazada Store")
-        tubename = f'{BEANS[self.config]["prefix"]}_crawler_lazada_store'
-        worker = Worker(
-            tubename,
-            BEANS[self.config]['host'],
-            BEANS[self.config]['port'])
-        pusher_self = Pusher(
-            tubename,
-            host=BEANS[self.config]['host'],
-            port=BEANS[self.config]['port'])
-        self.worker = worker
-        self.set_conn_redis()
-        self.set_resources('lazada', 'lazada')
-        killer = GracefulKiller()
-        if self.use_proxy:
-            proxy_cycle = get_proxy_cycle()
-            printinfo('Proxy Loaded')
-        else:
-            proxy_cycle = cycle([None])
+        logger.info(f"✅ Lazada '{keyword}': {total_saved} items, status={final_status}")
+        return True
 
-        service = ServiceLazada()
 
-        while not killer.kill_now:
-            self.current_proxy = next(proxy_cycle)
-            job = worker.getJob()
-            if not job:
-                sleep(10)
-            else:
-                try:
-                    crawl_next = True
-                    message = json.loads(job.body)
-                    store_url = message['store_url']
-                    store_name = service.extract_shop_name(store_url)
-                    count = message['count'] if 'count' in message else 0
-                    max_count = message['max_count'] if 'max_count' in message else 0
-                    
-                    resp = service.scrape_lazada_store(store_url, page=count+1, proxy=self.current_proxy)
-                    if resp.status_code == 200:
-                        fname = store_raw(resp, prefix='lzd-store', hostname=HOSTNAME,
-                                          store_name=store_name, page=count+1, social_media='lazada')
-                        printinfo('Saved to: '+fname)
-                    else:
-                        raise HTTPStatusException(
-                            resp.status_code,
-                            f"Store: {store_name}", resp=resp
-                        )
-
-                    if count >= max_count:
-                        crawl_next = False
-
-                    worker.deleteJob(job)
-
-                    if not crawl_next:
-                        self.conn_redis.srem(tubename, store_name)
-                    else:
-                        message['count'] = count + 1
-                        pusher_self.setJob(tubename, json.dumps(message))
-
-                except Exception as e:
-                    self.handle_exception(e, job)
-                    killer.kill_now = self.kill_now
-        self.worker_exit()
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s — %(message)s")
+    WorkerLazada().run()

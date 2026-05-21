@@ -1,0 +1,632 @@
+[
+  {
+    "name": "HSID",
+    "value": "AXb-_dqXZ-3dxbbOF",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "AypW_d74o8qE3nb-V",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "o3hImS65Pus3MF7C/AJX8TF9bHIjF-SZd6",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "NID",
+    "value": "531=GWt0LHm7TtI-24LmCksy9m9nEdDN_xxVtS7WcOMhsBoeQXpsucc0L0mLPLsjHACZ8-e0VUA5fRG0tQ4PrQC0W_F3lCtLv2IjEMZwc1ewSPHEkMlmGwR2MoBruKjouePNtf-KdEFFWdlyqbqADgiBVj4h7Ds_BnnSqLAAnBUYNUqOubLYHOu2fG5AhnAmBCZZlCPsvjb_sbg7ZmalLA",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1795141834,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwZHvKxitdHVT0l3aHXkIluAACgYKAU4SARUSFQHGX2MifjT9TxMgGbtdyStG7oYvKRoVAUF8yKo3tKtFXrZ3tE6DHLXzf-M-0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwi2GN3c5pr0mxizAv0LTW_gACgYKAVoSARUSFQHGX2MivVJqeGPvDjHF4iA9ZVqQfRoVAUF8yKrnSwNWJzEIzMsitJOInRgt0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrw5e7ayRQQLNUM2bf1w6P75gACgYKAYQSARUSFQHGX2MiI7GHfkCXw0twQhRJ-JkfShoVAUF8yKrOANu8nixV1_3Qz7fFXbkk0076",
+    "domain": ".google.co.id",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.349556294.1779330613",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1787106612,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_sapid",
+    "value": "3e5b57690a3559033b069b6b481792dcdc081af6b89d2f233d87ee10",
+    "domain": "shopee.co.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "csrftoken",
+    "value": "zLhIrQg7pr1zIZxCfVSDgrtlPHtLsdL4",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "ssr-tz",
+    "value": "Asia/Jakarta",
+    "domain": "shopee.co.id",
+    "path": "/",
+    "expires": 1813890613,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_SEC_SI",
+    "value": "v1-SjQ0QTVWaVgwaFNMVnhiM4+SeJd5O3d1cUiSrdey5k0COAxqpLEcDhVQrGwUn+4sx427iy3N4xTzfBQotLqLU5YRarYtW+SmRwC5eTHzBZ0=",
+    "domain": "shopee.co.id",
+    "path": "/",
+    "expires": 1779417313,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_F",
+    "value": "kIu5HJoZsU3k5ngPpDR8nXn0wPOg5zI3",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890613,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "REC_T_ID",
+    "value": "fef025e8-54bc-11f1-9fd3-b2d05245c1b0",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890613,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_QPWSDCXHZQA",
+    "value": "1d008afc-384a-4a35-9953-606f7bee015f",
+    "domain": "shopee.co.id",
+    "path": "/",
+    "expires": 1810866613,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "language",
+    "value": "id",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890617,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_EC",
+    "value": "eEpzeXdZdzlyVHZINE9XY+D9MLpAANHq0/veRrlVkdtZ8kixGBIP4TOtn+Hg281vhZNzBK1ABER2WSdrmdXe/uyN5CbWTH806d0uqpdui22xV5s7A9BSNgWd03AHHHkBuqhIIc5M0sUTSHw3o2FrareEfTHt1QUNeXyQevBXjEKaj4JHewPWgy+qiuxfYmPhnaCfXyXJMALdF8pG7KPXfA==.APTB4/+CjP50t266Ji0k0IqbozuZ934t2xf6EMc3bJWD",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890639,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_U",
+    "value": "7653371714",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890639,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_CLIENTID",
+    "value": "a0l1NUhKb1pzVTNrxhksyzfazvsjypra",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890639,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_ST",
+    "value": "aUQxbWVVb2RSVUVRNGpKZqU3EvTOGZxmiwCdsIeDMJ9lD4nT8nwX1WDoNVgN/hu8Rtxeo0Hz3LXSW7ip+2Fi2SwTGqRPi0g0JUaQBvWdM3bWD7p2FLTHExOcEn+PP2QApN2wx5CNu8oDaP+E4wcUxgE8YpeXoy+8x5gvmcohCGN2BJ7UHiTg/a+qCkCO8aORiDpfQiPPKYdXZk1o8ERz1g==.AK5PYPmnu4uTZ/OvX7BXt8X7Rb8gE9pAWs1o9ViW0Sqo",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890639,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_SEC_SI",
+    "value": "v1-TlBhck1LYnl4OTIwSm1Xb57bpnEXZa2Ya2RFX0WJ10PabkY1dT2XltYutYxK0IQyD9JxzzY1Eawla3pnIcSt0BYC8tIHZS76vvCoZ3syYA4=",
+    "domain": "seller.shopee.co.id",
+    "path": "/",
+    "expires": 1779417345,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_CDS_CHAT",
+    "value": "5aff9820-f18f-4338-b6e5-a856d189218f",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "AC_CERT_D",
+    "value": "gqRjZGVrxHeFomtpuDE0MjUxOmNhcHRjaGFfY29va2llX2tleaJrdtEAAaRhbGdv0gAAAGSjZGVrwKJjdMRAAAAADMwcsomTnFkqURDotqXfoIqi8YJvUIt7QUvmeOPjBSajLCMl83kdGqbdlZ0lsoNBmrEonFbmuttKvAV5NapjaXBoZXJ0ZXh0xQMzAAAADIkHNUCJwWJaTPlTlgYVZ3pO46wd8QHCliLRSXSG+GrnhwNNOadXYc2u7CnRVPNodt6l4w/dpwHhwG7GO/IWQviYf3+9UKgNB1A4WFiuIXPioKH31Sy7tQBzKtmLfKZ1wNS7mh1vWE6y2Pmhu433Chz1SVd2sc+T5JvUnd57U7bovkT14OCkEp2tJkZ9V8jsJMOd4P++nxyk4wRgQp0NDTDSqDbFvhve3mEztjTB4g16X0/uWpSrhWTyq5JVc5hw4pKlYs3NvPuRio80mslu66ccPYelyGfAjtj6k/LUn+hUwzK+7c0ZUx7Dyk4YE68fc3NR6ZYhHXIzGFUHydWOhWqKwB5nIPopZYWsc1Y27Ha5nFyY8nxqINCTx+5N9i2Ynrc8G4WhWeJlKA/WGRkBpIPHKteYEqTfaiWW3wdx/XrNUaVoIEJfJVsCFSbjWY8N95VAOSooGguY4FmILNj0a85TB+eAc5mYy1N6fHI6IDwHPWYP91IBsKHC0fYVjB/Juc3r65Ek0mPH/7FCo+luHY/bCMKkxBMvcOturaEWbLe8l1KyBA/aj0xzVRCWjs2zlW1H9glQ38awun3ivIapqsAbz0hVg/DmpP0wtg4Okj/8QXGdlB5p+OvzmtHK39z0XH1zfDb0EMihRFwKrx/MVt3YZcSHh4Cs2+TCP1LSwt65nf7CNRw4lIqc0RW7JVGW27FU+uLZ5mBaMmdo/mBpTlISHCxGwCeUAzdrzdBNRqiAmdlL/tFI+YgghWCsB6vUSBHDAwF/Ub/Kr9eCqrW23LzGvZJ+Ac7+FKr08QPJ5tRDQeZ/qq8D8HiZzG+LdXpez4OpMoTPDKGPd/LJekKIX1iQs3Hvk3KIHBD0j8quAMYxJm6ZZWE93dbU9FaZV5LostS4hm6xBJubqBYkPmQsOwPalh+JdD90+DACVXKydpHre3VQkdNxmgi99NbgzH4/YsNwLFg0OKjATgypIYbgM9z+tjvaP560aDWBO/OPa+5SPC/VY0InSPUX3JJCBL+/5Jou/9VE8UA6ZaqHCJnCspmXbKPYRXotQLCx4dpmfwDIrybmL5hzLJQ89w/ZiTe/",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1779332451,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "REC7iLP4Q",
+    "value": "5d967f81-a15a-4f8b-9fb0-923063fc2759",
+    "domain": "shopee.co.id",
+    "path": "/",
+    "expires": 1810866656,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_SI",
+    "value": "Z4sFagAAAAA5NzdXajF1Z5SWkgAAAAAAMjhwUlRjQzk=",
+    "domain": "seller.shopee.co.id",
+    "path": "/",
+    "expires": 1779417058,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_T_IV",
+    "value": "RkZPUU5QcXZmaThSa2oweA==",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890741,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_SI",
+    "value": "Z4sFagAAAAA5NzdXajF1Z5SWkgAAAAAAMjhwUlRjQzk=",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1779417141,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_R_T_ID",
+    "value": "uDWLigDuowdVhhJd3VYx8NjHCf9G7xTDUraPk1Pq0Ppq+9t81UBrtQnmQ26vzOZNJ+9dWmI6YdmsL2n/1oIzJRDmGa5ysCc1mSYQzljIrwjHtjH64vH80A7adJeoXO5DT+ERe+nvmf0piRPRfQcXRuTomRHUEXLNqL47sSIEi/A=",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890741,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_R_T_IV",
+    "value": "RkZPUU5QcXZmaThSa2oweA==",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890741,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SPC_T_ID",
+    "value": "uDWLigDuowdVhhJd3VYx8NjHCf9G7xTDUraPk1Pq0Ppq+9t81UBrtQnmQ26vzOZNJ+9dWmI6YdmsL2n/1oIzJRDmGa5ysCc1mSYQzljIrwjHtjH64vH80A7adJeoXO5DT+ERe+nvmf0piRPRfQcXRuTomRHUEXLNqL47sSIEi/A=",
+    "domain": ".shopee.co.id",
+    "path": "/",
+    "expires": 1813890741,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSIDTS",
+    "value": "sidts-CjQBhkeRd0gw9EtGwGNC9RqxtwSc6iMww0jolyuNv-lg8fVPHY-D-SBWwcHA70vcrp5DvTWMEAA",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1810866634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDTS",
+    "value": "sidts-CjQBhkeRd0gw9EtGwGNC9RqxtwSc6iMww0jolyuNv-lg8fVPHY-D-SBWwcHA70vcrp5DvTWMEAA",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1810866634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HSID",
+    "value": "AXb-_dqXZ-3dxbbOF",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "AypW_d74o8qE3nb-V",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "o3hImS65Pus3MF7C/AJX8TF9bHIjF-SZd6",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwZHvKxitdHVT0l3aHXkIluAACgYKAU4SARUSFQHGX2MifjT9TxMgGbtdyStG7oYvKRoVAUF8yKo3tKtFXrZ3tE6DHLXzf-M-0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwi2GN3c5pr0mxizAv0LTW_gACgYKAVoSARUSFQHGX2MivVJqeGPvDjHF4iA9ZVqQfRoVAUF8yKrnSwNWJzEIzMsitJOInRgt0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrw5e7ayRQQLNUM2bf1w6P75gACgYKAYQSARUSFQHGX2MiI7GHfkCXw0twQhRJ-JkfShoVAUF8yKrOANu8nixV1_3Qz7fFXbkk0076",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OTZ",
+    "value": "8617110_28_28__28_",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1781922621,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "NID",
+    "value": "531=CjPG4n-3qGTY2KR9MuNSVolYodTfEUvZR2ywUMqWevLHsilwYRt_tYi7YCRPOZYGV9vHlQhEcWC6vPb8gA6vS2uycGc_s3aEMh2spXosu_wnNACCFo_Y5c1Ewdu-x7lbaaEfjZYSs0KYeT5ctq818YgWM6cUUULuyDljFMYcx2Vty0AmPi6K_FfaxvCGFjPVjtUO9SEopRCQu3fUa62kxcmw5PEnYxhRvF5ouiKEsqpYjsKWS7HzioA8JFS9fMAi7JjilzSLloRGJSDMcXur5P9SLb2E6tyrcIvcTDjzaUqAzT8N-fBPhaWz5ymVAFAdzAHXhkhbnIU8_1RHdW8f5UD9aGigdIOGOelN__v1SQ46gXRWxr6jkOj4ZdJnkc-wlxTLiYpatZbil3t0amiZ6PK7s4XTCQXepRj_wdd3jAsSmD5oF4c9-g2d42Itmd0XqZAZ1S9E3vmIWC5kvWah-jA7FYH57B0RcCk3jwzRqPb-wXO3eEh2vb-w84Dxs6o5q8lGrE-2C8wYOT_LyE4WrOZqckr1oley4IpwSLKQDXJRX4TnQ70XNdAh6TaIGPgd5U1hD4kjOd2_GdzJbIj37tnr2QwhXMiyE7lLz1wY-B7mUOtUfgfS9N-Vd9OfZj4HDmFVhU4sLSY",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1795141821,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwZHvKxitdHVT0l3aHXkIluAACgYKAU4SARUSFQHGX2MifjT9TxMgGbtdyStG7oYvKRoVAUF8yKo3tKtFXrZ3tE6DHLXzf-M-0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrwi2GN3c5pr0mxizAv0LTW_gACgYKAVoSARUSFQHGX2MivVJqeGPvDjHF4iA9ZVqQfRoVAUF8yKrnSwNWJzEIzMsitJOInRgt0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000-AggcY7gxssbFFoeJnHCfeF4osB4AxDJ9crSi6IokgD6tnrw5e7ayRQQLNUM2bf1w6P75gACgYKAYQSARUSFQHGX2MiI7GHfkCXw0twQhRJ-JkfShoVAUF8yKrOANu8nixV1_3Qz7fFXbkk0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HSID",
+    "value": "AXmqIkN7uDU9DK-pr",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SSID",
+    "value": "Ad8ym7wlMFeyWLv3X",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "APISID",
+    "value": "o3hImS65Pus3MF7C/AJX8TF9bHIjF-SZd6",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "SAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "4YSabrv78tXrterB/AeLiFV8CKlgz8VbHJ",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-GAPS",
+    "value": "1:3OlJBKSlQfrHhf3aaXeaNSw-AR9uNYPCQr-T0C9ORtz83exEuVezhBlo5tvGlqutOCfExw8kfb-Xeq3KDB1VvKnNvNy2WQ:uMu4UnhbvAdyld4J",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "LSID",
+    "value": "s.ID|s.youtube:g.a000-AggcegyaO3nRAp1XH9JEucOekAKOCeDVLMKpXJ24cNqN7F-uXIWWW3A3ZZ7LDZEngpyqAACgYKAX4SARUSFQHGX2MiH-ZRjXj8qUJ1Xtw_qEBcbhoVAUF8yKrooUfsei4lAO3CC0kgx18K0076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-1PLSID",
+    "value": "s.ID|s.youtube:g.a000-AggcegyaO3nRAp1XH9JEucOekAKOCeDVLMKpXJ24cNqN7F-gMpeDLpCWkJaQR7T_lch5wACgYKAbQSARUSFQHGX2MifUwA9WPjE--tGxDm21pQpBoVAUF8yKqC71tawPmlV3kkVv9y4yKS0076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Host-3PLSID",
+    "value": "s.ID|s.youtube:g.a000-AggcegyaO3nRAp1XH9JEucOekAKOCeDVLMKpXJ24cNqN7F-aFExgRYhjEqX67FuAUA6xwACgYKAZISARUSFQHGX2MizkwPfYMdIe6IETwYxj1aZRoVAUF8yKpCMxVdYX7p_SS2rZI0OKVi0076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ACCOUNT_CHOOSER",
+    "value": "AFx_qI45pW7bsJzu2RjQqwQam-t_oT0eS-obSdiUSv41ZgDGdg97M-HOCPxtiC2RRpC951fWJyLBE_4BSuX31ilMhGfKhvUMt-en3S0hquCHFSNFQJSWK3ZKus9bZyOgq9mf1A16U07I",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1813890634,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SIDCC",
+    "value": "AKEyXzWiYenWbDvcvnZzeDdWrrh44-pZYCWx745u6rFW4LP8VUat5ZIVYKqPUBItTR-DUbDp",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866637,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-1PSIDCC",
+    "value": "AKEyXzUXtSb5EjZaTqKiL2A3GGFd3Kcm0Ms33xJeSyRwk7Q7g6f-nn9xcUG-j_oOCm5J8GoE",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866637,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDCC",
+    "value": "AKEyXzV4RcIyCZFfDgctHcVSUx7qkB1U8ujTRjQJL6ZaRYk-uSFn4wkHilif3UMZrhxtJWxpxw",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1810866637,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
